@@ -1,0 +1,23 @@
+{
+  "name": "Ys: Memories of Celceta",
+  "source_language": "en",
+  "target_language": "es",
+  "source": "../ys-memories-of-celceta-esp-local/source.jsonl",
+  "translation": "translation",
+  "work": "build/work/batches",
+  "sections": [
+    {
+      "name": "Interfaz",
+      "prefixes": []
+    }
+  ],
+  "excluded": [],
+  "codes": [
+    "\\{[^{}]*\\}",
+    "%[-+0-9.]*[sdifxXu]"
+  ],
+  "fixed_break": null,
+  "encoding": "utf-8",
+  "spanish_checks": true,
+  "hooks": null
+}
