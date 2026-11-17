@@ -17,7 +17,7 @@ Se cierran en la fase 0, porque son caras de cambiar después.
 ### Fase 0. Antes de empezar
 
 - [x] Cerrar las decisiones de arriba con el usuario.
-- [ ] Revisar con el usuario la base de STYLE.md: lo que no aplique se borra.
+- [x] Revisar con el usuario la base de STYLE.md: lo que no aplique se borra. (Se dejan todas, 2026-11-17.)
 
 ### Fase 1. Prueba técnica
 
