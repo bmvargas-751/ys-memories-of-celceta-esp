@@ -1,21 +1,114 @@
+{"key": "text/memory#memory:MEMAIN_01/titulo", "es": "¿Soy espadachín?"}
+{"key": "text/memory#memory:MEMAIN_01/descripcion", "es": "Incontables voces hablan de \"espadas\"."}
+{"key": "text/memory#memory:MEMAIN_02/titulo", "es": "La torre"}
+{"key": "text/memory#memory:MEMAIN_02/descripcion", "es": "Una torre atraviesa el cielo tormentoso."}
+{"key": "text/memory#memory:MEMAIN_03/titulo", "es": "El arpista"}
+{"key": "text/memory#memory:MEMAIN_03/descripcion", "es": "Relatos de un reino caído."}
+{"key": "text/memory#memory:MEMAIN_04/titulo", "es": "Hermanos del bosque"}
+{"key": "text/memory#memory:MEMAIN_04/descripcion", "es": "Dos hermanos lo guían por Comodo."}
+{"key": "text/memory#memory:MEMAIN_05/titulo", "es": "Las bestias sagradas"}
+{"key": "text/memory#memory:MEMAIN_05/descripcion", "es": "Adol conversa con un joven mientras baja por el río."}
+{"key": "text/memory#memory:MEMAIN_06/titulo", "es": "El encuentro con Ozma"}
+{"key": "text/memory#memory:MEMAIN_06/descripcion", "es": "Adol conoce a un joven que cría spardas."}
+{"key": "text/memory#memory:MEMAIN_07/titulo", "es": "Una voz amable"}
+{"key": "text/memory#memory:MEMAIN_07/descripcion", "es": "Una voz amable le habla a Adol."}
+{"key": "text/memory#memory:MEMAIN_08/titulo", "es": "Eldeel y Leeza"}
+{"key": "text/memory#memory:MEMAIN_08/descripcion", "es": "Un encuentro con un misterioso hombre alado."}
+{"key": "text/memory#memory:MEMAIN_09/titulo", "es": "Tiempos de paz"}
+{"key": "text/memory#memory:MEMAIN_09/descripcion", "es": "Adol pasa tiempo con Eldeel y Leeza."}
+{"key": "text/memory#memory:MEMAIN_10/titulo", "es": "Atacante de alas negras"}
+{"key": "text/memory#memory:MEMAIN_10/descripcion", "es": "Perseguido por Eldeel, el de las alas negras."}
+{"key": "text/memory#memory:MEMAIN_11/titulo", "es": "Inquietudes de Eldeel"}
+{"key": "text/memory#memory:MEMAIN_11/descripcion", "es": "Eldeel expresa preocupaciones sobre su deber."}
+{"key": "text/memory#memory:MEMAIN_12/titulo", "es": "Negros presagios"}
+{"key": "text/memory#memory:MEMAIN_12/descripcion", "es": "El lado oscuro del corazón de Eldeel."}
+{"key": "text/memory#memory:MEMAIN_13/titulo", "es": "Verdad de los spardas"}
+{"key": "text/memory#memory:MEMAIN_13/descripcion", "es": "El origen de los spardas y el error de Selray."}
+{"key": "text/memory#memory:MEMAIN_14/titulo", "es": "El rey y Eldeel"}
+{"key": "text/memory#memory:MEMAIN_14/descripcion", "es": "Una conversación entre Eldeel y Lefance."}
+{"key": "text/memory#memory:MEMAIN_15/titulo", "es": "Las dos máscaras"}
+{"key": "text/memory#memory:MEMAIN_15/descripcion", "es": "La Máscara de la Luna se le confiere a Lefance."}
+{"key": "text/memory#memory:MEMAIN_16/titulo", "es": "El \"Aventurero\""}
+{"key": "text/memory#memory:MEMAIN_16/descripcion", "es": "Eldeel le otorga un título a Adol."}
+{"key": "text/memory#memory:MESUB_01/titulo", "es": "Curiosidad"}
+{"key": "text/memory#memory:MESUB_01/descripcion", "es": "Un viajero visita la aldea de Adol."}
+{"key": "text/memory#memory:MESUB_02/titulo", "es": "Cuento de un vendedor"}
+{"key": "text/memory#memory:MESUB_02/descripcion", "es": "Un joven escucha, fascinado, relatos del mundo."}
+{"key": "text/memory#memory:MESUB_03/titulo", "es": "Una pequeña aventura"}
+{"key": "text/memory#memory:MESUB_03/descripcion", "es": "Un joven busca el océano."}
+{"key": "text/memory#memory:MESUB_04/titulo", "es": "Mi padre, mi inspiración"}
+{"key": "text/memory#memory:MESUB_04/descripcion", "es": "Adol oye por primera vez sobre el pasado de su padre."}
+{"key": "text/memory#memory:MESUB_05/titulo", "es": "El día de la partida"}
+{"key": "text/memory#memory:MESUB_05/descripcion", "es": "Adol deja la aldea donde creció."}
+{"key": "text/memory#memory:MESUB_06/titulo", "es": "Un extraño familiar (1)"}
+{"key": "text/memory#memory:MESUB_06/descripcion", "es": "Charla con un hombre que parece un amigo cercano."}
+{"key": "text/memory#memory:MESUB_07/titulo", "es": "Un extraño familiar (2)"}
+{"key": "text/memory#memory:MESUB_07/descripcion", "es": "Una separación temporal del hombre."}
+{"key": "text/memory#memory:MESUB_08/titulo", "es": "El Laberinto del Bosque"}
+{"key": "text/memory#memory:MESUB_08/descripcion", "es": "Adol se pierde en el Laberinto del Bosque."}
+{"key": "text/memory#memory:MESUB_09/titulo", "es": "El río al atardecer"}
+{"key": "text/memory#memory:MESUB_09/descripcion", "es": "Ozma duda en pedirle un favor a Adol."}
+{"key": "text/memory#memory:MESUB_10/titulo", "es": "Noche en Selray"}
+{"key": "text/memory#memory:MESUB_10/descripcion", "es": "Adol recibe una cálida bienvenida de Selray."}
+{"key": "text/memory#memory:MESUB_11/titulo", "es": "Rito de invocación"}
+{"key": "text/memory#memory:MESUB_11/descripcion", "es": "Adol conoce a Leeza y se llena de preguntas."}
+{"key": "text/memory#memory:MESUB_12/titulo", "es": "Aprendiz de apóstol"}
+{"key": "text/memory#memory:MESUB_12/descripcion", "es": "Adol se reúne con Calilica, quien lo admira."}
+{"key": "text/memory#memory:MESUB_13/titulo", "es": "Don Popular"}
+{"key": "text/memory#memory:MESUB_13/descripcion", "es": "Los habitantes de Highland llenan de preguntas a Adol."}
+{"key": "text/memory#memory:MESUB_14/titulo", "es": "La habitación oculta"}
+{"key": "text/memory#memory:MESUB_14/descripcion", "es": "Una habitación misteriosa llena de cosas maravillosas."}
+{"key": "text/memory#memory:MESUB_15/titulo", "es": "El ingenuo"}
+{"key": "text/memory#memory:MESUB_15/descripcion", "es": "Un informante cuida de Adol, que se ha desplomado."}
+{"key": "text/memory#memory:MESUB_16/titulo", "es": "Reminiscencia"}
+{"key": "text/memory#memory:MESUB_16/descripcion", "es": "Frieda recuerda a quienes se han ido."}
+{"key": "text/memory#memory:MESUB_17/titulo", "es": "La mujer y la bestia"}
+{"key": "text/memory#memory:MESUB_17/descripcion", "es": "Una conversación entre Griselda y Leo."}
+{"key": "text/memory#memory:MESUB_18/titulo", "es": "Los dos comandantes"}
+{"key": "text/memory#memory:MESUB_18/descripcion", "es": "La inusual relación entre Leo y Remnos."}
+{"key": "text/memory#memory:MESUB_19/titulo", "es": "La reina Rabbit"}
+{"key": "text/memory#memory:MESUB_19/descripcion", "es": "Los lazos de dos exploradores en fuga."}
+{"key": "text/memory#memory:MESUB_20/titulo", "es": "Un día en la vida de un roo"}
+{"key": "text/memory#memory:MESUB_20/descripcion", "es": "Un día en la vida de las bestias sagradas."}
 {"key": "text/memory#memory:BTL_01/titulo", "es": "Aldovoss"}
+{"key": "text/memory#memory:BTL_01/descripcion", "es": "Aldovoss, la Bestia Acorazada Despierta"}
 {"key": "text/memory#memory:BTL_02/titulo", "es": "Melldrabie"}
+{"key": "text/memory#memory:BTL_02/descripcion", "es": "Melldrabie, la Avispa Purgatoria"}
 {"key": "text/memory#memory:BTL_03/titulo", "es": "Glucarius"}
+{"key": "text/memory#memory:BTL_03/descripcion", "es": "Glucarius, la Gran Squilla del Exterminio"}
 {"key": "text/memory#memory:BTL_04/titulo", "es": "Volnake"}
+{"key": "text/memory#memory:BTL_04/descripcion", "es": "Volnake, la Serpiente de los Rápidos"}
 {"key": "text/memory#memory:BTL_05/titulo", "es": "Angoraboras"}
+{"key": "text/memory#memory:BTL_05/descripcion", "es": "Angoraboras, el Tirano Glotón"}
 {"key": "text/memory#memory:BTL_06/titulo", "es": "Elvaron"}
+{"key": "text/memory#memory:BTL_06/descripcion", "es": "Elvaron, el Caballero Azul"}
 {"key": "text/memory#memory:BTL_07/titulo", "es": "Krell-Emecia 1"}
+{"key": "text/memory#memory:BTL_07/descripcion", "es": "Krell-Emecia, Guardián de las Tormentas"}
 {"key": "text/memory#memory:BTL_08/titulo", "es": "Krell-Emecia 2"}
+{"key": "text/memory#memory:BTL_08/descripcion", "es": "Krell-Emecia, Guardián de las Tormentas"}
 {"key": "text/memory#memory:BTL_09/titulo", "es": "Sol-Galba 1"}
+{"key": "text/memory#memory:BTL_09/descripcion", "es": "Sol-Galba, el Galbalan Blanco"}
 {"key": "text/memory#memory:BTL_10/titulo", "es": "Ribbi-Roi"}
+{"key": "text/memory#memory:BTL_10/descripcion", "es": "Ribbi-Roi, Amo de la Gruta"}
 {"key": "text/memory#memory:BTL_11/titulo", "es": "Mustrum"}
+{"key": "text/memory#memory:BTL_11/descripcion", "es": "Mustrum, la Pesadilla Deforme"}
 {"key": "text/memory#memory:BTL_12/titulo", "es": "Gadis"}
+{"key": "text/memory#memory:BTL_12/descripcion", "es": "Gadis, el Sádico Domador de Bestias"}
 {"key": "text/memory#memory:BTL_13/titulo", "es": "Bami"}
+{"key": "text/memory#memory:BTL_13/descripcion", "es": "Bami, la Maga Encantadora"}
 {"key": "text/memory#memory:BTL_14/titulo", "es": "Sol-Galba 2"}
+{"key": "text/memory#memory:BTL_14/descripcion", "es": "Sol-Galba, el Galbalan Confundido"}
 {"key": "text/memory#memory:BTL_15/titulo", "es": "Eldeel"}
+{"key": "text/memory#memory:BTL_15/descripcion", "es": "Eldeel, el Dios de las Alas Negras"}
 {"key": "text/memory#memory:BTL_16/titulo", "es": "Girguzalm"}
+{"key": "text/memory#memory:BTL_16/descripcion", "es": "Girguzalm, el Coloso de Bronce"}
 {"key": "text/memory#memory:BTL_17/titulo", "es": "Zerivutz"}
+{"key": "text/memory#memory:BTL_17/descripcion", "es": "Zerivutz, el Coloso de Plata"}
 {"key": "text/memory#memory:BTL_18/titulo", "es": "Bulaghoul"}
+{"key": "text/memory#memory:BTL_18/descripcion", "es": "Bulaghoul, el Coloso de Oro"}
 {"key": "text/memory#memory:BTL_19/titulo", "es": "Akasha-Glyph"}
+{"key": "text/memory#memory:BTL_19/descripcion", "es": "Akasha-Glyph, Falso Dios de la Causalidad"}
 {"key": "text/memory#memory:BTL_20/titulo", "es": "Gruda Fantasma"}
+{"key": "text/memory#memory:BTL_20/descripcion", "es": "Gruda Fantasma, el Espectro Vacío"}
 {"key": "text/memory#memory:BTL_RUSH/titulo", "es": "Desafío de jefes"}
+{"key": "text/memory#memory:BTL_RUSH/descripcion", "es": "Batalla contra todos los jefes, uno tras otro."}

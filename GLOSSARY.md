@@ -64,7 +64,9 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | King Lefance | rey Lefance | Decidido (G-2), DECISIONS 2026-11-18 | Con artículo en la frase: «el rey Lefance». |
 | Magician Bami | maga Bami | Decidido (G-2), DECISIONS 2026-11-18 | Rótulo y título (mujer). |
 | Beast Tamer Gadis | domador de bestias Gadis | Decidido (G-2), DECISIONS 2026-11-18 | Rótulo y título (hombre). «Tamer Gadis» → «domador Gadis». |
-| Shaman Pippi | chamán Pippi | Decidido (G-2), DECISIONS 2026-11-18 | Rótulo y título; si la ficha dice que es mujer, «chamana Pippi». |
+| Shaman Pippi | chamana Pippi | Decidido (G-2), DECISIONS 2026-11-18 | Rótulo y título (mujer: «She says…» en `text/quest#GF_QUEST_205/GF_QS205_MEMO01~2`). «Pippi, the Shaman» → «Pippi, la chamana». |
+| Goldsmith | Goldsmith | Decidido (G-2), 2026-11-18 (orquestador, por delegación) | Apellido del comerciante dueño del puesto («That man over there is Goldsmith, the shop's owner», `script/mp1212#tutorial_trade_shop/155`); no es «orfebre». «Goldsmith Trading Post» → «Compañía Comercial Goldsmith». |
+| Black Archives | Archivos Negros | Decidido (G-2), 2026-11-18 (orquestador, por delegación) | Lugar (japonés 《黒の書架》). Sale en `text/quest#GF_QUEST_503/aviso~2`, `505/aviso~2` y en `script/mp5211`. |
 | Artisan Saisen | artesano Saisen | Decidido (G-2), DECISIONS 2026-11-18 | Rótulo y título (hombre). |
 | Head Miner Wagner | capataz Wagner | Decidido (G-2), DECISIONS 2026-11-18 | Rótulo y título (hombre). «Miner Wagner» → «minero Wagner». |
 | Mayor Aaron | alcalde Aaron | Decidido (G-2), DECISIONS 2026-11-18 | «the mayor» → «el alcalde». |

@@ -74,7 +74,7 @@ Obligatorio: sin él, `loc.py prepare` no arma lotes.
 - [x] Interfaz (994 líneas; 2026-11-18, lotes interfaz-001 a 004).
 - [x] Objetos, materiales y habilidades (1381 líneas; 2026-11-18, lotes objetos-…-002 a 005).
 - [x] Bestiario, nombres y PNJ
-- [ ] Diario, misiones y recuerdos
+- [x] Diario, misiones y recuerdos
 - [ ] Guiones
 
 ### Fase 7. Prueba en el juego
