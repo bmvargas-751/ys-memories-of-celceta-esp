@@ -53,8 +53,8 @@ Aparte: terminólogo, perfilador (Opus), delicadas y las pruebas del set de oro.
 ### Fase 3. Documentos
 
 - [x] Glosario: el terminólogo propone las filas. (2026-11-18: 158 términos en GLOSSARY.md, 32 oficiales de *Ys Origin* y el resto decididos con el usuario; en PENDING.md solo quedan los nombres de los roos, para delicadas.)
-- [ ] Fichas de personajes: el perfilador, antes de cada sección.
-- [ ] DECISIONS.md y PENDING.md al día.
+- [x] Fichas de personajes: el perfilador, antes de cada sección. (2026-11-18: el grupo principal y Griselda — Duren, Karna, Ozma, Calilica, Frieda, Leeza, Griselda — con muestras de 300 líneas; género y trato aprobados. Los demás, antes de cada sección.)
+- [x] DECISIONS.md y PENDING.md al día.
 
 ### Fase 4. Set de oro
 
