@@ -8,16 +8,54 @@
   "sections": [
     {
       "name": "Interfaz",
-      "prefixes": []
+      "prefixes": [
+        "text/strSystem#",
+        "text/manual#",
+        "text/record#",
+        "text/mapname#",
+        "text/warpdata#"
+      ]
+    },
+    {
+      "name": "Objetos, materiales y habilidades",
+      "prefixes": [
+        "text/item#",
+        "text/matlib#",
+        "text/skill#"
+      ]
+    },
+    {
+      "name": "Bestiario, nombres y PNJ",
+      "prefixes": [
+        "text/monslib#",
+        "text/status#",
+        "map/"
+      ]
+    },
+    {
+      "name": "Diario, misiones y recuerdos",
+      "prefixes": [
+        "text/diary#",
+        "text/quest#",
+        "text/memory#"
+      ]
+    },
+    {
+      "name": "Guiones",
+      "prefixes": [
+        "script/"
+      ]
     }
   ],
-  "excluded": [],
+  "excluded": [
+    "script/test#"
+  ],
   "codes": [
-    "\\{[^{}]*\\}",
+    "#-?(?:\\d+|%d)[A-Za-z]",
     "%[-+0-9.]*[sdifxXu]"
   ],
   "fixed_break": null,
-  "encoding": "utf-8",
+  "encoding": "cp932",
   "spanish_checks": true,
-  "hooks": null
+  "hooks": "tools/hooks.py"
 }
