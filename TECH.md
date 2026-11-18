@@ -10,6 +10,7 @@ Plantilla del kit: los números quedan; lo de cada regla se completa con lo que 
   - En Celceta son `#` + número + letra (`#4C`, `#00407F`, `#2M`, `#0B`), de ancho cero. Los del inicio del cuadro (cara `F`, centrado `C`, gesto `M`, voz `V`, tamaño `S`, pausa `W`) no se exportan: el adaptador los quita del texto y los vuelve a poner. Los que quedan en medio (por ejemplo `#0B`, el icono de un botón) van en la traducción tal cual. En la interfaz también hay `#%dA` (el icono del botón cuyo número llega por `%d`) y los `%s`, `%d` de `printf`; todos van intactos y en el mismo orden. Los textos sin letras («???», «...») no se exportan.
 - **T-2** Saltos de línea: los fijos (`fixed_break` en `loc.json`) van exactamente donde están en el original, ni más ni menos. Los demás, si el adaptador parte los renglones, los pone el adaptador. (`saltos`)
   - En Celceta no hay saltos fijos: los cuadros de diálogo y los mensajes se exportan sin saltos y el adaptador los reparte en renglones según el ancho de la fuente. La traducción no lleva saltos. [DECISIONS 2026-11-17]
+  - Excepción: los textos de la interfaz (`text/strSystem`, 28 líneas) no se reparten; sus `\n` son saltos fijos (`fixed_break` = `\n`) y van los mismos que en el original. El ancho de la nota es el de todo el texto, y el chequeo de caja cuenta cada `\n` como renglón. [set de oro, 2026-11-18]
 
 ## Archivos del juego
 
