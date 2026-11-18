@@ -1,0 +1,88 @@
+{"key": "text/record#RD_PLAYTIME/texto", "es": "Tiempo total de juego"}
+{"key": "text/record#RD_PLAYTIME/valor", "es": "%3dh %02dm %02ds"}
+{"key": "text/record#RD_MAPRATIO/texto", "es": "Mapa completado"}
+{"key": "text/record#RD_MAPRATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_MEMORYRATIO/texto", "es": "Recuerdos hallados"}
+{"key": "text/record#RD_MEMORYRATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_TBOXRATIO/texto", "es": "Cofres hallados"}
+{"key": "text/record#RD_TBOXRATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_MATRATIO/texto", "es": "Puntos de recolección"}
+{"key": "text/record#RD_MATRATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_ITEMALLRATIO/texto", "es": "Objetos reunidos"}
+{"key": "text/record#RD_ITEMALLRATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_ITEM_USERATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_ITEM_MAGICRATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_ITEM_WEAPONRATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_ITEM_ARMORRATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_ITEM_ACCESSORYRATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_ITEM_MSTRATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_ITEM_INVRATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_MATLIB_RATIO/texto", "es": "Compendio de materiales"}
+{"key": "text/record#RD_MATLIB_RATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_MONSLIB_RATIO/texto", "es": "Compendio de monstruos"}
+{"key": "text/record#RD_MONSLIB_RATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_QUEST_RATIO/texto", "es": "Misiones completadas"}
+{"key": "text/record#RD_QUEST_RATIO/valor", "es": "%3d.%d%%"}
+{"key": "text/record#RD_ANIMALRATIO/texto", "es": "Animales cautivados"}
+{"key": "text/record#RD_ANIMALRATIO/valor", "es": "%d / %d"}
+{"key": "text/record#RD_MAXGOLD/texto", "es": "Monedas máximas"}
+{"key": "text/record#RD_MAXGOLD/valor", "es": "%d M"}
+{"key": "text/record#RD_TOTALMOVE/texto", "es": "Distancia recorrida"}
+{"key": "text/record#RD_TOTALMOVE/valor", "es": "%d.%02d krimelye"}
+{"key": "text/record#RD_NUMKILLEDMONS/texto", "es": "Monstruos derrotados"}
+{"key": "text/record#RD_NUMKILLEDMONS/valor", "es": "%d"}
+{"key": "text/record#RD_NUMFLASHGUARD/texto", "es": "Guardias relámpago"}
+{"key": "text/record#RD_NUMFLASHGUARD/valor", "es": "%d"}
+{"key": "text/record#RD_NUMFLASHMOVE/texto", "es": "Esquivas relámpago"}
+{"key": "text/record#RD_NUMFLASHMOVE/valor", "es": "%d"}
+{"key": "text/record#RD_NUMAERIALCOMBO/texto", "es": "Combos aéreos"}
+{"key": "text/record#RD_NUMAERIALCOMBO/valor", "es": "%d"}
+{"key": "text/record#RD_NUMSKILLFINISH/texto", "es": "Remates de habilidad"}
+{"key": "text/record#RD_NUMSKILLFINISH/valor", "es": "%d"}
+{"key": "text/record#RD_NUMEXCELLENTKILL/texto", "es": "Eliminaciones excelentes"}
+{"key": "text/record#RD_NUMEXCELLENTKILL/valor", "es": "%d"}
+{"key": "text/record#RD_SPACE01/texto", "es": "Contrarreloj"}
+{"key": "text/record#RD_TIMEATK01/texto", "es": "Aldovoss"}
+{"key": "text/record#RD_TIMEATK01/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK02/texto", "es": "Melldrabie"}
+{"key": "text/record#RD_TIMEATK02/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK03/texto", "es": "Glucarius"}
+{"key": "text/record#RD_TIMEATK03/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK04/texto", "es": "Volnake"}
+{"key": "text/record#RD_TIMEATK04/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK05/texto", "es": "Angoraboras"}
+{"key": "text/record#RD_TIMEATK05/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK06/texto", "es": "Elvaron"}
+{"key": "text/record#RD_TIMEATK06/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK07/texto", "es": "Krell-Emecia 1"}
+{"key": "text/record#RD_TIMEATK07/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK08/texto", "es": "Krell-Emecia 2"}
+{"key": "text/record#RD_TIMEATK08/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK09/texto", "es": "Sol-Galba 1"}
+{"key": "text/record#RD_TIMEATK09/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK10/texto", "es": "Ribbi-Roi"}
+{"key": "text/record#RD_TIMEATK10/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK11/texto", "es": "Mustrum"}
+{"key": "text/record#RD_TIMEATK11/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK12/texto", "es": "Gadis"}
+{"key": "text/record#RD_TIMEATK12/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK13/texto", "es": "Bami"}
+{"key": "text/record#RD_TIMEATK13/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK14/texto", "es": "Sol-Galba 2"}
+{"key": "text/record#RD_TIMEATK14/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK15/texto", "es": "Eldeel"}
+{"key": "text/record#RD_TIMEATK15/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK16/texto", "es": "Girguzalm"}
+{"key": "text/record#RD_TIMEATK16/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK17/texto", "es": "Zerivutz"}
+{"key": "text/record#RD_TIMEATK17/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK18/texto", "es": "Bulaghoul"}
+{"key": "text/record#RD_TIMEATK18/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK19/texto", "es": "Akasha-Glyph"}
+{"key": "text/record#RD_TIMEATK19/valor", "es": "%s"}
+{"key": "text/record#RD_TIMEATK20/texto", "es": "Gruda Fantasma"}
+{"key": "text/record#RD_TIMEATK20/valor", "es": "%s"}
+{"key": "text/record#RD_BOSSRUSHTIME/texto", "es": "Desafío de jefes"}
+{"key": "text/record#RD_BOSSRUSHTIME/valor", "es": "%s"}
+{"key": "text/record#RD_BOSSRETRY/texto", "es": "Menos reintentos"}
+{"key": "text/record#RD_BOSSRETRY/valor", "es": "%d"}

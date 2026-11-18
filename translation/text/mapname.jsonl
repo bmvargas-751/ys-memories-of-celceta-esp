@@ -1,21 +1,192 @@
+{"key": "text/mapname#MN_T_CASNAN/mapa", "es": "Casnan, Ciudad Fronteriza"}
+{"key": "text/mapname#MN_T_CASNAN/region", "es": "Casnan, Ciudad Fronteriza"}
+{"key": "text/mapname#MN_T_COMODO/mapa", "es": "Aldea de Comodo"}
+{"key": "text/mapname#MN_T_COMODO/region", "es": "Aldea de Comodo"}
+{"key": "text/mapname#MN_T_SELRAY/mapa", "es": "Aldea de Selray"}
+{"key": "text/mapname#MN_T_SELRAY/region", "es": "Aldea de Selray"}
+{"key": "text/mapname#MN_T_HIGHLAND/mapa", "es": "Pueblo de Highland"}
+{"key": "text/mapname#MN_T_HIGHLAND/region", "es": "Pueblo de Highland"}
+{"key": "text/mapname#MN_T_DANAN/mapa", "es": "Aldea de Danan"}
+{"key": "text/mapname#MN_T_DANAN/region", "es": "Aldea de Danan"}
+{"key": "text/mapname#MN_T_ELDUKE/mapa", "es": "Elduke, la Capital en Ruinas"}
+{"key": "text/mapname#MN_T_ELDUKE/region", "es": "Elduke, la Capital en Ruinas"}
+{"key": "text/mapname#MN_C_BEFORE_FOREST/mapa", "es": "Entrada del Bosque del Alba: Campamento"}
+{"key": "text/mapname#MN_C_BEFORE_FOREST/region", "es": "Bosque del Alba "}
+{"key": "text/mapname#MN_C_BEFORE_COMODO/mapa", "es": "Bosque del Alba: Campamento"}
+{"key": "text/mapname#MN_C_BEFORE_COMODO/region", "es": "Bosque del Alba "}
+{"key": "text/mapname#MN_C_BEFORE_SELRAY/mapa", "es": "Cuenca del Río Algon: Campamento"}
+{"key": "text/mapname#MN_C_BEFORE_SELRAY/region", "es": "Cuenca del Río Algon"}
+{"key": "text/mapname#MN_C_SANCTUARY/mapa", "es": "Santuario de las Tormentas: Campamento"}
+{"key": "text/mapname#MN_C_SANCTUARY/region", "es": "Santuario de las Tormentas"}
+{"key": "text/mapname#MN_C_TABLEMOUNTAIN/mapa", "es": "Montaña Mesa: Campamento"}
+{"key": "text/mapname#MN_C_TABLEMOUNTAIN/region", "es": "Montaña Mesa"}
+{"key": "text/mapname#MN_C_PRIMITIVEFOREST/mapa", "es": "Bosque de Ceniza: Campamento"}
+{"key": "text/mapname#MN_C_PRIMITIVEFOREST/region", "es": "Bosque de Ceniza"}
 {"key": "text/mapname#MN_F_CASNAN_PLANE_MP1101/mapa", "es": "Llanuras de las Bestias"}
 {"key": "text/mapname#MN_F_CASNAN_PLANE_MP1101/region", "es": "Llanuras de las Bestias"}
 {"key": "text/mapname#MN_F_CASNAN_PLANE_MP1102/mapa", "es": "Llanuras de las Bestias"}
 {"key": "text/mapname#MN_F_CASNAN_PLANE_MP1102/region", "es": "Llanuras de las Bestias"}
+{"key": "text/mapname#MN_F_SOUTH_FOREST_MP2101/mapa", "es": "Bosque del Alba: Este"}
 {"key": "text/mapname#MN_F_SOUTH_FOREST_MP2101/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_SOUTH_FOREST_MP2102/mapa", "es": "Bosque del Alba: Este"}
 {"key": "text/mapname#MN_F_SOUTH_FOREST_MP2102/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_SOUTH_FOREST_MP2111/mapa", "es": "Bosque del Alba: Este"}
 {"key": "text/mapname#MN_F_SOUTH_FOREST_MP2111/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_SOUTH_FOREST_MP2112/mapa", "es": "Bosque del Alba: Este"}
 {"key": "text/mapname#MN_F_SOUTH_FOREST_MP2112/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_SOUTH_FOREST_MP2113/mapa", "es": "Bosque del Alba: Este"}
 {"key": "text/mapname#MN_F_SOUTH_FOREST_MP2113/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_SOUTH_FOREST_MP9100/mapa", "es": "Bosque del Alba: Ruina sin nombre"}
 {"key": "text/mapname#MN_F_SOUTH_FOREST_MP9100/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_CENTER_FOREST_MP2109/mapa", "es": "Bosque del Alba: Humedal"}
 {"key": "text/mapname#MN_F_CENTER_FOREST_MP2109/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_CENTER_FOREST_MP2110/mapa", "es": "Bosque del Alba: Humedal"}
 {"key": "text/mapname#MN_F_CENTER_FOREST_MP2110/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_CENTER_FOREST_MP2115/mapa", "es": "Bosque del Alba: Humedal"}
 {"key": "text/mapname#MN_F_CENTER_FOREST_MP2115/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_CENTER_FOREST_SD2110/mapa", "es": "Bosque del Alba: Ruinas soleadas"}
 {"key": "text/mapname#MN_F_CENTER_FOREST_SD2110/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_CENTER_FOREST_MP2105/mapa", "es": "Bosque del Alba: Humedal"}
 {"key": "text/mapname#MN_F_CENTER_FOREST_MP2105/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_CENTER_FOREST_MP2104/mapa", "es": "Bosque del Alba: Arroyo"}
 {"key": "text/mapname#MN_F_CENTER_FOREST_MP2104/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_NORTH_FOREST_MP2108/mapa", "es": "Bosque del Alba: Oeste"}
 {"key": "text/mapname#MN_F_NORTH_FOREST_MP2108/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_NORTH_FOREST_MP2106/mapa", "es": "Bosque del Alba: Oeste"}
 {"key": "text/mapname#MN_F_NORTH_FOREST_MP2106/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_NORTH_FOREST_MP2107/mapa", "es": "Bosque del Alba: Oeste"}
 {"key": "text/mapname#MN_F_NORTH_FOREST_MP2107/region", "es": "Bosque del Alba"}
+{"key": "text/mapname#MN_F_LOST_FOREST/mapa", "es": "Laberinto del Bosque"}
+{"key": "text/mapname#MN_F_LOST_FOREST/region", "es": "Laberinto del Bosque"}
+{"key": "text/mapname#MN_F_CRATER_MP2103/mapa", "es": "Cráter de Gidona"}
+{"key": "text/mapname#MN_F_CRATER_MP2103/region", "es": "Cráter de Gidona"}
+{"key": "text/mapname#MN_F_CRATER_MP2116/mapa", "es": "Cráter de Gidona"}
+{"key": "text/mapname#MN_F_CRATER_MP2116/region", "es": "Cráter de Gidona"}
+{"key": "text/mapname#MN_F_CRATER_MP4103/mapa", "es": "Cráter de Gidona"}
+{"key": "text/mapname#MN_F_CRATER_MP4103/region", "es": "Cráter de Gidona"}
+{"key": "text/mapname#MN_F_CRATER_MP4102/mapa", "es": "Cráter de Gidona"}
+{"key": "text/mapname#MN_F_CRATER_MP4102/region", "es": "Cráter de Gidona"}
+{"key": "text/mapname#MN_F_FOG_CLIFF/mapa", "es": "Pico Brumoso"}
+{"key": "text/mapname#MN_F_FOG_CLIFF/region", "es": "Pico Brumoso"}
+{"key": "text/mapname#MN_F_RIVERSIDE_MP3102/mapa", "es": "Cuenca del Río Algon"}
+{"key": "text/mapname#MN_F_RIVERSIDE_MP3102/region", "es": "Cuenca del Río Algon"}
+{"key": "text/mapname#MN_F_RIVERSIDE_MP3103/mapa", "es": "Cuenca del Río Algon"}
+{"key": "text/mapname#MN_F_RIVERSIDE_MP3103/region", "es": "Cuenca del Río Algon"}
+{"key": "text/mapname#MN_F_GRAVEYARD/mapa", "es": "Colina Tranquila"}
+{"key": "text/mapname#MN_F_GRAVEYARD/region", "es": "Colina Tranquila"}
+{"key": "text/mapname#MN_F_HIGHLAND_ROAD_MP6102/mapa", "es": "Sendero de la Meseta"}
+{"key": "text/mapname#MN_F_HIGHLAND_ROAD_MP6102/region", "es": "Sendero de la Meseta"}
+{"key": "text/mapname#MN_F_HIGHLAND_ROAD_MP6103/mapa", "es": "Sendero de la Meseta"}
+{"key": "text/mapname#MN_F_HIGHLAND_ROAD_MP6103/region", "es": "Sendero de la Meseta"}
+{"key": "text/mapname#MN_F_HIGHLAND_ROAD_MP6104/mapa", "es": "Sendero de la Meseta: Ruinas del Observatorio"}
+{"key": "text/mapname#MN_F_HIGHLAND_ROAD_MP6104/region", "es": "Sendero de la Meseta"}
+{"key": "text/mapname#MN_F_APPROACH_SANCTUARY_MP6111/mapa", "es": "Acceso al Santuario"}
+{"key": "text/mapname#MN_F_APPROACH_SANCTUARY_MP6111/region", "es": "Acceso al Santuario"}
+{"key": "text/mapname#MN_F_APPROACH_SANCTUARY_MP6112/mapa", "es": "Acceso al Santuario"}
+{"key": "text/mapname#MN_F_APPROACH_SANCTUARY_MP6112/region", "es": "Acceso al Santuario"}
+{"key": "text/mapname#MN_F_APPROACH_SANCTUARY_MP6113/mapa", "es": "Acceso al Santuario"}
+{"key": "text/mapname#MN_F_APPROACH_SANCTUARY_MP6113/region", "es": "Acceso al Santuario"}
+{"key": "text/mapname#MN_F_SANCTUARY_SD2120/mapa", "es": "Santuario de las Tormentas"}
+{"key": "text/mapname#MN_F_SANCTUARY_SD2120/region", "es": "Santuario de las Tormentas"}
+{"key": "text/mapname#MN_F_SANCTUARY_SD2121/mapa", "es": "Santuario de las Tormentas"}
+{"key": "text/mapname#MN_F_SANCTUARY_SD2121/region", "es": "Santuario de las Tormentas"}
+{"key": "text/mapname#MN_F_ENTERANCE_TOWER/mapa", "es": "Torre de la Providencia"}
+{"key": "text/mapname#MN_F_ENTERANCE_TOWER/region", "es": "Santuario de las Tormentas"}
+{"key": "text/mapname#MN_F_MOUNTAIN_MP6121/mapa", "es": "Montaña Mesa: Cima"}
+{"key": "text/mapname#MN_F_MOUNTAIN_MP6121/region", "es": "Montaña Mesa"}
+{"key": "text/mapname#MN_F_MOUNTAIN_MP6122/mapa", "es": "Montaña Mesa: Punto medio"}
+{"key": "text/mapname#MN_F_MOUNTAIN_MP6122/region", "es": "Montaña Mesa"}
+{"key": "text/mapname#MN_F_MOUNTAIN_MP6123/mapa", "es": "Montaña Mesa: Punto medio"}
+{"key": "text/mapname#MN_F_MOUNTAIN_MP6123/region", "es": "Montaña Mesa"}
+{"key": "text/mapname#MN_F_MOUNTAIN_MP6125/mapa", "es": "Montaña Mesa: Base"}
+{"key": "text/mapname#MN_F_MOUNTAIN_MP6125/region", "es": "Montaña Mesa"}
+{"key": "text/mapname#MN_F_UNDERGROUND_MP5101/mapa", "es": "Bosque Subterráneo: Entrada"}
+{"key": "text/mapname#MN_F_UNDERGROUND_MP5101/region", "es": "Bosque Subterráneo"}
+{"key": "text/mapname#MN_F_UNDERGROUND_MP5102/mapa", "es": "Bosque Subterráneo"}
+{"key": "text/mapname#MN_F_UNDERGROUND_MP5102/region", "es": "Bosque Subterráneo"}
+{"key": "text/mapname#MN_F_PRIMITIVEFOREST_MP6131/mapa", "es": "Bosque de Ceniza: Camino del Miasma"}
+{"key": "text/mapname#MN_F_PRIMITIVEFOREST_MP6131/region", "es": "Bosque de Ceniza"}
+{"key": "text/mapname#MN_F_PRIMITIVEFOREST_MP6132/mapa", "es": "Bosque de Ceniza: Camino del Miasma"}
+{"key": "text/mapname#MN_F_PRIMITIVEFOREST_MP6132/region", "es": "Bosque de Ceniza"}
+{"key": "text/mapname#MN_F_PRIMITIVEFOREST_MP6133/mapa", "es": "Bosque de Ceniza: Camino del Miasma"}
+{"key": "text/mapname#MN_F_PRIMITIVEFOREST_MP6133/region", "es": "Bosque de Ceniza"}
+{"key": "text/mapname#MN_F_PRIMITIVEFOREST_MP6134/mapa", "es": "Bosque de Ceniza: Camino del Miasma"}
+{"key": "text/mapname#MN_F_PRIMITIVEFOREST_MP6134/region", "es": "Bosque de Ceniza"}
+{"key": "text/mapname#MN_F_PRIMITIVEFOREST_MP6135/mapa", "es": "Bosque de Ceniza: Camino del Miasma"}
+{"key": "text/mapname#MN_F_PRIMITIVEFOREST_MP6135/region", "es": "Bosque de Ceniza"}
+{"key": "text/mapname#MN_F_PRIMITIVEFOREST_MP6136/mapa", "es": "Bosque de Ceniza: Afueras"}
+{"key": "text/mapname#MN_F_PRIMITIVEFOREST_MP6136/region", "es": "Bosque de Ceniza: Afueras"}
+{"key": "text/mapname#MN_F_SEA_OF_ACID_MP6141/mapa", "es": "Bosque de Ceniza: Pantano"}
+{"key": "text/mapname#MN_F_SEA_OF_ACID_MP6141/region", "es": "Bosque de Ceniza"}
+{"key": "text/mapname#MN_F_SEA_OF_ACID_MP6142/mapa", "es": "Bosque de Ceniza: Pantano"}
+{"key": "text/mapname#MN_F_SEA_OF_ACID_MP6142/region", "es": "Bosque de Ceniza"}
+{"key": "text/mapname#MN_F_SEA_OF_ACID_MP6143/mapa", "es": "Bosque de Ceniza: Pantano"}
+{"key": "text/mapname#MN_F_SEA_OF_ACID_MP6143/region", "es": "Bosque de Ceniza"}
+{"key": "text/mapname#MN_F_COLONY_MP6162/mapa", "es": "Bosque de las Esporas"}
+{"key": "text/mapname#MN_F_COLONY_MP6162/region", "es": "Bosque de las Esporas"}
+{"key": "text/mapname#MN_F_COLONY_MP6163/mapa", "es": "Bosque de las Esporas"}
+{"key": "text/mapname#MN_F_COLONY_MP6163/region", "es": "Bosque de las Esporas"}
+{"key": "text/mapname#MN_F_COLONY_MP6164/mapa", "es": "Bosque de las Esporas"}
+{"key": "text/mapname#MN_F_COLONY_MP6164/region", "es": "Bosque de las Esporas"}
+{"key": "text/mapname#MN_F_COLONY_MP6165/mapa", "es": "Bosque de las Esporas"}
+{"key": "text/mapname#MN_F_COLONY_MP6165/region", "es": "Bosque de las Esporas"}
+{"key": "text/mapname#MN_F_OLD_BATTLE_FIELD_MP6191/mapa", "es": "Campo de Batalla de Colonia"}
+{"key": "text/mapname#MN_F_OLD_BATTLE_FIELD_MP6191/region", "es": "Campo de Batalla de Colonia"}
+{"key": "text/mapname#MN_F_OLD_BATTLE_FIELD_MP6195/mapa", "es": "Campo de Batalla de Colonia"}
+{"key": "text/mapname#MN_F_OLD_BATTLE_FIELD_MP6195/region", "es": "Campo de Batalla de Colonia"}
+{"key": "text/mapname#MN_F_OLD_BATTLE_FIELD_MP6321/mapa", "es": "Campo de Batalla de Colonia: Ruina"}
+{"key": "text/mapname#MN_F_OLD_BATTLE_FIELD_MP6321/region", "es": "Campo de Batalla de Colonia"}
+{"key": "text/mapname#MN_F_ELDUKE_MP6192/mapa", "es": "Afueras de Elduke: Base del monte"}
+{"key": "text/mapname#MN_F_ELDUKE_MP6192/region", "es": "Afueras de Elduke"}
+{"key": "text/mapname#MN_F_ELDUKE_MP6193/mapa", "es": "Afueras de Elduke: Paso del monte"}
+{"key": "text/mapname#MN_F_ELDUKE_MP6193/region", "es": "Afueras de Elduke"}
+{"key": "text/mapname#MN_F_LAKE_RUIN/mapa", "es": "Lago Tolmes"}
+{"key": "text/mapname#MN_F_LAKE_RUIN/region", "es": "Lago Tolmes"}
+{"key": "text/mapname#MN_F_LUE_PLACE/mapa", "es": "Nido de los Roos"}
+{"key": "text/mapname#MN_F_LUE_PLACE/region", "es": "Nido de los Roos"}
 {"key": "text/mapname#MN_D_MINE/mapa", "es": "Mina de Casnia"}
 {"key": "text/mapname#MN_D_MINE/region", "es": "Mina de Casnia"}
+{"key": "text/mapname#MN_D_BUGSNEST/mapa", "es": "Madriguera Antigua"}
+{"key": "text/mapname#MN_D_BUGSNEST/region", "es": "Madriguera Antigua"}
+{"key": "text/mapname#MN_D_RIVERRUINS/mapa", "es": "Guarida de las Bestias Sagradas"}
+{"key": "text/mapname#MN_D_RIVERRUINS/region", "es": "Guarida de las Bestias Sagradas"}
+{"key": "text/mapname#MN_D_UNDERGROUND/mapa", "es": "Ruinas Subterráneas"}
+{"key": "text/mapname#MN_D_UNDERGROUND/region", "es": "Ruinas Subterráneas"}
+{"key": "text/mapname#MN_D_TOWER_OF_THUNDER/mapa", "es": "Torre de la Providencia"}
+{"key": "text/mapname#MN_D_TOWER_OF_THUNDER/region", "es": "Torre de la Providencia"}
+{"key": "text/mapname#MN_D_TOWER_OF_THUNDERO/mapa", "es": "Torre de la Providencia: Exterior"}
+{"key": "text/mapname#MN_D_TOWER_OF_THUNDERO/region", "es": "Torre de la Providencia"}
+{"key": "text/mapname#MN_D_TOWER_OF_THUNDERR/mapa", "es": "Torre de la Providencia: Cima"}
+{"key": "text/mapname#MN_D_TOWER_OF_THUNDERR/region", "es": "Torre de la Providencia"}
+{"key": "text/mapname#MN_D_TOWER_OF_THUNDERE/mapa", "es": "Sala de Eldeel"}
+{"key": "text/mapname#MN_D_TOWER_OF_THUNDERE/region", "es": "Torre de la Providencia"}
+{"key": "text/mapname#MN_D_RUINS_OF_FRONT/mapa", "es": "Laboratorio de Artefactos de Colonia"}
+{"key": "text/mapname#MN_D_RUINS_OF_FRONT/region", "es": "Laboratorio de Artefactos de Colonia"}
+{"key": "text/mapname#MN_D_LAKE_RUIN/mapa", "es": "Ruinas del Lago Tolmes"}
+{"key": "text/mapname#MN_D_LAKE_RUIN/region", "es": "Ruinas del Lago Tolmes"}
+{"key": "text/mapname#MN_D_ICEMOUNTAIN/mapa", "es": "Monte Vesuvio: Cima nevada"}
+{"key": "text/mapname#MN_D_ICEMOUNTAIN/region", "es": "Monte Vesuvio"}
+{"key": "text/mapname#MN_D_VOLCANO/mapa", "es": "Monte Vesuvio: Volcán"}
+{"key": "text/mapname#MN_D_VOLCANO/region", "es": "Monte Vesuvio"}
+{"key": "text/mapname#MN_D_TENPLE_OF_SUN/mapa", "es": "Templo del Sol"}
+{"key": "text/mapname#MN_D_TENPLE_OF_SUN/region", "es": "Templo del Sol"}
+{"key": "text/mapname#MN_D_IRIS/mapa", "es": "Iris: Encrucijada"}
+{"key": "text/mapname#MN_D_IRIS/region", "es": "Iris, el Mundo de los Registros"}
+{"key": "text/mapname#MN_D_IRIS_BRONZE/mapa", "es": "Iris: Área de Bronce"}
+{"key": "text/mapname#MN_D_IRIS_BRONZE/region", "es": "Iris, el Mundo de los Registros"}
+{"key": "text/mapname#MN_D_IRIS_SILVER/mapa", "es": "Iris: Área de Plata"}
+{"key": "text/mapname#MN_D_IRIS_SILVER/region", "es": "Iris, el Mundo de los Registros"}
+{"key": "text/mapname#MN_D_IRIS_GOLD/mapa", "es": "Iris: Área de Oro"}
+{"key": "text/mapname#MN_D_IRIS_GOLD/region", "es": "Iris, el Mundo de los Registros"}
+{"key": "text/mapname#MN_D_IRIS_CENTERAL/mapa", "es": "Iris: Área Central"}
+{"key": "text/mapname#MN_D_IRIS_CENTERAL/region", "es": "Iris, el Mundo de los Registros"}
+{"key": "text/mapname#MN_D_EMERALDCAVE/mapa", "es": "Cueva de Jade"}
+{"key": "text/mapname#MN_D_EMERALDCAVE/region", "es": "Cueva de Jade"}
+{"key": "text/mapname#MN_D_OBLIVIONCAVE/mapa", "es": "Cueva de la Cascada"}
+{"key": "text/mapname#MN_D_OBLIVIONCAVE/region", "es": "Cueva de la Cascada"}
+{"key": "text/mapname#MN_D_CRISTALCAVE/mapa", "es": "Cueva de Cuarzo"}
+{"key": "text/mapname#MN_D_CRISTALCAVE/region", "es": "Cueva de Cuarzo"}
+{"key": "text/mapname#MN_D_FROG/mapa", "es": "Posada de las Ranas"}
+{"key": "text/mapname#MN_D_FROG/region", "es": "Posada de las Ranas"}
+{"key": "text/mapname#MN_T_GOVEMMENT_GENERAL/mapa", "es": "Edificio de la Gobernación General"}
+{"key": "text/mapname#MN_T_GOVEMMENT_GENERAL/region", "es": "Edificio de la Gobernación General"}

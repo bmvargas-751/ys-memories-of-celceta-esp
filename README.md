@@ -24,21 +24,21 @@ Actualizado: 2026-11-18.
 | 3. Glosario y fichas | ✅ 159 términos y 7 personajes |
 | 4. Set de oro | ✅ 17 de 17 (oro-007) |
 | 5. Piloto | ✅ 5 lotes de 40 líneas, uno por sección |
-| 6. Traducción | ⏳ |
+| 6. Traducción | ⏳ Interfaz al 100 %; avisos de caja de la interfaz para revisar en el juego |
 | 7. Prueba en el juego | ⬜ |
 | 8. Entrega (instalador para Windows y Steam Deck) | ⬜ |
 
 ### Secciones
 
 <!-- loc:progress -->
-**Etapa actual:** Fase 6. Traducción: (una casilla por sección de `loc.json`)
+**Etapa actual:** Fase 6. Traducción: Objetos, materiales y habilidades
 
 | Sección | Líneas | Traducidas | Avance |
 |---|---:|---:|---:|
-| Interfaz | 994 | 65 | 6,5 % |
+| Interfaz | 994 | 994 | 100,0 % |
 | Objetos, materiales y habilidades | 1.381 | 41 | 3,0 % |
-| Bestiario, nombres y PNJ | 1.267 | 59 | 4,7 % |
-| Diario, misiones y recuerdos | 779 | 40 | 5,1 % |
-| Guiones | 14.602 | 55 | 0,4 % |
-| **Total** | **19.023** | **260** | **1,4 %** |
+| Bestiario, nombres y PNJ | 1.267 | 125 | 9,9 % |
+| Diario, misiones y recuerdos | 779 | 61 | 7,8 % |
+| Guiones | 14.602 | 241 | 1,7 % |
+| **Total** | **19.023** | **1.462** | **7,7 %** |
 <!-- /loc:progress -->

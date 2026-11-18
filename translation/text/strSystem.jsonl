@@ -1,2 +1,626 @@
+{"key": "text/strSystem#STR_SAVE_PLAYTIME", "es": "Tiempo de juego %4d:%02d:%02d\n"}
+{"key": "text/strSystem#STR_MENU_PLAYTIME", "es": "[Tiempo de juego %4d:%02d:%02d]"}
+{"key": "text/strSystem#STR_SAVE_CLEARDATA", "es": "[Datos completados] %s\n"}
+{"key": "text/strSystem#STR_SAVE_RANK_EASY", "es": "Fácil"}
+{"key": "text/strSystem#STR_SAVE_RANK_NORMAL", "es": "Normal"}
+{"key": "text/strSystem#STR_SAVE_RANK_HARD", "es": "Difícil"}
+{"key": "text/strSystem#STR_SAVE_RANK_NIGHTMARE", "es": "Pesadilla"}
+{"key": "text/strSystem#STR_SAVE_RANK_DIFFICULT", "es": "Dificultad: %s"}
+{"key": "text/strSystem#STR_PARTY_NAME_ADOL", "es": "Adol"}
+{"key": "text/strSystem#STR_PARTY_NAME_DUREN", "es": "Duren"}
+{"key": "text/strSystem#STR_PARTY_NAME_CARNA", "es": "Karna"}
+{"key": "text/strSystem#STR_PARTY_NAME_OZMA", "es": "Ozma"}
+{"key": "text/strSystem#STR_PARTY_NAME_CANLILICA", "es": "Calilica"}
+{"key": "text/strSystem#STR_PARTY_NAME_FRIDA", "es": "Frieda"}
+{"key": "text/strSystem#STR_RANK_TYPE_GLOBAL", "es": "Global"}
+{"key": "text/strSystem#STR_RANK_TYPE_SELF", "es": "Personal"}
+{"key": "text/strSystem#STR_RANK_TYPE_DOWNLOADING", "es": "Leyendo datos..."}
+{"key": "text/strSystem#STR_RANK_TYPE_NODATA", "es": "Sin datos."}
+{"key": "text/strSystem#STR_RANK_TYPE_ERROR", "es": "No se pudieron recibir los datos."}
+{"key": "text/strSystem#STR_SAVEUI_UPDATE", "es": "Actualizado"}
+{"key": "text/strSystem#STR_SAVEUI_DETAIL", "es": "Detalles"}
+{"key": "text/strSystem#STR_SAVEUI_LOAD", "es": "Cargar"}
+{"key": "text/strSystem#STR_SAVEUI_SAVE", "es": "Guardar"}
+{"key": "text/strSystem#STR_SAVEUI_DELETE", "es": "Eliminar"}
+{"key": "text/strSystem#STR_SAVEUI_LOADAUTOSAVE", "es": "Cargar autoguardado"}
+{"key": "text/strSystem#STR_SAVEUI_NEWSAVE", "es": "Nuevo guardado"}
+{"key": "text/strSystem#STR_SAVEUI_CONFIRM_LOAD", "es": "¿Cargar estos datos guardados?"}
+{"key": "text/strSystem#STR_SAVEUI_CONFIRM_OVERWRITE", "es": "¿Sobrescribir estos datos guardados?"}
+{"key": "text/strSystem#STR_SAVEUI_CONFIRM_SAVE", "es": "¿Guardar los datos?"}
+{"key": "text/strSystem#STR_SAVEUI_CONFIRM_DELETE", "es": "¿Seguro que quieres eliminar esto?"}
+{"key": "text/strSystem#STR_SAVEUI_CONFIRM_LAST_DELETE", "es": "Estos datos guardados se eliminarán. ¿Seguro?"}
+{"key": "text/strSystem#STR_SAVEUI_NO", "es": "　No"}
+{"key": "text/strSystem#STR_SAVEUI_YES", "es": "　Sí"}
+{"key": "text/strSystem#STR_SAVEUI_BROKEN", "es": "Datos dañados."}
+{"key": "text/strSystem#STR_SAVEUI_SCROLL_HELP", "es": "Desplazar"}
+{"key": "text/strSystem#STR_SAVEUI_AUTOSAVE_CHANGE_HELP", "es": "Alternar autoguardado"}
+{"key": "text/strSystem#STR_SAVEUI_NOLOADCLEARDATA", "es": "Los datos completados solo se cargan desde la pantalla de título."}
+{"key": "text/strSystem#STR_YES", "es": "Sí"}
+{"key": "text/strSystem#STR_NO", "es": "No"}
+{"key": "text/strSystem#STR_PAUSE", "es": "PAUSA"}
+{"key": "text/strSystem#STR_SCROLL", "es": "#-10X#-4Y#109P#-4X#-4Y#110P Desplazar"}
+{"key": "text/strSystem#UI_KEYCONFIG_CATEGORY_FORMAT", "es": "%s: ajuste %d"}
+{"key": "text/strSystem#UI_KEYCONFIG_CATEGORY_PAD", "es": "Control"}
+{"key": "text/strSystem#UI_KEYCONFIG_CATEGORY_KEYBOARD", "es": "Teclado"}
+{"key": "text/strSystem#STR_UI_RANKING_NEWRECORD_STEAM", "es": "Steam"}
+{"key": "text/strSystem#STR_UI_RANKING_NEWRECORD_GOG", "es": "GOG Galaxy"}
+{"key": "text/strSystem#STR_UI_RANKING_NEWRECORD_STEAM_LD", "es": "Clasificaciones de Steam"}
+{"key": "text/strSystem#STR_UI_RANKING_NEWRECORD_GOG_LD", "es": "Clasificaciones de GOG Galaxy"}
+{"key": "text/strSystem#STR_UI_RANKING_NEWRECORD_STEAM_DETAIL", "es": "%s ¡¡Nuevo récord!!\nPuesto: %d\nDificultad: %s   Tiempo: %s"}
+{"key": "text/strSystem#STR_UI_RANKING_NEWRECORD_GOG_DETAIL", "es": "%s ¡¡Nuevo récord!!\nPuesto: %d\nDificultad: %s   Tiempo: %s"}
+{"key": "text/strSystem#STR_PUZZLE_HELP0_MSG1_TEXT1", "es": "#-2X#-2Y#111A：Seleccionar"}
+{"key": "text/strSystem#STR_PUZZLE_HELP0_MSG1_TEXT2", "es": "#-2X#-2Y#111A：Mover"}
+{"key": "text/strSystem#STR_PUZZLE_HELP0_MSG2_TEXT1", "es": "#-2X#-2Y#0A：Confirmar"}
+{"key": "text/strSystem#STR_PUZZLE_HELP0_MSG2_TEXT2", "es": "#-6X#-2Y#109A#-4X#-2Y#110A：Girar"}
+{"key": "text/strSystem#STR_PUZZLE_HELP1_MSG1_TEXT1", "es": "#-2X#-2Y#111A：Seleccionar"}
+{"key": "text/strSystem#STR_PUZZLE_HELP1_MSG2_TEXT1", "es": "#-2X#-2Y#0A：Confirmar"}
+{"key": "text/strSystem#STR_PUZZLE_HELP2_MSG1_TEXT1", "es": "#-2X#-2Y#111A：Seleccionar"}
+{"key": "text/strSystem#STR_PUZZLE_HELP2_MSG1_TEXT2", "es": "#-2X#-2Y#111A：Mover"}
+{"key": "text/strSystem#STR_PUZZLE_HELP2_MSG2_TEXT1", "es": "#-2X#-2Y#0A：Tomar"}
+{"key": "text/strSystem#STR_PUZZLE_HELP2_MSG2_TEXT2", "es": "#-2X#-2Y#0A：Colocar"}
+{"key": "text/strSystem#STR_PUZZLE_HELP3_MSG1_TEXT1", "es": "#-6X#-2Y#9A #-4X#-2Y#8A：Seleccionar"}
+{"key": "text/strSystem#STR_PUZZLE_HELP3_MSG2_TEXT1", "es": "#-6X#-2Y#109A#-4X#-2Y#110A：Girar"}
+{"key": "text/strSystem#STR_RETURN_TO_MEMORY", "es": "¿Volver al Menú de recuerdos?"}
+{"key": "text/strSystem#STR_RETURN_TO_TITLE", "es": "¿Volver a la pantalla de título?"}
+{"key": "text/strSystem#STR_GAMEOVER_RETRY", "es": "Reintentar"}
+{"key": "text/strSystem#STR_GAMEOVER_TO_MEMORY", "es": "Volver al Menú de recuerdos."}
+{"key": "text/strSystem#STR_GAMEOVER_LOAD", "es": "Cargar"}
+{"key": "text/strSystem#STR_GAMEOVER_TO_TITLE", "es": "Volver a la pantalla de título."}
+{"key": "text/strSystem#STR_GAMEOVER_CANCEL", "es": "Cancelar"}
+{"key": "text/strSystem#STR_COMMAND_ATTACK", "es": "Prioridad: ataque"}
+{"key": "text/strSystem#STR_COMMAND_AVOID", "es": "Prioridad: evasión"}
+{"key": "text/strSystem#STR_WEAK", "es": "Débil"}
+{"key": "text/strSystem#STR_WEAK_COLON", "es": "Débil:"}
+{"key": "text/strSystem#STR_NOWEAK", "es": "Sin debilidad"}
+{"key": "text/strSystem#STR_WARP_CANNOT", "es": "No puedes transportarte a monolitos de otro color."}
+{"key": "text/strSystem#STR_WARP_CONFIRM", "es": "¿Transportarse a [%s]?"}
+{"key": "text/strSystem#STR_WARP_MAPPED", "es": "Cartografiado"}
+{"key": "text/strSystem#STR_WARP_EXPAIN_DESTINATION", "es": " Destino"}
+{"key": "text/strSystem#STR_WARP_EXPAIN_LANDMARK", "es": " Hito"}
+{"key": "text/strSystem#STR_WARP_EXPAIN_TOWN", "es": " Pueblo/Aldea"}
+{"key": "text/strSystem#STR_WARP_EXPAIN_DUNGEON", "es": " Mazmorra"}
+{"key": "text/strSystem#STR_WARP_EXPAIN_WARPSTONE", "es": " Piedra de transporte"}
+{"key": "text/strSystem#STR_WARP_EXPAIN_CHEST", "es": " Cofre"}
+{"key": "text/strSystem#STR_WARP_EXPAIN_MATERIAL", "es": " Material"}
+{"key": "text/strSystem#STR_WARP_EXPAIN_MEMORY", "es": " Recuerdo"}
+{"key": "text/strSystem#STR_WARP_EXPAIN_QUEST", "es": " Misión"}
+{"key": "text/strSystem#STR_WARP_EXPAIN_MARKER", "es": " Marcador"}
+{"key": "text/strSystem#STR_PUZZLE_LOCATION", "es": "Ubicación actual"}
+{"key": "text/strSystem#STR_PUZZLE_CONTROL_PANEL", "es": "Panel de control"}
+{"key": "text/strSystem#STR_ITEM_INFO_SP", "es": "<PH nec.: %3d>"}
+{"key": "text/strSystem#STR_ITEMINFO_WEPON_ZOKU_ATK", "es": "#16sATA"}
+{"key": "text/strSystem#STR_ITEMINFO_WEPON_ZOKU_BURN", "es": "#22sQUEM"}
+{"key": "text/strSystem#STR_ITEMINFO_WEPON_ZOKU_FRZN", "es": "#23sCONG"}
+{"key": "text/strSystem#STR_ITEMINFO_WEPON_ZOKU_PARA", "es": "#21sPAR"}
+{"key": "text/strSystem#STR_ITEMINFO_WEPON_ZOKU_POIS", "es": "#20sVEN"}
+{"key": "text/strSystem#STR_ITEMINFO_WEPON_ZOKU_ABSB", "es": "#17sABS"}
+{"key": "text/strSystem#STR_ITEMINFO_WEPON_ZOKU_CRIT", "es": "#18sCRÍT"}
+{"key": "text/strSystem#STR_ITEMINFO_WEPON_ZOKU_SP", "es": "#19sPH"}
+{"key": "text/strSystem#STR_ITEMINFO_ARMOR_ZOKU_ATK", "es": "#24sDEF"}
+{"key": "text/strSystem#STR_ITEMINFO_ARMOR_ZOKU_BURN", "es": "#22sQUEM"}
+{"key": "text/strSystem#STR_ITEMINFO_ARMOR_ZOKU_FRZN", "es": "#23sCONG"}
+{"key": "text/strSystem#STR_ITEMINFO_ARMOR_ZOKU_PARA", "es": "#21sPAR"}
+{"key": "text/strSystem#STR_ITEMINFO_ARMOR_ZOKU_POIS", "es": "#20sVEN"}
+{"key": "text/strSystem#STR_ITEMINFO_ARMOR_ZOKU_ABSB", "es": "#25sCURA"}
+{"key": "text/strSystem#STR_ITEMINFO_ARMOR_ZOKU_CRIT", "es": "#26sEVA"}
+{"key": "text/strSystem#STR_ITEMINFO_ARMOR_ZOKU_SP", "es": "#27sVEL"}
+{"key": "text/strSystem#STR_MENU_GOLD_INFO", "es": "%8dM"}
+{"key": "text/strSystem#STR_MENU_COST_SP", "es": "PH nec."}
+{"key": "text/strSystem#STR_MENU_NOTHING", "es": "Nada"}
+{"key": "text/strSystem#STR_SCP_HAGI_NUM", "es": "Recolectaste %d objetos."}
+{"key": "text/strSystem#MSG_PARTYABILITY_NONE", "es": "Vacío"}
+{"key": "text/strSystem#MSG_PARTYABILITY_RAREITEMUP", "es": "Mayor obtención de objetos raros"}
+{"key": "text/strSystem#MSG_PARTYABILITY_DAMAGEBONUS", "es": "Daño aumentado"}
+{"key": "text/strSystem#MSG_ITEMLIST_REMOVE", "es": "Quitar equipo."}
+{"key": "text/strSystem#MSG_SKILLLIST_REMOVE", "es": "Quitar habilidad."}
+{"key": "text/strSystem#MSG_SKILLLIST_EMPTY", "es": "Vacío"}
+{"key": "text/strSystem#MSG_EQUIP_WEAPON", "es": "　　　#16SEquipar un arma."}
+{"key": "text/strSystem#MSG_EQUIP_ARMOR", "es": "　　　#16SEquipar una armadura."}
+{"key": "text/strSystem#MSG_EQUIP_ACC", "es": "　　　#16SEquipar un accesorio."}
+{"key": "text/strSystem#MSG_EQUIP_SKILL", "es": "　　　#16SAsignar una habilidad."}
+{"key": "text/strSystem#MSG_SYSTEM_SAVE", "es": "　Guarda tu progreso actual."}
+{"key": "text/strSystem#MSG_SYSTEM_LOAD", "es": "　Carga datos guardados existentes."}
+{"key": "text/strSystem#MSG_SYSTEM_ERASE", "es": "　Elimina datos guardados existentes."}
+{"key": "text/strSystem#MSG_SYSTEM_OPTION", "es": "　Cambia los ajustes del juego."}
+{"key": "text/strSystem#MSG_SYSTEM_CONFIG", "es": "　Cambia la configuración de botones."}
+{"key": "text/strSystem#MSG_SYSTEM_TITLE", "es": "　Vuelve a la pantalla de título."}
+{"key": "text/strSystem#MSG_SYSTEM_SKIP", "es": "　Vuelve al Menú de recuerdos."}
+{"key": "text/strSystem#MSG_OPTION_BGM", "es": "　Cambia el volumen de la música del juego."}
+{"key": "text/strSystem#MSG_OPTION_SE", "es": "　Cambia el volumen de los efectos de sonido del juego."}
+{"key": "text/strSystem#MSG_OPTION_VOICE", "es": "　Cambia el volumen de las voces del juego."}
+{"key": "text/strSystem#MSG_OPTION_AI", "es": "　Cambia los ajustes de la IA del grupo."}
+{"key": "text/strSystem#MSG_OPTION_DIFFICULT", "es": "　Cambia la dificultad del juego."}
+{"key": "text/strSystem#MSG_OPTION_DIFFICULT2", "es": "　(La dificultad solo se puede bajar.)"}
+{"key": "text/strSystem#MSG_CONFIG_ATK", "es": "　Elige el botón para atacar."}
+{"key": "text/strSystem#MSG_CONFIG_STEP", "es": "　Elige el botón para esquivar."}
+{"key": "text/strSystem#MSG_CONFIG_GUARD", "es": "　Elige el botón para guardia."}
+{"key": "text/strSystem#MSG_CONFIG_CHANGE", "es": "　Elige el botón para cambiar de personaje."}
+{"key": "text/strSystem#MSG_CONFIG_EXSKILL", "es": "　Elige el botón que activa una habilidad EXTRA."}
+{"key": "text/strSystem#MSG_CONFIG_SKILL", "es": "　Elige el botón Activador de habilidades."}
+{"key": "text/strSystem#MSG_CONFIG_SKILL2", "es": "　(Solo puede ser el botón L o el botón R.)"}
+{"key": "text/strSystem#MSG_SHOP_BUY", "es": "　Compra objetos."}
+{"key": "text/strSystem#MSG_SHOP_SEL", "es": "　Vende objetos."}
+{"key": "text/strSystem#MSG_SHOP_EXCHANGE", "es": "　Intercambia materiales por otros."}
+{"key": "text/strSystem#MSG_SHOP_REINFORCE", "es": "　Refuerza armas y armaduras con materiales."}
+{"key": "text/strSystem#MSG_SHOP_REFINE", "es": "　Refina mena en metales o gemas."}
+{"key": "text/strSystem#MSG_SHOP_CREATE", "es": "　Fabrica un accesorio con materiales."}
+{"key": "text/strSystem#MSG_SHOP_COMPOUND", "es": "　Sintetiza medicinas con materiales."}
+{"key": "text/strSystem#MSG_SHOP_ENHANCE", "es": "　Libera el poder de un artefacto con materiales."}
+{"key": "text/strSystem#MSG_MIX_NEED_MATERIAL", "es": "Mat. necesarios"}
+{"key": "text/strSystem#YESNOMESSAGE_PARTYCHANGE_ALLDEAD", "es": "No disponible si todos los miembros del combate están fuera de combate."}
+{"key": "text/strSystem#YESNOMESSAGE_RETURN_TITLE", "es": "¿Volver a la pantalla de título?\n(¡Se perderá todo el progreso sin guardar!)"}
+{"key": "text/strSystem#YESNOMESSAGE_SKIP_EVENT", "es": "¿Volver al Menú de recuerdos?"}
+{"key": "text/strSystem#YESNOMESSAGE_VOLUME_RESET", "es": "¿Restablecer todos los ajustes de audio a sus valores predeterminados?"}
+{"key": "text/strSystem#YESNOMESSAGE_EXOPTION_RESET", "es": "¿Restablecer las opciones a sus valores predeterminados?\n(Se conservarán la resolución, el estado de la ventana\ny la visualización de iconos de botones.)"}
+{"key": "text/strSystem#YESNOMESSAGE_KEYCONFIG_RESET", "es": "¿Restablecer toda la configuración de botones a sus valores predeterminados?"}
+{"key": "text/strSystem#YESNOMESSAGE_DIFFICULTCHANGE", "es": "Si bajas la dificultad, no podrás restablecerla\nen esta partida guardada hasta que completes el juego. ¿Te parece bien?"}
+{"key": "text/strSystem#YESNOMESSAGE_TIMEATKCANTDIFCHANGE", "es": "No se puede cambiar la dificultad durante la Contrarreloj."}
+{"key": "text/strSystem#MSG_CREATE_ACCESSORY", "es": " se fabricará. ¿Continuar?"}
+{"key": "text/strSystem#MSG_CREATE_MAGICITEM", "es": " se reforzará. ¿Continuar?"}
+{"key": "text/strSystem#MSG_CREATE_DRAG", "es": " se sintetizará. ¿Continuar?"}
+{"key": "text/strSystem#MSG_CREATE_REFINE", "es": " se refinará. ¿Continuar?"}
+{"key": "text/strSystem#MSG_CREATE_EXCHANGE", "es": " se intercambiará. ¿Continuar?"}
+{"key": "text/strSystem#MSG_QUEST_REGION_CASNAN", "es": "▼Casnan"}
+{"key": "text/strSystem#MSG_QUEST_REGION_COMODO", "es": "▼Comodo"}
+{"key": "text/strSystem#MSG_QUEST_REGION_SELRAY", "es": "▼Selray"}
+{"key": "text/strSystem#MSG_QUEST_REGION_HIGHLAND", "es": "▼Highland"}
+{"key": "text/strSystem#MSG_QUEST_REGION_DANAN", "es": "▼Danan"}
+{"key": "text/strSystem#MSG_QUEST_REGION_ELDUKE", "es": "▼Elduke"}
+{"key": "text/strSystem#MSG_QUEST_REGION_OTHERS", "es": "▼Otras"}
+{"key": "text/strSystem#MSG_SAIKYOSOUBI", "es": "Se preparó el mejor equipo disponible."}
+{"key": "text/strSystem#MSG_EXIT_MENU_ANNOUNCE", "es": "¿Seguro que quieres cerrar el menú?"}
+{"key": "text/strSystem#MSG_ANOTHER_SAVE_RECOMMEND", "es": "#4CSi avanzas más, no podrás volver atrás.\nSi quieres guardar, se recomienda usar una ranura nueva."}
+{"key": "text/strSystem#MSG_NOHAVE_ITEM", "es": "No tienes ningún objeto."}
+{"key": "text/strSystem#MSG_NOHAVE_SKILL", "es": "No tienes ninguna habilidad."}
+{"key": "text/strSystem#MSG_REMOVE_EQUIP", "es": "Se quitará este objeto."}
+{"key": "text/strSystem#MSG_REMOVE_SKILL", "es": "Se quitará esta habilidad."}
+{"key": "text/strSystem#MSG_CURRENTLY_EQUIPPPED", "es": "Equipado."}
+{"key": "text/strSystem#MSG_CANT_EQUIP", "es": "No se puede equipar."}
+{"key": "text/strSystem#MSG_STOP_BUY_CANT_CARRY", "es": "No puedes llevar más de esto."}
+{"key": "text/strSystem#MSG_BUY_ITEMS", "es": "¿Comprar %s × %d por %d G?"}
+{"key": "text/strSystem#MSG_BUY_ITEM", "es": "¿Comprar %s por %d G?"}
+{"key": "text/strSystem#MSG_SELL_ITEMS", "es": "¿Vender %s × %d por %d G?"}
+{"key": "text/strSystem#MSG_SELL_ITEM", "es": "¿Vender %s por %d G?"}
+{"key": "text/strSystem#MSG_ENOUGH_MATERIAL", "es": "No tienes suficientes materiales."}
+{"key": "text/strSystem#MSG_CANT_CARRY", "es": "No puedes llevar más de esto."}
+{"key": "text/strSystem#MSG_ENOUGH_GOLD", "es": "No tienes suficientes monedas."}
+{"key": "text/strSystem#MSG_TEMPERCONFIRMMSG", "es": "¿Reforzar %s por %d G?"}
+{"key": "text/strSystem#MSG_USE_EQUIP_AS_MATERIAL", "es": "Si usas %s como material,\nse quitará del equipo. ¿Seguro? "}
+{"key": "text/strSystem#MSG_NOITEM", "es": "No tienes ningún objeto."}
+{"key": "text/strSystem#MSG_KEYITEM", "es": "Objeto clave"}
+{"key": "text/strSystem#MSG_UNRECALLED_MEMORY", "es": "#944cRecuerdo sin recuperar"}
+{"key": "text/strSystem#MSG_RECALL_MEMORY", "es": "¿Recuperar el recuerdo\n'%s'?"}
+{"key": "text/strSystem#MSG_CHALLENGE", "es": "¿Desafiar %s?"}
+{"key": "text/strSystem#STR_EMPTY", "es": "Está vacío."}
+{"key": "text/strSystem#STR_FAR", "es": "No llegas tan lejos."}
+{"key": "text/strSystem#STR_LOCKED", "es": "#4CEstá cerrado."}
+{"key": "text/strSystem#STR_OBTAIN", "es": "#0CObtienes #3C[%d monedas]#0C."}
+{"key": "text/strSystem#STR_GET_ITEM_BUTCANTCARRY", "es": "Contiene #2C[#%dI%s +%d]#0C,\npero no puedes llevar más."}
+{"key": "text/strSystem#STR_GET_ITEM_BUTCANTCARRY_NORMAL", "es": "Contiene #2C[#%dI%s]#0C × %d,\npero no puedes llevar más."}
+{"key": "text/strSystem#STR_GET_ITEM_BUTCANTCARRY_ONE", "es": "Contiene #2C[#%dI%s]#0C × %d,\npero no puedes llevar tanto.\nObtienes #2C[#%dI%s]#0C × %d."}
+{"key": "text/strSystem#STR_GET_ITEM_MANY", "es": "#0CObtienes #2C[#%dI%s]#0C × %d."}
+{"key": "text/strSystem#STR_GET_ITEM_ONE", "es": "#0CObtienes #2C[#%dI%s +%d]#0C."}
+{"key": "text/strSystem#STR_GET_ITEM_NORMAL", "es": "#0CObtienes #2C[#%dI%s]#0C."}
+{"key": "text/strSystem#STR_USE_ITEM", "es": "#4CUsas #2C[%s]#4C."}
+{"key": "text/strSystem#STR_USE_ITEM2", "es": "%s usa #%dI%s."}
+{"key": "text/strSystem#STR_LOG_NOT_ENOUGH_SPACE", "es": "¡No hay espacio suficiente para volver a la normalidad!"}
+{"key": "text/strSystem#STR_GAIN_LVUP", "es": "¡%s ha subido de nivel!"}
+{"key": "text/strSystem#STR_GET_SKILL", "es": "¡Habilidad aprendida!"}
+{"key": "text/strSystem#STR_SKILLLV_UP", "es": "¡Habilidad mejorada!"}
+{"key": "text/strSystem#STR_DEBRIS_GET", "es": "¡Obtienes!#%dI%s"}
+{"key": "text/strSystem#STR_LEVEL_UP", "es": "#1C%s#0C #4C¡SUBIDA DE NIVEL!#0C\n#4CNv aumenta a %d#0C."}
+{"key": "text/strSystem#STR_ANNOUNCE_SKILL_LEARNED", "es": " #4C¡se aprendió!#0C"}
+{"key": "text/strSystem#STR_ANNOUNCE_SKILL_LEVELUP", "es": " #4CNv "}
+{"key": "text/strSystem#STR_ANNOUNCE_SKILL_MASTER", "es": " #4C¡se dominó!#0C"}
+{"key": "text/strSystem#STR_ANNOUNCE_SKILL_LEARNED_PRE", "es": "¡HABILIDAD NUEVA!"}
+{"key": "text/strSystem#STR_ANNOUNCE_SKILL_LEVELUP_PRE", "es": "¡HABILIDAD MEJORADA!"}
+{"key": "text/strSystem#STR_ANNOUNCE_SKILL_MASTER_PRE", "es": "¡HABILIDAD MEJORADA!"}
+{"key": "text/strSystem#STR_ICONHELP_TALK", "es": "#-4X#-2Y#%dA: Hablar"}
+{"key": "text/strSystem#STR_ICONHELP_INSPECT", "es": "#-4X#-2Y#%dA: Examinar"}
+{"key": "text/strSystem#STR_ICONHELP_DIVE", "es": "#-4X#-2Y#%dA: Bucear    "}
+{"key": "text/strSystem#STR_ICONHELP_SURFACE", "es": "#-4X#-2Y#%dA: Emerger"}
+{"key": "text/strSystem#STR_ICONHELP_PICKLOCK", "es": "#-4X#-2Y#%dA: Forzar cerradura"}
+{"key": "text/strSystem#STR_ICONHELP_ACTION_WITH_NAME", "es": "#-4X#-2Y#%dA: %s"}
+{"key": "text/strSystem#STR_ICONHELP_FINISH_BLOW", "es": "#-4X#-2Y#%dA：Golpe de gracia"}
+{"key": "text/strSystem#STR_MENU_CONFIG_KEYRESET_CONFIRM", "es": "Se restablecerán los ajustes del control y del teclado.\n¿Te parece bien?"}
+{"key": "text/strSystem#STR_MENU_CONFIG_KEYRESET", "es": "Se restablecieron los ajustes de botones."}
+{"key": "text/strSystem#STR_HELP_EQUIPMENT_SKILL", "es": "Cambia el equipo y las habilidades."}
+{"key": "text/strSystem#STR_HELP_EQUIP_RELEASE", "es": "Quita el equipo."}
+{"key": "text/strSystem#STR_HELP_SKILL_RELEASE", "es": "Se quitarán tus habilidades."}
+{"key": "text/strSystem#STR_HELP_PARTY_RELEASE", "es": "Cambia a los miembros del grupo."}
+{"key": "text/strSystem#STR_HELP_VIEW_INVENTORY_ITEMS", "es": "Mira y descarta objetos del inventario."}
+{"key": "text/strSystem#STR_HELP_ALTER_GAME_SETTINGS", "es": "Modifica los ajustes del juego."}
+{"key": "text/strSystem#STR_HELP_OPT_CAMERA", "es": "Modifica los ajustes de la cámara."}
+{"key": "text/strSystem#STR_HELP_OPT_AI", "es": "Cambia las acciones de un personaje aliado."}
+{"key": "text/strSystem#STR_HELP_OPT_MINIMAP", "es": "Modifica los ajustes del minimapa."}
+{"key": "text/strSystem#STR_HELP_OPT_DROPITEM_DISP", "es": "Cambia cómo se muestran los objetos que sueltan los monstruos."}
+{"key": "text/strSystem#STR_HELP_OPT_VOICE", "es": "Modifica los ajustes de voz."}
+{"key": "text/strSystem#STR_HELP_OPT_BGM", "es": "Modifica el volumen de la música."}
+{"key": "text/strSystem#STR_HELP_OPT_SE", "es": "Modifica el volumen de los efectos de sonido."}
+{"key": "text/strSystem#STR_HELP_OPT_RESOLUTION", "es": "Cambia la resolución de pantalla."}
+{"key": "text/strSystem#STR_HELP_OPT_WINDOWMODE", "es": "Alterna entre ventana y pantalla completa."}
+{"key": "text/strSystem#STR_HELP_OPT_VSYNC", "es": "Activa o desactiva la sincronización vertical."}
+{"key": "text/strSystem#STR_HELP_OPT_TEX_QUALITY", "es": "Ajusta la calidad de las texturas de los modelos 3D. (Se aplica al recargar los modelos.)"}
+{"key": "text/strSystem#STR_HELP_OPT_TEX_FILTER", "es": "Ajusta el filtrado de texturas."}
+{"key": "text/strSystem#STR_HELP_OPT_GLOW", "es": "Ajusta el efecto bloom."}
+{"key": "text/strSystem#STR_HELP_OPT_ANTIALIAS", "es": "Ajusta el suavizado de bordes."}
+{"key": "text/strSystem#STR_HELP_OPT_VOICE_LANG", "es": "Se cambiará el idioma de voz elegido."}
+{"key": "text/strSystem#STR_HELP_OPT_FPS", "es": "Ajusta la tasa de cuadros."}
+{"key": "text/strSystem#STR_HELP_OPT_GUARD_EFX", "es": "Ajusta el nivel de detalle visual de la técnica Guardia relámpago."}
+{"key": "text/strSystem#STR_HELP_OPT_SKILLFINISH_EFX", "es": "Activa o desactiva el indicador de Remate de habilidad."}
+{"key": "text/strSystem#STR_HELP_OPT_EXSKILL_TYPE_A", "es": "#11SDetermina el método para activar las habilidades EXTRA.\nTipo A: se activa al presionar el botón de habilidad EXTRA."}
+{"key": "text/strSystem#STR_HELP_OPT_EXSKILL_TYPE_B", "es": "#11SDetermina el método para activar las habilidades EXTRA.\nTipo B: solo se activa al presionar a la vez el Activador de habilidades\ny el botón de habilidad EXTRA."}
+{"key": "text/strSystem#STR_HELP_OPT_FLASHGM_TYPE_A", "es": "#10SPermite hacer una Esquiva relámpago justo después de una Guardia relámpago exitosa,\nacumulando los efectos de ambas maniobras. Ten en cuenta que un \"doble relámpago\"\nexitoso depende mucho del momento del ataque enemigo, así que no siempre funcionará."}
+{"key": "text/strSystem#STR_HELP_OPT_FLASHGM_TYPE_B", "es": "#10SSi se desactiva, una Esquiva relámpago hecha justo después\nde una Guardia relámpago exitosa no tendrá ningún efecto.\nAsí era el diseño original del juego."}
+{"key": "text/strSystem#STR_HELP_OPT_KEYCONFIG", "es": "Cambia los ajustes del teclado y el mouse."}
+{"key": "text/strSystem#STR_HELP_OPT_PADCONFIG", "es": "Cambia los ajustes del control."}
+{"key": "text/strSystem#STR_HELP_OPT_HELPICON_MODE", "es": "Cambia cómo se muestran los iconos de botones."}
+{"key": "text/strSystem#STR_HELP_OPT_TEX_RESOLUTION", "es": "Cambia la resolución de las texturas de los modelos 3D.\n(No se aplica hasta que se recarguen los modelos.)"}
+{"key": "text/strSystem#STR_HELP_OPT_HDR", "es": "Cambia los ajustes de HDR."}
+{"key": "text/strSystem#STR_HELP_OPT_HDR_GAMMA", "es": "Cambia la intensidad del gamma de HDR.\n(Cuanto más alta, más blanca se ve la pantalla.)"}
+{"key": "text/strSystem#STR_HELP_OPT_HDR_GLARE", "es": "Cambia la intensidad del resplandor de HDR.\n(Cuanto más alta, más blancas se ven las zonas blancas.)"}
+{"key": "text/strSystem#STR_HELP_OPT_CHARA_DRAW_DISTANCE", "es": "Cambia la distancia de dibujado de los modelos de personajes.\n(Cuanto mayor sea, desde más lejos verás a los PNJ.)"}
+{"key": "text/strSystem#STR_HELP_OPT_SHADOWRESOLUTION", "es": "Cambia la resolución de las sombras."}
+{"key": "text/strSystem#STR_HELP_OPT_SHADOWDISTANCE", "es": "Cambia la distancia desde la que se proyectan las sombras."}
+{"key": "text/strSystem#STR_HELP_OPT_SHADOWCASTER", "es": "Define qué objetos proyectan sombras."}
+{"key": "text/strSystem#STR_HELP_OPT_SOFTSHADOWFILTER", "es": "Cambia los ajustes del filtro de sombras suaves."}
+{"key": "text/strSystem#STR_HELP_OPT_POINTLIGHT", "es": "Cambia los ajustes de las luces puntuales."}
+{"key": "text/strSystem#STR_HELP_OPT_FOOT_SHADOW", "es": "Activa o desactiva las sombras circulares bajo los personajes."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_DIR_UP", "es": "Tecla de cursor \"arriba\"."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_DIR_DOWN", "es": "Tecla de cursor \"abajo\"."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_DIR_LEFT", "es": "Tecla de cursor \"izquierda\"."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_DIR_RIGHT", "es": "Tecla de cursor \"derecha\"."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_ENTER", "es": "Botón de acción principal/aceptar."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_BACK", "es": "Botón de cancelar."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_PAGE_LEFT", "es": "Pestaña izquierda."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_PAGE_RIGHT", "es": "Pestaña derecha."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_ZOOM_IN", "es": "Acerca la cámara."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_ZOOM_OUT", "es": "Aleja la cámara."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_ATK", "es": "Botón de ataque."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_AVOID", "es": "Botón de esquivar/rodar."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_CHANGE", "es": "Botón para cambiar de personaje activo (siguiente)."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_CHANGE_REV", "es": "Botón para cambiar de personaje activo (anterior)."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_COMMAND_ATTACK", "es": "Ordena a la IA priorizar el ataque."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_COMMAND_AVOID", "es": "Ordena a la IA priorizar la evasión."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_GUARD", "es": "Intenta una guardia."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_ACTION", "es": "Activa la acción personal única del personaje."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_SKILL_TRIGGER", "es": "Usa una habilidad presionando este botón + el botón de la habilidad."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_SKILL_TRG_UP", "es": "Usa la habilidad indicada presionando el Activador de habilidades + este botón."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_SKILL_TRG_RIGHT", "es": "Usa la habilidad indicada presionando el Activador de habilidades + este botón."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_SKILL_TRG_DOWN", "es": "Usa la habilidad indicada presionando el Activador de habilidades + este botón."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_SKILL_TRG_LEFT", "es": "Usa la habilidad indicada presionando el Activador de habilidades + este botón."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_UNUSED_BUTTON", "es": "Este botón no se usa."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_WILL_TRIGGER_GUARD", "es": "Este botón activará la Guardia relámpago."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_WILL_TRIGGER_SKILL", "es": "Este botón activará la habilidad indicada."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_ITEMSC", "es": "Abre el menú de objetos."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_EXSKILL", "es": "Activa la habilidad EXTRA."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_CAMP", "es": "Abre el Menú de campamento."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_MINIMAP", "es": "Muestra el minimapa."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_INFORMATION_1", "es": "Primera función de información.\n(Ideal para el botón frontal izquierdo.)"}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_INFORMATION_2", "es": "Segunda función de información.\n(Ideal para el botón frontal superior.)"}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_TOUCH", "es": "\"Toca\" el aviso o botón bajo el cursor del mouse.\n(Solo se puede asignar a botones del mouse.)"}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_WALK", "es": "Mantenlo presionado al moverte para caminar en vez de correr."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_WORLDMAP", "es": "Abre el mapa del mundo completo."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_TARGET_CHANGE", "es": "Selecciona al siguiente enemigo."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_TARGET_CHANGE_REV", "es": "Selecciona al enemigo anterior."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_NOT_CHANGE", "es": "No se puede cambiar este botón."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_SAME_ATTACHED", "es": "\"%s\" y\n\"%s\"\nno se pueden asignar al mismo botón."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_KEY_EXIT", "es": "Salir de la config. de teclado/mouse."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_KEY_DEFAULT", "es": "Restablece la config. de teclado/mouse a sus valores predeterminados."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_PAD_EXIT", "es": "Salir de la config. del control."}
+{"key": "text/strSystem#STR_HELP_OPT_KEY_PAD_DEFAULT", "es": "Restablece la config. del control a sus valores predeterminados."}
+{"key": "text/strSystem#STR_HELP_FILE_MANAGED", "es": "Administra los datos guardados."}
+{"key": "text/strSystem#STR_HELP_FILE_SAVE", "es": "Guardar."}
+{"key": "text/strSystem#STR_HELP_FILE_LOAD", "es": "Cargar."}
+{"key": "text/strSystem#STR_HELP_FILE_DELETE", "es": "Elimina datos guardados."}
+{"key": "text/strSystem#STR_HELP_FILE_RETRY", "es": "Reintenta desde el último monolito tocado."}
+{"key": "text/strSystem#STR_HELP_FILE_TITLE", "es": "Vuelve al menú de título."}
+{"key": "text/strSystem#STR_HELP_TOPIC_MONS", "es": "Info de enemigos"}
+{"key": "text/strSystem#STR_HELP_TOPIC_COMPOSITE", "es": "Info de síntesis"}
+{"key": "text/strSystem#STR_HELP_TOPIC_QUEST", "es": "Info de misiones"}
+{"key": "text/strSystem#STR_HELP_TOPIC_HELP", "es": "Mensajes de ayuda"}
+{"key": "text/strSystem#STR_HELP_EQUIP_VIEW", "es": "Modo de vista"}
+{"key": "text/strSystem#STR_HELP_EQUIP_CHANGE_SKILL", "es": "Cambiar habilidades"}
+{"key": "text/strSystem#STR_HELP_EQUIP_CHANGE_EQUIP", "es": "Cambiar equipo"}
+{"key": "text/strSystem#STR_HELP_EQUIP_DISP_SKILL", "es": "Ver habilidades"}
+{"key": "text/strSystem#STR_HELP_EQUIP_OPTIMIZE_SKILL", "es": "Optimizar equipo"}
+{"key": "text/strSystem#STR_HELP_EQUIP_SWITCH_SKILL", "es": "Cambiar habilidades"}
+{"key": "text/strSystem#STR_HELP_EQUIP_ALLOW_SKILL", "es": "Asignar habilidad"}
+{"key": "text/strSystem#STR_HELP_EQUIP_RELEASE_SKILL", "es": "Quitar habilidad"}
+{"key": "text/strSystem#STR_HELP_PARTY_CHANGE", "es": "Cambiar personajes"}
+{"key": "text/strSystem#STR_HELP_ITEM_DISCARD", "es": "Descartar objeto"}
+{"key": "text/strSystem#STR_HELP_ITEM_TABCHANGE", "es": "Cambiar pestaña"}
+{"key": "text/strSystem#STR_HELP_SHOP_DECIDE", "es": "Confirmar"}
+{"key": "text/strSystem#STR_HELP_SHOP_DISPSKILL", "es": "Ver habilidades"}
+{"key": "text/strSystem#STR_HELP_SHOP_BUY", "es": "Compra el objeto elegido."}
+{"key": "text/strSystem#STR_HELP_SHOP_SELL", "es": "Vende el objeto elegido."}
+{"key": "text/strSystem#STR_HELP_SHOP_MIXING", "es": "Sintetiza el objeto elegido."}
+{"key": "text/strSystem#STR_MENUCOMMON_WEAK_CUTTING", "es": "Tipo corte"}
+{"key": "text/strSystem#STR_MENUCOMMON_WEAK_CRASH", "es": "Tipo impacto"}
+{"key": "text/strSystem#STR_MENUCOMMON_WEAK_SHOOT", "es": "Tipo perforación"}
+{"key": "text/strSystem#STR_MENUCOMMON_QUEST_NOTHING", "es": "Misión no aceptada"}
+{"key": "text/strSystem#STR_MENUCOMMON_QUEST_START", "es": "En curso"}
+{"key": "text/strSystem#STR_MENUCOMMON_QUEST_FALSE", "es": "Vencida"}
+{"key": "text/strSystem#STR_MENUCOMMON_QUEST_STARTFALSE", "es": "Vencida"}
+{"key": "text/strSystem#STR_MENUCOMMON_QUEST_END", "es": "Misión completada"}
+{"key": "text/strSystem#STR_OPT_CAMERA", "es": "Cámara"}
+{"key": "text/strSystem#STR_OPT_AI", "es": "IA aliada"}
 {"key": "text/strSystem#STR_OPT_MINIMAP", "es": "Minimapa"}
+{"key": "text/strSystem#STR_OPT_VOICE", "es": "Voz"}
+{"key": "text/strSystem#STR_OPT_ENEMY_DROP", "es": "Objetos de enemigos"}
+{"key": "text/strSystem#STR_OPT_BGM", "es": "Música"}
+{"key": "text/strSystem#STR_OPT_SE", "es": "Efectos"}
+{"key": "text/strSystem#STR_OPT_KEYCONFIG", "es": "Config. de teclado/mouse"}
+{"key": "text/strSystem#STR_OPT_PADCONFIG", "es": "Config. de control"}
+{"key": "text/strSystem#STR_OPT_HELPICONMODE", "es": "Iconos de botones"}
+{"key": "text/strSystem#STR_OPT_RESOLUTION", "es": "Resolución"}
+{"key": "text/strSystem#STR_OPT_WINDOWMODE", "es": "Modo de ventana"}
+{"key": "text/strSystem#STR_OPT_VSYNC", "es": "VSync"}
+{"key": "text/strSystem#STR_OPT_TEX_QUALITY", "es": "Calidad de texturas"}
+{"key": "text/strSystem#STR_OPT_TEX_FILTER", "es": "Filtrado de texturas"}
+{"key": "text/strSystem#STR_OPT_GLOW", "es": "Bloom"}
+{"key": "text/strSystem#STR_OPT_ANTIALIAS", "es": "Suavizado de bordes"}
+{"key": "text/strSystem#STR_OPT_VOICE_LANG", "es": "Idioma de voz"}
+{"key": "text/strSystem#STR_OPT_FPS", "es": "Tasa de cuadros"}
+{"key": "text/strSystem#STR_OPT_GUARD_EFX", "es": "Detalle de Guardia relámpago"}
+{"key": "text/strSystem#STR_OPT_SKILLFINISH_EFX", "es": "Mostrar Remate de habilidad"}
+{"key": "text/strSystem#STR_OPT_EXSKILL_TYPE", "es": "Activación de habilidad EXTRA"}
+{"key": "text/strSystem#STR_OPT_FLASHGM_TYPE", "es": "Doble relámpago"}
+{"key": "text/strSystem#STR_OPT_FLASHGM_0", "es": "Activar"}
+{"key": "text/strSystem#STR_OPT_FLASHGM_1", "es": "Desactivar"}
+{"key": "text/strSystem#STR_OPT_TEX_RESOLUTION", "es": "Resolución de texturas"}
+{"key": "text/strSystem#STR_OPT_HDR", "es": "HDR"}
+{"key": "text/strSystem#STR_OPT_HDR_GAMMA", "es": "Intensidad del gamma HDR"}
+{"key": "text/strSystem#STR_OPT_HDR_GLARE", "es": "Intensidad del resplandor de HDR"}
+{"key": "text/strSystem#STR_OPT_HDR_GAMMA_0", "es": "Mínima"}
+{"key": "text/strSystem#STR_OPT_HDR_GAMMA_1", "es": "Débil"}
+{"key": "text/strSystem#STR_OPT_HDR_GAMMA_2", "es": "Predeterminada"}
+{"key": "text/strSystem#STR_OPT_HDR_GAMMA_3", "es": "Fuerte"}
+{"key": "text/strSystem#STR_OPT_HDR_GAMMA_4", "es": "Máxima"}
+{"key": "text/strSystem#STR_OPT_HDR_GLARE_0", "es": "Mínima"}
+{"key": "text/strSystem#STR_OPT_HDR_GLARE_1", "es": "Débil"}
+{"key": "text/strSystem#STR_OPT_HDR_GLARE_2", "es": "Predeterminada"}
+{"key": "text/strSystem#STR_OPT_HDR_GLARE_3", "es": "Fuerte"}
+{"key": "text/strSystem#STR_OPT_HDR_GLARE_4", "es": "Máxima"}
+{"key": "text/strSystem#STR_OPT_CHARA_DRAW_DISTANCE", "es": "Dist. de dibujado"}
+{"key": "text/strSystem#STR_OPT_SHADOWRESOLUTION", "es": "Resolución de sombras"}
+{"key": "text/strSystem#STR_OPT_SHADOWDISTANCE", "es": "Distancia de sombras"}
+{"key": "text/strSystem#STR_OPT_SHADOWCASTER", "es": "Objetos con sombra"}
+{"key": "text/strSystem#STR_OPT_SOFTSHADOWFILTER", "es": "Filtro de sombras suaves"}
+{"key": "text/strSystem#STR_OPT_POINTLIGHT", "es": "Luz puntual"}
+{"key": "text/strSystem#STR_OPT_FOOT_SHADOW", "es": "Sombras circulares"}
+{"key": "text/strSystem#STR_OPT_CAMERA_ZOOMIN", "es": "Acercada"}
+{"key": "text/strSystem#STR_OPT_CAMERA_ZOOMOUT", "es": "Alejada"}
+{"key": "text/strSystem#STR_OPT_CAMERA_AUTO", "es": "Automática"}
+{"key": "text/strSystem#STR_OPT_AI_WEAKEST", "es": "Objetivo más débil"}
+{"key": "text/strSystem#STR_OPT_AI_SAME", "es": "Mismo objetivo"}
+{"key": "text/strSystem#STR_OPT_AI_OTHER", "es": "Objetivo distinto"}
+{"key": "text/strSystem#STR_OPT_MINIMAP_ON", "es": "Mostrar"}
+{"key": "text/strSystem#STR_OPT_MINIMAP_OFF", "es": "No mostrar"}
+{"key": "text/strSystem#STR_OPT_VOICE_ON", "es": "Sí"}
+{"key": "text/strSystem#STR_OPT_VOICE_ADOLOFF", "es": "Adol desactivado"}
+{"key": "text/strSystem#STR_OPT_VOICE_OFF", "es": "No"}
+{"key": "text/strSystem#STR_OPT_ENEMY_DROP_ON", "es": "Mostrar"}
+{"key": "text/strSystem#STR_OPT_ENEMY_DROP_OFF", "es": "No mostrar"}
+{"key": "text/strSystem#STR_OPT_RESOLUTION_FORMAT", "es": "%d x %d"}
+{"key": "text/strSystem#STR_OPT_WINDOW_MODE_WIN", "es": "Ventana"}
+{"key": "text/strSystem#STR_OPT_WINDOW_MODE_FULL", "es": "Pantalla completa"}
+{"key": "text/strSystem#STR_OPT_WINDOW_MODE_BORDERLESS", "es": "Sin bordes"}
+{"key": "text/strSystem#STR_OPT_COMMON_OFF", "es": "No"}
+{"key": "text/strSystem#STR_OPT_COMMON_ON", "es": "Sí"}
+{"key": "text/strSystem#STR_OPT_TEX_QUALITY_LOW", "es": "Baja"}
+{"key": "text/strSystem#STR_OPT_TEX_QUALITY_MIDDLE", "es": "Media"}
+{"key": "text/strSystem#STR_OPT_TEX_QUALITY_HIGH", "es": "Alta"}
+{"key": "text/strSystem#STR_OPT_TEX_FILTER_NONE", "es": "Ninguno"}
+{"key": "text/strSystem#STR_OPT_TEX_FILTER_BILINEAR", "es": "Bilineal"}
+{"key": "text/strSystem#STR_OPT_TEX_FILTER_TRILINEAR", "es": "Trilineal"}
+{"key": "text/strSystem#STR_OPT_TEX_FILTER_ANISO_X2", "es": "Anisotrópico x2"}
+{"key": "text/strSystem#STR_OPT_TEX_FILTER_ANISO_X4", "es": "Anisotrópico x4"}
+{"key": "text/strSystem#STR_OPT_TEX_FILTER_ANISO_X8", "es": "Anisotrópico x8"}
+{"key": "text/strSystem#STR_OPT_TEX_FILTER_ANISO_X16", "es": "Anisotrópico x16"}
+{"key": "text/strSystem#STR_OPT_GLOW_NONE", "es": "No"}
+{"key": "text/strSystem#STR_OPT_GLOW_LOW", "es": "Baja"}
+{"key": "text/strSystem#STR_OPT_GLOW_MID", "es": "Media"}
+{"key": "text/strSystem#STR_OPT_GLOW_HIGH", "es": "Alta"}
+{"key": "text/strSystem#STR_OPT_ANTIALIAS_NONE", "es": "Ninguno"}
+{"key": "text/strSystem#STR_OPT_ANTIALIAS_MSAA_x2", "es": "MSAAx2"}
+{"key": "text/strSystem#STR_OPT_ANTIALIAS_MSAA_x4", "es": "MSAAx4"}
+{"key": "text/strSystem#STR_OPT_ANTIALIAS_MSAA_x8", "es": "MSAAx8"}
+{"key": "text/strSystem#STR_OPT_ANTIALIAS_SSAA_x4", "es": "SSAAx4"}
+{"key": "text/strSystem#STR_OPT_ANTIALIAS_FXAA_X2", "es": "FXAA bajo"}
+{"key": "text/strSystem#STR_OPT_ANTIALIAS_FXAA_X4", "es": "FXAA medio"}
+{"key": "text/strSystem#STR_OPT_ANTIALIAS_FXAA_X8", "es": "FXAA alto"}
+{"key": "text/strSystem#STR_OPT_VOICE_LANG_JA", "es": "Japonés"}
+{"key": "text/strSystem#STR_OPT_VOICE_LANG_EN", "es": "Inglés"}
+{"key": "text/strSystem#STR_OPT_FPS_Unlimited", "es": "Sin límite"}
+{"key": "text/strSystem#STR_OPT_GUARD_EFX_LOW", "es": "Baja"}
+{"key": "text/strSystem#STR_OPT_GUARD_EFX_MIDDLE", "es": "Media"}
+{"key": "text/strSystem#STR_OPT_GUARD_EFX_HIGH", "es": "Alta"}
+{"key": "text/strSystem#STR_OPT_HELPICON_MODE_XBOX", "es": "Xbox"}
+{"key": "text/strSystem#STR_OPT_HELPICON_MODE_PS", "es": "DualShock"}
+{"key": "text/strSystem#STR_OPT_HELPICON_MODE_KEYBOARD", "es": "Teclado"}
+{"key": "text/strSystem#STR_OPT_HELPICON_MODE_BUTTONNO", "es": "PC clásico"}
+{"key": "text/strSystem#STR_OPT_TEXTURE_RESOLUTION_DEFAULT", "es": "Predeterminada"}
+{"key": "text/strSystem#STR_OPT_TEXTURE_RESOLUTION_HALF", "es": "Reducida (1/2)"}
+{"key": "text/strSystem#STR_OPT_TEXTURE_RESOLUTION_QUARTER", "es": "Reducida (1/4)"}
+{"key": "text/strSystem#STR_OPT_SHADOW_RESOLUTION_LOW", "es": "Baja"}
+{"key": "text/strSystem#STR_OPT_SHADOW_RESOLUTION_MID", "es": "Media"}
+{"key": "text/strSystem#STR_OPT_SHADOW_RESOLUTION_HIGH", "es": "Alta"}
+{"key": "text/strSystem#STR_OPT_SHADOW_RESOLUTION_ULTRA", "es": "Máxima"}
+{"key": "text/strSystem#STR_OPT_SHADOW_DISTANCE_SHORTEST", "es": "Más corta"}
+{"key": "text/strSystem#STR_OPT_SHADOW_DISTANCE_SHORT", "es": "Corta"}
+{"key": "text/strSystem#STR_OPT_SHADOW_DISTANCE_DEFAULT", "es": "Predeterminada"}
+{"key": "text/strSystem#STR_OPT_SHADOW_DISTANCE_LONGEST", "es": "Más larga"}
+{"key": "text/strSystem#STR_OPT_SHADOW_CASTER_NONE", "es": "Ninguno"}
+{"key": "text/strSystem#STR_OPT_SHADOW_CASTER_DEFAULT", "es": "Predeterminada"}
+{"key": "text/strSystem#STR_OPT_SHADOW_CASTER_ALL", "es": "Todos"}
+{"key": "text/strSystem#STR_OPT_CHARA_DRAW_DISTANCE_SHORT", "es": "Corta"}
+{"key": "text/strSystem#STR_OPT_CHARA_DRAW_DISTANCE_DEFAULT", "es": "Predeterminada"}
+{"key": "text/strSystem#STR_OPT_CHARA_DRAW_DISTANCE_LONG", "es": "Larga"}
+{"key": "text/strSystem#STR_OPT_CHARA_DRAW_DISTANCE_UNLIMIT", "es": "Sin límite"}
+{"key": "text/strSystem#STR_OPT_EXSKILL_TYPE_A", "es": "Tipo A"}
+{"key": "text/strSystem#STR_OPT_EXSKILL_TYPE_B", "es": "Tipo B"}
+{"key": "text/strSystem#STR_OPT_KEY_DIR_UP", "es": "Arriba"}
+{"key": "text/strSystem#STR_OPT_KEY_DIR_DOWN", "es": "Abajo"}
+{"key": "text/strSystem#STR_OPT_KEY_DIR_LEFT", "es": "Izquierda"}
+{"key": "text/strSystem#STR_OPT_KEY_DIR_RIGHT", "es": "Derecha"}
+{"key": "text/strSystem#STR_OPT_KEY_ENTER", "es": "Aceptar"}
+{"key": "text/strSystem#STR_OPT_KEY_BACK", "es": "Cancelar"}
+{"key": "text/strSystem#STR_OPT_KEY_PAGE_LEFT", "es": "Pestaña izquierda"}
+{"key": "text/strSystem#STR_OPT_KEY_PAGE_RIGHT", "es": "Pestaña derecha"}
+{"key": "text/strSystem#STR_OPT_KEY_ZOOM_IN", "es": "Acercar"}
+{"key": "text/strSystem#STR_OPT_KEY_ZOOM_OUT", "es": "Alejar"}
+{"key": "text/strSystem#STR_OPT_KEY_ATK", "es": "Atacar"}
+{"key": "text/strSystem#STR_OPT_KEY_AVOID", "es": "Esquivar/Rodar"}
+{"key": "text/strSystem#STR_OPT_KEY_CHANGE", "es": "Cambiar"}
+{"key": "text/strSystem#STR_OPT_KEY_CHANGE_REV", "es": "Cambiar atrás"}
+{"key": "text/strSystem#STR_OPT_KEY_COMMAND_ATTACK", "es": "Prioridad: ataque"}
+{"key": "text/strSystem#STR_OPT_KEY_COMMAND_AVOID", "es": "Prioridad: evasión"}
+{"key": "text/strSystem#STR_OPT_KEY_GUARD", "es": "Guardia"}
+{"key": "text/strSystem#STR_OPT_KEY_ACTION", "es": "Acción personal"}
+{"key": "text/strSystem#STR_OPT_KEY_SKILL_TRIGGER", "es": "Activador de habilidades"}
+{"key": "text/strSystem#STR_OPT_KEY_SKILL_TRG_RIGHT", "es": "Habilidad (derecha)"}
+{"key": "text/strSystem#STR_OPT_KEY_SKILL_TRG_DOWN", "es": "Habilidad (abajo)"}
+{"key": "text/strSystem#STR_OPT_KEY_SKILL_TRG_LEFT", "es": "Habilidad (izquierda)"}
+{"key": "text/strSystem#STR_OPT_KEY_SKILL_TRG_UP", "es": "Habilidad (arriba)"}
+{"key": "text/strSystem#STR_OPT_KEY_ITEMSC", "es": "Menú de objetos"}
+{"key": "text/strSystem#STR_OPT_KEY_EXSKILL", "es": "Habilidad EXTRA"}
+{"key": "text/strSystem#STR_OPT_KEY_CAMP", "es": "Menú de campamento"}
 {"key": "text/strSystem#STR_OPT_KEY_MINIMAP", "es": "Minimapa"}
+{"key": "text/strSystem#STR_OPT_KEY_INFORMATION_1", "es": "Alternar info 1"}
+{"key": "text/strSystem#STR_OPT_KEY_INFORMATION_2", "es": "Alternar info 2"}
+{"key": "text/strSystem#STR_OPT_KEY_TOUCH", "es": "Función táctil"}
+{"key": "text/strSystem#STR_OPT_KEY_WORLDMAP", "es": "Mapa completo"}
+{"key": "text/strSystem#STR_OPT_KEY_TARGET_CHANGE", "es": "Siguiente objetivo"}
+{"key": "text/strSystem#STR_OPT_KEY_TARGET_CHANGE_REV", "es": "Objetivo anterior"}
+{"key": "text/strSystem#STR_OPT_KEY_WALK", "es": "Caminar"}
+{"key": "text/strSystem#STR_OPT_KEY_DEFAULT", "es": "Restablecer predeterminados"}
+{"key": "text/strSystem#STR_OPT_KEY_EXIT", "es": "Salir"}
+{"key": "text/strSystem#STR_FILE_SAVE", "es": "Guardar"}
+{"key": "text/strSystem#STR_FILE_LOAD", "es": "Cargar"}
+{"key": "text/strSystem#STR_FILE_ERASE", "es": "Eliminar"}
+{"key": "text/strSystem#STR_FILE_RETRY", "es": "Reintentar"}
+{"key": "text/strSystem#STR_FILE_TITLE", "es": "Título"}
+{"key": "text/strSystem#STR_FILE_DELETE_CONFIRM", "es": "¿Seguro que quieres eliminar esto?"}
+{"key": "text/strSystem#STR_SHOP_COMPOSITE_ONHAND", "es": "En inventario:"}
+{"key": "text/strSystem#STR_SHOP_COMPOSITE_EQUIPPED", "es": "Equipado:"}
+{"key": "text/strSystem#STR_SHOP_COMPOSITE_NEEDMAT", "es": "Materiales"}
+{"key": "text/strSystem#STR_SHOP_NO_PURCHASE_ANYMORE", "es": "No puedes comprar más."}
+{"key": "text/strSystem#STR_SHOP_NO_MONEY", "es": "No tienes suficientes monedas."}
+{"key": "text/strSystem#STR_SHOP_PURCHASE_ASK", "es": "Comprar %s por %dM"}
+{"key": "text/strSystem#STR_SHOP_EQUIP_ASK", "es": "¿Equipar %s?"}
+{"key": "text/strSystem#STR_SHOP_PURCHASE_FINISHED", "es": "Compraste %s×%d."}
+{"key": "text/strSystem#STR_SHOP_SOLD_NG", "es": "No se puede vender %s."}
+{"key": "text/strSystem#STR_SHOP_SOLD_FINISHED", "es": "Vendiste %s×%d."}
+{"key": "text/strSystem#STR_SHOP_NO_COMPOSITE_ANYMORE", "es": "No puedes sintetizar más."}
+{"key": "text/strSystem#STR_SHOP_COMPOSITE_ASK", "es": "¿Sintetizar %s?"}
+{"key": "text/strSystem#STR_SHOP_COMPOSITE_FINISHED", "es": "Sintetizaste %s."}
+{"key": "text/strSystem#STR_SHOP_COMPOSITE_NG_MATMONEY", "es": "No tienes suficientes materiales ni monedas."}
+{"key": "text/strSystem#STR_SHOP_COMPOSITE_NG_MAT", "es": "No tienes suficientes materiales."}
+{"key": "text/strSystem#STR_SHOP_COMPOSITE_NG_MONEY", "es": "No tienes suficientes monedas."}
+{"key": "text/strSystem#STR_SHOP_COMPOSITE_EQUIP_ASK", "es": "¿Equipar el objeto sintetizado?"}
+{"key": "text/strSystem#STR_SHOP_EQUIP_NG_CHARA", "es": "No se puede equipar en este personaje."}
+{"key": "text/strSystem#STR_SHOP_EQUIP_INVENTORYFULL", "es": "Inventario lleno. No se puede desequipar."}
+{"key": "text/strSystem#STR_SHOP_EQUIP_FINISHED", "es": "Equipaste %s."}
+{"key": "text/strSystem#STR_SCP_GETITEMMESSAGE", "es": "Obtienes"}
+{"key": "text/strSystem#STR_SCP_GETGOLD", "es": "%s #3C%d monedas"}
+{"key": "text/strSystem#STR_SCP_GETITEM_MANY", "es": "%s #2C#%dI%s×%d"}
+{"key": "text/strSystem#STR_SCP_GETITEM", "es": "%s #2C#%dI%s"}
+{"key": "text/strSystem#STR_SCP_OBTAIN", "es": "Obtienes "}
+{"key": "text/strSystem#STR_SCP_ITEMMSG_MEMORYPOINT", "es": "Punto de recuerdo"}
+{"key": "text/strSystem#STR_SCP_GET_GOLD", "es": "#0C%s#3C[%d monedas]#0C."}
+{"key": "text/strSystem#STR_SCP_GET_MP", "es": "#0CObtienes #2C[%s]#0C × #2C%d puntos."}
+{"key": "text/strSystem#STR_SCP_GET_ITEM", "es": "#0C%s#2C[#%dI%s]#0C × %d."}
+{"key": "text/strSystem#STR_SCP_GET_ITEM2", "es": "#0C%s#2C[#%dI%s]#0C."}
+{"key": "text/strSystem#STR_SCP_PORTAL_MARKER_CONFIRM", "es": "Esto reemplazará el marcador de transporte.\n¿Seguro?"}
+{"key": "text/strSystem#STR_SCP_PORTAL_MARKER_SET", "es": "Marcador de transporte colocado en la posición actual."}
+{"key": "text/strSystem#STR_PAD_NAME_BUTTON", "es": "Botón %d"}
+{"key": "text/strSystem#STR_PAD_NAME_BUTTON_LS_U", "es": "Stick I arriba"}
+{"key": "text/strSystem#STR_PAD_NAME_BUTTON_LS_D", "es": "Stick I abajo"}
+{"key": "text/strSystem#STR_PAD_NAME_BUTTON_LS_L", "es": "Stick I izq."}
+{"key": "text/strSystem#STR_PAD_NAME_BUTTON_LS_R", "es": "Stick I der."}
+{"key": "text/strSystem#STR_PAD_NAME_BUTTON_RS_U", "es": "Stick D arriba"}
+{"key": "text/strSystem#STR_PAD_NAME_BUTTON_RS_D", "es": "Stick D abajo"}
+{"key": "text/strSystem#STR_PAD_NAME_BUTTON_RS_L", "es": "Stick D izq."}
+{"key": "text/strSystem#STR_PAD_NAME_BUTTON_RS_R", "es": "Stick D der."}
+{"key": "text/strSystem#STR_PAD_NAME_BUTTON_LT", "es": "Gatillo izq."}
+{"key": "text/strSystem#STR_PAD_NAME_BUTTON_RT", "es": "Gatillo der."}
+{"key": "text/strSystem#STR_PAD_NAME_MOUSE_WHEEL_UP", "es": "Rueda arriba"}
+{"key": "text/strSystem#STR_PAD_NAME_MOUSE_WHEEL_DOWN", "es": "Rueda abajo"}
+{"key": "text/strSystem#STR_PAD_NAME_MOUSE_BUTTON", "es": "M%d"}
+{"key": "text/strSystem#STR_KEY_NAME_ESCAPE", "es": "Esc"}
+{"key": "text/strSystem#STR_KEY_NAME_BACK", "es": "Retroceso"}
+{"key": "text/strSystem#STR_KEY_NAME_TAB", "es": "Tab"}
+{"key": "text/strSystem#STR_KEY_NAME_Q", "es": "Q"}
+{"key": "text/strSystem#STR_KEY_NAME_W", "es": "W"}
+{"key": "text/strSystem#STR_KEY_NAME_E", "es": "E"}
+{"key": "text/strSystem#STR_KEY_NAME_R", "es": "R"}
+{"key": "text/strSystem#STR_KEY_NAME_T", "es": "T"}
+{"key": "text/strSystem#STR_KEY_NAME_Y", "es": "Y"}
+{"key": "text/strSystem#STR_KEY_NAME_U", "es": "U"}
+{"key": "text/strSystem#STR_KEY_NAME_I", "es": "I"}
+{"key": "text/strSystem#STR_KEY_NAME_O", "es": "O"}
+{"key": "text/strSystem#STR_KEY_NAME_P", "es": "P"}
+{"key": "text/strSystem#STR_KEY_NAME_RETURN", "es": "Enter"}
+{"key": "text/strSystem#STR_KEY_NAME_LCONTROL", "es": "Control izq."}
+{"key": "text/strSystem#STR_KEY_NAME_A", "es": "A"}
+{"key": "text/strSystem#STR_KEY_NAME_S", "es": "S"}
+{"key": "text/strSystem#STR_KEY_NAME_D", "es": "D"}
+{"key": "text/strSystem#STR_KEY_NAME_F", "es": "F"}
+{"key": "text/strSystem#STR_KEY_NAME_G", "es": "G"}
+{"key": "text/strSystem#STR_KEY_NAME_H", "es": "H"}
+{"key": "text/strSystem#STR_KEY_NAME_J", "es": "J"}
+{"key": "text/strSystem#STR_KEY_NAME_K", "es": "K"}
+{"key": "text/strSystem#STR_KEY_NAME_L", "es": "L"}
+{"key": "text/strSystem#STR_KEY_NAME_LSHIFT", "es": "Mayús izq."}
+{"key": "text/strSystem#STR_KEY_NAME_Z", "es": "Z"}
+{"key": "text/strSystem#STR_KEY_NAME_X", "es": "X"}
+{"key": "text/strSystem#STR_KEY_NAME_C", "es": "C"}
+{"key": "text/strSystem#STR_KEY_NAME_V", "es": "V"}
+{"key": "text/strSystem#STR_KEY_NAME_B", "es": "B"}
+{"key": "text/strSystem#STR_KEY_NAME_N", "es": "N"}
+{"key": "text/strSystem#STR_KEY_NAME_M", "es": "M"}
+{"key": "text/strSystem#STR_KEY_NAME_RSHIFT", "es": "Mayús der."}
+{"key": "text/strSystem#STR_KEY_NAME_MULTIPLY", "es": "Num *"}
+{"key": "text/strSystem#STR_KEY_NAME_LMENU", "es": "Alt izq."}
+{"key": "text/strSystem#STR_KEY_NAME_SPACE", "es": "Espacio"}
+{"key": "text/strSystem#STR_KEY_NAME_F1", "es": "F1"}
+{"key": "text/strSystem#STR_KEY_NAME_F2", "es": "F2"}
+{"key": "text/strSystem#STR_KEY_NAME_F3", "es": "F3"}
+{"key": "text/strSystem#STR_KEY_NAME_F4", "es": "F4"}
+{"key": "text/strSystem#STR_KEY_NAME_F5", "es": "F5"}
+{"key": "text/strSystem#STR_KEY_NAME_F6", "es": "F6"}
+{"key": "text/strSystem#STR_KEY_NAME_F7", "es": "F7"}
+{"key": "text/strSystem#STR_KEY_NAME_F8", "es": "F8"}
+{"key": "text/strSystem#STR_KEY_NAME_F9", "es": "F9"}
+{"key": "text/strSystem#STR_KEY_NAME_F10", "es": "F10"}
+{"key": "text/strSystem#STR_KEY_NAME_NUMPAD7", "es": "Num 7"}
+{"key": "text/strSystem#STR_KEY_NAME_NUMPAD8", "es": "Num 8"}
+{"key": "text/strSystem#STR_KEY_NAME_NUMPAD9", "es": "Num 9"}
+{"key": "text/strSystem#STR_KEY_NAME_SUBTRACT", "es": "Num -"}
+{"key": "text/strSystem#STR_KEY_NAME_NUMPAD4", "es": "Num 4"}
+{"key": "text/strSystem#STR_KEY_NAME_NUMPAD5", "es": "Num 5"}
+{"key": "text/strSystem#STR_KEY_NAME_NUMPAD6", "es": "Num 6"}
+{"key": "text/strSystem#STR_KEY_NAME_ADD", "es": "Num +"}
+{"key": "text/strSystem#STR_KEY_NAME_NUMPAD1", "es": "Num 1"}
+{"key": "text/strSystem#STR_KEY_NAME_NUMPAD2", "es": "Num 2"}
+{"key": "text/strSystem#STR_KEY_NAME_NUMPAD3", "es": "Num 3"}
+{"key": "text/strSystem#STR_KEY_NAME_NUMPAD0", "es": "Num 0"}
+{"key": "text/strSystem#STR_KEY_NAME_DECIMAL", "es": "Num ."}
+{"key": "text/strSystem#STR_KEY_NAME_F11", "es": "F11"}
+{"key": "text/strSystem#STR_KEY_NAME_F12", "es": "F12"}
+{"key": "text/strSystem#STR_KEY_NAME_F13", "es": "F13"}
+{"key": "text/strSystem#STR_KEY_NAME_F14", "es": "F14"}
+{"key": "text/strSystem#STR_KEY_NAME_F15", "es": "F15"}
+{"key": "text/strSystem#STR_KEY_NAME_NUMPADENTER", "es": "Enter"}
+{"key": "text/strSystem#STR_KEY_NAME_RCONTROL", "es": "Control der."}
+{"key": "text/strSystem#STR_KEY_NAME_DIVIDE", "es": "Num /"}
+{"key": "text/strSystem#STR_KEY_NAME_RMENU", "es": "Alt der."}
+{"key": "text/strSystem#STR_KEY_NAME_HOME", "es": "Inicio"}
+{"key": "text/strSystem#STR_KEY_NAME_PRIOR", "es": "Re Pág"}
+{"key": "text/strSystem#STR_KEY_NAME_END", "es": "Fin"}
+{"key": "text/strSystem#STR_KEY_NAME_NEXT", "es": "Av Pág"}
+{"key": "text/strSystem#STR_KEY_NAME_INSERT", "es": "Insertar"}
+{"key": "text/strSystem#STR_KEY_NAME_DELETE", "es": "Eliminar"}
+{"key": "text/strSystem#STR_KEY_NAME_CONVERT", "es": "Convertir"}
+{"key": "text/strSystem#STR_KEY_NAME_NOCONVERT", "es": "No convertir"}
