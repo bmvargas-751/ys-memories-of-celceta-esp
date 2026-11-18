@@ -37,8 +37,8 @@ Actualizado: 2026-11-18.
 |---|---:|---:|---:|
 | Interfaz | 994 | 994 | 100,0 % |
 | Objetos, materiales y habilidades | 1.381 | 1.381 | 100,0 % |
-| Bestiario, nombres y PNJ | 1.267 | 141 | 11,1 % |
-| Diario, misiones y recuerdos | 779 | 61 | 7,8 % |
-| Guiones | 14.602 | 241 | 1,7 % |
-| **Total** | **19.023** | **2.818** | **14,8 %** |
+| Bestiario, nombres y PNJ | 1.267 | 1.267 | 100,0 % |
+| Diario, misiones y recuerdos | 779 | 98 | 12,6 % |
+| Guiones | 14.602 | 272 | 1,9 % |
+| **Total** | **19.023** | **4.012** | **21,1 %** |
 <!-- /loc:progress -->
