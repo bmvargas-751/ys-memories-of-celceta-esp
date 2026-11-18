@@ -102,6 +102,7 @@ Aquí no se agrega ninguna regla sin fuente.
   [Encargo §4]
 - **E-41** Si una misma línea la dicen personajes de distinto género, no puede marcar el género de quien habla: *¡Qué cansancio!*, no *Estoy cansado*. [IVA]
 - **E-42** Los nombres que el juego inserta (personaje, objeto, cantidad) van sin artículo ni participios con género, con fórmulas como *Obtienes: X*. [IVA]
+- **E-43** La descripción de un objeto concuerda con el nombre que ve el jugador, no con el tipo de objeto: «Hiperquebrantador» (una maza) → «Refinado en Selray». [usuario, por delegación; DECISIONS 2026-11-18]
 
 ## Gramática y formato
 
