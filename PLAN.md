@@ -8,6 +8,7 @@ Se cierran en la fase 0, porque son caras de cambiar después.
 - **Original:** inglés oficial de la versión de Steam (`lang/en`), para que los subtítulos coincidan con las voces en inglés. [DECISIONS 2026-11-17]
 - **Otra versión de apoyo:** el japonés del mismo juego (`lang/ja`), solo para género, sujeto omitido y trato (E-1). [DECISIONS 2026-11-17]
 - **Terminología oficial:** la traducción oficial al español de *Ys Origin* (G-1). [DECISIONS 2026-11-17]
+- **Tono:** el de *Ys Origin* en español, adaptado a español neutro (E-24). [DECISIONS 2026-11-17]
 - **Pruebas:** la versión de Steam en Windows y en Steam Deck / Linux, con un instalador multiplataforma que arma la traducción con la copia de cada persona. [DECISIONS 2026-11-17]
 - **Sin spoilers:** los documentos, los commits y el chat nombran zonas o archivos, nunca hechos de la historia.
 - **Contenido del repo:** solo la traducción y las herramientas propias; nunca archivos del juego.
@@ -51,7 +52,7 @@ Aparte: terminólogo, perfilador (Opus), delicadas y las pruebas del set de oro.
 
 ### Fase 3. Documentos
 
-- [ ] Glosario: el terminólogo propone las filas.
+- [x] Glosario: el terminólogo propone las filas. (2026-11-17: 38 filas en GLOSSARY.md, 32 oficiales de *Ys Origin* y 6 decididas; 112 términos por decidir en PENDING.md.)
 - [ ] Fichas de personajes: el perfilador, antes de cada sección.
 - [ ] DECISIONS.md y PENDING.md al día.
 
