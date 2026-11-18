@@ -62,12 +62,12 @@ Obligatorio: sin él, `loc.py prepare` no arma lotes.
 
 - [x] Elegir con el usuario los casos reales (al menos uno de cada tipo; mejor dos o tres). (2026-11-18: 17 casos en `golden.jsonl`, dos o tres de cada tipo.)
 - [x] Aprobarlo (`loc.py golden approve`).
-- [ ] Probar a los agentes (`loc.py golden prepare`, traductor, revisor y corrector, `loc.py golden score`) hasta que pase. (2026-11-18: pasó `oro-007`, 17 de 17, tras corregir casos, el chequeo de caja, los saltos fijos de `strSystem` y una línea del prompt del traductor (género).)
+- [x] Probar a los agentes (`loc.py golden prepare`, traductor, revisor y corrector, `loc.py golden score`) hasta que pase. (2026-11-18: pasó `oro-007`, 17 de 17, tras corregir casos, el chequeo de caja, los saltos fijos de `strSystem` y una línea del prompt del traductor (género).)
 
 ### Fase 5. Piloto
 
-- [ ] Un primer lote de cada tipo de texto con el equipo completo.
-- [ ] Ajustar documentos y roles con lo que salga (y volver a pasar el set de oro si cambia un prompt).
+- [x] Un primer lote de cada tipo de texto con el equipo completo. (2026-11-18: 5 lotes de 40 líneas, uno por sección; 200 líneas y 62 copias idénticas, 0 avisos.)
+- [x] Ajustar documentos y roles con lo que salga (y volver a pasar el set de oro si cambia un prompt). (2026-11-18: G-4 para nombres de monstruos, 13 filas nuevas del glosario, marcadores `DIARY_*` excluidos; en el kit, dos falsos positivos del validador. Ningún prompt cambió.)
 
 ### Fase 6. Traducción
 

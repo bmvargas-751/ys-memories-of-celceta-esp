@@ -7,6 +7,7 @@ Términos fijos de la traducción. La guía de estilo está en [STYLE.md](STYLE.
 - **G-1** Si la serie tiene una traducción oficial al español (otro juego, el anime, un manual), los términos que comparte con este juego llevan el nombre oficial. Se toma solo el término; el registro es siempre el de esta traducción (el tono del mundo, según E-24 de STYLE.md). Completar en el PLAN cuál es la fuente oficial, o borrar esta regla si no hay. [IVA]
 - **G-2** Lo propio de este juego se decide aquí. Hasta que esté decidido, el término va a [PENDING.md](PENDING.md) con una propuesta. [IVA]
 - **G-3** Un término de esta tabla se usa igual en todo el juego. `loc.py check` avisa cuando el original lo tiene y la traducción no (`glosario`). [Encargo §6]
+- **G-4** Los nombres de monstruos quedan como en el original (Comolmo, Jellim, Shard), salvo que *Ys Origin* tenga una adaptación oficial (G-1). [usuario, DECISIONS 2026-11-18]
 
 ## Cómo se arma
 
@@ -88,7 +89,7 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Masked Division | División Enmascarada | Decidido (G-2), DECISIONS 2026-11-18 | Unidad militar. |
 | Sparda | sparda | Decidido (G-2), DECISIONS 2026-11-18 | Animal acuático sagrado, en minúscula como especie (como «roo»); plural «spardas». |
 | sacred beasts | bestias sagradas | Decidido (G-2), DECISIONS 2026-11-18 | Así llama el juego a los spardas y otros animales. «Sacred Beast Collar» → «Collar de bestia sagrada»; «Sacred Beasts' Lair» → «Guarida de las Bestias Sagradas». |
-| Fabros | fabros | Decidido (G-2), DECISIONS 2026-11-18 | Animal de granja y enemigo, en minúscula e invariable: «un fabros», «los fabros». «Fabros Milk» → «leche de fabros». |
+| Fabros | fabros | Decidido (G-2), DECISIONS 2026-11-18 | Animal de granja y enemigo, en minúscula e invariable: «un fabros», «los fabros». «Fabros Milk» → «leche de fabros». Como entrada del bestiario (nombre de monstruo), con mayúscula: «Fabros». |
 | Great Forest | Gran Bosque | Decidido (G-2), DECISIONS 2026-11-18 | Lugar principal. «Great Forest of Celceta» → «Gran Bosque de Celceta». |
 | Primeval Lands | Tierras Primigenias | Decidido (G-2), DECISIONS 2026-11-18 | Región. |
 | Ashen Forest | Bosque de Ceniza | Decidido (G-2), DECISIONS 2026-11-18 | Región. «Forest of Ash» es la misma: se unifica [DECISIONS 2026-11-17]. |
@@ -178,3 +179,16 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Mapped | Cartografiado | Decidido (G-2), DECISIONS 2026-11-18 | «Map Completion» → «Mapa completado». |
 | Touch Puzzles | Acertijos táctiles | Decidido (G-2), DECISIONS 2026-11-18 | «Touch» → «Tocar». |
 | Elder | anciano | Decidido (G-2), DECISIONS 2026-11-18 | Vocativo y título de los mayores de un pueblo: «Yes, Elder» → «Sí, anciano»; «Elder Vanjo» → «el anciano Vanjo». |
+| Brass Knuckle | Manopla | Decidido (G-2), DECISIONS 2026-11-18 | Arma (`text/item#21/nombre`). |
+| Long Saber | Sable largo | Decidido (G-2), DECISIONS 2026-11-18 | Arma (`text/item#2/nombre`). |
+| Slasher | Cortador | Decidido (G-2), DECISIONS 2026-11-18 | Arma; «Slasher DX» → «Cortador DX». |
+| Bronze Edge | Filo de bronce | Decidido (G-2), DECISIONS 2026-11-18 | Arma; «Bronze Edge DX» → «Filo de bronce DX». |
+| Claymore | Claymore | Decidido (G-2), DECISIONS 2026-11-18 | Arma, sin traducir. |
+| Soul Biter | Muerdealmas | Decidido (G-2), DECISIONS 2026-11-18 | Arma. |
+| Rune Blade | Hoja rúnica | Decidido (G-2), DECISIONS 2026-11-18 | Arma. |
+| Apocalypse | Apocalipsis | Decidido (G-2), DECISIONS 2026-11-18 | Arma. |
+| Ajax Sword | Espada Ajax | Decidido (G-2), DECISIONS 2026-11-18 | Arma. |
+| Spectacular Heat Sword | Espada ardiente fabulosa | Decidido (G-2), DECISIONS 2026-11-18 | Arma; nombre exagerado a propósito (broma de la misión 304). Su pareja (`text/item#32`) y las líneas de esa misión van con la misma fórmula. |
+| Flame Sword | Espada de fuego | Decidido (G-2), DECISIONS 2026-11-18 | Arma (versión mejorada de la anterior). |
+| Burning | Quemadura | Decidido (G-2), DECISIONS 2026-11-18 | Efecto de arma: «Burning 30%» → «Quemadura 30%», como «Burn». |
+| spirit tree sapling | retoño de árbol espiritual | Decidido (G-2), DECISIONS 2026-11-18 | Punto de descanso del diario. |
