@@ -23,12 +23,13 @@ Se cierran en la fase 0, porque son caras de cambiar después.
 
 Antes de esto no se decide nada más.
 
-- [ ] Extraer los archivos del juego, a una carpeta fuera del repo.
-- [ ] Adaptador: exportar el texto al formato común (`source` de `loc.json`) e importarlo de vuelta.
-- [ ] Ida y vuelta idéntica: exportar e importar sin cambios da los mismos archivos.
-- [ ] Caracteres: si la fuente tiene las letras españolas, o cómo se agregan (T-5).
-- [ ] Límites: bytes, ancho y renglones de cada tipo de texto (T-3, T-4), y sus chequeos en `hooks`.
+- [x] Extraer los archivos del juego, a una carpeta fuera del repo. (`../ys-memories-of-celceta-esp-local/celceta/`, 2026-11-17.)
+- [ ] Adaptador: exportar el texto al formato común (`source` de `loc.json`) e importarlo de vuelta. (Hecho para todo el texto, 19 745 líneas, 2026-11-17; faltan las imágenes con texto.)
+- [x] Ida y vuelta idéntica: exportar e importar sin cambios da los mismos archivos. (`tools/celceta.py roundtrip`, 2026-11-17.)
+- [x] Caracteres: si la fuente tiene las letras españolas, o cómo se agregan (T-5). (No las tiene; `tools/font_es.py` las agrega. Probado en el juego, 2026-11-17.)
+- [ ] Límites: bytes, ancho y renglones de cada tipo de texto (T-3, T-4), y sus chequeos en `hooks`. Los cuadros de diálogo van con reflujo automático, hasta 3 renglones. [DECISIONS 2026-11-17]
 - [ ] Pseudolocalización: todo el texto más largo y con letras españolas, en el juego, para ver cortes y glifos que faltan.
+  - 2026-11-17, guiones: las letras españolas se ven bien (sin cortes arriba) y los cuadros sin retrato caben con un 10–14 % de margen. Falta ver cuadros con retrato, narración centrada y opciones, y todo lo que no son guiones.
 - [ ] Completar TECH.md y `loc.json` (`codes`, `fixed_break`, `excluded`, `sections`).
 
 ### Fase 2. Inventario y presupuesto
