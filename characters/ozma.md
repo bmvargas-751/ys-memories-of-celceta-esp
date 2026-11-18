@@ -1,11 +1,11 @@
 # Ozma
 
 - **Género:** masculino, marcado por el juego: la narración dice «Ozma produced several tools from **his** bag» (contexto de `script/mp3313#EV02_18_Meet_Gadis/148`) y «Ozma felt power surging throughout **his** body» (`script/mp1211#QS108_End/220`); el diario y otros personajes lo nombran con *he/him/his/himself* (`text/diary#GF_03MP3201_2_10_SEARCH_INFO`, `script/mp3201#talk_river/109`, `script/mp3202#EV03_09_Ozma_Again/272`). Sus líneas son solo suyas, no es voz compartida.
-- **Trato (propuesta, falta que la apruebe el usuario):**
+- **Trato (aprobado por el usuario, DECISIONS 2026-11-18):**
   - **Tú** con Adol, Duren, Karna, Calilica, Frieda, Leeza, Vanjo y Remnos, y con la gente de Selray (Cecily, Syriu, Rilche, Zara, Gazock, Rivarl): los llama por su nombre, sin títulos. Con Adol es cortés y distante al principio (`script/mp3202#EV02_09_Meet_Ozma/152`) y cálido después, pero el trato no cambia en todo el juego (E-30); la distancia se marca con el vocabulario, no con *usted*.
   - **Tú** con Gadis (enemigo, le grita).
   - **Usted** con el alcalde Alon (lo llama «Mayor»: `script/mp4203#EV04_35_Come_Griselda/148`) y con Eldeel cuando le habla directamente (siempre lo nombra «Lord Eldeel», como a una deidad; E-24).
-  - **Dudoso:** Lefance (le dice solo «Lefance», sin título, en `script/mp7341#EV10_07_In_Center/93`, aunque en tercera persona dice «King Lefance») y el Gran Roo (Guran), con quien es muy respetuoso (`script/mp6210#EV06_09_Meet_GrandRu/371`). Propongo *usted* con los dos por respeto, pero lo decide el usuario.
+  - **Usted** también con Lefance (le dice solo «Lefance», sin título, en `script/mp7341#EV10_07_In_Center/93`, aunque en tercera persona dice «King Lefance») y el Gran Roo (Guran), con quien es muy respetuoso (`script/mp6210#EV06_09_Meet_GrandRu/371`). Va *usted* con los dos, por respeto.
 - **Registro:** formal, culto y medido. Casi nunca usa contracciones (4 de 667 líneas): *I am*, *I do not*, *cannot*, *It is*. Frases completas, vocabulario elevado (*perilous*, *implausible*, *arbiters of our own destinies*, *befouled*, *for naught*) y tono de razonamiento: evalúa pruebas, probabilidades e hipótesis (*circumstantial*, *high probability*, *the most plausible course of events*). Es cortés y se disculpa y agradece mucho. En español: formal pero natural, sin sonar a texto traducido (E-21); nada de coloquialismos.
 - **Muletillas y tics:**
   - *Indeed.*, *I see...*, *Hmm...*, *Naturally,*, *I concur.*, *I agree.*

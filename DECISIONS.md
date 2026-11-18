@@ -25,3 +25,4 @@ Lo que el usuario decidió, con fecha, para no volver a discutirlo. Una regla de
 - **2026-11-18** Lugares: se aprueban las 32 propuestas del terminólogo tal cual (también valen para las imágenes de nombre de zona).
 - **2026-11-18** Objetos y materiales: se aprueban las 22 propuestas del terminólogo tal cual.
 - **2026-11-18** Mecánicas e interfaz: se aprueban las 30 propuestas del terminólogo, con «PAR» (no «PARÁ») para la parálisis en la ficha de equipo.
+- **2026-11-18** Fichas de Duren, Karna y Ozma: se aprueban género y trato. Duren: *tú* con todos, también con autoridades. Karna: *tú* con todos, también con su padre («padre» como vocativo). Ozma: *tú* con el grupo; *usted* con el alcalde Alon, Eldeel, Lefance y el Gran Roo.
