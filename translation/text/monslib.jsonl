@@ -38,19 +38,301 @@
 {"key": "text/monslib#E0202/nombre", "es": "Gazapo"}
 {"key": "text/monslib#E0202/descripcion", "es": "Un cangrejo que se adaptó a la vida en tierra firme. Su caparazón es tan duro que casi no recibe daño mientras está erguido."}
 {"key": "text/monslib#E0100/nombre", "es": "Floura"}
+{"key": "text/monslib#E0100/descripcion", "es": "Planta antigua con patas como las de un insecto. Almacena como sustento las sustancias tóxicas que extrae del suelo."}
+{"key": "text/monslib#E0153/nombre", "es": "Rushiarbo"}
+{"key": "text/monslib#E0153/descripcion", "es": "Un escarabajo de aspecto siniestro. Atrae a sus enemigos con su larga lengua y luego los atraviesa una y otra vez con sus patas como espinas."}
+{"key": "text/monslib#E0162/nombre", "es": "Barazowalla"}
+{"key": "text/monslib#E0162/descripcion", "es": "Planta propia del Gran Bosque que crece en lugares oscuros. Lanza una nube de polen capaz de causar parálisis."}
+{"key": "text/monslib#E0114/nombre", "es": "Bozuonga"}
+{"key": "text/monslib#E0114/descripcion", "es": "Líder de un grupo de primates. Blande su hacha con una fuerza increíble y puede invocar secuaces con su poderoso rugido."}
+{"key": "text/monslib#E0108/nombre", "es": "Rangoa"}
+{"key": "text/monslib#E0108/descripcion", "es": "Jabalí salvaje sumamente poderoso. Su rostro está cubierto por un exoesqueleto similar a una armadura, que reduce el daño que recibe al chocar con sus enemigos."}
+{"key": "text/monslib#E0160/nombre", "es": "Golwonga"}
+{"key": "text/monslib#E0160/descripcion", "es": "Rey de los monos. Duerme en lo más profundo del bosque. Maneja su espada con un poder superior al de cualquier otra bestia y destruye a todo el que se cruce en su camino."}
+{"key": "text/monslib#E0950/nombre", "es": "Pikkard Dorado"}
+{"key": "text/monslib#E0950/descripcion", "es": "Un pikkard resplandeciente extremadamente raro. Casi nunca se lo ve, y deja caer una gran cantidad de monedas al ser derrotado."}
+{"key": "text/monslib#B058/nombre", "es": "Foria-Daros"}
+{"key": "text/monslib#B058/descripcion", "es": "Una bestia sagrada que vive en lo más profundo del Gran Bosque desde tiempos antiguos y lo gobierna. Cultiva incontables formas de vida con su inmenso poder."}
+{"key": "text/monslib#AREA/nombre~4", "es": "Cueva de Jade"}
+{"key": "text/monslib#E4902/nombre", "es": "Labadi"}
+{"key": "text/monslib#E4902/descripcion", "es": "Un murciélago pequeño que se mueve en enjambres. Inmoviliza a sus enemigos con ondas ultrasónicas siniestras antes de atacar desde arriba."}
+{"key": "text/monslib#E5060/nombre", "es": "Vesbiwar"}
+{"key": "text/monslib#E5060/descripcion", "es": "Una araña gigante que se ha multiplicado en lo profundo de la cueva. En grupo, escupen seda pegajosa para capturar a su presa y la devoran hasta dejar solo los huesos."}
+{"key": "text/monslib#E5061/nombre", "es": "Vesbilzon"}
+{"key": "text/monslib#E5061/descripcion", "es": "Una araña gigante de un rojo carmesí intenso que se reproduce a un ritmo alarmante. Captura a su presa con una telaraña ácida y pegajosa y la devora en grupo."}
 {"key": "text/monslib#AREA/nombre~5", "es": "Cueva de la Cascada"}
+{"key": "text/monslib#E0211/nombre", "es": "Ribbi-Magus"}
+{"key": "text/monslib#E0211/descripcion", "es": "Antes era un Ribbi de alto rango, pero fue desterrado al descubrirse que tramaba una rebelión. Ahora busca un lugar donde descansar con sus subordinados."}
+{"key": "text/monslib#AREA/nombre~6", "es": "Comodo"}
 {"key": "text/monslib#B950/nombre", "es": "Duren"}
+{"key": "text/monslib#B950/descripcion", "es": "Un hombre corpulento que explora el Gran Bosque junto a Adol. Comerciante de información, posee una amplia variedad de conocimientos, además de habilidad en las artes marciales."}
 {"key": "text/monslib#AREA/nombre~7", "es": "Cráter de Gidona"}
+{"key": "text/monslib#E0103/nombre", "es": "Blaybye"}
+{"key": "text/monslib#E0103/descripcion", "es": "Una abeja feroz originaria de la Madriguera Antigua. Causa un daño letal a sus enemigos con su gran aguijón en forma de cuchillo."}
+{"key": "text/monslib#E0112/nombre", "es": "Selbanther"}
+{"key": "text/monslib#E0112/descripcion", "es": "Una bestia que caza en las llanuras del Gran Bosque. Usa sus patas increíblemente poderosas para saltar sobre su presa y luego la desgarra con sus enormes colmillos."}
 {"key": "text/monslib#AREA/nombre~8", "es": "Madriguera Antigua"}
+{"key": "text/monslib#B051b/nombre", "es": "Guerrero enmascarado"}
+{"key": "text/monslib#B051b/descripcion", "es": "Uno de los cazadores de Comodo. La máscara que lleva despierta su potencial latente y le permite luchar con una fuerza notable."}
+{"key": "text/monslib#E5000/nombre", "es": "Jasraja"}
+{"key": "text/monslib#E5000/descripcion", "es": "Un molusco monstruoso. Libera una electricidad potente desde sus tentáculos cargados y hace que sus enemigos revienten por las costuras."}
+{"key": "text/monslib#E5003/nombre", "es": "Damrahm"}
+{"key": "text/monslib#E5003/descripcion", "es": "Una larva que se arrastra por el suelo. Parece inofensiva, pero si se siente amenazada extiende un cuerno tan largo como su cuerpo para atravesar a sus enemigos."}
+{"key": "text/monslib#E5002/nombre", "es": "Pashringa"}
+{"key": "text/monslib#E5002/descripcion", "es": "Un escarabajo pequeño que habita en madrigueras estrechas. Es la forma evolucionada de un Damrahm y se protege descargando un líquido ácido por la cola."}
+{"key": "text/monslib#E5004/nombre", "es": "Egrege"}
+{"key": "text/monslib#E5004/descripcion", "es": "La forma adulta de Pashringa. Carnívoro y muy agresivo, ataca de inmediato a cualquier humano que entre en su campo de visión."}
+{"key": "text/monslib#E5001/nombre", "es": "Vesbinake"}
+{"key": "text/monslib#E5001/descripcion", "es": "Una araña grande que ocupa la Madriguera Antigua. Crea seda pegajosa dentro de su cuerpo y la rocía sobre sus enemigos para inmovilizarlos."}
 {"key": "text/monslib#AREA/nombre~9", "es": "Cuenca del Río Algon"}
+{"key": "text/monslib#E0203/nombre", "es": "Hourun"}
+{"key": "text/monslib#E0203/descripcion", "es": "Vive cerca del agua y parece llevar un casco. Tiene ojos en la espalda y, al ver a un enemigo, apunta al cuello y dispara incontables agujas."}
+{"key": "text/monslib#E0210/nombre", "es": "Gelog"}
+{"key": "text/monslib#E0210/descripcion", "es": "Una rana que vive junto al río. Juega con sus enemigos con movimientos impredecibles y los atrae con su larga lengua."}
+{"key": "text/monslib#E0209/nombre", "es": "Crocle"}
+{"key": "text/monslib#E0209/descripcion", "es": "Un reptil grande que habita esta zona desde tiempos antiguos. Su mandíbula es lo bastante fuerte para romper el hierro, y ni la armadura más resistente puede detenerla."}
+{"key": "text/monslib#AREA/nombre~10", "es": "Nido de las Bestias Sagradas"}
+{"key": "text/monslib#E5102/nombre", "es": "Bibarmul"}
+{"key": "text/monslib#E5102/descripcion", "es": "Una criatura acuática muy territorial. Aunque es ágil y tiene garras afiladas, también es cobarde y se hace el muerto enseguida."}
+{"key": "text/monslib#E5101/nombre", "es": "Rapshel"}
+{"key": "text/monslib#E5101/descripcion", "es": "Un bivalvo relativamente dócil. Suele quedarse en un lugar y esperar a que se acerque su presa."}
+{"key": "text/monslib#E5103/nombre", "es": "Amnagan"}
+{"key": "text/monslib#E5103/descripcion", "es": "Un crustáceo con garras poderosas y afiladas. Una de las principales razones por las que los pescadores deben fijarse dónde pisan."}
+{"key": "text/monslib#E5100/nombre", "es": "Reppi"}
+{"key": "text/monslib#E5100/descripcion", "es": "Un pez carnívoro que vive en el río. Atraviesa a su presa con sus colmillos afilados. Es especialmente peligroso en el agua, donde su presa tiene los movimientos limitados."}
+{"key": "text/monslib#E5104/nombre", "es": "Pigbulb"}
+{"key": "text/monslib#E5104/descripcion", "es": "Un molusco extraño que se desarrolló cerca del agua. Usa la potente electricidad de sus tentáculos para paralizar a su presa y devorarla después."}
+{"key": "text/monslib#E0205/nombre", "es": "Varchin"}
+{"key": "text/monslib#E0205/descripcion", "es": "Una criatura acuática que explota cuando se le acerca una amenaza, como un acto instintivo (y algo irónico) de \"autoconservación\"."}
+{"key": "text/monslib#E5105/nombre", "es": "Zogrom"}
+{"key": "text/monslib#E5105/descripcion", "es": "Una rana grande, distinguible por sus múltiples ojos, que vive en zonas de mucha humedad. Aplasta a sus enemigos con su cuerpo y con su potente saliva ácida."}
 {"key": "text/monslib#AREA/nombre~11", "es": "Ruinas Subterráneas"}
+{"key": "text/monslib#E5251/nombre", "es": "Ka-Bulb"}
+{"key": "text/monslib#E5251/descripcion", "es": "Una extraña forma de vida de cuerpo blando con poca capacidad de combate e inteligencia."}
+{"key": "text/monslib#E5250/nombre", "es": "Hal-Bulb"}
+{"key": "text/monslib#E5250/descripcion", "es": "Una extraña forma de vida de cuerpo blando con dos tentáculos. Al ser derrotada, se divide en dos Ka-Bulb."}
+{"key": "text/monslib#E5202/nombre", "es": "Bulb"}
+{"key": "text/monslib#E5202/descripcion", "es": "Un conjunto de extrañas formas de vida de cuerpo blando. Ataca con sus cuatro tentáculos y, al ser derrotado, se divide en dos Hal-Bulb."}
+{"key": "text/monslib#E5206/nombre", "es": "Cobira"}
+{"key": "text/monslib#E5206/descripcion", "es": "Bestia que vive desde la antigüedad en las oscuras Ruinas Subterráneas, lo que le ha deteriorado la vista. Se protege atacando con sus garras afiladas."}
+{"key": "text/monslib#E5200/nombre", "es": "Complerra"}
+{"key": "text/monslib#E5200/descripcion", "es": "Parte de una tribu de monstruos con su propia cultura. Combate con distintas armas, como flechas de fuego o cuchillos, según la situación."}
+{"key": "text/monslib#E5203/nombre", "es": "Zorats"}
+{"key": "text/monslib#E5203/descripcion", "es": "Un ratón con la cabeza hinchada de forma antinatural. Ama la oscuridad y ataca con sus dientes a todo lo que se le acerque."}
+{"key": "text/monslib#E5201/nombre", "es": "Guspoun"}
+{"key": "text/monslib#E5201/descripcion", "es": "Una planta mutada que se encuentra en lo profundo del subsuelo. Escupe ácido a su alrededor y se alimenta de quienes quedan paralizados por él."}
+{"key": "text/monslib#E5260/nombre", "es": "Compragov"}
+{"key": "text/monslib#E5260/descripcion", "es": "Patriarca de un grupo de monstruos. Ataca con su gran hacha y poderosas explosiones. Planeaba invadir las Tierras Primigenias con sus hordas de subordinados."}
 {"key": "text/monslib#AREA/nombre~12", "es": "Sendero de la Meseta"}
+{"key": "text/monslib#E0000/nombre", "es": "Wonma"}
+{"key": "text/monslib#E0000/descripcion", "es": "Una especie rara de ave que vive en la meseta. Salta a gran altura y golpea a sus enemigos desde arriba con su pico agrandado, como si fuera un martillo."}
+{"key": "text/monslib#E0051/nombre", "es": "Robutani"}
+{"key": "text/monslib#E0051/descripcion", "es": "Un zorro que empuña un palo toscamente tallado. Caza a su presa con gran agilidad."}
+{"key": "text/monslib#E0050/nombre", "es": "Boltani"}
+{"key": "text/monslib#E0050/descripcion", "es": "Un zorro de una destreza asombrosa. Usa un arco de madera hecho a mano para cazar como si fuera un humano."}
+{"key": "text/monslib#E0005/nombre", "es": "Egriz"}
+{"key": "text/monslib#E0005/descripcion", "es": "Un oso gigante feroz que vive en las Tierras Primigenias. Persigue a su presa con tenacidad y la empala viva con sus colmillos afilados."}
 {"key": "text/monslib#AREA/nombre~13", "es": "Acceso al Santuario"}
+{"key": "text/monslib#E5360/nombre", "es": "Ruzaslape"}
+{"key": "text/monslib#E5360/descripcion", "es": "Un guardián que se alejó de la Torre de la Providencia y olvidó su propósito original. Merodea por el Santuario de las Tormentas y ataca a ciegas."}
 {"key": "text/monslib#AREA/nombre~14", "es": "Torre de la Providencia"}
+{"key": "text/monslib#E5301/nombre", "es": "Rogiong"}
+{"key": "text/monslib#E5301/descripcion", "es": "Uno de los guardianes de la Torre de la Providencia. Se enrolla como una bola y aplasta a sus enemigos pasando sobre ellos a gran velocidad."}
+{"key": "text/monslib#E5304/nombre", "es": "Inslape"}
+{"key": "text/monslib#E5304/descripcion", "es": "Un guardián con forma de caballo y cuerpo de hierro. Fuera de control, usa sus cascos para matar a sus enemigos en lugar de capturarlos, como fue diseñado."}
+{"key": "text/monslib#E5300/nombre", "es": "Zelsitu"}
+{"key": "text/monslib#E5300/descripcion", "es": "Un guardián acorazado que carga un hacha gigante. Fuera de control, considera intrusos a todos los que entran en su campo de visión e intenta eliminarlos."}
+{"key": "text/monslib#E5306/nombre", "es": "Vivuig"}
+{"key": "text/monslib#E5306/descripcion", "es": "Un guardián que se disfraza de cofre del tesoro. Despedaza a quienes, movidos por el deseo, buscan su contenido."}
+{"key": "text/monslib#E5350/nombre", "es": "Le-Vivuig"}
+{"key": "text/monslib#E5350/descripcion", "es": "Un guardián que se disfraza de cofre del tesoro rojo. Hay que contenerse para descubrir su verdadera naturaleza sin correr riesgos."}
+{"key": "text/monslib#E5351/nombre", "es": "Vivuigol"}
+{"key": "text/monslib#E5351/descripcion", "es": "Un guardián encantador que se disfraza de cofre del tesoro de oro resplandeciente. Se dice que seduce a los llenos de codicia y pone a prueba su verdadero valor."}
+{"key": "text/monslib#E5302/nombre", "es": "Gelgrarga"}
+{"key": "text/monslib#E5302/descripcion", "es": "Originalmente era una estatua de piedra que custodiaba la torre. Se teletransporta tras los intrusos e invoca rayos para dejarlos hechos cenizas."}
+{"key": "text/monslib#AREA/nombre~15", "es": "Highland"}
+{"key": "text/monslib#B051/nombre", "es": "Soldado enmascarado"}
+{"key": "text/monslib#B051/descripcion", "es": "Un soldado del Ejército Romuno que obtuvo un poder inhumano al ponerse una máscara misteriosa."}
 {"key": "text/monslib#AREA/nombre~16", "es": "Montaña Mesa"}
+{"key": "text/monslib#E0309/nombre", "es": "Rabee"}
+{"key": "text/monslib#E0309/descripcion", "es": "Un conejo sumamente peligroso con una cola en forma de garra. Su pelaje tiene mechones."}
+{"key": "text/monslib#E0303/nombre", "es": "Brancha"}
+{"key": "text/monslib#E0303/descripcion", "es": "Una araña con una hilera agrandada. Rocía seda ácida y, cuando se enfurece, puede hacer que su hilera se expanda y explote."}
+{"key": "text/monslib#E0308/nombre", "es": "Gemelon"}
+{"key": "text/monslib#E0308/descripcion", "es": "Reptil grande con un cuerno afilado como un hacha. Se mueve despacio, pero su poder es inmenso cuando atrapa a sus enemigos con la lengua y los hace girar."}
 {"key": "text/monslib#AREA/nombre~17", "es": "Bosque Subterráneo"}
+{"key": "text/monslib#E0400/nombre", "es": "Pitol"}
+{"key": "text/monslib#E0400/descripcion", "es": "Un insecto hábil para moverse en entornos oscuros. Aunque sus movimientos son rápidos y sus saltos poderosos, suele terminar tropezando."}
+{"key": "text/monslib#E0402/nombre", "es": "Bonpeet"}
+{"key": "text/monslib#E0402/descripcion", "es": "Monstruo que almacena en su interior gases nocivos de las zonas más profundas del Bosque de Ceniza. Sus ojos son débiles, así que usa ondas ultrasónicas para \"ver\"."}
+{"key": "text/monslib#E0403/nombre", "es": "Rudorian"}
+{"key": "text/monslib#E0403/descripcion", "es": "Un monstruo grotesco con una boca que cubre todo su cuerpo. Muerde y mastica a su presa como si la abrazara con todo el cuerpo."}
+{"key": "text/monslib#E0161/nombre", "es": "Anderaula"}
+{"key": "text/monslib#E0161/descripcion", "es": "Una planta extraña creada como resultado de la magia. Vaga guiada solo por el instinto y expulsa o inyecta un veneno maldito en sus objetivos."}
 {"key": "text/monslib#AREA/nombre~18", "es": "Bosque de Ceniza"}
+{"key": "text/monslib#E0500/nombre", "es": "Grahm"}
+{"key": "text/monslib#E0500/descripcion", "es": "Un monstruo de cuerpo gigante que vive en la tierra contaminada. Se retuerce sobre la superficie y persigue a otras criaturas vivas."}
+{"key": "text/monslib#E0551/nombre", "es": "Benolid"}
+{"key": "text/monslib#E0551/descripcion", "es": "Una criatura extraña nacida en zonas donde los gases tóxicos son especialmente densos. Explota al tocarla y esparce grandes cantidades de toxinas a su alrededor."}
+{"key": "text/monslib#E0550/nombre", "es": "Dizwalla"}
+{"key": "text/monslib#E0550/descripcion", "es": "Planta surgida de una mutación repentina en suelo de mala calidad. Dispara una ráfaga de semillas al detectar una presa y puede escupir gases tóxicos a los enemigos cercanos."}
+{"key": "text/monslib#E0501/nombre", "es": "Vilma"}
+{"key": "text/monslib#E0501/descripcion", "es": "Un monstruo que flota en el aire estancado. Esparce gases tóxicos al detectar a otras criaturas vivas y les causa graves daños corporales."}
+{"key": "text/monslib#E0506/nombre", "es": "Rotoruta"}
+{"key": "text/monslib#E0506/descripcion", "es": "Una tortuga que evolucionó para sobrevivir en el pantano tóxico. Rocía gases tóxicos desde su caparazón y embiste a sus enemigos a gran velocidad."}
+{"key": "text/monslib#E0509/nombre", "es": "Madogra-Slef"}
+{"key": "text/monslib#E0509/descripcion", "es": "Una planta grande nacida en un ecosistema corrompido. Usa semillas y gases venenosos para robar la energía de otras criaturas y prolongar su propia vida."}
+{"key": "text/monslib#E0900/nombre", "es": "Vandaroper"}
+{"key": "text/monslib#E0900/descripcion", "es": "El fantasma de un soldado sin nombre que murió hace cientos de años. Busca el sueño eterno tras un último duelo con un guerrero fuerte."}
+{"key": "text/monslib#AREA/nombre~19", "es": "La Posada de las Ranas"}
+{"key": "text/monslib#E9901/nombre", "es": "Ribbi"}
+{"key": "text/monslib#E9901/descripcion", "es": "Una rana humanoide que vive en una zona del Bosque de Ceniza donde la concentración de gases nocivos es baja. La mayoría son notablemente perezosos."}
 {"key": "text/monslib#AREA/nombre~20", "es": "Bosque de las Esporas"}
+{"key": "text/monslib#E0650/nombre", "es": "Zakaruko"}
+{"key": "text/monslib#E0650/descripcion", "es": "Un escorpión grande nacido en un entorno distorsionado. Su cola en forma de tijera es lo bastante fuerte para cortar hueso sólido."}
+{"key": "text/monslib#E0602/nombre", "es": "Ravaeel"}
+{"key": "text/monslib#E0602/descripcion", "es": "Monstruo infantil envuelto en una fina membrana parecida a un huevo, en la que puede entrar y salir a voluntad. Pasa casi todo el tiempo saltando, pero a veces golpea a sus enemigos con la cabeza."}
+{"key": "text/monslib#E0601/nombre", "es": "Demileel"}
+{"key": "text/monslib#E0601/descripcion", "es": "La forma adulta de Ravaeel. Aunque no tiene ojos, percibe la presencia de su presa y la muerde con su fuerte mandíbula."}
+{"key": "text/monslib#E0600/nombre", "es": "Supofanga"}
+{"key": "text/monslib#E0600/descripcion", "es": "Un monstruo que desarrolló brazos como guadañas. Se mueve de forma cómica mientras apunta a sus enemigos y combate con mucosidad ácida."}
 {"key": "text/monslib#AREA/nombre~21", "es": "Campo de Batalla de Colonia"}
+{"key": "text/monslib#E0752/nombre", "es": "Compleras"}
+{"key": "text/monslib#E0752/descripcion", "es": "Un monstruo humanoide que reside en el Campo de Batalla de Colonia. Dispara flechas de fuego cubiertas con un aceite especial que carboniza el punto de impacto."}
+{"key": "text/monslib#E9903/nombre", "es": "Pogarov"}
+{"key": "text/monslib#E9903/descripcion", "es": "Un híbrido de hombre y bestia que vive en los páramos. Su aliento huele tan mal que una sola bocanada deja inmóvil a cualquier pobre alma."}
+{"key": "text/monslib#E5603/nombre", "es": "Galba-Deule, el Guerrero Abandonado"}
+{"key": "text/monslib#E5603/descripcion", "es": "Un arma viviente creada durante una batalla antigua. Desde entonces está atada a una puerta pesada y ataca a ciegas a todo el que se le acerca."}
+{"key": "text/monslib#AREA/nombre~22", "es": "Afueras de Elduke"}
+{"key": "text/monslib#E0750/nombre", "es": "Wibbye"}
+{"key": "text/monslib#E0750/descripcion", "es": "Una abeja gigante que se dice que reside en esta zona desde la época del Reino Celcetano. Derriba a su presa disparándole agujas contraídas."}
+{"key": "text/monslib#E0751/nombre", "es": "Madagora"}
+{"key": "text/monslib#E0751/descripcion", "es": "Una planta que almacena mucosidad ácida en su interior. El impacto que produce al golpear el suelo causa un efecto de géiser que deja indefensa a su presa."}
+{"key": "text/monslib#AREA/nombre~23", "es": "Monte Vesuvio: Cima nevada"}
+{"key": "text/monslib#E5450/nombre", "es": "Avalatch"}
+{"key": "text/monslib#E5450/descripcion", "es": "Un primate conocido por su pelaje blanco. Merodea por la cima nevada y ataca a todos los que intentan escalar la montaña."}
+{"key": "text/monslib#E5400/nombre", "es": "Grunpe"}
+{"key": "text/monslib#E5400/descripcion", "es": "Un ave con alas que en realidad no le permiten volar. Se desliza por el suelo helado a gran velocidad y mata a su presa con su pico afilado."}
+{"key": "text/monslib#E5452/nombre", "es": "Domlits"}
+{"key": "text/monslib#E5452/descripcion", "es": "Un escarabajo de cuerpo grande y antenas afiladas que le ayudan a sobrevivir al frío extremo. Se entierra a gran velocidad y ataca desde abajo."}
+{"key": "text/monslib#E5453/nombre", "es": "Avabish"}
+{"key": "text/monslib#E5453/descripcion", "es": "Un primate grande que vive en lo profundo de las montañas. Ataca lanzando bolas de nieve desde lugares altos, pero huye cuando un enemigo se acerca."}
+{"key": "text/monslib#E5451/nombre", "es": "Nogriz"}
+{"key": "text/monslib#E5451/descripcion", "es": "Un oso polar grande que habita en el monte Vesuvio. Se dice que usa su aliento helado para congelar a su presa y llevarla a su nido."}
 {"key": "text/monslib#AREA/nombre~24", "es": "Ruinas del Lago Tolmes"}
+{"key": "text/monslib#E5550/nombre", "es": "Merahva"}
+{"key": "text/monslib#E5550/descripcion", "es": "Monstruo semihumano que se ha puesto a vivir en las ruinas desiertas. Sabe pelear a cualquier distancia gracias a su bumerán de acero casero."}
+{"key": "text/monslib#E5500/nombre", "es": "Tolmeus"}
+{"key": "text/monslib#E5500/descripcion", "es": "Bestia grande que vive en torno al lago Tolmes desde tiempos antiguos. Escupe grandes cantidades de agua a quien intente entrar en su territorio."}
+{"key": "text/monslib#E5551/nombre", "es": "Ibolzu"}
+{"key": "text/monslib#E5551/descripcion", "es": "Una rana gigante que crea ácido dentro de su cuerpo. Es dura como una roca y refuerza su defensa cuando siente peligro cerca."}
+{"key": "text/monslib#E5501/nombre", "es": "Sodwar"}
+{"key": "text/monslib#E5501/descripcion", "es": "Un pez alado que, según dicen, vivió alguna vez en el agua. Se lanza en espiral contra sus enemigos y los atraviesa con su pico afilado."}
 {"key": "text/monslib#AREA/nombre~25", "es": "Laboratorio de Artefactos de Colonia"}
+{"key": "text/monslib#E5610/nombre", "es": "Galba-Zera"}
+{"key": "text/monslib#E5610/descripcion", "es": "Arma viviente que fue abandonada durante un experimento en tiempos antiguos. Conserva su deseo instintivo de eliminar a los enemigos en cuanto los ve."}
+{"key": "text/monslib#E5601/nombre", "es": "Pulgart"}
+{"key": "text/monslib#E5601/descripcion", "es": "Se usó en una guerra antigua. Emplea una tecnología avanzada que le permite concentrar y disparar luz. Probablemente sea un subproducto de la creación de armas vivientes."}
+{"key": "text/monslib#E5600/nombre", "es": "Goras"}
+{"key": "text/monslib#E5600/descripcion", "es": "Monstruo que flota por el laboratorio. Se dice que las almas de quienes murieron en combate se convirtieron en Goras y vagan por la zona."}
+{"key": "text/monslib#E5604/nombre", "es": "Denas"}
+{"key": "text/monslib#E5604/descripcion", "es": "Monstruo que se parece a la Parca. Blande una guadaña y busca almas que consumir."}
+{"key": "text/monslib#E5605/nombre", "es": "Godenas"}
+{"key": "text/monslib#E5605/descripcion", "es": "Un monstruo que adquirió su verdadera forma al consumir almas errantes. Maldice cualquier forma de vida que encuentra y luego se la arrebata con su guadaña."}
+{"key": "text/monslib#E5650/nombre", "es": "Pit-Bulb"}
+{"key": "text/monslib#E5650/descripcion", "es": "Monstruo de tipo molusco con cuatro tentáculos en la cabeza, con los que rocía un potente disolvente. Puede fusionarse con otros para formar una criatura más poderosa."}
+{"key": "text/monslib#E5602/nombre", "es": "Uno-Bulb"}
+{"key": "text/monslib#E5602/descripcion", "es": "El resultado de la fusión de varios Pit-Bulb en uno. Esparce un disolvente viscoso por la zona y vaporiza todo tejido vivo al contacto."}
+{"key": "text/monslib#AREA/nombre~26", "es": "Iris, el Mundo de los Registros"}
+{"key": "text/monslib#E5700/nombre", "es": "Toqone"}
+{"key": "text/monslib#E5700/descripcion", "es": "Tiene el rostro de un demonio y representa el lado repulsivo de la humanidad. Pulveriza la cabeza de sus enemigos con su poderosa mandíbula."}
+{"key": "text/monslib#E5701/nombre", "es": "Sonarm"}
+{"key": "text/monslib#E5701/descripcion", "es": "Una criatura extraña con el rostro de una demonia. Escupe un gas de color arcoíris que roba la energía de quienes toca."}
+{"key": "text/monslib#E5750/nombre", "es": "Sidgodde"}
+{"key": "text/monslib#E5750/descripcion", "es": "Un pedestal de bronce con la forma de una mujer con alas. Dispara flechas de luz desde el ojo de su parte inferior para repeler a los intrusos."}
+{"key": "text/monslib#E5702/nombre", "es": "Totoankh"}
+{"key": "text/monslib#E5702/descripcion", "es": "Objeto que se teletransporta por el espacio y patrulla la zona. Dispara balas mágicas controlables para aplastar a sus objetivos."}
+{"key": "text/monslib#E5800/nombre", "es": "Shehazask"}
+{"key": "text/monslib#E5800/descripcion", "es": "Un caballero acorazado con garras en ambas manos. Puede cortar a sus enemigos por la mitad, además de disparar esferas mágicas que comprimen el espacio."}
+{"key": "text/monslib#E5801/nombre", "es": "Vezfes"}
+{"key": "text/monslib#E5801/descripcion", "es": "Una estatua siniestra con tres rostros. Cada uno usa un tipo distinto de magia según el clima de los alrededores."}
+{"key": "text/monslib#E5851/nombre", "es": "Galba-Muva"}
+{"key": "text/monslib#E5851/descripcion", "es": "Imagen virtual de un arma viviente, creada a partir de los registros de una batalla antigua. Dispara pequeñas bombas que cubren la zona de llamas azules."}
+{"key": "text/monslib#E5900/nombre", "es": "Rudogodde"}
+{"key": "text/monslib#E5900/descripcion", "es": "Un pedestal dorado con la forma de una mujer con alas. Dispara orbes de luz para repeler a los intrusos."}
+{"key": "text/monslib#E5950/nombre", "es": "Nel-Vesbye"}
+{"key": "text/monslib#E5950/descripcion", "es": "Una araña gigante creada a partir de los registros del pasado. Captura a su presa con una seda fuerte y pegajosa."}
+{"key": "text/monslib#E5951/nombre", "es": "Nel-Beever"}
+{"key": "text/monslib#E5951/descripcion", "es": "Un monstruo acuático creado a partir de los registros del pasado. Posee garras afiladas que lo hacen especialmente peligroso cuando ataca en grupo."}
+{"key": "text/monslib#E5952/nombre", "es": "Nel-Situ"}
+{"key": "text/monslib#E5952/descripcion", "es": "Un caballero acorazado creado a partir de los registros del pasado. Somete a sus enemigos con rayos de luz de sus ojos y su poderosa hacha."}
+{"key": "text/monslib#E5953/nombre", "es": "Nel-Plera"}
+{"key": "text/monslib#E5953/descripcion", "es": "Un semihumano creado a partir de los registros del pasado. Ataca en grupo con una combinación de flechas y cuchillos."}
+{"key": "text/monslib#E6000/nombre", "es": "Zenoranpa"}
+{"key": "text/monslib#E6000/descripcion", "es": "Soldado acorazado que patrulla el Área Central de Iris. Hace girar una lanza a gran velocidad alrededor de sus pies para repeler a sus enemigos."}
+{"key": "text/monslib#E6001/nombre", "es": "Jadelos"}
+{"key": "text/monslib#E6001/descripcion", "es": "Un jinete acorazado creado por los Registros Akáshicos para su protección. Custodia el Área Central y está regulado por la Máscara del Sol."}
+{"key": "text/monslib#AREA/nombre~27", "es": "Monte Vesuvio: Volcán"}
+{"key": "text/monslib#E7007/nombre", "es": "Hadugora"}
+{"key": "text/monslib#E7007/descripcion", "es": "Una \"sombra\" creada cuando las distorsiones en los Registros Akáshicos empezaron a interferir con el mundo real. Su existencia indica cuánto daño se causó."}
+{"key": "text/monslib#B099/nombre", "es": "Gruda Sombra"}
+{"key": "text/monslib#B099/descripcion", "es": "La voluntad y la tenacidad de Gruda hechas sombra. Busca a ciegas la Máscara del Sol y genera sin cesar más sombras."}
+{"key": "text/monslib#AREA/nombre~28", "es": "JEFE"}
+{"key": "text/monslib#B9002/nombre", "es": "Aldovoss, la Bestia Acorazada Despierta"}
+{"key": "text/monslib#B9002/descripcion", "es": "Un monstruo de caparazón resistente que surgió de lo profundo de la mina. Pulveriza con sus poderosos brazos a quienes se acercan."}
+{"key": "text/monslib#B901/nombre", "es": "Melldrabie, la Avispa Purgatoria"}
+{"key": "text/monslib#B901/descripcion", "es": "Una reina abeja sádica. Blande agujas tan grandes que pueden cavar la tierra, y las usa para acosar y atormentar a los débiles."}
+{"key": "text/monslib#B000/nombre", "es": "Glucarius, la Gran Squilla del Exterminio"}
+{"key": "text/monslib#B000/descripcion", "es": "Rey de los escarabajos y señor de la Madriguera Antigua, duerme en sus profundidades desde la antigüedad. Sus ataques giratorios son tan potentes que dañan hasta las paredes."}
+{"key": "text/monslib#B050/nombre", "es": "Volnake, la Serpiente de los Rápidos"}
+{"key": "text/monslib#B050/descripcion", "es": "Una serpiente gigante que habita en el fondo del lago. Almacena grandes cantidades de agua en su cuerpo y la libera como flechas para abrumar a sus enemigos."}
+{"key": "text/monslib#B001/nombre", "es": "Angoraboras, el Tirano Glotón"}
+{"key": "text/monslib#B001/descripcion", "es": "Un pez grande que es el amo del fondo del río. Usa sus muchos cañones para controlar a sus enemigos y se atiborra de presas con su enorme boca."}
+{"key": "text/monslib#B002/nombre", "es": "Elvaron, el Caballero Azul"}
+{"key": "text/monslib#B002/descripcion", "es": "Un caballero mecánico creado en tiempos antiguos. Despertado de su largo sueño, considera todo lo que se mueve como un objetivo que debe eliminar."}
+{"key": "text/monslib#E5321/nombre", "es": "Zandabal"}
+{"key": "text/monslib#E5321/descripcion", "es": "Un artefacto autónomo con forma de esfera. Se rodea de rayos y persigue a los invasores."}
+{"key": "text/monslib#E5320/nombre", "es": "Litonileah"}
+{"key": "text/monslib#E5320/descripcion", "es": "Un artefacto que suministra energía eléctrica. No tiene capacidad de combate, pero se protege con un campo magnético."}
+{"key": "text/monslib#B003/nombre", "es": "Krell-Emecia, Guardián de las Tormentas"}
+{"key": "text/monslib#B003/descripcion", "es": "Una máquina mágica encargada de proteger la torre. Usa la energía eléctrica que lleva dentro para eliminar a los intrusos."}
+{"key": "text/monslib#B0033/nombre", "es": "Krell-Emecia, Guardián de las Tormentas"}
+{"key": "text/monslib#B0033/descripcion", "es": "La forma final del guardián principal de la torre. El artefacto de su núcleo le suministra enormes cantidades de energía eléctrica."}
+{"key": "text/monslib#B0042/nombre", "es": "Sol-Galba, el Galbalan Blanco"}
+{"key": "text/monslib#B0042/descripcion", "es": "Un Galbalan transmitido a través de la línea familiar de Leeza. Posee un poder tan inmenso que puede cortar el espacio, y las armas convencionales no pueden dañarlo."}
+{"key": "text/monslib#B052/nombre", "es": "Ribbi-Roi, Amo de la Gruta"}
+{"key": "text/monslib#B052/descripcion", "es": "Una rana gigante que ha hecho su hogar en la gruta. A pesar de su arrogancia, descaro y glotonería, se ha ganado la confianza inquebrantable de los demás Ribbi."}
+{"key": "text/monslib#E7002/nombre", "es": "Polestol"}
+{"key": "text/monslib#E7002/descripcion", "es": "Un hongo gigante que ha crecido a un ritmo alarmante por las esporas del aire. Provoca una gran explosión al recibir un impacto."}
+{"key": "text/monslib#B005/nombre", "es": "Mustrum, la Pesadilla Deforme"}
+{"key": "text/monslib#B005/descripcion", "es": "Formado por numerosos monstruos fusionados, y tan repulsivo que uno podría desmayarse con solo mirarlo. Usa a los enemigos derrotados como semillero."}
+{"key": "text/monslib#E7000/nombre", "es": "Mesarabadi"}
+{"key": "text/monslib#E7000/descripcion", "es": "Un murciélago familiar creado con la magia de Bami. Inmoviliza a los enemigos con ondas supersónicas."}
+{"key": "text/monslib#B053/nombre", "es": "Bami, la Maga Encantadora"}
+{"key": "text/monslib#B053/descripcion", "es": "Una maga al servicio de Gruda que aprovechó el poder de un artefacto de máscara para obtener una inmensa capacidad mágica. Usa su magia para incinerar a sus oponentes."}
+{"key": "text/monslib#E7001/nombre", "es": "Dagbanther"}
+{"key": "text/monslib#E7001/descripcion", "es": "Una bestia feroz invocada por Gadis. Sigue órdenes sin cuestionarlas y desgarra la garganta de sus enemigos."}
+{"key": "text/monslib#B054/nombre", "es": "Gadis, el Sádico Domador de Bestias"}
+{"key": "text/monslib#B054/descripcion", "es": "Un domador de bestias que manipula a las criaturas para someterlas. Usó el poder de la máscara para convertirse en la crueldad encarnada y masacra a los débiles con su fuerza bruta."}
+{"key": "text/monslib#B004/nombre", "es": "Sol-Galba, el Galbalan Confundido"}
+{"key": "text/monslib#B004/descripcion", "es": "Un arma viviente transmitida por la línea familiar de Leeza. Fuera de control, busca reducirlo todo a cenizas."}
+{"key": "text/monslib#B006/nombre", "es": "Eldeel, el Dios de las Alas Negras"}
+{"key": "text/monslib#B006/descripcion", "es": "La otra 'persona' que habita en Eldeel. Empuña una larga lanza negra como el azabache y busca ofrecer a la humanidad numerosas pruebas que superar."}
+{"key": "text/monslib#B055/nombre", "es": "Girguzalm, el Coloso de Bronce"}
+{"key": "text/monslib#B055/descripcion", "es": "Antiguo caballero que protege el Área de Bronce. Su gigantesca espada puede cortar cualquier cosa, y despedaza a quienes se acercan hasta que no queda nada."}
+{"key": "text/monslib#B056/nombre", "es": "Zerivutz, el Coloso de Plata"}
+{"key": "text/monslib#B056/descripcion", "es": "Antiguo caballero que protege el Área de Plata. Su núcleo está hecho de magia muy condensada, lo que le permite lanzar hechizos extremadamente poderosos."}
+{"key": "text/monslib#B057/nombre", "es": "Bulaghoul, el Coloso de Oro"}
+{"key": "text/monslib#B057/descripcion", "es": "Antiguo caballero que protege el Área de Oro. Sus puños tienen un poder que va más allá de lo humano, y le permiten pulverizar a todos los intrusos."}
+{"key": "text/monslib#E7003/nombre", "es": "Kut-Shell"}
+{"key": "text/monslib#E7003/descripcion", "es": "Uno de los tres artefactos que forman el campo de fuerza alrededor de los Registros Akáshicos. Tiene una gema carmesí incrustada."}
+{"key": "text/monslib#E7004/nombre", "es": "Blo-Shell"}
+{"key": "text/monslib#E7004/descripcion", "es": "Uno de los tres artefactos que forman el campo de fuerza alrededor de los Registros Akáshicos. Tiene una gema ámbar incrustada."}
+{"key": "text/monslib#E7005/nombre", "es": "Shu-Shell"}
+{"key": "text/monslib#E7005/descripcion", "es": "Uno de los tres artefactos que forman el campo de fuerza alrededor de los Registros Akáshicos. Tiene una gema verde esmeralda incrustada."}
+{"key": "text/monslib#E7009/nombre", "es": "Forberis"}
+{"key": "text/monslib#E7009/descripcion", "es": "Un monolito que contiene una parte de los Registros Akáshicos. Paraliza el cuerpo y la mente de un enemigo al transferirle más información de la que puede manejar."}
+{"key": "text/monslib#B007/nombre", "es": "Akasha-Glyph, Falso Dios de la Causalidad"}
+{"key": "text/monslib#B007/descripcion", "es": "El resultado de que Gruda absorbiera el contenido de los Registros Akáshicos gracias a su extrema tenacidad. Tiene la capacidad de reescribir el mundo a voluntad."}
+{"key": "text/monslib#B008/nombre", "es": "Gruda Fantasma, el Espectro Vacío"}
+{"key": "text/monslib#B008/descripcion", "es": "Una aglomeración de varias sombras de Gruda. Con su demencial tenacidad amplificada al límite, solo lo controla su propio odio."}

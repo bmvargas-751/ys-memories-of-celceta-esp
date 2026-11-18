@@ -27,7 +27,7 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Celcetan Panacea | Panacea celcetana | Oficial (G-1), Ys Origin `invinfo` tl_23, 2026-11-17 | Consumible de curación (`text/item#679/nombre`). |
 | Roda Fruit | fruta de Roda | Oficial (G-1), Ys Origin `invinfo` tl_21 y guiones («Obtienes fruta de Roda x 1»), 2026-11-17 | Fruto del árbol Roda; material (`text/item#868/nombre`). Mayúscula inicial solo en etiquetas de menú (E-59): «Fruta de Roda». |
 | Roda Tree | árbol Roda | Oficial (G-1), Ys Origin guiones («the Roda Tree» → «el árbol Roda»; «Elder Roda Tree» → «Árbol Roda viejo»), 2026-11-17 | Árbol sagrado del bosque (`text/item#678/descripcion`). |
-| Roo | roo | Oficial (G-1), Ys Origin guiones («The Roo appears to be hungry» → «El roo parece hambriento»), 2026-11-17 | Animal sagrado; en minúscula como especie (`script/` y `text/diary`). |
+| Roo | roo | Oficial (G-1), Ys Origin guiones («The Roo appears to be hungry» → «El roo parece hambriento»), 2026-11-17 | Animal sagrado; en minúscula como especie (`script/` y `text/diary`). Solo como rótulo de mapa va con mayúscula inicial (E-59): «Roo», «Sparda», «Sparda joven». |
 | Roos | roos | Oficial (G-1), Ys Origin guiones («us Roos» → «los roos»), 2026-11-17 | Plural de «roo». |
 | pikkard | pikkard | Oficial (G-1), Ys Origin guiones («piel de pikkard»), 2026-11-17 | Animal de la serie; en minúscula como especie (`text/monslib#E0950/descripcion`). |
 | Celcetan | celcetano | Oficial (G-1), Ys Origin `invinfo` tl_23 («Panacea celcetana»), 2026-11-17 | Adjetivo de Celceta; concuerda con el sustantivo («celcetana», «celcetanos»). El nombre «Celceta» se queda igual. |
@@ -235,3 +235,7 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Darklings | lóbregos | Oficial (G-1), Ys Origin `ev_feena02` («I'm a member of the Darklings» → «Soy un miembro de los lóbregos»), 2026-11-18 | La tribu maldita; en minúscula a media frase. |
 | Dananian | danano | Decidido (G-2), DECISIONS 2026-11-18 | Gentilicio de Danan; concuerda: «tecnología danana». |
 | ore | mena | Oficial (G-1), como «Ore», 2026-11-18 | En minúscula a media frase: «rare ore» → «mena rara». |
+| Benolid | Benolid | Decidido (G-2, G-4), DECISIONS 2026-11-18 | Monstruo; nombre sin traducir. (Fila para que el chequeo de *vosotros* no lo tome por un imperativo.) |
+| Asad | Asad | Decidido (G-2), DECISIONS 2026-11-18 | Personaje; nombre sin traducir («Espada de Asad»). (Fila para que el chequeo de *vosotros* no lo tome por un imperativo.) |
+| Celcetan Army Soldier | soldado celcetano | Decidido (G-2), DECISIONS 2026-11-18 | Rótulo de PNJ (ver «Celcetan Army»). |
+| Glucarius, the Great Squilla of Extermination | Glucarius, la Gran Squilla del Exterminio | Decidido (G-2, G-4), DECISIONS 2026-11-18 | Jefe; título completo, igual en recuerdos y bestiario. Alternativa en PENDING.md. |
