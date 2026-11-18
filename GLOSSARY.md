@@ -177,3 +177,4 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Nightmare | Pesadilla | Decidido (G-2), DECISIONS 2026-11-18 | Dificultades: «Easy» → «Fácil», «Normal» → «Normal», «Hard» → «Difícil». «Difficult: %s» → «Dificultad: %s». |
 | Mapped | Cartografiado | Decidido (G-2), DECISIONS 2026-11-18 | «Map Completion» → «Mapa completado». |
 | Touch Puzzles | Acertijos táctiles | Decidido (G-2), DECISIONS 2026-11-18 | «Touch» → «Tocar». |
+| Elder | anciano | Decidido (G-2), DECISIONS 2026-11-18 | Vocativo y título de los mayores de un pueblo: «Yes, Elder» → «Sí, anciano»; «Elder Vanjo» → «el anciano Vanjo». |
