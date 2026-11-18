@@ -1,8 +1,41 @@
 {"key": "script/mp3202#QS304_Start/60", "es": "Aceptar"}
+{"key": "script/mp3202#QS304_Start2/95", "es": "Recibes "}
+{"key": "script/mp3202#QS304_Start2/104", "es": "Recibes "}
+{"key": "script/mp3202#QS304_Start2/148", "es": "Recibes "}
+{"key": "script/mp3202#QS304_End/153", "es": "Recibes "}
+{"key": "script/mp3202#QS304_End/160", "es": "Recibes "}
 {"key": "script/mp3202#QS305_Start/45", "es": "Aceptar"}
+{"key": "script/mp3202#QS305_Start2/52", "es": "Recibes "}
+{"key": "script/mp3202#QS305_Start2/61", "es": "Recibes "}
+{"key": "script/mp3202#QS305_End/147", "es": "Recibes "}
+{"key": "script/mp3202#QS305_End/156", "es": "Recibes "}
 {"key": "script/mp3202#QS306_Start/48", "es": "Aceptar"}
+{"key": "script/mp3202#QS306_Start2/37", "es": "Recibes "}
+{"key": "script/mp3202#QS306_Start2/46", "es": "Recibes "}
+{"key": "script/mp3202#QS306_End/150", "es": "Recibes "}
+{"key": "script/mp3202#QS306_End/159", "es": "Recibes "}
+{"key": "script/mp3202#QS309_Start/71", "es": "Hmm..."}
+{"key": "script/mp3202#QS309_End/36", "es": "Entregas "}
+{"key": "script/mp3202#QS309_End/122", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/215", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/281", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/346", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/410", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/475", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/531", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/537", "es": "Recibes "}
+{"key": "script/mp3202#QS308_End2/216", "es": "Recibes "}
+{"key": "script/mp3202#QS308_End2/222", "es": "Recibes "}
+{"key": "script/mp3202#QS308_End2/228", "es": "Recibes "}
+{"key": "script/mp3202#QS308_End2/234", "es": "Recibes "}
+{"key": "script/mp3202#talk_belta/4", "es": "Hablar"}
 {"key": "script/mp3202#talk_belta/13", "es": "Cancelar"}
+{"key": "script/mp3202#talk_belta/22", "es": "Recibes "}
+{"key": "script/mp3202#talk_belta/84", "es": "Recibes "}
+{"key": "script/mp3202#talk_momocha/340", "es": "¡Claro que no!"}
+{"key": "script/mp3202#talk_siryu/7", "es": "Hablar"}
 {"key": "script/mp3202#talk_siryu/8", "es": "Cancelar"}
+{"key": "script/mp3202#talk_siryu_sub/2", "es": "Hablar"}
 {"key": "script/mp3202#talk_siryu_sub/4", "es": "Cancelar"}
 {"key": "script/mp3202#talk_siryu_sub/44", "es": "Adol"}
 {"key": "script/mp3202#talk_siryu_sub/50", "es": "Duren"}
@@ -10,4 +43,14 @@
 {"key": "script/mp3202#talk_siryu_sub/62", "es": "Ozma"}
 {"key": "script/mp3202#talk_siryu_sub/68", "es": "Calilica"}
 {"key": "script/mp3202#talk_siryu_sub/74", "es": "Frieda"}
+{"key": "script/mp3202#talk_siryu_sub/143", "es": "Recibes "}
+{"key": "script/mp3202#talk_siryu_sub/150", "es": "Recibes "}
+{"key": "script/mp3202#talk_siryu_sub/157", "es": "Recibes "}
+{"key": "script/mp3202#talk_siryu_sub/164", "es": "Recibes "}
+{"key": "script/mp3202#talk_siryu_sub/171", "es": "Recibes "}
+{"key": "script/mp3202#talk_siryu_sub/178", "es": "Recibes "}
+{"key": "script/mp3202#talk_siryu_sub/185", "es": "Recibes "}
+{"key": "script/mp3202#talk_siryu_sub/191", "es": "Recibes "}
+{"key": "script/mp3202#talk_hakan/8", "es": "Hablar"}
 {"key": "script/mp3202#talk_hakan/9", "es": "Cancelar"}
+{"key": "script/mp3202#talk_gazock/55", "es": "¡Oh, Adol!"}

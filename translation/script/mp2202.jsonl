@@ -1,15 +1,136 @@
+{"key": "script/mp2202#EV01_02_Meet_Asad/154", "es": "*bostezo*"}
+{"key": "script/mp2202#EV01_02_Meet_Asad/169", "es": "Voz de hombre"}
+{"key": "script/mp2202#EV01_07_Talk_Asad/104", "es": "¡Sí!"}
+{"key": "script/mp2202#QS204_End/31", "es": "Entregas "}
+{"key": "script/mp2202#QS204_End/54", "es": "Recibes "}
+{"key": "script/mp2202#QS207_End/31", "es": "Entregas "}
+{"key": "script/mp2202#QS207_End/58", "es": "Recibes "}
+{"key": "script/mp2202#QS208_End/31", "es": "Entregas "}
+{"key": "script/mp2202#QS208_End/56", "es": "Recibes "}
 {"key": "script/mp2202#QS205_Start/50", "es": "Aceptar"}
+{"key": "script/mp2202#QS205_Start/51", "es": "Rechazar"}
+{"key": "script/mp2202#QS205_End/33", "es": "Recibes "}
+{"key": "script/mp2202#QS205_End/83", "es": "¡¿Qué?!"}
 {"key": "script/mp2202#QS206_Start/46", "es": "Aceptar"}
+{"key": "script/mp2202#QS206_Start/47", "es": "Rechazar"}
+{"key": "script/mp2202#QS206_End/33", "es": "Recibes "}
 {"key": "script/mp2202#QS210_Start/46", "es": "Aceptar"}
+{"key": "script/mp2202#QS210_Start/47", "es": "Rechazar"}
+{"key": "script/mp2202#QS210_End/33", "es": "Recibes "}
+{"key": "script/mp2202#talk_Asad/302", "es": "Recibes "}
+{"key": "script/mp2202#talk_sorio/6", "es": "Hablar"}
 {"key": "script/mp2202#talk_sorio/7", "es": "Cancelar"}
+{"key": "script/mp2202#talk_chickenA/43", "es": "Darle una hoja"}
+{"key": "script/mp2202#talk_chickenA/44", "es": "Darle una flor"}
 {"key": "script/mp2202#talk_chickenA/46", "es": "Cancelar"}
+{"key": "script/mp2202#talk_chickenA/60", "es": "Darle una hoja podrida"}
+{"key": "script/mp2202#talk_chickenA/63", "es": "Darle una hoja fresca"}
+{"key": "script/mp2202#talk_chickenA/66", "es": "Darle una hoja de Roda"}
 {"key": "script/mp2202#talk_chickenA/68", "es": "Cancelar"}
+{"key": "script/mp2202#talk_chickenA/77", "es": "No parece impresionado."}
+{"key": "script/mp2202#talk_chickenA/90", "es": "Parece contento."}
+{"key": "script/mp2202#talk_chickenA/96", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/102", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/108", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/128", "es": "Parece extasiado."}
+{"key": "script/mp2202#talk_chickenA/132", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/151", "es": "Darle una flor marchita"}
+{"key": "script/mp2202#talk_chickenA/154", "es": "Darle una flor de marl"}
+{"key": "script/mp2202#talk_chickenA/157", "es": "Darle una flor de yupel"}
+{"key": "script/mp2202#talk_chickenA/160", "es": "Darle una flor de libra"}
+{"key": "script/mp2202#talk_chickenA/163", "es": "Darle una flor celcetana"}
 {"key": "script/mp2202#talk_chickenA/165", "es": "Cancelar"}
+{"key": "script/mp2202#talk_chickenA/174", "es": "No parece impresionado."}
+{"key": "script/mp2202#talk_chickenA/187", "es": "Parece contento."}
+{"key": "script/mp2202#talk_chickenA/193", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/199", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/205", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/225", "es": "Parece muy contento."}
+{"key": "script/mp2202#talk_chickenA/231", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/237", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/243", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/263", "es": "Parece increíblemente contento."}
+{"key": "script/mp2202#talk_chickenA/269", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/275", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/295", "es": "Parece extasiado."}
+{"key": "script/mp2202#talk_chickenA/299", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/322", "es": "...Parece ofendido."}
+{"key": "script/mp2202#talk_chickenA/326", "es": "...Parece que no le caes bien."}
+{"key": "script/mp2202#talk_chickenB/43", "es": "Darle una hoja"}
+{"key": "script/mp2202#talk_chickenB/44", "es": "Darle una flor"}
 {"key": "script/mp2202#talk_chickenB/46", "es": "Cancelar"}
+{"key": "script/mp2202#talk_chickenB/60", "es": "Darle una hoja podrida"}
+{"key": "script/mp2202#talk_chickenB/63", "es": "Darle una hoja fresca"}
+{"key": "script/mp2202#talk_chickenB/66", "es": "Darle una hoja de Roda"}
 {"key": "script/mp2202#talk_chickenB/68", "es": "Cancelar"}
+{"key": "script/mp2202#talk_chickenB/77", "es": "No parece impresionado."}
+{"key": "script/mp2202#talk_chickenB/90", "es": "Parece contento."}
+{"key": "script/mp2202#talk_chickenB/96", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/102", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/108", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/128", "es": "Parece extasiado."}
+{"key": "script/mp2202#talk_chickenB/132", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/151", "es": "Darle una flor marchita"}
+{"key": "script/mp2202#talk_chickenB/154", "es": "Darle una flor de marl"}
+{"key": "script/mp2202#talk_chickenB/157", "es": "Darle una flor de yupel"}
+{"key": "script/mp2202#talk_chickenB/160", "es": "Darle una flor de libra"}
+{"key": "script/mp2202#talk_chickenB/163", "es": "Darle una flor celcetana"}
 {"key": "script/mp2202#talk_chickenB/165", "es": "Cancelar"}
+{"key": "script/mp2202#talk_chickenB/174", "es": "No parece impresionado."}
+{"key": "script/mp2202#talk_chickenB/187", "es": "Parece contento."}
+{"key": "script/mp2202#talk_chickenB/193", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/199", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/205", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/225", "es": "Parece muy contento."}
+{"key": "script/mp2202#talk_chickenB/231", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/237", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/243", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/263", "es": "Parece increíblemente contento."}
+{"key": "script/mp2202#talk_chickenB/269", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/275", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/295", "es": "Parece extasiado."}
+{"key": "script/mp2202#talk_chickenB/299", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/322", "es": "...Parece ofendido."}
+{"key": "script/mp2202#talk_chickenB/326", "es": "...Parece que no le caes bien."}
+{"key": "script/mp2202#talk_chickenC/43", "es": "Darle una hoja"}
+{"key": "script/mp2202#talk_chickenC/44", "es": "Darle una flor"}
 {"key": "script/mp2202#talk_chickenC/46", "es": "Cancelar"}
+{"key": "script/mp2202#talk_chickenC/60", "es": "Darle una hoja podrida"}
+{"key": "script/mp2202#talk_chickenC/63", "es": "Darle una hoja fresca"}
+{"key": "script/mp2202#talk_chickenC/66", "es": "Darle una hoja de Roda"}
 {"key": "script/mp2202#talk_chickenC/68", "es": "Cancelar"}
+{"key": "script/mp2202#talk_chickenC/77", "es": "No parece impresionado."}
+{"key": "script/mp2202#talk_chickenC/90", "es": "Parece contento."}
+{"key": "script/mp2202#talk_chickenC/96", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/102", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/108", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/128", "es": "Parece extasiado."}
+{"key": "script/mp2202#talk_chickenC/132", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/151", "es": "Darle una flor marchita"}
+{"key": "script/mp2202#talk_chickenC/154", "es": "Darle una flor de marl"}
+{"key": "script/mp2202#talk_chickenC/157", "es": "Darle una flor de yupel"}
+{"key": "script/mp2202#talk_chickenC/160", "es": "Darle una flor de libra"}
+{"key": "script/mp2202#talk_chickenC/163", "es": "Darle una flor celcetana"}
 {"key": "script/mp2202#talk_chickenC/165", "es": "Cancelar"}
+{"key": "script/mp2202#talk_chickenC/174", "es": "No parece impresionado."}
+{"key": "script/mp2202#talk_chickenC/187", "es": "Parece contento."}
+{"key": "script/mp2202#talk_chickenC/193", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/199", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/205", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/225", "es": "Parece muy contento."}
+{"key": "script/mp2202#talk_chickenC/231", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/237", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/243", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/263", "es": "Parece increíblemente contento."}
+{"key": "script/mp2202#talk_chickenC/269", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/275", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/295", "es": "Parece extasiado."}
+{"key": "script/mp2202#talk_chickenC/299", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/322", "es": "...Parece ofendido."}
+{"key": "script/mp2202#talk_chickenC/326", "es": "...Parece que no le caes bien."}
+{"key": "script/mp2202#talk_tereza/5", "es": "Hablar"}
 {"key": "script/mp2202#talk_tereza/14", "es": "Cancelar"}
+{"key": "script/mp2202#talk_tereza/22", "es": "Recibes "}
+{"key": "script/mp2202#talk_tereza/52", "es": "Recibes "}
+{"key": "script/mp2202#talk_zaizen/26", "es": "Hablar"}
 {"key": "script/mp2202#talk_zaizen/39", "es": "Cancelar"}

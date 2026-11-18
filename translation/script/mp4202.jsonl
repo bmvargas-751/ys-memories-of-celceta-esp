@@ -1,12 +1,115 @@
+{"key": "script/mp4202#QS401_End/29", "es": "Entregas "}
+{"key": "script/mp4202#QS401_End/32", "es": "Entregas "}
+{"key": "script/mp4202#QS401_End/36", "es": "Gracias."}
+{"key": "script/mp4202#QS401_End/51", "es": "Recibes "}
 {"key": "script/mp4202#QS404_Start/98", "es": "Aceptar"}
+{"key": "script/mp4202#QS404_Start/99", "es": "Rechazar"}
+{"key": "script/mp4202#QS404_Start/111", "es": "Recibes "}
+{"key": "script/mp4202#QS404_End/48", "es": "Recibes "}
+{"key": "script/mp4202#talk_gazock/7", "es": "Hablar"}
 {"key": "script/mp4202#talk_gazock/8", "es": "Cancelar"}
+{"key": "script/mp4202#talk_timary/6", "es": "Hablar"}
 {"key": "script/mp4202#talk_timary/7", "es": "Cancelar"}
+{"key": "script/mp4202#talk_piremon/11", "es": "Hablar"}
 {"key": "script/mp4202#talk_piremon/13", "es": "Cancelar"}
+{"key": "script/mp4202#talk_picard/43", "es": "Darle una fruta o nuez"}
+{"key": "script/mp4202#talk_picard/44", "es": "Pellizcarle la nariz"}
 {"key": "script/mp4202#talk_picard/45", "es": "Cancelar"}
+{"key": "script/mp4202#talk_picard/59", "es": "Darle una fruta podrida"}
+{"key": "script/mp4202#talk_picard/62", "es": "Darle una nuez de chito"}
+{"key": "script/mp4202#talk_picard/65", "es": "Darle una fruta de raparo"}
+{"key": "script/mp4202#talk_picard/68", "es": "Darle una fruta de arieda"}
+{"key": "script/mp4202#talk_picard/71", "es": "Darle una fruta de Roda"}
 {"key": "script/mp4202#talk_picard/73", "es": "Cancelar"}
+{"key": "script/mp4202#talk_picard/82", "es": "No parece impresionado."}
+{"key": "script/mp4202#talk_picard/95", "es": "Parece contento."}
+{"key": "script/mp4202#talk_picard/101", "es": "Recibes "}
+{"key": "script/mp4202#talk_picard/107", "es": "Recibes "}
+{"key": "script/mp4202#talk_picard/113", "es": "Recibes "}
+{"key": "script/mp4202#talk_picard/133", "es": "Parece muy contento."}
+{"key": "script/mp4202#talk_picard/139", "es": "Recibes "}
+{"key": "script/mp4202#talk_picard/145", "es": "Recibes "}
+{"key": "script/mp4202#talk_picard/151", "es": "Recibes "}
+{"key": "script/mp4202#talk_picard/171", "es": "Parece increíblemente contento."}
+{"key": "script/mp4202#talk_picard/177", "es": "Recibes "}
+{"key": "script/mp4202#talk_picard/183", "es": "Recibes "}
+{"key": "script/mp4202#talk_picard/203", "es": "Parece extasiado."}
+{"key": "script/mp4202#talk_picard/207", "es": "Recibes "}
+{"key": "script/mp4202#talk_picard/230", "es": "...Parece ofendido."}
+{"key": "script/mp4202#talk_picard/234", "es": "...Parece que no le caes bien."}
+{"key": "script/mp4202#talk_urpaca/44", "es": "Darle una hoja"}
+{"key": "script/mp4202#talk_urpaca/45", "es": "Darle una flor"}
+{"key": "script/mp4202#talk_urpaca/46", "es": "Pellizcarle la nariz"}
 {"key": "script/mp4202#talk_urpaca/47", "es": "Cancelar"}
+{"key": "script/mp4202#talk_urpaca/61", "es": "Darle una hoja podrida"}
+{"key": "script/mp4202#talk_urpaca/64", "es": "Darle una hoja fresca"}
+{"key": "script/mp4202#talk_urpaca/67", "es": "Darle una hoja de Roda"}
 {"key": "script/mp4202#talk_urpaca/69", "es": "Cancelar"}
+{"key": "script/mp4202#talk_urpaca/78", "es": "No parece impresionado."}
+{"key": "script/mp4202#talk_urpaca/91", "es": "Parece contento."}
+{"key": "script/mp4202#talk_urpaca/97", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/103", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/109", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/129", "es": "Parece extasiado."}
+{"key": "script/mp4202#talk_urpaca/133", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/152", "es": "Darle una flor marchita"}
+{"key": "script/mp4202#talk_urpaca/155", "es": "Darle una flor de marl"}
+{"key": "script/mp4202#talk_urpaca/158", "es": "Darle una flor de yupel"}
+{"key": "script/mp4202#talk_urpaca/161", "es": "Darle una flor de libra"}
+{"key": "script/mp4202#talk_urpaca/164", "es": "Darle una flor celcetana"}
 {"key": "script/mp4202#talk_urpaca/166", "es": "Cancelar"}
+{"key": "script/mp4202#talk_urpaca/175", "es": "No parece impresionado."}
+{"key": "script/mp4202#talk_urpaca/188", "es": "Parece contento."}
+{"key": "script/mp4202#talk_urpaca/194", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/200", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/206", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/226", "es": "Parece muy contento."}
+{"key": "script/mp4202#talk_urpaca/232", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/238", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/244", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/264", "es": "Parece increíblemente contento."}
+{"key": "script/mp4202#talk_urpaca/270", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/276", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/296", "es": "Parece extasiado."}
+{"key": "script/mp4202#talk_urpaca/300", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/323", "es": "...Parece ofendido."}
+{"key": "script/mp4202#talk_urpaca/327", "es": "...Parece que no le caes bien."}
+{"key": "script/mp4202#talk_camebull/44", "es": "Darle una hoja"}
+{"key": "script/mp4202#talk_camebull/45", "es": "Darle una flor"}
+{"key": "script/mp4202#talk_camebull/46", "es": "Pellizcarle la nariz"}
 {"key": "script/mp4202#talk_camebull/47", "es": "Cancelar"}
+{"key": "script/mp4202#talk_camebull/61", "es": "Darle una hoja podrida"}
+{"key": "script/mp4202#talk_camebull/64", "es": "Darle una hoja fresca"}
+{"key": "script/mp4202#talk_camebull/67", "es": "Darle una hoja de Roda"}
 {"key": "script/mp4202#talk_camebull/69", "es": "Cancelar"}
+{"key": "script/mp4202#talk_camebull/78", "es": "No parece impresionado."}
+{"key": "script/mp4202#talk_camebull/91", "es": "Parece contento."}
+{"key": "script/mp4202#talk_camebull/97", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/103", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/109", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/129", "es": "Parece extasiado."}
+{"key": "script/mp4202#talk_camebull/133", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/152", "es": "Darle una flor marchita"}
+{"key": "script/mp4202#talk_camebull/155", "es": "Darle una flor de marl"}
+{"key": "script/mp4202#talk_camebull/158", "es": "Darle una flor de yupel"}
+{"key": "script/mp4202#talk_camebull/161", "es": "Darle una flor de libra"}
+{"key": "script/mp4202#talk_camebull/164", "es": "Darle una flor celcetana"}
 {"key": "script/mp4202#talk_camebull/166", "es": "Cancelar"}
+{"key": "script/mp4202#talk_camebull/175", "es": "No parece impresionado."}
+{"key": "script/mp4202#talk_camebull/188", "es": "Parece contento."}
+{"key": "script/mp4202#talk_camebull/194", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/200", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/206", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/226", "es": "Parece muy contento."}
+{"key": "script/mp4202#talk_camebull/232", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/238", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/244", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/264", "es": "Parece increíblemente contento."}
+{"key": "script/mp4202#talk_camebull/270", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/276", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/296", "es": "Parece extasiado."}
+{"key": "script/mp4202#talk_camebull/300", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/323", "es": "...Parece ofendido."}
+{"key": "script/mp4202#talk_camebull/327", "es": "...Parece que no le caes bien."}
+{"key": "script/mp4202#talk_dario/191", "es": "Hmm..."}
+{"key": "script/mp4202#subev_In_Gazock_Shop/107", "es": "¡¿Qué?!"}
