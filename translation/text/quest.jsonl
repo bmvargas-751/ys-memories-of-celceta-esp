@@ -1,39 +1,423 @@
 {"key": "text/quest#GF_QUEST_101/cliente", "es": "Mucho"}
+{"key": "text/quest#GF_QUEST_101/recompensa", "es": "1000G"}
+{"key": "text/quest#GF_QUEST_101/etiqueta", "es": "Ordeñar un fabros"}
+{"key": "text/quest#GF_QUEST_101/titulo", "es": "Ordeñar un fabros"}
+{"key": "text/quest#GF_QUEST_101/aviso", "es": "¡Tú! Sí, tú, que lees este aviso. ¿Tienes lo necesario para ayudarme a preparar una bebida súper especial?"}
+{"key": "text/quest#GF_QUEST_101/aviso~2", "es": "Para más detalles, habla conmigo en la barra del bar."}
+{"key": "text/quest#GF_QUEST_101/aviso~3", "es": "#911c[Urgente]#000c                - Dueño del bar, Mucho"}
+{"key": "text/quest#GF_QUEST_101/GF_QS101_MEMO01", "es": "Mucho me pidió ordeñar un fabros."}
+{"key": "text/quest#GF_QUEST_101/GF_QS101_MEMO01~2", "es": "Las fabros hembras son bestias muy cautelosas y huyen si nos notan."}
+{"key": "text/quest#GF_QUEST_101/GF_QS101_MEMO02", "es": "La fabros hembra nos notó y huyó. La próxima vez tendremos que ser un poco más sigilosos."}
+{"key": "text/quest#GF_QUEST_101/GF_QS101_MEMO03", "es": "Conseguí leche de fabros. Ahora tengo que dársela a Mucho."}
+{"key": "text/quest#GF_QUEST_101/GF_QS101_MEMO04", "es": "Le di la leche de fabros a Mucho, quien me invitó a un batido especial hecho con ella."}
+{"key": "text/quest#GF_QUEST_101/GF_QS101_MEMO04~2", "es": "Su sabor era... único. Pero lo importante es que completé la misión con éxito."}
 {"key": "text/quest#GF_QUEST_102/cliente", "es": "soldado Wallace"}
-{"key": "text/quest#GF_QUEST_103/cliente", "es": "Orfebre"}
+{"key": "text/quest#GF_QUEST_102/recompensa", "es": "Poción amarga x3"}
+{"key": "text/quest#GF_QUEST_102/etiqueta", "es": "Pociones de miel"}
+{"key": "text/quest#GF_QUEST_102/titulo", "es": "Pociones de miel"}
+{"key": "text/quest#GF_QUEST_102/aviso", "es": "Busco a alguien que me haga un pequeño encargo. Avísame si te interesa."}
+{"key": "text/quest#GF_QUEST_102/aviso~2", "es": "Durante el día suelo estar en la cafetería del Edificio de la Gobernación General celcetano."}
+{"key": "text/quest#GF_QUEST_102/aviso~3", "es": "#911c[Urgente]#000c            - Wallace, el soldado"}
+{"key": "text/quest#GF_QUEST_102/GF_QS102_MEMO01", "es": "Wallace me explicó la misión en líneas generales. Me pidió tres pociones de miel y me dio 120 huesos quebradizos como pago."}
+{"key": "text/quest#GF_QUEST_102/GF_QS102_MEMO02", "es": "¡Le entregué las tres pociones de miel a Wallace y cumplí su petición!"}
+{"key": "text/quest#GF_QUEST_103/cliente", "es": "Goldsmith"}
+{"key": "text/quest#GF_QUEST_103/recompensa", "es": "5000G"}
+{"key": "text/quest#GF_QUEST_103/etiqueta", "es": "Compra de mena de hierro"}
+{"key": "text/quest#GF_QUEST_103/titulo", "es": "Compra de mena de hierro"}
+{"key": "text/quest#GF_QUEST_103/aviso", "es": "Deseo comprar veinte trozos de mena de hierro."}
+{"key": "text/quest#GF_QUEST_103/aviso~2", "es": "Si te interesa, ven a verme al puesto comercial."}
+{"key": "text/quest#GF_QUEST_103/aviso~3", "es": "- Goldsmith, Compañía Comercial Goldsmith"}
+{"key": "text/quest#GF_QUEST_103/GF_QS103_MEMO01", "es": "Me pasé de listo con el precio del trato y perdí el negocio con Goldsmith..."}
+{"key": "text/quest#GF_QUEST_103/GF_QS103_MEMO02", "es": "¡Vendí la mena de hierro con éxito!"}
+{"key": "text/quest#GF_QUEST_103/GF_QS103_MEMO03", "es": "¡Regateé con éxito con Goldsmith y vendí la mena de hierro a un precio más alto!"}
+{"key": "text/quest#GF_QUEST_103/GF_QS103_MEMO04", "es": "¡Regateé con éxito con Goldsmith y vendí la mena de hierro a un precio mucho más alto! ¿Será que tengo talento para el comercio?"}
 {"key": "text/quest#GF_QUEST_104/cliente", "es": "Luluca"}
+{"key": "text/quest#GF_QUEST_104/recompensa", "es": "2000G"}
+{"key": "text/quest#GF_QUEST_104/etiqueta", "es": "Oso en la llanura"}
+{"key": "text/quest#GF_QUEST_104/titulo", "es": "Oso en la llanura"}
+{"key": "text/quest#GF_QUEST_104/aviso", "es": "Se ha avistado una bestia feroz conocida como Langritz en la llanura junto al Gran Bosque."}
+{"key": "text/quest#GF_QUEST_104/aviso~2", "es": "¿Habrá alguien con la habilidad necesaria para derrotarla?"}
+{"key": "text/quest#GF_QUEST_104/aviso~3", "es": "- Luluca, la camarera"}
+{"key": "text/quest#GF_QUEST_104/GF_QS104_MEMO01", "es": "¡Derroté a Langritz! Tengo que avisarle a quien hizo el encargo."}
+{"key": "text/quest#GF_QUEST_104/GF_QS104_MEMO02", "es": "Le di mi informe a Luluca y recibí el dinero de la recompensa."}
+{"key": "text/quest#GF_QUEST_105/cliente", "es": "Evan y Lyle"}
+{"key": "text/quest#GF_QUEST_105/recompensa", "es": "Tesoro"}
+{"key": "text/quest#GF_QUEST_105/etiqueta", "es": "¡Desafío!"}
+{"key": "text/quest#GF_QUEST_105/titulo", "es": "¡Desafío!"}
+{"key": "text/quest#GF_QUEST_105/aviso", "es": "Buscamos a alguien que haya estado en el Gran Bosque, no importa quién. Si te animas a un desafío, ¡habla con nosotros en la plaza del pueblo!"}
+{"key": "text/quest#GF_QUEST_105/aviso~2", "es": "#911c[Urgente]#000c                   - Evan y Lyle"}
+{"key": "text/quest#GF_QUEST_105/GF_QS105_MEMO01", "es": "Acepté el desafío de Evan y Lyle y terminé participando en una búsqueda del tesoro. Si hablo con Lyle, me dará pistas."}
+{"key": "text/quest#GF_QUEST_105/GF_QS105_MEMO04", "es": "¡Encontré mena de oro en el bar!"}
+{"key": "text/quest#GF_QUEST_105/GF_QS105_MEMO05", "es": "¡Encontré mena de oro en la casa del capataz de la mina!"}
+{"key": "text/quest#GF_QUEST_105/GF_QS105_MEMO06", "es": "¡Encontré mena de oro en un establo!"}
+{"key": "text/quest#GF_QUEST_105/GF_QS105_MEMO07", "es": "¡Encontré mena de oro en el callejón trasero!"}
+{"key": "text/quest#GF_QUEST_105/GF_QS105_MEMO08", "es": "Encontré mena de oro en una tienda de campaña frente al Edificio de la Gobernación General."}
+{"key": "text/quest#GF_QUEST_105/GF_QS105_MEMO02", "es": "Por desgracia para los niños, tuve que rendirme. Me da pena no haber cumplido sus expectativas."}
+{"key": "text/quest#GF_QUEST_105/GF_QS105_MEMO03", "es": "¡Encontré los cinco escondites de mena de oro! Hoy logré impresionar a unos niños. Qué bien se siente..."}
 {"key": "text/quest#GF_QUEST_106/cliente", "es": "capataz Wagner"}
+{"key": "text/quest#GF_QUEST_106/recompensa", "es": "Según los resultados"}
+{"key": "text/quest#GF_QUEST_106/etiqueta", "es": "Se buscan mineros"}
+{"key": "text/quest#GF_QUEST_106/titulo", "es": "Se buscan mineros"}
+{"key": "text/quest#GF_QUEST_106/aviso", "es": "En la mina tenemos tanto trabajo como siempre y nos vendría muy bien una mano. Busco a un minero temporal que quiera ayudar y pueda trabajar duro por un periodo corto. Si te interesa, habla conmigo en la mina."}
+{"key": "text/quest#GF_QUEST_106/aviso~2", "es": "#911c[Urgente]#000c               - Capataz Wagner"}
+{"key": "text/quest#GF_QUEST_106/GF_QS106_MEMO01", "es": "Acepté ayudar en la mina, pero no logré extraer ni un solo trozo de mena. ¡He cubierto de vergüenza mi buen nombre y a todos los mineros de Celceta!"}
+{"key": "text/quest#GF_QUEST_106/GF_QS106_MEMO02", "es": "Acepté ayudar en la mina y logré extraer diez trozos de mena de oro. ¡Hasta recibí una bonificación por el excelente trabajo!"}
+{"key": "text/quest#GF_QUEST_106/GF_QS106_MEMO03", "es": "Acepté ayudar en la mina y logré extraer nueve trozos de mena de oro. ¡Parece que a Wagner le pareció más que suficiente!"}
+{"key": "text/quest#GF_QUEST_106/GF_QS106_MEMO04", "es": "Acepté ayudar en la mina y logré extraer ocho trozos de mena de oro. ¡Parece que a Wagner le pareció más que suficiente!"}
+{"key": "text/quest#GF_QUEST_106/GF_QS106_MEMO05", "es": "Acepté ayudar en la mina y logré extraer siete trozos de mena de oro. ¡Parece que a Wagner le pareció más que suficiente!"}
+{"key": "text/quest#GF_QUEST_106/GF_QS106_MEMO06", "es": "Acepté ayudar en la mina y logré extraer seis trozos de mena de oro. Wagner dijo que era suficiente para alguien que no es minero."}
+{"key": "text/quest#GF_QUEST_106/GF_QS106_MEMO07", "es": "Acepté ayudar en la mina y logré extraer cinco trozos de mena de oro. Wagner dijo que era suficiente para alguien que no es minero."}
+{"key": "text/quest#GF_QUEST_106/GF_QS106_MEMO08", "es": "Acepté ayudar en la mina y logré extraer cuatro trozos de mena de oro. Wagner dijo que era suficiente para alguien que no es minero."}
+{"key": "text/quest#GF_QUEST_106/GF_QS106_MEMO09", "es": "Acepté ayudar en la mina y logré extraer tres trozos de mena de oro. Wagner no quedó muy contento."}
+{"key": "text/quest#GF_QUEST_106/GF_QS106_MEMO10", "es": "Acepté ayudar en la mina y logré extraer dos trozos de mena de oro. Wagner no quedó muy contento."}
+{"key": "text/quest#GF_QUEST_106/GF_QS106_MEMO11", "es": "Acepté ayudar en la mina y logré extraer un solo trozo de mena de oro. Wagner dijo que lo hice bien, pero noté que solo quería consolarme. ¡Qué desastre!"}
 {"key": "text/quest#GF_QUEST_107/cliente", "es": "Lucir"}
+{"key": "text/quest#GF_QUEST_107/recompensa", "es": "10000G"}
+{"key": "text/quest#GF_QUEST_107/etiqueta", "es": "Pikkard con resaca"}
+{"key": "text/quest#GF_QUEST_107/titulo", "es": "Pikkard con resaca"}
+{"key": "text/quest#GF_QUEST_107/aviso", "es": "Busco una medicina que cure la resaca de un pikkard. Si alguien sabe de algo que pueda funcionar, ¿podrías darme un poco? Estaré en el callejón cerca del puesto comercial. ¡Gracias!"}
+{"key": "text/quest#GF_QUEST_107/aviso~2", "es": "- Lucir, siempre servicial"}
+{"key": "text/quest#GF_QUEST_107/GF_QS107_MEMO01", "es": "Le entregué la medicina a Lucir y recibí mi recompensa. En cuanto al pikkard, empieza su larga abstinencia..."}
 {"key": "text/quest#GF_QUEST_108/cliente", "es": "Mucho"}
+{"key": "text/quest#GF_QUEST_108/recompensa", "es": "20000G"}
+{"key": "text/quest#GF_QUEST_108/etiqueta", "es": "Purificador definitivo"}
+{"key": "text/quest#GF_QUEST_108/titulo", "es": "Purificador definitivo"}
+{"key": "text/quest#GF_QUEST_108/aviso", "es": "Tengo un asunto importante que tratar con alguien que conozca bien los muchos misterios del Gran Bosque, es decir, tú. Me encantaría que me consiguieras un material legendario. Ven a verme a la barra del bar para más información."}
+{"key": "text/quest#GF_QUEST_108/aviso~2", "es": "- Mucho, dueño del bar"}
+{"key": "text/quest#GF_QUEST_108/GF_QS108_MEMO01", "es": "Mucho me pidió que le llevara una hoja de Roda."}
+{"key": "text/quest#GF_QUEST_108/GF_QS108_MEMO02", "es": "Le entregué la hoja de Roda a Mucho, que preparó una bebida nueva con ella. Con algo de duda, la bebí, ¡y resultó ser indescriptiblemente deliciosa!"}
+{"key": "text/quest#GF_QUEST_108/GF_QS108_MEMO02~2", "es": "Por desgracia, Mucho olvidó anotar la receta y teme no poder prepararla de nuevo. De todos modos, ¡completé la misión!"}
+{"key": "text/quest#GF_QUEST_108/GF_QS108_MEMO03", "es": "Le entregué la hoja de Roda a Mucho, que preparó una bebida nueva con ella. ¡Duren se la bebió de un trago y dijo que estaba buenísima!"}
+{"key": "text/quest#GF_QUEST_108/GF_QS108_MEMO03~2", "es": "Por desgracia, Mucho olvidó anotar la receta y teme no poder prepararla de nuevo. De todos modos, ¡completé la misión!"}
+{"key": "text/quest#GF_QUEST_108/GF_QS108_MEMO04", "es": "Le entregué la hoja de Roda a Mucho, que preparó una bebida nueva con ella. ¡Karna se la bebió de un trago y dijo que estaba buenísima!"}
+{"key": "text/quest#GF_QUEST_108/GF_QS108_MEMO04~2", "es": "Por desgracia, Mucho olvidó anotar la receta y teme no poder prepararla de nuevo. De todos modos, ¡completé la misión!"}
+{"key": "text/quest#GF_QUEST_108/GF_QS108_MEMO05", "es": "Le entregué la hoja de Roda a Mucho, que preparó una bebida nueva con ella. ¡Ozma se la bebió de un trago y dijo que estaba buenísima!"}
+{"key": "text/quest#GF_QUEST_108/GF_QS108_MEMO05~2", "es": "Por desgracia, Mucho olvidó anotar la receta y teme no poder prepararla de nuevo. De todos modos, ¡completé la misión!"}
+{"key": "text/quest#GF_QUEST_108/GF_QS108_MEMO06", "es": "Le entregué la hoja de Roda a Mucho, que preparó una bebida nueva con ella. ¡Calilica se la bebió de un trago y dijo que estaba buenísima!"}
+{"key": "text/quest#GF_QUEST_108/GF_QS108_MEMO06~2", "es": "Por desgracia, Mucho olvidó anotar la receta y teme no poder prepararla de nuevo. De todos modos, ¡completé la misión!"}
+{"key": "text/quest#GF_QUEST_108/GF_QS108_MEMO07", "es": "Le entregué la hoja de Roda a Mucho, que preparó una bebida nueva con ella. ¡Frieda se la bebió de un trago y dijo que estaba buenísima!"}
+{"key": "text/quest#GF_QUEST_108/GF_QS108_MEMO07~2", "es": "Por desgracia, Mucho olvidó anotar la receta y teme no poder prepararla de nuevo. De todos modos, ¡completé la misión!"}
 {"key": "text/quest#GF_QUEST_109/cliente", "es": "Luluca"}
+{"key": "text/quest#GF_QUEST_109/recompensa", "es": "25000G"}
+{"key": "text/quest#GF_QUEST_109/etiqueta", "es": "Murciélago frutero en la oscuridad"}
+{"key": "text/quest#GF_QUEST_109/titulo", "es": "Murciélago frutero en la oscuridad"}
+{"key": "text/quest#GF_QUEST_109/aviso", "es": "Recibí informes de que se ha avistado una enorme bestia feroz llamada \"Olrabadi\" en lo profundo de la mina de Casnia. ¿Habrá alguien con la habilidad necesaria que quiera derrotarla?"}
+{"key": "text/quest#GF_QUEST_109/aviso~2", "es": "- Luluca, la camarera"}
+{"key": "text/quest#GF_QUEST_109/GF_QS109_MEMO01", "es": "¡Derroté a Olrabadi! Debería informar a quien hizo el encargo."}
+{"key": "text/quest#GF_QUEST_109/GF_QS109_MEMO02", "es": "Informé a Luluca y recibí mi recompensa."}
 {"key": "text/quest#GF_QUEST_201/cliente", "es": "Lindsay"}
+{"key": "text/quest#GF_QUEST_201/recompensa", "es": "2000G"}
+{"key": "text/quest#GF_QUEST_201/etiqueta", "es": "Clases de espada"}
+{"key": "text/quest#GF_QUEST_201/titulo", "es": "Clases de espada"}
+{"key": "text/quest#GF_QUEST_201/aviso", "es": "¿Alguien podría enseñarme a usar una espada?"}
+{"key": "text/quest#GF_QUEST_201/aviso~2", "es": "Estaré esperando en la parte más alta de la aldea."}
+{"key": "text/quest#GF_QUEST_201/aviso~3", "es": "#911c[Urgente]#000c                         - Lindsay"}
+{"key": "text/quest#GF_QUEST_201/GF_QS201_MEMO01", "es": "Terminé batiéndome en duelo con Duren y, de algún modo, logré ganar."}
+{"key": "text/quest#GF_QUEST_201/GF_QS201_MEMO01~2", "es": "Después, le enseñé a Lindsay a usar una espada y completé la misión con éxito. Recibí recompensas tanto de Lindsay como de Marcella."}
+{"key": "text/quest#GF_QUEST_201/GF_QS201_MEMO02", "es": "Terminé batiéndome en duelo con Duren, pero me derrotó..."}
+{"key": "text/quest#GF_QUEST_201/GF_QS201_MEMO02~2", "es": "Después, le enseñé a Lindsay a usar una espada y completé la misión con éxito."}
 {"key": "text/quest#GF_QUEST_202/cliente", "es": "Edea"}
+{"key": "text/quest#GF_QUEST_202/recompensa", "es": "2500G"}
+{"key": "text/quest#GF_QUEST_202/etiqueta", "es": "Una comida fresca"}
+{"key": "text/quest#GF_QUEST_202/titulo", "es": "Una comida fresca"}
+{"key": "text/quest#GF_QUEST_202/aviso", "es": "Quisiera diez hojas frescas para darle de comer a mi ciervo."}
+{"key": "text/quest#GF_QUEST_202/aviso~2", "es": "Estaré afuera, junto a mi querido ciervo, a quien consiento y colmo de cariño."}
+{"key": "text/quest#GF_QUEST_202/aviso~3", "es": "- Edea, amante de los ciervos"}
+{"key": "text/quest#GF_QUEST_202/GF_QS202_MEMO01", "es": "Le entregué los objetos a Edea y recibí la recompensa."}
 {"key": "text/quest#GF_QUEST_203/cliente", "es": "agente Theresa"}
+{"key": "text/quest#GF_QUEST_203/recompensa", "es": "3000G"}
+{"key": "text/quest#GF_QUEST_203/etiqueta", "es": "El rey mono"}
+{"key": "text/quest#GF_QUEST_203/titulo", "es": "El rey mono"}
+{"key": "text/quest#GF_QUEST_203/aviso", "es": "Recibí informes de que una peligrosa bestia gigante llamada \"Golwonga\" ha comenzado a merodear por la entrada del bosque al sureste de Comodo."}
+{"key": "text/quest#GF_QUEST_203/aviso~2", "es": "Se agradecería que la derrotaran pronto."}
+{"key": "text/quest#GF_QUEST_203/aviso~3", "es": "- Agente Theresa, Centro Comunitario"}
+{"key": "text/quest#GF_QUEST_203/GF_QS203_MEMO01", "es": "¡Derroté a Golwonga! Debería informar a quien hizo el encargo."}
+{"key": "text/quest#GF_QUEST_203/GF_QS203_MEMO02", "es": "Le di mi informe a Theresa y reclamé la recompensa."}
 {"key": "text/quest#GF_QUEST_204/cliente", "es": "artesano Saisen"}
-{"key": "text/quest#GF_QUEST_205/cliente", "es": "chamán Pippi"}
-{"key": "text/quest#GF_QUEST_206/cliente", "es": "chamán Pippi"}
+{"key": "text/quest#GF_QUEST_204/recompensa", "es": "Accesorios nuevos"}
+{"key": "text/quest#GF_QUEST_204/etiqueta", "es": "Materiales de artesanía"}
+{"key": "text/quest#GF_QUEST_204/titulo", "es": "Materiales de artesanía"}
+{"key": "text/quest#GF_QUEST_204/aviso", "es": "Karna y compañía, quisiera pedirles que busquen materiales nuevos para mis trabajos de artesanía. Si tienen oportunidad, pasen a verme a mi taller."}
+{"key": "text/quest#GF_QUEST_204/aviso~2", "es": "- Saisen, Taller de Saisen"}
+{"key": "text/quest#GF_QUEST_204/GF_QS204_MEMO01", "es": "Acepté la misión de Saisen y me comprometí a conseguir tres \"caparazones indestructibles\". Parece que se pueden obtener de ciertos monstruos cercanos al río."}
+{"key": "text/quest#GF_QUEST_204/GF_QS204_MEMO02", "es": "¡Le entregué los materiales a Saisen y completé la misión! Ahora puede fabricar una mayor variedad de accesorios en su taller."}
+{"key": "text/quest#GF_QUEST_205/cliente", "es": "chamana Pippi"}
+{"key": "text/quest#GF_QUEST_205/recompensa", "es": "Mena de oro x3"}
+{"key": "text/quest#GF_QUEST_205/etiqueta", "es": "El pollito fugitivo"}
+{"key": "text/quest#GF_QUEST_205/titulo", "es": "El pollito fugitivo"}
+{"key": "text/quest#GF_QUEST_205/aviso", "es": "Mi querido Sasami se escapó de casa. ¿Alguien podría ayudarme a encontrarlo?"}
+{"key": "text/quest#GF_QUEST_205/aviso~2", "es": "Te explicaré todo en persona, así que ven a mi casa."}
+{"key": "text/quest#GF_QUEST_205/aviso~3", "es": "- Pippi, la chamana"}
+{"key": "text/quest#GF_QUEST_205/GF_QS205_MEMO01", "es": "Acepté capturar a Sasami, uno de los pollos que cría Pippi."}
+{"key": "text/quest#GF_QUEST_205/GF_QS205_MEMO01~2", "es": "Ella dice que es probable que esté en la aldea, en algún lugar al aire libre, y que el secreto para capturarlo es acercarse por detrás."}
+{"key": "text/quest#GF_QUEST_205/GF_QS205_MEMO02", "es": "¡Capturé a Sasami y completé la misión!"}
+{"key": "text/quest#GF_QUEST_206/cliente", "es": "chamana Pippi"}
+{"key": "text/quest#GF_QUEST_206/recompensa", "es": "Mena de oro x9"}
+{"key": "text/quest#GF_QUEST_206/etiqueta", "es": "El pollito travieso"}
+{"key": "text/quest#GF_QUEST_206/titulo", "es": "El pollito travieso"}
+{"key": "text/quest#GF_QUEST_206/aviso", "es": "Mi querido Teva se escapó de casa. ¿Alguien podría ayudarme a encontrarlo?"}
+{"key": "text/quest#GF_QUEST_206/aviso~2", "es": "Te explicaré todo en persona, así que ven a mi casa."}
+{"key": "text/quest#GF_QUEST_206/aviso~3", "es": "- Pippi, la chamana"}
+{"key": "text/quest#GF_QUEST_206/GF_QS206_MEMO01", "es": "Se ha escapado otro de los pollos de Pippi, así que acepté ayudar a encontrarlo. Esta vez el fugitivo es un pollito llamado Teva."}
+{"key": "text/quest#GF_QUEST_206/GF_QS206_MEMO01~2", "es": "Es probable que esté en la aldea, en algún lugar al aire libre, pero también le encanta esconderse a la sombra. Otra vez, el secreto para capturarlo es acercarse por detrás."}
+{"key": "text/quest#GF_QUEST_206/GF_QS206_MEMO02", "es": "¡Capturé a Teva y completé la misión!"}
 {"key": "text/quest#GF_QUEST_207/cliente", "es": "artesano Saisen"}
+{"key": "text/quest#GF_QUEST_207/recompensa", "es": "Accesorios nuevos"}
+{"key": "text/quest#GF_QUEST_207/etiqueta", "es": "Materiales de artesanía 2"}
+{"key": "text/quest#GF_QUEST_207/titulo", "es": "Materiales de artesanía 2"}
+{"key": "text/quest#GF_QUEST_207/aviso", "es": "Karna y compañía, quisiera pedirles que busquen más materiales para mí."}
+{"key": "text/quest#GF_QUEST_207/aviso~2", "es": "Si tienen oportunidad, pasen a verme a mi taller."}
+{"key": "text/quest#GF_QUEST_207/aviso~3", "es": "- Saisen, Taller de Saisen"}
+{"key": "text/quest#GF_QUEST_207/GF_QS207_MEMO01", "es": "Acepté la misión de Saisen y me comprometí a conseguir tres materiales llamados \"pieles extrañas\". Al parecer solo se encuentran en las Tierras Primigenias..."}
+{"key": "text/quest#GF_QUEST_207/GF_QS207_MEMO02", "es": "¡Le entregué los materiales a Saisen y completé la misión! Ahora puede fabricar una mayor variedad de accesorios en su taller."}
 {"key": "text/quest#GF_QUEST_208/cliente", "es": "artesano Saisen"}
+{"key": "text/quest#GF_QUEST_208/recompensa", "es": "Accesorios nuevos"}
+{"key": "text/quest#GF_QUEST_208/etiqueta", "es": "Materiales de artesanía 3"}
+{"key": "text/quest#GF_QUEST_208/titulo", "es": "Materiales de artesanía 3"}
+{"key": "text/quest#GF_QUEST_208/aviso", "es": "Karna y compañía, quisiera pedirles que busquen todavía más materiales."}
+{"key": "text/quest#GF_QUEST_208/aviso~2", "es": "Si tienen oportunidad, pasen a verme a mi taller."}
+{"key": "text/quest#GF_QUEST_208/aviso~3", "es": "- Saisen, Taller de Saisen"}
+{"key": "text/quest#GF_QUEST_208/GF_QS208_MEMO01", "es": "Acepté la misión de Saisen y me comprometí a conseguir tres \"huesos titánicos\". Al parecer solo se encuentran en las Tierras Primigenias..."}
+{"key": "text/quest#GF_QUEST_208/GF_QS208_MEMO02", "es": "¡Le entregué los materiales a Saisen y completé la misión! Ahora puede fabricar una mayor variedad de accesorios en su taller."}
 {"key": "text/quest#GF_QUEST_209/cliente", "es": "agente Theresa"}
-{"key": "text/quest#GF_QUEST_210/cliente", "es": "chamán Pippi"}
+{"key": "text/quest#GF_QUEST_209/recompensa", "es": "15000G"}
+{"key": "text/quest#GF_QUEST_209/etiqueta", "es": "Las ranas tiranas"}
+{"key": "text/quest#GF_QUEST_209/titulo", "es": "Las ranas tiranas"}
+{"key": "text/quest#GF_QUEST_209/aviso", "es": "Parece que unos Ribbi-Magi han ocupado la Cueva de la Cascada, que está llena de recursos naturales."}
+{"key": "text/quest#GF_QUEST_209/aviso~2", "es": "Por favor, ahuyéntenlos."}
+{"key": "text/quest#GF_QUEST_209/aviso~3", "es": "- Agente Theresa, Asamblea de la Aldea"}
+{"key": "text/quest#GF_QUEST_209/GF_QS209_MEMO01", "es": "Logré ahuyentar a los Ribbi-Magi. Debería informar a quien hizo el encargo."}
+{"key": "text/quest#GF_QUEST_209/GF_QS209_MEMO02", "es": "Informé a Theresa y recibí mi recompensa."}
+{"key": "text/quest#GF_QUEST_210/cliente", "es": "chamana Pippi"}
+{"key": "text/quest#GF_QUEST_210/recompensa", "es": "Mena de oro x18"}
+{"key": "text/quest#GF_QUEST_210/etiqueta", "es": "El pollito vagabundo"}
+{"key": "text/quest#GF_QUEST_210/titulo", "es": "El pollito vagabundo"}
+{"key": "text/quest#GF_QUEST_210/aviso", "es": "Mi querido Tsukune se escapó de casa. ¿Alguien podría ayudarme a encontrarlo?"}
+{"key": "text/quest#GF_QUEST_210/aviso~2", "es": "Te explicaré todo en persona, así que ven a mi casa."}
+{"key": "text/quest#GF_QUEST_210/aviso~3", "es": "- Pippi, la chamana"}
+{"key": "text/quest#GF_QUEST_210/GF_QS210_MEMO01", "es": "Parece que se ha escapado otro de los pollos de Pippi. Esta vez el fugitivo es un pollo de color marrón llamado Tsukune."}
+{"key": "text/quest#GF_QUEST_210/GF_QS210_MEMO01~2", "es": "Ella sospecha que salió de la aldea y se fue a vagar por la llanura cercana. Igual que con los otros, debo acercarme por detrás."}
+{"key": "text/quest#GF_QUEST_210/GF_QS210_MEMO02", "es": "¡Capturé a Tsukune y completé la misión!"}
 {"key": "text/quest#GF_QUEST_301/cliente", "es": "Ray"}
+{"key": "text/quest#GF_QUEST_301/recompensa", "es": "Surtido de productos recomendados"}
+{"key": "text/quest#GF_QUEST_301/etiqueta", "es": "Tendero por un día"}
+{"key": "text/quest#GF_QUEST_301/titulo", "es": "Tendero por un día"}
+{"key": "text/quest#GF_QUEST_301/aviso", "es": "Busco a alguien que atienda mi tienda mientras me ausento para conseguir mercancía nueva."}
+{"key": "text/quest#GF_QUEST_301/aviso~2", "es": "Si te interesa, habla con Ray en la tienda al aire libre de la plaza de la aldea."}
+{"key": "text/quest#GF_QUEST_301/aviso~3", "es": "#911c[Urgente]#000c     - Ray, el mercader de las sonrisas"}
+{"key": "text/quest#GF_QUEST_301/GF_QS301_MEMO01", "es": "Logré terminar el trabajo, ¡y Ray quedó muy impresionado con mi labor!"}
+{"key": "text/quest#GF_QUEST_301/GF_QS301_MEMO02", "es": "Logré terminar el trabajo, ¡y Ray quedó bastante impresionado con mi labor!"}
+{"key": "text/quest#GF_QUEST_301/GF_QS301_MEMO03", "es": "Logré terminar el trabajo, pero Ray no quedó muy impresionado con mi labor..."}
 {"key": "text/quest#GF_QUEST_302/cliente", "es": "Bonnie"}
+{"key": "text/quest#GF_QUEST_302/recompensa", "es": "2500G"}
+{"key": "text/quest#GF_QUEST_302/etiqueta", "es": "Se busca hidratante"}
+{"key": "text/quest#GF_QUEST_302/titulo", "es": "Se busca hidratante"}
+{"key": "text/quest#GF_QUEST_302/aviso", "es": "La piel seca necesita humedad, así que quisiera que me trajeras diez \"líquidos transparentes\"."}
+{"key": "text/quest#GF_QUEST_302/aviso~2", "es": "Siempre estoy afuera, ¡así que tráemelos allí! ㈱"}
+{"key": "text/quest#GF_QUEST_302/aviso~3", "es": "- Bonnie, amante de las ranas"}
+{"key": "text/quest#GF_QUEST_302/GF_QS302_MEMO01", "es": "Le entregué los objetos pedidos a Bonnie y recibí mi recompensa."}
 {"key": "text/quest#GF_QUEST_303/cliente", "es": "agente Bertha"}
+{"key": "text/quest#GF_QUEST_303/recompensa", "es": "3000G"}
+{"key": "text/quest#GF_QUEST_303/etiqueta", "es": "Un enjambre negro"}
+{"key": "text/quest#GF_QUEST_303/titulo", "es": "Un enjambre negro"}
+{"key": "text/quest#GF_QUEST_303/aviso", "es": "Parece que un enjambre de Vesbiwar ha comenzado a anidar en la Cueva de Jade, más allá del Bosque del Alba. Si se los deja solos, probablemente empiecen a multiplicarse y lleguen hasta el río. Se agradecería mucho que los exterminaran."}
+{"key": "text/quest#GF_QUEST_303/aviso~2", "es": "- Agente Bertha, Asamblea de la Aldea"}
+{"key": "text/quest#GF_QUEST_303/GF_QS303_MEMO01", "es": "¡Derroté a los Vesbiwar! Debería informar a quien hizo el encargo."}
+{"key": "text/quest#GF_QUEST_303/GF_QS303_MEMO02", "es": "Le di mi informe a Bertha y recibí mi recompensa."}
 {"key": "text/quest#GF_QUEST_304/cliente", "es": "Syriu"}
+{"key": "text/quest#GF_QUEST_304/recompensa", "es": "Una increíble \"superarma\""}
+{"key": "text/quest#GF_QUEST_304/etiqueta", "es": "Prueba de superarma"}
+{"key": "text/quest#GF_QUEST_304/titulo", "es": "Prueba de superarma"}
+{"key": "text/quest#GF_QUEST_304/aviso", "es": "Fabriqué algunas armas SÚPER y quisiera que alguien las pruebe en situaciones de combate reales."}
+{"key": "text/quest#GF_QUEST_304/aviso~2", "es": "Si hay alguien que sepa usar una espada o un guantelete y quiera ayudarme, que se acerque a la herrería."}
+{"key": "text/quest#GF_QUEST_304/aviso~3", "es": "- Syriu, herrera aficionada"}
+{"key": "text/quest#GF_QUEST_304/GF_QS304_MEMO01", "es": "Aceptamos ayudar a Syriu, la amiga de Ozma, probando un arma que ella creó."}
+{"key": "text/quest#GF_QUEST_304/GF_QS304_MEMO01~2", "es": "Nos dieron a elegir entre una espada y un guantelete, y elegí la espada. Luego nos dijeron que la equipáramos y la usáramos para derrotar a cinco bestias llamadas Rangoa."}
+{"key": "text/quest#GF_QUEST_304/GF_QS304_MEMO01~3", "es": "Los Rangoa se encuentran en la parte occidental del Bosque del Alba."}
+{"key": "text/quest#GF_QUEST_304/GF_QS304_MEMO02", "es": "Aceptamos ayudar a Syriu, la amiga de Ozma, probando un arma que ella creó."}
+{"key": "text/quest#GF_QUEST_304/GF_QS304_MEMO02~2", "es": "Nos dieron a elegir entre una espada y un guantelete, y Duren eligió el guantelete. Luego nos dijeron que lo equipáramos y lo usáramos para derrotar a cinco bestias llamadas Rangoa."}
+{"key": "text/quest#GF_QUEST_304/GF_QS304_MEMO02~3", "es": "Los Rangoa se encuentran en la parte occidental del Bosque del Alba."}
+{"key": "text/quest#GF_QUEST_304/GF_QS304_MEMO03", "es": "¡Derrotamos a cinco Rangoa con el arma equipada! Deberíamos informar a Syriu."}
+{"key": "text/quest#GF_QUEST_304/GF_QS304_MEMO04", "es": "Le devolvimos el arma a Syriu, quien la modificó y nos la entregó como recompensa."}
+{"key": "text/quest#GF_QUEST_304/GF_QS304_MEMO04~2", "es": "Al recibir la Espada ardiente fabulosa... o más bien, la Espada de fuego, la misión queda completa."}
+{"key": "text/quest#GF_QUEST_304/GF_QS304_MEMO05", "es": "Le devolvimos el arma a Syriu, quien la modificó y nos la entregó como recompensa."}
+{"key": "text/quest#GF_QUEST_304/GF_QS304_MEMO05~2", "es": "Al recibir el Guantelete tóxico soberbio... o más bien, el Puño venenoso, la misión queda completa."}
 {"key": "text/quest#GF_QUEST_305/cliente", "es": "Syriu"}
+{"key": "text/quest#GF_QUEST_305/recompensa", "es": "Una increíble \"hiperarma\""}
+{"key": "text/quest#GF_QUEST_305/etiqueta", "es": "Prueba de hiperarma"}
+{"key": "text/quest#GF_QUEST_305/titulo", "es": "Prueba de hiperarma"}
+{"key": "text/quest#GF_QUEST_305/aviso", "es": "Fabriqué algunas armas HÍPER y quisiera que alguien las pruebe en situaciones de combate reales."}
+{"key": "text/quest#GF_QUEST_305/aviso~2", "es": "Si hay alguien que sepa usar cuchillos o una lanza y quiera ayudarme, que se acerque a la herrería."}
+{"key": "text/quest#GF_QUEST_305/aviso~3", "es": "- Syriu, herrera de nivel intermedio"}
+{"key": "text/quest#GF_QUEST_305/GF_QS305_MEMO01", "es": "Terminamos probando otra arma para Syriu."}
+{"key": "text/quest#GF_QUEST_305/GF_QS305_MEMO01~2", "es": "Nos pidieron elegir entre una lanza y un juego de cuchillos arrojadizos, y Karna eligió los cuchillos. Luego nos pidieron que los equipáramos y los usáramos para derrotar a cinco bestias llamadas \"Crocle\"."}
+{"key": "text/quest#GF_QUEST_305/GF_QS305_MEMO01~3", "es": "Los Crocle se encuentran a la orilla del río o en la parte occidental del Bosque del Alba."}
+{"key": "text/quest#GF_QUEST_305/GF_QS305_MEMO02", "es": "Terminamos probando otra arma para Syriu."}
+{"key": "text/quest#GF_QUEST_305/GF_QS305_MEMO02~2", "es": "Nos pidieron elegir entre una lanza y un juego de cuchillos arrojadizos, y Ozma eligió la lanza. Luego nos pidieron que la equipáramos y la usáramos para derrotar a cinco bestias llamadas \"Crocle\"."}
+{"key": "text/quest#GF_QUEST_305/GF_QS305_MEMO02~3", "es": "Los Crocle se encuentran a la orilla del río o en la parte occidental del Bosque del Alba."}
+{"key": "text/quest#GF_QUEST_305/GF_QS305_MEMO03", "es": "¡Derrotamos a cinco Crocle con el arma equipada! Deberíamos ir a darle nuestro informe a Syriu."}
+{"key": "text/quest#GF_QUEST_305/GF_QS305_MEMO04", "es": "Le devolvimos el arma a Syriu, quien la modificó y nos la entregó como recompensa."}
+{"key": "text/quest#GF_QUEST_305/GF_QS305_MEMO04~2", "es": "Al recibir los Cuchillos viscosos increíbles... o más bien, el Filo de araña, la misión queda completa."}
+{"key": "text/quest#GF_QUEST_305/GF_QS305_MEMO05", "es": "Le devolvimos el arma a Syriu, quien la modificó y nos la entregó como recompensa."}
+{"key": "text/quest#GF_QUEST_305/GF_QS305_MEMO05~2", "es": "Al recibir la Lanza del trueno temible... o más bien, la Lanza relámpago, la misión queda completa."}
 {"key": "text/quest#GF_QUEST_306/cliente", "es": "Syriu"}
+{"key": "text/quest#GF_QUEST_306/recompensa", "es": "Una increíble \"megaarma\""}
+{"key": "text/quest#GF_QUEST_306/etiqueta", "es": "Prueba de megaarma"}
+{"key": "text/quest#GF_QUEST_306/titulo", "es": "Prueba de megaarma"}
+{"key": "text/quest#GF_QUEST_306/aviso", "es": "Fabriqué algunas armas MEGA y quisiera que alguien las pruebe en situaciones de combate reales."}
+{"key": "text/quest#GF_QUEST_306/aviso~2", "es": "Si hay alguien que sepa usar una maza o una alabarda y quiera ayudarme, que se acerque a la herrería."}
+{"key": "text/quest#GF_QUEST_306/aviso~3", "es": "- Syriu, herrera avanzada"}
+{"key": "text/quest#GF_QUEST_306/GF_QS306_MEMO01", "es": "Terminamos probando otro juego de armas para Syriu."}
+{"key": "text/quest#GF_QUEST_306/GF_QS306_MEMO01~2", "es": "Nos pidieron elegir entre una maza y una alabarda, y Calilica eligió la maza. Luego nos pidieron que la equipáramos y la usáramos para derrotar a cinco bestias llamadas \"Madogra-Slef\"."}
+{"key": "text/quest#GF_QUEST_306/GF_QS306_MEMO01~3", "es": "Syriu se enteró de la existencia de los Madogra-Slef por un texto antiguo. Al parecer, habitan en las Tierras Primigenias."}
+{"key": "text/quest#GF_QUEST_306/GF_QS306_MEMO02", "es": "Terminamos probando otro juego de armas para Syriu."}
+{"key": "text/quest#GF_QUEST_306/GF_QS306_MEMO02~2", "es": "Nos pidieron elegir entre una maza y una alabarda, y Frieda eligió la alabarda. Luego nos pidieron que la equipáramos y la usáramos para derrotar a cinco bestias llamadas \"Madogra-Slef\"."}
+{"key": "text/quest#GF_QUEST_306/GF_QS306_MEMO02~3", "es": "Syriu se enteró de la existencia de los Madogra-Slef por un texto antiguo. Al parecer, habitan en las Tierras Primigenias."}
+{"key": "text/quest#GF_QUEST_306/GF_QS306_MEMO03", "es": "¡Derrotamos a cinco Madogra-Slef con el arma equipada! Deberíamos ir a darle nuestro informe a Syriu."}
+{"key": "text/quest#GF_QUEST_306/GF_QS306_MEMO04", "es": "Le devolvimos el arma a Syriu, quien la modificó y nos la entregó como recompensa."}
+{"key": "text/quest#GF_QUEST_306/GF_QS306_MEMO04~2", "es": "Al recibir la Maza mortal extrema... o más bien, el Hiperquebrantador, la misión queda completa."}
+{"key": "text/quest#GF_QUEST_306/GF_QS306_MEMO05", "es": "Le devolvimos el arma a Syriu, quien la modificó y nos la entregó como recompensa."}
+{"key": "text/quest#GF_QUEST_306/GF_QS306_MEMO05~2", "es": "Al recibir la Alabarda helada increíble... o más bien, el Hacha cruel, la misión queda completa."}
 {"key": "text/quest#GF_QUEST_307/cliente", "es": "agente Bertha"}
+{"key": "text/quest#GF_QUEST_307/recompensa", "es": "15000G"}
+{"key": "text/quest#GF_QUEST_307/etiqueta", "es": "Enjambre escarlata"}
+{"key": "text/quest#GF_QUEST_307/titulo", "es": "Enjambre escarlata"}
+{"key": "text/quest#GF_QUEST_307/aviso", "es": "Parece que un enjambre de \"Vesbilzon\" ha anidado en la Cueva de Jade."}
+{"key": "text/quest#GF_QUEST_307/aviso~2", "es": "Se agradecería que los exterminaran pronto."}
+{"key": "text/quest#GF_QUEST_307/aviso~3", "es": "- Agente Bertha, Asamblea de la Aldea"}
+{"key": "text/quest#GF_QUEST_307/GF_QS307_MEMO01", "es": "¡Derroté a los Vesbilzon! Debería informar a quien hizo el encargo."}
+{"key": "text/quest#GF_QUEST_307/GF_QS307_MEMO02", "es": "Informé a Bertha y recibí mi recompensa."}
 {"key": "text/quest#GF_QUEST_308/cliente", "es": "Rilche"}
+{"key": "text/quest#GF_QUEST_308/recompensa", "es": "Sonrisas"}
+{"key": "text/quest#GF_QUEST_308/etiqueta", "es": "Regalo feliz"}
+{"key": "text/quest#GF_QUEST_308/titulo", "es": "Regalo feliz"}
+{"key": "text/quest#GF_QUEST_308/aviso", "es": "Nezezito unaz florez bonitaz para hazer algo lindo. Eztaré ezperando frente a mi caza. Mi caza eztá en el norte del pueblo."}
+{"key": "text/quest#GF_QUEST_308/aviso~2", "es": "- Rilche"}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO01", "es": "Rilche expresó su deseo de hacer una guirnalda, y acordamos reunir las flores para ella. Al parecer sirve cualquier flor, siempre que tengamos tres de la misma variedad."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO02", "es": "Le dimos tres flores de marl a Rilche y nos llevaron a ver a Cecily, la amiga de la infancia de Ozma."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO02~2", "es": "Cecily le enseñó a Rilche a hacer una guirnalda, algo que ella había planeado desde el principio para que Cecily se la diera a Ozma."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO02~3", "es": "Esta misión me dejó una sensación cálida y agradable."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO03", "es": "Le dimos tres flores de yupel a Rilche y nos llevaron a ver a Cecily, la amiga de la infancia de Ozma."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO03~2", "es": "Cecily le enseñó a Rilche a hacer una guirnalda, algo que ella había planeado desde el principio para que Cecily se la diera a Ozma."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO03~3", "es": "Esta misión me dejó una sensación cálida y agradable."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO04", "es": "Le dimos tres flores de libra a Rilche y nos llevaron a ver a Cecily, la amiga de la infancia de Ozma."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO04~2", "es": "Cecily le enseñó a Rilche a hacer una guirnalda, algo que ella había planeado desde el principio para que Cecily se la diera a Ozma."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO04~3", "es": "Esta misión me dejó una sensación cálida y agradable."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO05", "es": "Le dimos tres flores celcetanas a Rilche y fuimos a ver a Cecily, la amiga de la infancia de Ozma."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO05~2", "es": "Cecily le enseñó a Rilche a hacer una guirnalda, algo que ella había planeado desde el principio para que Cecily se la diera a Ozma."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO05~3", "es": "Esta misión me dejó una sensación cálida y agradable."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO06", "es": "Le dimos a Rilche tres flores de cada una de cuatro variedades distintas y nos llevaron a ver a Cecily, la amiga de la infancia de Ozma."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO06~2", "es": "Cecily le enseñó a Rilche a hacer una guirnalda, algo que ella había planeado desde el principio para que Cecily se la diera a Ozma."}
+{"key": "text/quest#GF_QUEST_308/GF_QS308_MEMO06~3", "es": "Esta misión me dejó una sensación cálida y agradable."}
 {"key": "text/quest#GF_QUEST_309/cliente", "es": "Syriu"}
+{"key": "text/quest#GF_QUEST_309/recompensa", "es": "Arma legendaria"}
+{"key": "text/quest#GF_QUEST_309/etiqueta", "es": "Arma legendaria"}
+{"key": "text/quest#GF_QUEST_309/titulo", "es": "Arma legendaria"}
+{"key": "text/quest#GF_QUEST_309/aviso", "es": "Ozma y amigos, ¿les gustaría resucitar una antigua leyenda conmigo?"}
+{"key": "text/quest#GF_QUEST_309/aviso~2", "es": "Si es así, vengan a la herrería. ¡Los estaré esperando!"}
+{"key": "text/quest#GF_QUEST_309/aviso~3", "es": "- Syriu, maestra herrera"}
+{"key": "text/quest#GF_QUEST_309/GF_QS309_MEMO01", "es": "Aceptamos la misión de Syriu para ayudarla a recrear un arma legendaria. Nos pidió que encontráramos una mena poco común llamada piedra solar."}
+{"key": "text/quest#GF_QUEST_309/GF_QS309_MEMO02", "es": "Le entregamos la piedra solar a Syriu y ella forjó un arma legendaria para nosotros. Además, recibimos una armadura legendaria de Hakan."}
+{"key": "text/quest#GF_QUEST_309/GF_QS309_MEMO02~2", "es": "Si le llevamos más piedras solares a Syriu, podrá hacernos más armas."}
 {"key": "text/quest#GF_QUEST_401/cliente", "es": "Philemon"}
 {"key": "text/quest#GF_QUEST_401/etiqueta", "es": "Liberar artefactos"}
 {"key": "text/quest#GF_QUEST_401/titulo", "es": "Liberar artefactos"}
+{"key": "text/quest#GF_QUEST_401/aviso", "es": "Adol y amigos, tengo algo que hablar con ustedes sobre sus artefactos. Creo que les interesará. Pasen a verme a mi taller cuando puedan."}
+{"key": "text/quest#GF_QUEST_401/aviso~2", "es": "- Philemon, Taller de Philemon"}
+{"key": "text/quest#GF_QUEST_401/GF_QS401_MEMO01", "es": "Philemon aceptó liberar uno de nuestros artefactos y nos pidió que le lleváramos una esmeralda y un topacio."}
+{"key": "text/quest#GF_QUEST_401/GF_QS401_MEMO02", "es": "Le entregamos las gemas a Philemon, quien liberó el poder del brazalete enano."}
+{"key": "text/quest#GF_QUEST_401/GF_QS401_MEMO02~2", "es": "Además, dijo que si tenemos otros artefactos que liberar, debemos hablar con Timali."}
 {"key": "text/quest#GF_QUEST_402/cliente", "es": "Oona"}
+{"key": "text/quest#GF_QUEST_402/recompensa", "es": "10000G"}
+{"key": "text/quest#GF_QUEST_402/etiqueta", "es": "Compra de plata"}
+{"key": "text/quest#GF_QUEST_402/titulo", "es": "Compra de plata"}
+{"key": "text/quest#GF_QUEST_402/aviso", "es": "Deseo comprar tres lingotes de plata a un precio alto."}
+{"key": "text/quest#GF_QUEST_402/aviso~2", "es": "Si les interesa, ¡vengan a mi Mercado Oona!"}
+{"key": "text/quest#GF_QUEST_402/aviso~3", "es": "- Oona, la comerciante intrépida"}
+{"key": "text/quest#GF_QUEST_402/GF_QS402_MEMO01", "es": "La dueña de la tienda había aceptado darme un material extra, pero por buscar algo mejor, parece que me pasé de la raya..."}
+{"key": "text/quest#GF_QUEST_402/GF_QS402_MEMO02", "es": "¡Logré vender los lingotes de plata!"}
+{"key": "text/quest#GF_QUEST_402/GF_QS402_MEMO03", "es": "Por buscar algo extra además de las monedas, recibí un material adicional."}
+{"key": "text/quest#GF_QUEST_402/GF_QS402_MEMO04", "es": "Por buscar algo extra además de las monedas, ¡recibí un material poco común!"}
 {"key": "text/quest#GF_QUEST_403/cliente", "es": "Mariana"}
+{"key": "text/quest#GF_QUEST_403/recompensa", "es": "5000G"}
+{"key": "text/quest#GF_QUEST_403/etiqueta", "es": "Guardianes perdidos"}
+{"key": "text/quest#GF_QUEST_403/titulo", "es": "Guardianes perdidos"}
+{"key": "text/quest#GF_QUEST_403/aviso", "es": "Tengo un encargo personal para Adol y sus amigos."}
+{"key": "text/quest#GF_QUEST_403/aviso~2", "es": "Por favor, hablen conmigo en la catedral."}
+{"key": "text/quest#GF_QUEST_403/aviso~3", "es": "- Mariana"}
+{"key": "text/quest#GF_QUEST_403/GF_QS403_MEMO01", "es": "Aceptamos la misión de Mariana y acordamos derrotar a los cinco guardianes que se alejaron de la Torre de la Providencia y llegaron al Santuario de las Tormentas."}
+{"key": "text/quest#GF_QUEST_403/GF_QS403_MEMO02", "es": "¡Derrotamos a los cinco guardianes! Deberíamos volver con Mariana e informarle."}
+{"key": "text/quest#GF_QUEST_403/GF_QS403_MEMO03", "es": "Le di mi informe a Mariana y completé la misión."}
 {"key": "text/quest#GF_QUEST_404/cliente", "es": "Ethan"}
+{"key": "text/quest#GF_QUEST_404/recompensa", "es": "Flor celcetana x2"}
+{"key": "text/quest#GF_QUEST_404/etiqueta", "es": "Coleccionista de firmas"}
+{"key": "text/quest#GF_QUEST_404/titulo", "es": "Coleccionista de firmas"}
+{"key": "text/quest#GF_QUEST_404/aviso", "es": "Hay algunas páginas de mi cuaderno favorito que no logro llenar. ¿Alguien querría ayudarme a llenarlas? Mi casa está a la izquierda de la mansión del alcalde."}
+{"key": "text/quest#GF_QUEST_404/aviso~2", "es": "- Ethan"}
+{"key": "text/quest#GF_QUEST_404/GF_QS404_MEMO01", "es": "Acordamos llenar las tres páginas que faltan del cuaderno de Ethan. Para eso, tendremos que encontrar personas cuyos nombres empiecen con las letras Q, U y Z."}
+{"key": "text/quest#GF_QUEST_404/GF_QS404_MEMO02", "es": "Recibimos la firma de Quincy, de Casnan, y llenamos la página de la \"Q\"."}
+{"key": "text/quest#GF_QUEST_404/GF_QS404_MEMO03", "es": "Recibimos la firma de Ursula, de Danan, y llenamos la página de la \"U\"."}
+{"key": "text/quest#GF_QUEST_404/GF_QS404_MEMO04", "es": "Recibimos la firma de Zara, de Selray, y llenamos la página de la \"Z\"."}
+{"key": "text/quest#GF_QUEST_404/GF_QS404_MEMO05", "es": "Le devolvimos a Ethan el cuaderno completo. ¡Otro trabajo bien hecho!"}
 {"key": "text/quest#GF_QUEST_405/cliente", "es": "Cordelia"}
+{"key": "text/quest#GF_QUEST_405/recompensa", "es": "25000G"}
+{"key": "text/quest#GF_QUEST_405/etiqueta", "es": "Gritos del abismo"}
+{"key": "text/quest#GF_QUEST_405/titulo", "es": "Gritos del abismo"}
+{"key": "text/quest#GF_QUEST_405/aviso", "es": "El otro día, cuando estaba en el cementerio, oí un chillido terrible, como de otro mundo."}
+{"key": "text/quest#GF_QUEST_405/aviso~2", "es": "No puedo dormir por eso. Por favor, vengan a hablar conmigo. Estaré cerca de la entrada del pueblo."}
+{"key": "text/quest#GF_QUEST_405/aviso~3", "es": "- Cordelia"}
+{"key": "text/quest#GF_QUEST_405/GF_QS405_MEMO01", "es": "Aceptamos la \"misión\" de Cordelia y acordamos exterminar a las \"bestias\" de las Ruinas Subterráneas."}
+{"key": "text/quest#GF_QUEST_405/GF_QS405_MEMO02", "es": "Derrotamos a los monstruos de las Ruinas Subterráneas, que se habían puesto en formación y parecían estar tramando algo. Deberíamos informar a Cordelia."}
+{"key": "text/quest#GF_QUEST_405/GF_QS405_MEMO03", "es": "Le dimos nuestro informe a Cordelia y completamos la misión."}
 {"key": "text/quest#GF_QUEST_501/cliente", "es": "Yami"}
+{"key": "text/quest#GF_QUEST_501/recompensa", "es": "Elixires raros y valiosos"}
+{"key": "text/quest#GF_QUEST_501/etiqueta", "es": "Síntesis secreta"}
+{"key": "text/quest#GF_QUEST_501/titulo", "es": "Síntesis secreta"}
+{"key": "text/quest#GF_QUEST_501/aviso", "es": "Necesito los ingredientes para cierto elixir ultrasecreto."}
+{"key": "text/quest#GF_QUEST_501/aviso~2", "es": "Les daré más detalles en persona, así que hablen conmigo en mi laboratorio."}
+{"key": "text/quest#GF_QUEST_501/aviso~3", "es": "- Yami, el boticario"}
+{"key": "text/quest#GF_QUEST_501/GF_QS501_MEMO01", "es": "Aceptamos la misión de Yami y acordamos reunir los ingredientes de este elixir."}
+{"key": "text/quest#GF_QUEST_501/GF_QS501_MEMO01~2", "es": "Según él, necesitaremos uno de cada uno de estos ocho ingredientes: flor de yupel, flor de libra, fruta de raparo, fruta de arieda, órgano venenoso, extracto de rana, líquido ácido y moho viscoso."}
+{"key": "text/quest#GF_QUEST_501/GF_QS501_MEMO02", "es": "Para sorpresa de todos, el elixir era en realidad un elixir antienvejecimiento para Vanjo. En fin, sea como sea, ¡la misión está completa!"}
 {"key": "text/quest#GF_QUEST_502/cliente", "es": "Mikuri"}
+{"key": "text/quest#GF_QUEST_502/recompensa", "es": "Tabletas"}
+{"key": "text/quest#GF_QUEST_502/etiqueta", "es": "Amuleto de la suerte"}
+{"key": "text/quest#GF_QUEST_502/titulo", "es": "Amuleto de la suerte"}
+{"key": "text/quest#GF_QUEST_502/aviso", "es": "Busco un accesorio que aumente mi suerte. Si tienen algo que parezca servir, tráiganmelo. Les daré una recompensa adecuada."}
+{"key": "text/quest#GF_QUEST_502/aviso~2", "es": "- Mikuri, que quiere ser feliz"}
+{"key": "text/quest#GF_QUEST_502/GF_QS502_MEMO01", "es": "Le dimos un amuleto de dragón plateado a Mikuri que, aunque no quedó muy impresionada, lo aceptó."}
+{"key": "text/quest#GF_QUEST_502/GF_QS502_MEMO02", "es": "Le dimos un amuleto de dragón dorado a Mikuri, que quedó muy contenta."}
+{"key": "text/quest#GF_QUEST_502/GF_QS502_MEMO03", "es": "Le dimos un hacha de plata a Mikuri, que quedó bastante contenta."}
+{"key": "text/quest#GF_QUEST_502/GF_QS502_MEMO04", "es": "Le dimos un hacha de oro a Mikuri, que quedó algo contenta."}
 {"key": "text/quest#GF_QUEST_503/cliente", "es": "bibliotecaria Greta"}
+{"key": "text/quest#GF_QUEST_503/recompensa", "es": "10000G"}
+{"key": "text/quest#GF_QUEST_503/etiqueta", "es": "Flores del crepúsculo"}
+{"key": "text/quest#GF_QUEST_503/titulo", "es": "Flores del crepúsculo"}
+{"key": "text/quest#GF_QUEST_503/aviso", "es": "Me han informado de que se ha avistado un peligroso monstruo vegetal llamado \"Anderaula\" en el Bosque Subterráneo. Agradecería que alguien fuera a derrotarlo."}
+{"key": "text/quest#GF_QUEST_503/aviso~2", "es": "- Bibliotecaria Greta, Archivos Negros"}
+{"key": "text/quest#GF_QUEST_503/GF_QS503_MEMO01", "es": "¡Derrotamos a la Anderaula! Deberíamos informar a quien hizo el encargo."}
+{"key": "text/quest#GF_QUEST_503/GF_QS503_MEMO02", "es": "Le dimos nuestro informe a Greta y recibimos nuestra recompensa."}
 {"key": "text/quest#GF_QUEST_504/cliente", "es": "explorador Pigeon"}
+{"key": "text/quest#GF_QUEST_504/recompensa", "es": "25000G"}
+{"key": "text/quest#GF_QUEST_504/etiqueta", "es": "A la caza de Rabbit"}
+{"key": "text/quest#GF_QUEST_504/titulo", "es": "A la caza de Rabbit"}
+{"key": "text/quest#GF_QUEST_504/aviso", "es": "Necesito a alguien que me ayude a buscar a mi compañera. La vi por última vez en el Bosque de Ceniza."}
+{"key": "text/quest#GF_QUEST_504/aviso~2", "es": "Para más detalles, hablen conmigo en persona. Estaré en la tienda de objetos."}
+{"key": "text/quest#GF_QUEST_504/aviso~3", "es": "- Pigeon, el explorador amante de la paz"}
+{"key": "text/quest#GF_QUEST_504/GF_QS504_MEMO01", "es": "Hablamos con el explorador Pigeon, que viene desde Casnan, y acordamos ayudarlo a encontrar a su compañera, Rabbit. Al parecer se separaron en el Bosque de Ceniza. ¡Hay que empezar a buscar!"}
+{"key": "text/quest#GF_QUEST_504/GF_QS504_MEMO02", "es": "Encontramos a Rabbit en la Posada de las Ranas. Intentamos convencerla de volver a Danan con nosotros, pero se negó, decidida a volver por su cuenta."}
+{"key": "text/quest#GF_QUEST_504/GF_QS504_MEMO03", "es": "Volvimos a Danan, pero no había rastro de Rabbit."}
+{"key": "text/quest#GF_QUEST_504/GF_QS504_MEMO03~2", "es": "Pigeon sugirió que probablemente llegó a algún lugar importante, como una cueva o un campamento..."}
+{"key": "text/quest#GF_QUEST_504/GF_QS504_MEMO04", "es": "Encontramos a Rabbit en el campamento frente al Bosque de las Esporas y la llevamos de vuelta con Pigeon."}
+{"key": "text/quest#GF_QUEST_504/GF_QS504_MEMO04~2", "es": "Aunque el misterio de su relación sigue sin resolverse, la misión está completa."}
 {"key": "text/quest#GF_QUEST_505/cliente", "es": "Sydow"}
+{"key": "text/quest#GF_QUEST_505/recompensa", "es": "20000G"}
+{"key": "text/quest#GF_QUEST_505/etiqueta", "es": "Espíritu rencoroso"}
+{"key": "text/quest#GF_QUEST_505/titulo", "es": "Espíritu rencoroso"}
+{"key": "text/quest#GF_QUEST_505/aviso", "es": "A la atención de Duren y Frieda: hay algo que quisiera que hicieran por mí en el Bosque de Ceniza."}
+{"key": "text/quest#GF_QUEST_505/aviso~2", "es": "Si pueden, vengan a verme a los Archivos Negros."}
+{"key": "text/quest#GF_QUEST_505/aviso~3", "es": "- Sydow"}
+{"key": "text/quest#GF_QUEST_505/GF_QS505_MEMO01", "es": "Aceptamos el magatama sangriento de Sydow y acordamos purificarlo."}
+{"key": "text/quest#GF_QUEST_505/GF_QS505_MEMO01~2", "es": "Primero, debemos equipar el magatama sangriento. Luego, debemos usarlo para guiar el alma del caballero caído del Bosque de Ceniza hasta su armadura. Después, tomará forma y tendremos que derrotarlo en combate para que descanse en paz."}
+{"key": "text/quest#GF_QUEST_505/GF_QS505_MEMO02", "es": "Derrotamos en combate al antiguo caballero. Deberíamos informar a Sydow."}
+{"key": "text/quest#GF_QUEST_505/GF_QS505_MEMO03", "es": "Le dimos nuestro informe a Sydow y completamos la misión. Recibimos el magatama del caballero sagrado."}

@@ -31,14 +31,14 @@ Actualizado: 2026-11-18.
 ### Secciones
 
 <!-- loc:progress -->
-**Etapa actual:** Fase 6. Traducción: Bestiario, nombres y PNJ
+**Etapa actual:** Fase 6. Traducción: Guiones
 
 | Sección | Líneas | Traducidas | Avance |
 |---|---:|---:|---:|
 | Interfaz | 994 | 994 | 100,0 % |
 | Objetos, materiales y habilidades | 1.381 | 1.381 | 100,0 % |
 | Bestiario, nombres y PNJ | 1.267 | 1.267 | 100,0 % |
-| Diario, misiones y recuerdos | 779 | 98 | 12,6 % |
-| Guiones | 14.602 | 272 | 1,9 % |
-| **Total** | **19.023** | **4.012** | **21,1 %** |
+| Diario, misiones y recuerdos | 779 | 779 | 100,0 % |
+| Guiones | 14.602 | 273 | 1,9 % |
+| **Total** | **19.023** | **4.694** | **24,7 %** |
 <!-- /loc:progress -->
