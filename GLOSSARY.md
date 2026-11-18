@@ -105,6 +105,9 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Ancient Burrow | Madriguera Antigua | Decidido (G-2), DECISIONS 2026-11-18 | Lugar. |
 | Lake Tolmes | lago Tolmes | Decidido (G-2), DECISIONS 2026-11-18 | «Lake Tolmes Ruins» → «Ruinas del Lago Tolmes». |
 | Central Area | Área Central | Decidido (G-2), DECISIONS 2026-11-18 | Zonas de Iris: «Bronze/Silver/Gold Area» → «Área de Bronce/de Plata/de Oro». |
+| Bronze Area | Área de Bronce | Decidido (G-2), DECISIONS 2026-11-18 | Zona de Iris. |
+| Silver Area | Área de Plata | Decidido (G-2), DECISIONS 2026-11-18 | Zona de Iris. |
+| Gold Area | Área de Oro | Decidido (G-2), DECISIONS 2026-11-18 | Zona de Iris. |
 | Colonia Battlefield | Campo de Batalla de Colonia | Decidido (G-2), DECISIONS 2026-11-18 | «Colonia Artifact Laboratory» (y «Lab») → «Laboratorio de Artefactos de Colonia». |
 | Roos' Nest | Nido de los Roos | Decidido (G-2), DECISIONS 2026-11-18 | Lugar. |
 | Forest Labyrinth | Laberinto del Bosque | Decidido (G-2), DECISIONS 2026-11-18 | Lugar. |
@@ -192,3 +195,34 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Flame Sword | Espada de fuego | Decidido (G-2), DECISIONS 2026-11-18 | Arma (versión mejorada de la anterior). |
 | Burning | Quemadura | Decidido (G-2), DECISIONS 2026-11-18 | Efecto de arma: «Burning 30%» → «Quemadura 30%», como «Burn». |
 | spirit tree sapling | retoño de árbol espiritual | Decidido (G-2), DECISIONS 2026-11-18 | Punto de descanso del diario. |
+| Clear Data | datos completados | Decidido (G-2), DECISIONS 2026-11-18 | Datos de partida terminada: «[Clear Data] %s». |
+| Item Completion | Objetos reunidos | Decidido (G-2), DECISIONS 2026-11-18 | Registro de partida. |
+| Animals Charmed | Animales cautivados | Decidido (G-2), DECISIONS 2026-11-18 | Registro de partida. |
+| Maximum Gold | Monedas máximas | Decidido (G-2), DECISIONS 2026-11-18 | Registro de partida (con «gold» → «monedas»). |
+| Fewest Retries | Menos reintentos | Decidido (G-2), DECISIONS 2026-11-18 | Registro de Contrarreloj. |
+| Landmark | Hito | Decidido (G-2), DECISIONS 2026-11-18 | Marca del mapa. |
+| Dungeon | Mazmorra | Decidido (G-2), DECISIONS 2026-11-18 | Tipo de mapa. |
+| Marker | Marcador | Decidido (G-2), DECISIONS 2026-11-18 | Marca del mapa; «warp marker» → «marcador de transporte». |
+| Gamepad | Control | Decidido (G-2), DECISIONS 2026-11-18 | Configuración de botones. |
+| Rank | Puesto | Decidido (G-2), DECISIONS 2026-11-18 | Clasificaciones. |
+| Self | Personal | Decidido (G-2), DECISIONS 2026-11-18 | Pestaña de clasificación, junto a «Global». |
+| Stargazer Ruins | Ruinas del Observatorio | Decidido (G-2), DECISIONS 2026-11-18 | Lugar. |
+| Tranquil Hill | Colina Tranquila | Decidido (G-2), DECISIONS 2026-11-18 | Lugar. |
+| Mt. Base | Base del monte | Decidido (G-2), DECISIONS 2026-11-18 | Destino de transporte; «Mt. Pass» → «Paso del monte». |
+| Dive | Bucear | Decidido (G-2), DECISIONS 2026-11-18 | Acción en el agua; «Surface» → «Emerger». |
+| Pick Lock | Forzar cerradura | Decidido (G-2), DECISIONS 2026-11-18 | Acción de campo. |
+| Req. Materials | Mat. necesarios | Decidido (G-2), DECISIONS 2026-11-18 | Junto a «PH nec.». |
+| Ally AI | IA aliada | Decidido (G-2), DECISIONS 2026-11-18 | Opción. |
+| Gamepad Settings | Config. de control | Decidido (G-2), DECISIONS 2026-11-18 | «Keyboard/Mouse Settings» → «Config. de teclado/mouse». |
+| Antialiasing | Suavizado de bordes | Decidido (G-2), DECISIONS 2026-11-18 | Opción gráfica. |
+| Framerate | Tasa de cuadros | Decidido (G-2), DECISIONS 2026-11-18 | Opción gráfica; «frames» → «cuadros». |
+| Bloom | Bloom | Decidido (G-2), DECISIONS 2026-11-18 | Opción gráfica, sin traducir. |
+| HDR Glare | Resplandor de HDR | Decidido (G-2), DECISIONS 2026-11-18 | Opción gráfica; «resplandor» también en la ayuda. Escala: «Mínima / Débil / Predeterminada / Fuerte / Máxima». |
+| Slash type | Tipo corte | Decidido (G-2), DECISIONS 2026-11-18 | «Strike type» → «Tipo impacto»; «Pierce type» → «Tipo perforación». |
+| Expired | Vencida | Decidido (G-2), DECISIONS 2026-11-18 | Misión con plazo. |
+| Enable | Activar | Decidido (G-2), DECISIONS 2026-11-18 | «Disable» → «Desactivar». |
+| Low / Med / High | Baja / Media / Alta | Decidido (G-2), DECISIONS 2026-11-18 | Calidad gráfica. |
+| Borderless | Sin bordes | Decidido (G-2), DECISIONS 2026-11-18 | Modo de pantalla. |
+| Left/Right Trigger | Gatillo izq./der. | Decidido (G-2), DECISIONS 2026-11-18 | Control; «Left/Right Stick» → «Stick I/D». |
+| Page Up / Page Down | Re Pág / Av Pág | Decidido (G-2), DECISIONS 2026-11-18 | Teclas; «Backspace» → «Retroceso», «Left/Right Shift» → «Mayús izq./der.». |
+| Voice On / Off | Sí / No | Decidido (G-2), DECISIONS 2026-11-18 | Opción de voz; «Adol voice off» → «Adol desactivado». |

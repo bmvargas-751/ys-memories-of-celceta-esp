@@ -71,7 +71,11 @@ Obligatorio: sin él, `loc.py prepare` no arma lotes.
 
 ### Fase 6. Traducción
 
-- [ ] (una casilla por sección de `loc.json`)
+- [x] Interfaz (994 líneas; 2026-11-18, lotes interfaz-001 a 004).
+- [ ] Objetos, materiales y habilidades
+- [ ] Bestiario, nombres y PNJ
+- [ ] Diario, misiones y recuerdos
+- [ ] Guiones
 
 ### Fase 7. Prueba en el juego
 
