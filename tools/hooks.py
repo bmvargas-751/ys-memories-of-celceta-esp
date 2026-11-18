@@ -41,6 +41,7 @@ def missing_chars(key, es):
     return out
 
 
+PRINTF = re.compile(r"%[-+ 0#]*\d*(?:\.\d+)?[sdiuxXfc]")  # el ancho de la nota se midió sin ellos
 NOTE = re.compile(r"\((\d+|renglones libres)(?: renglón| renglones)?, ancho (\d+)\)")
 
 
@@ -51,12 +52,14 @@ def check(key, item, es):
         return []
     width = int(m.group(2))
     try:
-        lines = C.reflow(font(), es, width)
+        # Un «\n» es un salto de renglón: cada tramo se reparte por su cuenta.
+        lines = [ln for part in es.split("\n") for ln in C.reflow(font(), PRINTF.sub("", part), width)]
     except UnicodeEncodeError:
         return []  # ya lo informa missing_chars
     if m.group(1) == "renglones libres":
         return []
-    maxl = int(m.group(1))
+    # Los saltos del original cuentan como renglones disponibles.
+    maxl = max(int(m.group(1)), (item.get("en") or "").count("\n") + 1)
     if len(lines) > maxl:
         return [("caja", "T-3", f"{len(lines)} renglones, caben {maxl} (ancho {width})")]
     return []

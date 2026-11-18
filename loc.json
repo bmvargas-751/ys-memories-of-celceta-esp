@@ -54,7 +54,7 @@
     "#-?(?:\\d+|%d)[A-Za-z]",
     "%[-+0-9.]*[sdifxXu]"
   ],
-  "fixed_break": null,
+  "fixed_break": "\n",
   "encoding": "cp932",
   "spanish_checks": true,
   "hooks": "tools/hooks.py"
