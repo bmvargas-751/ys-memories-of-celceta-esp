@@ -1,0 +1,41 @@
+{"key": "text/item#1/nombre", "es": "Espada corta"}
+{"key": "text/item#1/efecto", "es": "FUE 9"}
+{"key": "text/item#1/descripcion", "es": "Favorita de reclutas por su facilidad de uso."}
+{"key": "text/item#2/nombre", "es": "Sable largo"}
+{"key": "text/item#2/efecto", "es": "FUE 28"}
+{"key": "text/item#2/descripcion", "es": "Espada de acero famosa por su largo y su peso ideal."}
+{"key": "text/item#3/nombre", "es": "Cortador"}
+{"key": "text/item#3/efecto", "es": "FUE 44 / Veneno 5%"}
+{"key": "text/item#3/descripcion", "es": "Espada de hoja ancha diseñada para cazar."}
+{"key": "text/item#4/nombre", "es": "Filo de bronce"}
+{"key": "text/item#4/efecto", "es": "FUE 50 / Parálisis 5%"}
+{"key": "text/item#4/descripcion", "es": "Espada de una mano con menor resistencia al agua."}
+{"key": "text/item#5/nombre", "es": "Cortador DX"}
+{"key": "text/item#5/efecto", "es": "FUE 63 / Veneno 5%"}
+{"key": "text/item#5/descripcion", "es": "Espada modificada para uso intenso de cazadores veteranos."}
+{"key": "text/item#6/nombre", "es": "Filo de bronce DX"}
+{"key": "text/item#6/efecto", "es": "FUE 67 / Parálisis 5%"}
+{"key": "text/item#6/descripcion", "es": "Como un tiburón. Ni el pez más grande se le resiste."}
+{"key": "text/item#7/nombre", "es": "Claymore"}
+{"key": "text/item#7/efecto", "es": "FUE 102"}
+{"key": "text/item#7/descripcion", "es": "Gran espada de caballeros. Difícil de manejar, pero afilada."}
+{"key": "text/item#8/nombre", "es": "Muerdealmas"}
+{"key": "text/item#8/efecto", "es": "FUE 146"}
+{"key": "text/item#8/descripcion", "es": "Imbuida de magia y refinada con una aleación especial."}
+{"key": "text/item#9/nombre", "es": "Hoja rúnica"}
+{"key": "text/item#9/efecto", "es": "FUE 201"}
+{"key": "text/item#9/descripcion", "es": "Misteriosa espada ligera que contiene poder sagrado."}
+{"key": "text/item#10/nombre", "es": "Apocalipsis"}
+{"key": "text/item#10/efecto", "es": "FUE 244"}
+{"key": "text/item#10/descripcion", "es": "Espada sagrada que se ha usado en incontables batallas."}
+{"key": "text/item#11/nombre", "es": "Espada Ajax"}
+{"key": "text/item#11/efecto", "es": "FUE 266"}
+{"key": "text/item#11/descripcion", "es": "Recreada con mineral raro. Puede cortar cualquier cosa."}
+{"key": "text/item#12/nombre", "es": "Espada ardiente fabulosa"}
+{"key": "text/item#12/efecto", "es": "FUE 73 / Quemadura 30%"}
+{"key": "text/item#12/descripcion", "es": "Forjada en Selray. Tan caliente que quema a quien la usa."}
+{"key": "text/item#13/nombre", "es": "Espada de fuego"}
+{"key": "text/item#13/efecto", "es": "FUE 74 / Quemadura 30%"}
+{"key": "text/item#13/descripcion", "es": "Refinada en Selray. Hace arder en llamas a los enemigos."}
+{"key": "text/item#21/nombre", "es": "Manopla"}
+{"key": "text/item#685/nombre", "es": "Diario"}

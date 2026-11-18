@@ -48,7 +48,23 @@
     }
   ],
   "excluded": [
-    "script/test#"
+    "script/test#",
+    "text/diary#r24",
+    "text/diary#GF_01MP1213_0_10_REQUEST_MAP~4",
+    "text/diary#GF_03MP3101_2_00_CAMP_REST_03~2",
+    "text/diary#GF_SUB02_DIARY_LEO_PATA_B~2",
+    "text/diary#GF_SUB03_DIARY_LEO_PATA_B~2",
+    "text/diary#GF_01MP1211_3_07_GO_SERUREI~6",
+    "text/diary#GF_04MP6101_4_03_FIND_GRAVE~4",
+    "text/diary#GF_04MP4202_4_19_GO_TOWER~5",
+    "text/diary#GF_04MP6124_5_00_CAMP_REST_05~2",
+    "text/diary#GF_05MP5201_5_08_GO_ELEDUK~11",
+    "text/diary#GF_06MP6210_6_09_SEARCH_MMASK~5",
+    "text/diary#GF_SUB06_DIARY_GET_TWO_MASK_A~2",
+    "text/diary#GF_SUB06_DIARY_GET_TWO_MASK_B~2",
+    "text/diary#GF_06MP6327_9_09_GET_MMASK~7",
+    "text/diary#GF_06MP6212_A_04_GO_IRIS~7",
+    "text/diary#GF_06MP7341_A_10_START_QUAKE~2"
   ],
   "codes": [
     "#-?(?:\\d+|%d)[A-Za-z]",
