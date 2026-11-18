@@ -1,19 +1,1284 @@
+{"key": "script/mp1201#EV00_00_Lost_Memory/98", "es": "Joven pelirrojo"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/141", "es": "Un par de mineros conversan cerca."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/155", "es": "Minero competitivo"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/156", "es": "Oye, ¿te enteraste de las últimas noticias? Parece que encontraron otra veta de oro."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/159", "es": "Minero tranquilo"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/160", "es": "Sí, oí que el capataz fue a verla hace un rato."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/163", "es": "Minero competitivo"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/164", "es": "Por lo que oigo, hay vetas hasta dentro del Gran Bosque."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/167", "es": "Minero tranquilo"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/168", "es": "Ja, esta fiebre del oro no se acaba nunca, ¿verdad?"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/170", "es": "Aun así, ¿de verdad piensan empezar a meterse en el bosque?"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/173", "es": "Minero competitivo"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/174", "es": "¡Ni en broma!"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/176", "es": "Acercarse a ese lugar no compensa ni con todo el dinero del mundo. ¡Total, muerto no lo puedes gastar!"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/235", "es": "Hombre informado"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/236", "es": "No puedo creer que ya hayan pasado cinco años desde que Celceta quedó bajo el control romuno..."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/238", "es": "Y esta ciudad nunca había estado tan activa."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/241", "es": "Comerciante audaz"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/242", "es": "Hmph. Una casualidad feliz. A los romunos no les importamos un bledo."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/244", "es": "¡Hasta que dieron con el oro, ni se molestaban en arreglar los caminos de por aquí!"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/248", "es": "Hombre informado"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/249", "es": "Bueno, dicen que pronto habrá un nuevo gobernador general, por si sirve de algo."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/252", "es": "Comerciante audaz"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/253", "es": "¿A quién le importa? Nada va a cambiar."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/255", "es": "Vienen aquí, se esfuerzan por llenarse los bolsillos y, en cuanto se acaba el dinero, el ciclo vuelve a empezar."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/275", "es": "Hombre informado"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/276", "es": "Supongo que tienes razón. Pero... espera, un momento..."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/319", "es": "Hombre informado"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/320", "es": "Parece oficial del Ejército Romuno. ¡Y de muy buen ver!"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/325", "es": "Comerciante audaz"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/326", "es": "Hmph. Ojalá al menos terminaran de una vez la guerra con Altago para que yo pudiera hacer negocios en paz."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/331", "es": "Hombre informado"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/332", "es": "Totalmente de acuerdo. A estas alturas parece que solo están arrastrando los pies."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/395", "es": "¡Fíjate, idiota!"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/398", "es": "¡Mira por dónde vas!"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/419", "es": "Adol estaba completamente agotado. Ni siquiera tenía fuerzas para ponerse de pie."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/422", "es": "Hmph, ¿eso es todo lo que tienes? Los jóvenes de hoy, te lo digo yo. ¡No tienen nada de carácter!"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/458", "es": "¿Dónde estoy...?"}
+{"key": "script/mp1201#EV00_00_Lost_Memory/461", "es": "Quién..."}
+{"key": "script/mp1201#EV00_00_Lost_Memory/464", "es": "¿Quién... soy...?"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/74", "es": "¿Por qué tardan tanto? ¡Apúrense! ¡Saquen de ahí a los heridos!"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/79", "es": "¡S-sí, señora!"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/105", "es": "¡La seguridad de los mineros es nuestra máxima prioridad! ¡Asegúrense de que no falte ninguno!"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/109", "es": "¡E-entendido!"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/131", "es": "Vaya. ¿Y esa quién es?"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/136", "es": "Es la gobernadora general Griselda. Llegó hace poco."}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/138", "es": "Parece que el comandante Leo está fuera por un asunto hoy, así que la destinaron aquí en su lugar."}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/140", "es": "Estoy un poco decepcionado, la verdad. ¡Vine hasta la mina para ver a los romunos meter la pata, no para verlos hacer su trabajo!"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/143", "es": "Jaja. ¡Supongo que no se puede ganar siempre!"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/169", "es": "¿Es usted el último?"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/174", "es": "N-no... El capataz y algunos más... quedaron atrapados en... la sala... de la que salieron los monstruos..."}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/176", "es": "P-por favor... Por favor, ayúdelos..."}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/179", "es": "Contando al capataz, ¿cuántos quedan?"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/182", "es": "Tres... creo..."}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/185", "es": "Entendido. Puede descansar. Nos encargaremos de que rescaten a los demás."}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/203", "es": "¡Ustedes dos!"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/205", "es": "Hay mineros atrapados dentro que necesitan nuestra ayuda. ¡Hagan los preparativos necesarios y entren de inmediato!"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/208", "es": "Eh... p-pero... pero todavía no recibimos ninguna orden del comandante..."}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/211", "es": "¡Esto es una emergencia y yo estoy al mando!"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/213", "es": "Den prioridad al rescate seguro de los mineros. No es necesario eliminar a los monstruos del interior."}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/218", "es": "O-oye, Sancho, ¿quién tiene más rango, el comandante o la gobernadora general?"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/223", "es": "¡La gobernadora general, por supuesto! Idiota..."}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/226", "es": "¡No hay tiempo que perder! ¡Muévanse!"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/234", "es": "Sancho y Panza"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/235", "es": "¡S-sí, señora!"}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/276", "es": "La gobernadora general parece muchísimo más confiable que el comandante Leo, qué diablos."}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/279", "es": "Qué lástima que no se pueda decir lo mismo de esos soldados... pero esperemos a ver, supongo. Quizá ella logre ponerlos en orden."}
+{"key": "script/mp1201#EV00_17_Arrive_Mine/293", "es": "Una extraña esfera de luz empezó a brillar de repente cerca, pero nadie más parecía poder verla salvo Adol."}
+{"key": "script/mp1201#EV00_02_Touch_Memory/47", "es": "Empezó a sentir un leve dolor de cabeza y a oír voces que resonaban dentro de su cabeza..."}
+{"key": "script/mp1201#EV00_02_Touch_Memory_MB/27", "es": "Los PV máximos de Adol aumentaron en 10."}
+{"key": "script/mp1201#EV00_02_Touch_Memory_MB/44", "es": "'¿Una espada...? ¿Era yo espadachín?'"}
+{"key": "script/mp1201#EV00_02_Touch_Memory_MB/46", "es": "Adol sintió un impulso incontrolable de involucrarse. Era demasiado para soportarlo: tenía que intentar ayudar a resolver la situación."}
+{"key": "script/mp1201#EV00_09_Out_Mine/80", "es": "¿Q-qué está pasando aquí?"}
+{"key": "script/mp1201#EV00_09_Out_Mine/94", "es": "¡Ahí vienen, ahí vienen!"}
+{"key": "script/mp1201#EV00_09_Out_Mine/97", "es": "¡Buen trabajo! ¡El capataz nos contó todo sobre ti, muchacho!"}
+{"key": "script/mp1201#EV00_09_Out_Mine/100", "es": "¡Gracias por ayudar a mis amigos, grandote!"}
+{"key": "script/mp1201#EV00_09_Out_Mine/125", "es": "Excelente trabajo, caballeros. De modo que usted es el joven pelirrojo mencionado en el informe..."}
+{"key": "script/mp1201#EV00_09_Out_Mine/129", "es": "Me llamo Griselda. Soy la gobernadora general de Celceta. Es un placer conocerlo."}
+{"key": "script/mp1201#EV00_09_Out_Mine/134", "es": "Soy Adol Christin."}
+{"key": "script/mp1201#EV00_09_Out_Mine/135", "es": "¿A qué se debe todo este alboroto?"}
+{"key": "script/mp1201#EV00_09_Out_Mine/141", "es": "¿Adol, dice? Un buen nombre. Le queda bien a alguien tan valiente y a la vez tan afable como usted."}
+{"key": "script/mp1201#EV00_09_Out_Mine/145", "es": "La gente de aquí se enteró de que rescató a los mineros y se reunió para esperar su regreso."}
+{"key": "script/mp1201#EV00_09_Out_Mine/148", "es": "Yo también quisiera agradecerle de corazón que salvara a los mineros y a algunos soldados de nuestro ejército."}
+{"key": "script/mp1201#EV00_09_Out_Mine/150", "es": "Hay más cosas que deseo tratar con ustedes dos..."}
+{"key": "script/mp1201#EV00_09_Out_Mine/180", "es": "Pero preferiría no aumentar más este alboroto."}
+{"key": "script/mp1201#EV00_09_Out_Mine/185", "es": "¿Le importaría acompañarme a mi despacho?"}
+{"key": "script/mp1201#EV00_11_Meet_Leo/50", "es": "Hombre bigotudo"}
+{"key": "script/mp1201#EV00_11_Meet_Leo/51", "es": "¿Oh?"}
+{"key": "script/mp1201#EV00_11_Meet_Leo/53", "es": "¿Tú eres el espadachín que derrotó al monstruo de la mina, verdad?"}
+{"key": "script/mp1201#EV00_11_Meet_Leo/58", "es": "Claro que sí, maldición."}
+{"key": "script/mp1201#EV00_11_Meet_Leo/59", "es": "Te equivocas de persona, amigo."}
+{"key": "script/mp1201#EV00_11_Meet_Leo/65", "es": "Hmph. Lo suponía."}
+{"key": "script/mp1201#EV00_11_Meet_Leo/67", "es": "¿Que cómo lo supe? ¡Porque soy un genio, por supuesto!"}
+{"key": "script/mp1201#EV00_11_Meet_Leo/74", "es": "Mi pregunta era retórica. Sé que fuiste tú."}
+{"key": "script/mp1201#EV00_11_Meet_Leo/76", "es": "¡El pelo rojo como el fuego no es precisamente común entre los lugareños!"}
+{"key": "script/mp1201#EV00_11_Meet_Leo/108", "es": "¡Yo soy el gran Leo, comandante del Ejército Celcetano y el mejor espadachín de por aquí!"}
+{"key": "script/mp1201#EV00_11_Meet_Leo/110", "es": "No te me pongas engreído solo porque derrotaste a un monstruito mientras yo no estaba."}
+{"key": "script/mp1201#EV00_11_Meet_Leo/112", "es": "¡De haber estado aquí, lo habría vencido en un décimo del tiempo, con tal habilidad y gracia que te dejaría sin habla!"}
+{"key": "script/mp1201#EV00_11_Meet_Leo/117", "es": "¡Wajajaja!"}
+{"key": "script/mp1201#EV00_11_Meet_Leo/141", "es": "...Ese comandante Leo es probablemente el hombre más infame de Casnan. Seguro que entiendes por qué."}
+{"key": "script/mp1201#EV00_11_Meet_Leo/145", "es": "Increíble lo rápido que te metiste con algunas de las personas más extrañas e influyentes de por aquí."}
+{"key": "script/mp1201#EV00_11_Meet_Leo/156", "es": "Agotados, Adol y Duren se dirigieron al bar."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/47", "es": "Una vista impresionante, ¿verdad?"}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/49", "es": "Ese es el Gran Bosque de Celceta, que se extiende de un horizonte al otro como un vasto mar de árboles."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/54", "es": "¡No veo la hora de empezar a explorarlo!"}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/55", "es": "Vasto es la palabra. ¡Es demasiado grande!"}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/64", "es": "*suspiro* Veremos cuánto dura ese entusiasmo..."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/68", "es": "Por eso los romunos quieren un mapa, supongo."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/71", "es": "Aunque, al parecer, ya volviste vivo de allí una vez."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/76", "es": "En fin, mira hacia el noroeste."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/97", "es": "Hoy no se ve muy bien por la niebla, pero cuando está despejado hay un árbol enorme que se alza por encima de todos los demás."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/99", "es": "Yo lo ubicaría más o menos... por aquí en el mapa."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/107", "es": "En el despacho de la gobernadora general dicen que hallaron la desembocadura de un gran río en la costa del bosque."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/109", "es": "Si es cierto, significaría que un río atraviesa el bosque justo por el medio."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/117", "es": "Lo cual lo pondría más o menos... ¿por aquí?"}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/133", "es": "Estos dos datos son prácticamente todo lo que tenemos por ahora."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/135", "es": "Mejor revisar los dos. Tú decides adónde vamos primero."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/141", "es": "¡Lo único con lo que podemos contar por ahora son nuestras dos piernas y un maldito mapa en blanco!"}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/143", "es": "Para llegar al Gran Bosque hay que salir de la ciudad por la salida norte."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/145", "es": "Así que en cuanto estés listo, vámonos."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/173", "es": "-Mapa completado y recompensas-"}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/175", "es": "A medida que explores el Gran Bosque, tu mapa se irá completando. La cantidad de terreno cartografiado se muestra como porcentaje."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/177", "es": "Este porcentaje se puede consultar en el propio mapa, y según su valor dispones de varias recompensas."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/179", "es": "Hay diez niveles de recompensa en total, que se obtienen informando de tu avance a Griselda en su despacho."}
+{"key": "script/mp1201#EV00_13_Make_Map_Start/181", "es": "Además de monedas, algunos niveles de recompensa también incluyen objetos valiosos. ¡A ver si logras completar el mapa al 100%!"}
+{"key": "script/mp1201#EV00_14_Leo_Start/41", "es": "Voz de hombre"}
+{"key": "script/mp1201#EV00_14_Leo_Start/42", "es": "¡Fuera de mi camino, tú!"}
+{"key": "script/mp1201#EV00_14_Leo_Start/80", "es": "Uy, ahí viene el problema."}
+{"key": "script/mp1201#EV00_14_Leo_Start/90", "es": "Oh, eres tú... eh, ¿Adol, era?"}
+{"key": "script/mp1201#EV00_14_Leo_Start/92", "es": "¡La mismísima gobernadora general me acaba de ordenar que empiece a trazar un mapa del Gran Bosque!"}
+{"key": "script/mp1201#EV00_14_Leo_Start/94", "es": "Tengo entendido que a ti te encargaron lo mismo, pero ahora que yo me ocupo del asunto, ¡ya puedes irte a casa!"}
+{"key": "script/mp1201#EV00_14_Leo_Start/101", "es": "¡Wajajaja!"}
+{"key": "script/mp1201#EV00_14_Leo_Start/115", "es": "¿No dicen que nadie sale con vida del Gran Bosque, Sancho?"}
+{"key": "script/mp1201#EV00_14_Leo_Start/117", "es": "¿Vamos a estar bien?"}
+{"key": "script/mp1201#EV00_14_Leo_Start/124", "es": "No si de verdad intentamos seguirle el ritmo a la locura del comandante."}
+{"key": "script/mp1201#EV00_14_Leo_Start/126", "es": "Pero si hacemos lo que dice por un tiempo, ¡después podemos fingir que nos perdimos y respirar tranquilos!"}
+{"key": "script/mp1201#EV00_14_Leo_Start/133", "es": "¡IMBÉCILES! ¡Son patéticos!"}
+{"key": "script/mp1201#EV00_14_Leo_Start/135", "es": "¡Esa recompensa será nuestra! ¡Y entonces nuestras glorias se cantarán por toda la tierra!"}
+{"key": "script/mp1201#EV00_14_Leo_Start/137", "es": "¿Me oyen? ¡Vamos! ¡Nos vamos!"}
+{"key": "script/mp1201#EV00_14_Leo_Start/153", "es": "Sancho y Panza"}
+{"key": "script/mp1201#EV00_14_Leo_Start/154", "es": "¡S-sí, señor!"}
+{"key": "script/mp1201#EV00_14_Leo_Start/203", "es": "Parece que tenemos competencia. Aunque la verdad no creo que tengamos mucho de qué preocuparnos..."}
+{"key": "script/mp1201#EV00_14_Leo_Start/213", "es": "...Ehhh, qué importa. Olvidemos esta incomodidad y sigamos. ¡Tenemos un mapa que hacer!"}
+{"key": "script/mp1201#EV03_00_Change_Kyasnan/82", "es": "...La ciudad parece más animada que antes, ¿no crees?"}
+{"key": "script/mp1201#EV03_00_Change_Kyasnan/84", "es": "Ahora hay muchos más soldados también..."}
+{"key": "script/mp1201#EV03_00_Change_Kyasnan/91", "es": "Te lo estás imaginando."}
+{"key": "script/mp1201#EV03_00_Change_Kyasnan/92", "es": "Sí, eso parece."}
+{"key": "script/mp1201#EV03_00_Change_Kyasnan/101", "es": "No, ¡si me inventara gente, seguro que no serían soldados!"}
+{"key": "script/mp1201#EV03_00_Change_Kyasnan/103", "es": "Para ser informante hacen falta buenos instintos, y los míos no suelen fallar."}
+{"key": "script/mp1201#EV03_00_Change_Kyasnan/108", "es": "A Leo también lo llamaron de vuelta... Parece que algo está pasando."}
+{"key": "script/mp1201#EV03_00_Change_Kyasnan/114", "es": "¡Da igual! Vamos a ver a la gobernadora general y a averiguar qué ocurre."}
+{"key": "script/mp1201#EV03_00_Change_Kyasnan/116", "es": "Tenemos que darle nuestro informe, y de paso podemos averiguar a qué se debe tanto alboroto."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/56", "es": "...¿Eres por casualidad Adol Christin?"}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/62", "es": "¿Quién eres?"}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/63", "es": "Te equivocas de persona."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/70", "es": "Oh, disculpa mi falta de modales."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/72", "es": "Es que eres... algo notorio por aquí, ¿sabes? Me alegra mucho esta oportunidad."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/79", "es": "Ja, ja. Veo que tienes buen humor."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/81", "es": "Un cabello de un rojo tan vivo es muy raro en Casnan y no hace nada por disimular tu identidad."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/117", "es": "Me llamo Gruda. Es un placer conocerte por fin."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/119", "es": "Me han hablado mucho de ti la gobernadora general y el comandante Leo."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/121", "es": "Entre el incidente de la mina y tu cartografía del bosque, últimamente parece que estamos muy en deuda contigo."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/123", "es": "Aunque llegué hace poco, espero verte más en el futuro."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/126", "es": "¿Eres del Ejército Romuno?"}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/132", "es": "Ja, ja. Me temo que sí."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/134", "es": "Estoy a cargo de unificar el Ejército Celcetano y el Romuno como ayudante de la gobernadora general Griselda."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/136", "es": "Ahora, si me disculpas, me temo que no puedo hacer esperar más a la gobernadora general."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/166", "es": "*suspiro* Parece que por fin los romunos nos mandan algunos soldados medianamente decentes."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/168", "es": "Con la chusma que hemos tenido hasta ahora, ya era hora, maldita sea..."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/173", "es": "Hmm... Parece que ya es un poco tarde para hacer mucho más hoy."}
+{"key": "script/mp1201#EV03_02_Meet_Gruhda/180", "es": "¿Qué tal si vamos a la posada a comer algo por ahora? Desde allí planeamos el siguiente paso."}
+{"key": "script/mp1201#EV03_05_Hear_Rumor/36", "es": "¡¿En serio?!"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor/40", "es": "¡Es en serio!"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor/42", "es": "Pasó por aquí corriendo, totalmente aterrado."}
+{"key": "script/mp1201#EV03_05_Hear_Rumor/45", "es": "¡Tenía la cara roja como una remolacha!"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor/50", "es": "Jajaja. ¡Eso no es muy amable con las remolachas!"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor/53", "es": "O-oigan, ¿quieren ir a echar un vistazo?"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor/58", "es": "¿A qué? ¿A lo que sea que pasa allá, o a la cara de Leo?"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor/63", "es": "¡A las dos cosas, por supuesto!"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor/68", "es": "¡Jajaja!"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor/71", "es": "¡Vamos, entonces! Iba hacia la puerta del Gran Bosque."}
+{"key": "script/mp1201#EV03_05_Hear_Rumor_B/36", "es": "¡¿En serio?!"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor_B/40", "es": "¡Es en serio!"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor_B/42", "es": "Pasó por aquí corriendo, totalmente aterrado."}
+{"key": "script/mp1201#EV03_05_Hear_Rumor_B/45", "es": "¡Tenía la cara roja como una remolacha!"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor_B/50", "es": "Jajaja. ¡Eso no es muy amable con las remolachas!"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor_B/53", "es": "O-oigan, ¿quieren ir a echar un vistazo?"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor_B/58", "es": "¿A qué? ¿A lo que sea que pasa allá, o a la cara de Leo?"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor_B/63", "es": "¡A las dos cosas, por supuesto!"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor_B/68", "es": "¡Jajaja!"}
+{"key": "script/mp1201#EV03_05_Hear_Rumor_B/71", "es": "¡Vamos, entonces! Iba hacia la puerta del Gran Bosque."}
+{"key": "script/mp1201#EV03_06_Carna_Again/65", "es": "El viento debe sentirse increíble allá arriba."}
+{"key": "script/mp1201#EV03_06_Carna_Again/70", "es": "¡¿Pero cómo se sube tan alto?!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/75", "es": "Alguien dijo que la vio trepando por el muro exterior."}
+{"key": "script/mp1201#EV03_06_Carna_Again/78", "es": "¿En serio? ¡¿Se puede hacer eso?! ¡Guau, tengo que probarlo!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/83", "es": "¡Idiota! No hay manera de que llegues sin caerte."}
+{"key": "script/mp1201#EV03_06_Carna_Again/85", "es": "Esa debe ser..."}
+{"key": "script/mp1201#EV03_06_Carna_Again/111", "es": "¡Bájate de ahí ahora mismo!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/125", "es": "¡Esto es indignante! ¡Los edificios del gobierno no son para trepar!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/141", "es": "¡C-Comandante, cálmese!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/143", "es": "¿Y si subió ahí para... ya sabe...?"}
+{"key": "script/mp1201#EV03_06_Carna_Again/145", "es": "¿Qué hará si salta?"}
+{"key": "script/mp1201#EV03_06_Carna_Again/151", "es": "¡¿Q-qué?!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/154", "es": "Si salta desde tan alto hasta aquí, todo porque usted le dijo que bajara..."}
+{"key": "script/mp1201#EV03_06_Carna_Again/156", "es": "¡Comandante, usted sería un asesino!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/161", "es": "Grr... Bueno, ¡¿y entonces qué se supone que haga?!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/163", "es": "¡Esto no estaba en la descripción de mi trabajo!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/166", "es": "Tendrá que intentar persuadirla de que baje."}
+{"key": "script/mp1201#EV03_06_Carna_Again/168", "es": "Hágale ver todo lo que tiene por lo que vivir."}
+{"key": "script/mp1201#EV03_06_Carna_Again/173", "es": "¡¿P-por qué tendría que hacerlo yo?!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/176", "es": "Bueno, mantener el orden en la ciudad es su trabajo, ¿no?"}
+{"key": "script/mp1201#EV03_06_Carna_Again/179", "es": "Yo... supongo que entonces no me queda otra, eh... *ejem*"}
+{"key": "script/mp1201#EV03_06_Carna_Again/185", "es": "¡Tú, ahí arriba! ¡¿Me oyes?!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/187", "es": "¡No hagas ninguna tontería! ¡Piensa en tus padres!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/189", "es": "¡Si saltas desde tan alto, te va a doler mucho, ¿sabes?!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/191", "es": "¡Y piensa en toda la comida que nunca podrás volver a comer!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/238", "es": "...No creo que pueda oírlo."}
+{"key": "script/mp1201#EV03_06_Carna_Again/241", "es": "Parece que tendrá que subir usted mismo."}
+{"key": "script/mp1201#EV03_06_Carna_Again/250", "es": "¡A-absurdo! Yo jamás podría..."}
+{"key": "script/mp1201#EV03_06_Carna_Again/266", "es": "¿Tiene miedo, comandante?"}
+{"key": "script/mp1201#EV03_06_Carna_Again/269", "es": "¡Claro que no!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/272", "es": "¡Sí tiene! ¡Tiene miedo!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/277", "es": "¡Que no! ¡Que no, le digo!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/288", "es": "...¡Ah, Adol! ¡Justo a tiempo!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/290", "es": "Yo... bueno... te daré el honor de encargarte de esta situación. ¡C-como muestra de buena voluntad, sí!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/295", "es": "Lo haré."}
+{"key": "script/mp1201#EV03_06_Carna_Again/296", "es": "Declino con educación."}
+{"key": "script/mp1201#EV03_06_Carna_Again/304", "es": "¡Sabía que lo harías!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/311", "es": "Vamos, vamos, seguro que no lo dices en serio..."}
 {"key": "script/mp1201#EV03_06_Carna_Again/315", "es": "Residente"}
+{"key": "script/mp1201#EV03_06_Carna_Again/316", "es": "¡Leo! ¡Ve a salvarla tú mismo!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/327", "es": "¡¿Q-quién dijo eso?! ¡Se dirigirán a mí como COMANDANTE Leo!"}
 {"key": "script/mp1201#EV03_06_Carna_Again/332", "es": "Residente"}
+{"key": "script/mp1201#EV03_06_Carna_Again/333", "es": "¡Salvar gente es trabajo del ejército!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/336", "es": "¡Sí! ¡No hagas que Adol haga todo tu trabajo!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/338", "es": "¡Ya es hora de que hagas algo útil para variar!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/341", "es": "¡Vamos, Leo!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/346", "es": "¡Leo! ¡Leo!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/358", "es": "¡Leo! ¡Leo!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/372", "es": "Vaya, todos lo están animando..."}
+{"key": "script/mp1201#EV03_06_Carna_Again/375", "es": "Creo que solo disfrutan del espectáculo."}
+{"key": "script/mp1201#EV03_06_Carna_Again/377", "es": "Pero sobre todo ahora, con el Ejército Romuno aquí, se verá fatal si no va."}
+{"key": "script/mp1201#EV03_06_Carna_Again/380", "es": "Grrr..."}
+{"key": "script/mp1201#EV03_06_Carna_Again/386", "es": "¡¡Dije que se dirigirán a mí como COMANDANTE Leo!!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/399", "es": "¡Está huyendo!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/405", "es": "...¡Espera, mira allá! ¡Creo que intenta llegar a un lugar más alto!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/417", "es": "S-sí que es rápido..."}
+{"key": "script/mp1201#EV03_06_Carna_Again/420", "es": "*silbido* ¡Ese es nuestro Leo Rugiente!"}
 {"key": "script/mp1201#EV03_06_Carna_Again/490", "es": "Residente"}
+{"key": "script/mp1201#EV03_06_Carna_Again/491", "es": "¡Vaya, de verdad está escalando el muro!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/494", "es": "¡No creí que fuera tan valiente!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/498", "es": "¡Leo! ¡Leo!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/502", "es": "¡Leo! ¡Leo!"}
 {"key": "script/mp1201#EV03_06_Carna_Again/563", "es": "Residente"}
+{"key": "script/mp1201#EV03_06_Carna_Again/564", "es": "¡S-saltó!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/569", "es": "¡Iiiiiiiiih!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/627", "es": "¡Adol!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/636", "es": "¡M-me lastimas!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/637", "es": "¿Qué haces aquí?"}
+{"key": "script/mp1201#EV03_06_Carna_Again/645", "es": "Jajaja, ¡perdón! ¡Es que estoy tan feliz de volver a verte!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/652", "es": "¡Te he estado buscando por todas partes!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/673", "es": "...¿A qué se debe este alboroto?"}
+{"key": "script/mp1201#EV03_06_Carna_Again/677", "es": "¡Quiero bajar! ¡Me dan miedo las alturas!"}
+{"key": "script/mp1201#EV03_06_Carna_Again/681", "es": "Sancho y Panza"}
+{"key": "script/mp1201#EV03_06_Carna_Again/682", "es": "¡Comandante, cálmese!"}
+{"key": "script/mp1201#QS105_Start/28", "es": "¡Oh, Adol!"}
+{"key": "script/mp1201#QS105_Start/31", "es": "¿Echaste un vistazo al tablón?"}
+{"key": "script/mp1201#QS105_Start/36", "es": "Sí."}
+{"key": "script/mp1201#QS105_Start/37", "es": "Tal vez. Tal vez no."}
+{"key": "script/mp1201#QS105_Start/41", "es": "Jeje, ¡claro que sí!"}
+{"key": "script/mp1201#QS105_Start/44", "es": "¿Eso significa que aceptas nuestro desafío?"}
+{"key": "script/mp1201#QS105_Start/46", "es": "¡Eso espero!"}
+{"key": "script/mp1201#QS105_Start/51", "es": "¿Tal vez? ¡Esa no es una respuesta!"}
+{"key": "script/mp1201#QS105_Start/54", "es": "En fin, te diremos lo que queremos que hagas de todos modos."}
+{"key": "script/mp1201#QS105_Start/56", "es": "¡Queremos que aceptes nuestro desafío!"}
+{"key": "script/mp1201#QS105_Start/63", "es": "¡Acepto su desafío!"}
+{"key": "script/mp1201#QS105_Start/64", "es": "Un momento..."}
+{"key": "script/mp1201#QS105_Start/71", "es": "Jeje, ¿te está dando miedo?"}
+{"key": "script/mp1201#QS105_Start/74", "es": "Bueno, ¡avísanos cuando estés listo!"}
+{"key": "script/mp1201#QS105_Start/76", "es": "Te esperaremos aquí."}
+{"key": "script/mp1201#QS105_Start/104", "es": "Oh, ¿ya estás listo?"}
+{"key": "script/mp1201#QS105_Start/106", "es": "¡Queremos que aceptes nuestro desafío!"}
+{"key": "script/mp1201#QS105_Start/111", "es": "¡Acepto su desafío!"}
+{"key": "script/mp1201#QS105_Start/112", "es": "Un poco más, por favor."}
+{"key": "script/mp1201#QS105_Start/119", "es": "¡¿TODAVÍA no estás listo?!"}
+{"key": "script/mp1201#QS105_Start/122", "es": "¿Eres de los que disfrutan molestando a los demás, Adol?"}
+{"key": "script/mp1201#QS105_Start2/0", "es": "¡Siiií! ¡Eso es!"}
+{"key": "script/mp1201#QS105_Start2/2", "es": "Bien, esto es lo que queremos que hagas."}
+{"key": "script/mp1201#QS105_Start2/4", "es": "¡Queremos que nos muestres qué tan buen cazatesoros eres!"}
+{"key": "script/mp1201#QS105_Start2/7", "es": "Estás trabajando en un mapa del Gran Bosque, ¿verdad?"}
+{"key": "script/mp1201#QS105_Start2/9", "es": "Así que pensamos que también debes de ser un experto cazatesoros."}
+{"key": "script/mp1201#QS105_Start2/12", "es": "¡Por eso escondimos tesoros por toda la ciudad, y queremos que los encuentres!"}
+{"key": "script/mp1201#QS105_Start2/14", "es": "Vas a buscar un montón de mena de oro, esas piedritas carísimas con las que se hacen cosas de oro."}
+{"key": "script/mp1201#QS105_Start2/16", "es": "Si las encuentras, puedes quedártelas como recompensa."}
+{"key": "script/mp1201#QS105_Start2/19", "es": "Escondimos cinco en total."}
+{"key": "script/mp1201#QS105_Start2/21", "es": "¡Ven a avisarnos cuando hayas encontrado las cinco!"}
+{"key": "script/mp1201#QS105_Start2/26", "es": "¡Volveré en un santiamén!"}
+{"key": "script/mp1201#QS105_Start2/27", "es": "¿Me dan alguna pista?"}
+{"key": "script/mp1201#QS105_Start2/31", "es": "Jeje, ¡ese es el espíritu!"}
+{"key": "script/mp1201#QS105_Start2/34", "es": "Sí. ¡Esto es lo que queríamos ver! ¡Vaaaamos, Adol!"}
+{"key": "script/mp1201#QS105_Start2/36", "es": "¡Espera, antes de irte! Si quieres alguna pista..."}
+{"key": "script/mp1201#QS105_Start2/40", "es": "¡¿Qué?! ¡¿Para qué necesita pistas?!"}
+{"key": "script/mp1201#QS105_Start2/44", "es": "La gracia de una búsqueda del tesoro es encontrar el tesoro guiándose con acertijos o pistas."}
+{"key": "script/mp1201#QS105_Start2/46", "es": "No es una gran búsqueda del tesoro si solo anda mirando a ciegas. ¡Sería aburrido!"}
+{"key": "script/mp1201#QS105_Start2/51", "es": "¡¿Qué?! ¡¿Para qué necesitas pistas?! ¡Yo creía que eras mejor cazatesoros que eso!"}
+{"key": "script/mp1201#QS105_Start2/55", "es": "Bueno, sin pistas no es tanto una búsqueda del tesoro. En ese caso es más una búsqueda de objetos, ¿no?"}
+{"key": "script/mp1201#QS105_Start2/57", "es": "La gracia de una búsqueda del tesoro es encontrar el tesoro guiándose con acertijos o pistas."}
+{"key": "script/mp1201#QS105_Start2/59", "es": "Andar mirando por toda la ciudad para encontrar un tesorito sería muy aburrido."}
+{"key": "script/mp1201#QS105_Start2/64", "es": "Supongo que tienes razón."}
+{"key": "script/mp1201#QS105_Start2/70", "es": "¡Decidido! Si necesitas una pista de dónde están escondidos los tesoros, ven a hablar conmigo."}
+{"key": "script/mp1201#QS105_Start2/72", "es": "Ah, y si de verdad no encuentras uno y quieres rendirte..."}
+{"key": "script/mp1201#QS105_Start2/75", "es": "...ven y avísame."}
+{"key": "script/mp1201#QS105_Start2/77", "es": "¡Aunque tendrás que admitir que te ganamos si te rindes! Y no querrás eso, ¿o sí?"}
+{"key": "script/mp1201#QS105_Start2/80", "es": "Creo que eso es todo lo que teníamos para ti."}
+{"key": "script/mp1201#QS105_Start2/84", "es": "Muy bien, Evan."}
+{"key": "script/mp1201#QS105_Start2/88", "es": "Bien, a la cuenta de tres..."}
+{"key": "script/mp1201#QS105_Start2/90", "es": "Uno, dos..."}
 {"key": "script/mp1201#QS105_Start2/97", "es": "Evan y Lyle"}
+{"key": "script/mp1201#QS105_Start2/98", "es": "¡¡VAAAMOS!!"}
+{"key": "script/mp1201#QS105_End/27", "es": "¡Ooh, parece que los encontraste todos!"}
+{"key": "script/mp1201#QS105_End/30", "es": "Y muy rápido, además."}
+{"key": "script/mp1201#QS105_End/32", "es": "¡Vaya, eres increíble! No me extraña que ya hayas explorado tanto del Gran Bosque."}
+{"key": "script/mp1201#QS105_End/35", "es": "Me cuesta admitirlo, pero de verdad quiero ser como tú algún día."}
+{"key": "script/mp1201#QS105_End/37", "es": "O-oye, Adol..."}
+{"key": "script/mp1201#QS105_End/39", "es": "Como nos ganaste, toma. Llévate esto también."}
 {"key": "script/mp1201#QS105_End/42", "es": "Obtienes "}
+{"key": "script/mp1201#QS105_End/48", "es": "Jeje, ¡adelante! ¡No muerde!"}
+{"key": "script/mp1201#QS105_End/50", "es": "No es que sea difícil encontrar más."}
+{"key": "script/mp1201#QS105_End/53", "es": "Deberías poder refinar todo eso para sacarle provecho."}
+{"key": "script/mp1201#QS105_End/55", "es": "¡Espero que te sirvan cuando salgas a explorar el Gran Bosque!"}
+{"key": "script/mp1201#QS105_End/61", "es": "Misión completada: \"¡Desafío!\""}
+{"key": "script/mp1201#QS105_Work3/8", "es": "Encuentras "}
+{"key": "script/mp1201#QS105_Work3/15", "es": "¡Encontraste todos los escondites de mena de oro!"}
+{"key": "script/mp1201#QS105_Work4/7", "es": "Encuentras "}
+{"key": "script/mp1201#QS105_Work4/14", "es": "¡Encontraste todos los escondites de mena de oro!"}
+{"key": "script/mp1201#QS105_Work5/7", "es": "Encuentras "}
+{"key": "script/mp1201#QS105_Work5/37", "es": "¡Tú, ahí! ¡¿Qué crees que haces?!"}
+{"key": "script/mp1201#QS105_Work5/44", "es": "Buscaba mena de oro."}
+{"key": "script/mp1201#QS105_Work5/45", "es": "¿De verdad tengo que decírtelo?"}
+{"key": "script/mp1201#QS105_Work5/49", "es": "¿Mena de oro, dices? ¿En serio? ¿En un lugar como este?"}
+{"key": "script/mp1201#QS105_Work5/51", "es": "Hmm... Definitivamente eres sospechoso."}
+{"key": "script/mp1201#QS105_Work5/53", "es": "Creo que tendré que pedirte que me acompañes a explicar qué haces REALMENTE."}
+{"key": "script/mp1201#QS105_Work5/58", "es": "¡Claro que sí! ¿Intentas hacerte el listo conmigo?"}
+{"key": "script/mp1201#QS105_Work5/60", "es": "Si no quieres hablar, tendré que suponer que estás metido en algo sospechoso."}
+{"key": "script/mp1201#QS105_Work5/62", "es": "Creo que tendré que pedirte que me acompañes a explicar qué haces REALMENTE."}
+{"key": "script/mp1201#QS105_Work5/70", "es": "Oh, vaya, ¿qué sucede?"}
+{"key": "script/mp1201#QS105_Work5/85", "es": "Vaya, vaya, pero si es Adol Christin."}
+{"key": "script/mp1201#QS105_Work5/87", "es": "¿Sucede algo?"}
+{"key": "script/mp1201#QS105_Work5/92", "es": "Adol le explicó la situación a Gruda."}
+{"key": "script/mp1201#QS105_Work5/95", "es": "¿Así que decidiste aceptar el encargo de esos niños y jugar con ellos?"}
+{"key": "script/mp1201#QS105_Work5/97", "es": "¡Qué encantador!"}
+{"key": "script/mp1201#QS105_Work5/100", "es": "E-esto..."}
+{"key": "script/mp1201#QS105_Work5/105", "es": "Como oíste, no hay nada sospechoso en este joven."}
+{"key": "script/mp1201#QS105_Work5/107", "es": "De hecho, el único problema aquí parece ser que un guardia dejó que un niño entrara sin permiso a esta zona estando de servicio."}
+{"key": "script/mp1201#QS105_Work5/109", "es": "Así que, a menos que quieras que informe de tu error, te sugiero que vuelvas a tu puesto de inmediato."}
+{"key": "script/mp1201#QS105_Work5/115", "es": "¡S-sí, señor!"}
+{"key": "script/mp1201#QS105_Work5/126", "es": "Gracias."}
+{"key": "script/mp1201#QS105_Work5/127", "es": "¡Bien hecho!"}
+{"key": "script/mp1201#QS105_Work5/132", "es": "Oh, no fue nada. En todo caso, nosotros te debemos una disculpa por las molestias."}
+{"key": "script/mp1201#QS105_Work5/136", "es": "Jeje. Gracias."}
+{"key": "script/mp1201#QS105_Work5/138", "es": "Me alegra oír semejante cumplido de un explorador de tu categoría."}
+{"key": "script/mp1201#QS105_Work5/141", "es": "...Aunque no puedo evitar notar que tu acompañante habitual no está contigo hoy. ¿Dónde estará, me pregunto?"}
+{"key": "script/mp1201#QS105_Work5/143", "es": "Hmm..."}
+{"key": "script/mp1201#QS105_Work5/148", "es": "¿Sucede algo?"}
+{"key": "script/mp1201#QS105_Work5/149", "es": "¿Tenías asuntos con Duren?"}
+{"key": "script/mp1201#QS105_Work5/153", "es": "Oh, no, solo oí que ustedes dos son inseparables últimamente, así que me sorprendió un poco."}
+{"key": "script/mp1201#QS105_Work5/155", "es": "Por favor, dale mis saludos a tu compañero cuando lo veas."}
+{"key": "script/mp1201#QS105_Work5/160", "es": "Ah, ¿así que se llama Duren?"}
+{"key": "script/mp1201#QS105_Work5/162", "es": "No, no tenía, pero dale también mis mejores saludos."}
+{"key": "script/mp1201#QS105_Work5/168", "es": "...¿Sucede algo?"}
+{"key": "script/mp1201#QS105_Work5/173", "es": "Preguntar por las Tierras Primigenias"}
+{"key": "script/mp1201#QS105_Work5/174", "es": "Preguntar por la torre"}
+{"key": "script/mp1201#QS105_Work5/178", "es": "¿Las Tierras Primigenias, dices?"}
+{"key": "script/mp1201#QS105_Work5/180", "es": "Recuerdo haber oído que los habitantes del Gran Bosque llaman así al otro lado del río."}
+{"key": "script/mp1201#QS105_Work5/182", "es": "La gobernadora general Griselda me ha puesto al tanto de tus hazañas, así que yo mismo quiero saber más."}
+{"key": "script/mp1201#QS105_Work5/186", "es": "¿Una torre?"}
+{"key": "script/mp1201#QS105_Work5/188", "es": "¿Hay una torre en el Gran Bosque?"}
+{"key": "script/mp1201#QS105_Work5/190", "es": "La gobernadora general Griselda me informa de tu investigación, pero no recuerdo que mencionara una torre..."}
+{"key": "script/mp1201#QS105_Work5/193", "es": "De hecho, me sorprende un poco que me preguntes algo así."}
+{"key": "script/mp1201#QS105_Work5/195", "es": "El Ejército Romuno apenas empieza su expedición al Gran Bosque. Tienes más que contarme tú a mí que yo a ti."}
+{"key": "script/mp1201#QS105_Work5/207", "es": "Señor, los preparativos del entrenamiento están completos. Podemos empezar cuando usted esté listo."}
+{"key": "script/mp1201#QS105_Work5/212", "es": "Muy bien. Iré en breve."}
+{"key": "script/mp1201#QS105_Work5/217", "es": "Lamento tener que dejarte, Adol, pero me temo que tengo trabajo que atender."}
+{"key": "script/mp1201#QS105_Work5/219", "es": "Espero, sin embargo, que tengamos la oportunidad de hablar de nuevo pronto."}
+{"key": "script/mp1201#QS105_Work5/236", "es": "¡Encontraste todos los escondites de mena de oro!"}
+{"key": "script/mp1201#tutorial_shop_start/37", "es": "Bueno, hay algunas tiendas en Casnan que vale la pena mencionar."}
+{"key": "script/mp1201#tutorial_shop_start/56", "es": "Esa es Curiosidades de Billy."}
+{"key": "script/mp1201#tutorial_shop_start/58", "es": "Vende de todo, desde pociones de salud hasta antídotos."}
+{"key": "script/mp1201#tutorial_shop_start/77", "es": "Y esa es la Armería de Thomas."}
+{"key": "script/mp1201#tutorial_shop_start/79", "es": "Como dice el nombre, es tu hombre si necesitas armas o armaduras nuevas."}
+{"key": "script/mp1201#tutorial_shop_start/81", "es": "...¿Echamos un vistazo allá, entonces?"}
+{"key": "script/mp1201#tutorial_shop_end/37", "es": "¡Por fin! Terminamos mi gran recorrido por Casnan."}
+{"key": "script/mp1201#tutorial_shop_end/39", "es": "*suspiro* Qué fastidio... ¡Si no hubieras ido y perdido la memoria, no habría tenido que molestarme en mostrártelo todo otra vez!"}
+{"key": "script/mp1201#tutorial_shop_end/44", "es": "Agradecerle a Duren su amabilidad"}
+{"key": "script/mp1201#tutorial_shop_end/45", "es": "Fingir una profunda ofensa"}
+{"key": "script/mp1201#tutorial_shop_end/51", "es": "O-oh, no fue nada..."}
+{"key": "script/mp1201#tutorial_shop_end/53", "es": "¡Una pequeñez comparado con todo el dinero que ganaré trabajando contigo!"}
+{"key": "script/mp1201#tutorial_shop_end/65", "es": "¡E-espera un momento, solo bromeaba!"}
+{"key": "script/mp1201#tutorial_shop_end/67", "es": "No pensé que te lo tomarías tan a pecho..."}
+{"key": "script/mp1201#tutorial_shop_end/73", "es": "Adol admitió que él también solo bromeaba."}
+{"key": "script/mp1201#tutorial_shop_end/78", "es": "Oh, ¿así que ahora te haces el listo, eh?"}
+{"key": "script/mp1201#tutorial_shop_end/80", "es": "Puede que no recuerdes quién eras antes, pero te diré una cosa: no eras ESE tipo."}
+{"key": "script/mp1201#tutorial_shop_end/84", "es": "Bueno, eso es básicamente Casnan en pocas palabras."}
+{"key": "script/mp1201#tutorial_shop_end/86", "es": "¡Bien! Hora de empezar a planear cómo vamos a abordar el Gran Bosque."}
+{"key": "script/mp1201#QS107_End/24", "es": "¡Ooh, parece que tienes algo para curar la resaca del pequeñín!"}
+{"key": "script/mp1201#QS107_End/26", "es": "¿Y qué trajiste?"}
+{"key": "script/mp1201#QS107_End/33", "es": "Dar Polvo antídoto"}
+{"key": "script/mp1201#QS107_End/36", "es": "Dar Polvo antiparálisis"}
+{"key": "script/mp1201#QS107_End/39", "es": "Dar Polvo purificador"}
+{"key": "script/mp1201#QS107_End/42", "es": "Dar Catholicon"}
+{"key": "script/mp1201#QS107_End/44", "es": "No darle nada"}
+{"key": "script/mp1201#QS107_End/51", "es": "Entregas "}
+{"key": "script/mp1201#QS107_End/55", "es": "Hmm... ¿De verdad esto sirve para curar la resaca de un pikkard?"}
+{"key": "script/mp1201#QS107_End/57", "es": "Bueno, supongo que probar no hará daño..."}
+{"key": "script/mp1201#QS107_End/63", "es": "Phwee...*hip*...eeeeeoouuuggghh..."}
+{"key": "script/mp1201#QS107_End/67", "es": "Lucir le dio la medicina al pikkard."}
+{"key": "script/mp1201#QS107_End/74", "es": "Phwee..."}
+{"key": "script/mp1201#QS107_End/77", "es": "*glup* ¿Funcionó?"}
+{"key": "script/mp1201#QS107_End/82", "es": "*hip*"}
+{"key": "script/mp1201#QS107_End/91", "es": "No, parece que no ayudó en nada..."}
+{"key": "script/mp1201#QS107_End/93", "es": "¿Tienes algo más que pueda funcionar?"}
+{"key": "script/mp1201#QS107_End/99", "es": "Eh, ¿no es la misma medicina que ya probamos?"}
+{"key": "script/mp1201#QS107_End/101", "es": "¿No tienes nada más?"}
+{"key": "script/mp1201#QS107_End/108", "es": "Entregas "}
+{"key": "script/mp1201#QS107_End/112", "es": "Hmm... ¿De verdad esto sirve para curar la resaca de un pikkard?"}
+{"key": "script/mp1201#QS107_End/114", "es": "Bueno, supongo que probar no hará daño..."}
+{"key": "script/mp1201#QS107_End/120", "es": "*hip*"}
+{"key": "script/mp1201#QS107_End/124", "es": "Lucir le dio la medicina al pikkard."}
+{"key": "script/mp1201#QS107_End/131", "es": "Phwee..."}
+{"key": "script/mp1201#QS107_End/134", "es": "*glup* ¿Funcionó?"}
+{"key": "script/mp1201#QS107_End/139", "es": "*hip*"}
+{"key": "script/mp1201#QS107_End/148", "es": "No, parece que no ayudó en nada..."}
+{"key": "script/mp1201#QS107_End/150", "es": "¿Tienes algo más que pueda funcionar?"}
+{"key": "script/mp1201#QS107_End/156", "es": "Eh, ¿no es la misma medicina que ya probamos?"}
+{"key": "script/mp1201#QS107_End/158", "es": "¿No tienes nada más?"}
+{"key": "script/mp1201#QS107_End/165", "es": "Entregas "}
+{"key": "script/mp1201#QS107_End/169", "es": "Hmm... ¿De verdad esto sirve para curar la resaca de un pikkard?"}
+{"key": "script/mp1201#QS107_End/171", "es": "Bueno, supongo que probar no hará daño..."}
+{"key": "script/mp1201#QS107_End/177", "es": "*hip*"}
+{"key": "script/mp1201#QS107_End/181", "es": "Lucir le dio la medicina al pikkard."}
+{"key": "script/mp1201#QS107_End/188", "es": "Phwee..."}
+{"key": "script/mp1201#QS107_End/191", "es": "*glup* ¿Funcionó?"}
+{"key": "script/mp1201#QS107_End/196", "es": "*hip*"}
+{"key": "script/mp1201#QS107_End/205", "es": "No, parece que no ayudó en nada..."}
+{"key": "script/mp1201#QS107_End/207", "es": "¿Tienes algo más que pueda funcionar?"}
+{"key": "script/mp1201#QS107_End/213", "es": "Eh, ¿no es la misma medicina que ya probamos y no funcionó?"}
+{"key": "script/mp1201#QS107_End/215", "es": "¿No tienes nada más?"}
+{"key": "script/mp1201#QS107_End/221", "es": "Entregas "}
+{"key": "script/mp1201#QS107_End/225", "es": "Hmm... ¿De verdad esto sirve para curar la resaca de un pikkard?"}
+{"key": "script/mp1201#QS107_End/227", "es": "Bueno, supongo que probar no hará daño..."}
+{"key": "script/mp1201#QS107_End/233", "es": "*hip*"}
+{"key": "script/mp1201#QS107_End/237", "es": "Lucir le dio la medicina al pikkard."}
+{"key": "script/mp1201#QS107_End/244", "es": "Phwee..."}
+{"key": "script/mp1201#QS107_End/247", "es": "*glup* ¿Funcionó?"}
+{"key": "script/mp1201#QS107_End/252", "es": "¡Phweehee! ¡Phweehee! ♪"}
+{"key": "script/mp1201#QS107_End/260", "es": "¡Vaya, parece que funcionó a la perfección! ¡Muchas gracias!"}
+{"key": "script/mp1201#QS107_End/263", "es": "Aquí tienes tu recompensa por un trabajo bien hecho."}
+{"key": "script/mp1201#QS107_End/267", "es": "Recibes "}
+{"key": "script/mp1201#QS107_End/274", "es": "¡Phweeeee!"}
+{"key": "script/mp1201#QS107_End/278", "es": "Oh, no estarás..."}
+{"key": "script/mp1201#QS107_End/280", "es": "¡¿No pensarás volver a beber ahora que logramos que se te pase?!"}
+{"key": "script/mp1201#QS107_End/285", "es": "¡Phweeheehee! ♪"}
+{"key": "script/mp1201#QS107_End/288", "es": "Pequeñín, creo que tienes un problema."}
+{"key": "script/mp1201#QS107_End/290", "es": "¡De ahora en adelante, se acabó beber en exceso para ti! ¡¿Me oíste?!"}
+{"key": "script/mp1201#QS107_End/295", "es": "Phwaaaah... ㈱"}
+{"key": "script/mp1201#QS107_End/307", "es": "¡Misión completada: \"Pikkard con resaca\"!"}
+{"key": "script/mp1201#QS107_End/321", "es": "Oh, ¿cambiaste de opinión?"}
+{"key": "script/mp1201#QS107_End/323", "es": "Ya veo... Qué lástima."}
+{"key": "script/mp1201#talk_danper/3", "es": "Trabajar en la mina de verdad vale la pena."}
+{"key": "script/mp1201#talk_danper/5", "es": "Si algún día decides unirte a nosotros, siempre serás bienvenido."}
+{"key": "script/mp1201#talk_danper/9", "es": "¡Muy bien, a sudar la camiseta!"}
+{"key": "script/mp1201#talk_danper/13", "es": "Los mineros nos llevamos muy bien."}
+{"key": "script/mp1201#talk_danper/15", "es": "Mira, los hombres nos unimos por el trabajo, así que no nos importan la crianza ni el origen ni nada de eso."}
+{"key": "script/mp1201#talk_danper/19", "es": "¿Por qué mi hija es tan linda?"}
+{"key": "script/mp1201#talk_danper/21", "es": "¡Ay, Minmi, qué ganas tengo de llegar a casa y verte otra vez!"}
+{"key": "script/mp1201#talk_danper/25", "es": "*suspiro* Últimamente me canso más fácil. Supongo que ya me están llegando los años, ¿eh?"}
+{"key": "script/mp1201#talk_danper/30", "es": "Oh, ¿vienes por la misión?"}
+{"key": "script/mp1201#talk_danper/32", "es": "El capataz está un poco más allá de la entrada principal."}
+{"key": "script/mp1201#talk_danper/36", "es": "Oye, buen trabajo. Me dijeron que hoy nos ayudaste un poco, ¿verdad?"}
+{"key": "script/mp1201#talk_danper/38", "es": "¿Qué tal te pareció? ¿Verdad que se siente genial sudar la camiseta?"}
+{"key": "script/mp1201#talk_danper/43", "es": "¡Uf, hoy parece un día perfecto para trabajar duro!"}
+{"key": "script/mp1201#talk_danper/47", "es": "¿No eres tú quien derrotó a ese monstruo aquí el otro día?"}
+{"key": "script/mp1201#talk_danper/49", "es": "¿Buscas al capataz? Está un poco más allá de la entrada."}
+{"key": "script/mp1201#talk_mouce/5", "es": "¡Vengan por las últimas primicias!"}
+{"key": "script/mp1201#talk_mouce/7", "es": "¡Te vendo el chisme más reciente, recién salido de la imprenta, por solo cien monedas! ¿Qué dices?"}
+{"key": "script/mp1201#talk_mouce/13", "es": "¡Jeje! ¡Sabía que no podrías resistirte! ¿Al final decidiste pagar? Son cien monedas."}
+{"key": "script/mp1201#talk_mouce/18", "es": "Pagar cien monedas"}
+{"key": "script/mp1201#talk_mouce/19", "es": "Paso"}
+{"key": "script/mp1201#talk_mouce/26", "es": "Entregas cien monedas."}
+{"key": "script/mp1201#talk_mouce/31", "es": "¡Jeje, gracias! ♪"}
+{"key": "script/mp1201#talk_mouce/33", "es": "Muy bien, la primicia de hoy trata de la querida gobernadora general Griselda."}
+{"key": "script/mp1201#talk_mouce/35", "es": "No estoy seguro del todo, pero parece que forma parte de la familia imperial romuna."}
+{"key": "script/mp1201#talk_mouce/37", "es": "No sé qué hace alguien así en un lugar como este..."}
+{"key": "script/mp1201#talk_mouce/39", "es": "Pero hace que la veas con otros ojos, ¿no?"}
+{"key": "script/mp1201#talk_mouce/44", "es": "...O lo habrías hecho, si de verdad tuvieras tanto."}
+{"key": "script/mp1201#talk_mouce/47", "es": "¡¿Ni siquiera llevas cien encima?!"}
+{"key": "script/mp1201#talk_mouce/49", "es": "Bueno, los negocios son los negocios. No puedo decirte nada si no pagas. ¡Lo siento!"}
+{"key": "script/mp1201#talk_mouce/54", "es": "¿Qué, en serio?"}
+{"key": "script/mp1201#talk_mouce/56", "es": "¿Seguro que puedes vivir sin saber esta primicia increíble?"}
+{"key": "script/mp1201#talk_mouce/61", "es": "Griselda forma parte de la familia imperial romuna. Al menos eso creo... no, ¡estoy seguro! ¡Sin duda lo es!"}
+{"key": "script/mp1201#talk_mouce/63", "es": "Y no se lo cuentes a nadie. ¡Si no, no podré hacer mucho negocio!"}
+{"key": "script/mp1201#talk_mouce/70", "es": "¡Vengan por las últimas primicias!"}
+{"key": "script/mp1201#talk_mouce/72", "es": "¡Te vendo el chisme más reciente, recién salido de la imprenta, por solo cien monedas! ¿Qué dices?"}
+{"key": "script/mp1201#talk_mouce/78", "es": "¡Jeje! ¡Sabía que no podrías resistirte! ¿Al final decidiste pagar? Son cien monedas."}
+{"key": "script/mp1201#talk_mouce/83", "es": "Pagar cien monedas"}
+{"key": "script/mp1201#talk_mouce/84", "es": "Paso"}
+{"key": "script/mp1201#talk_mouce/91", "es": "Entregas cien monedas."}
+{"key": "script/mp1201#talk_mouce/96", "es": "¡Jeje, gracias! ♪"}
+{"key": "script/mp1201#talk_mouce/98", "es": "La primicia de hoy trata del excéntrico dúo de exploradores, Rabbit y Pigeon."}
+{"key": "script/mp1201#talk_mouce/100", "es": "Hay cierta torpeza entre ellos, ¿no crees? ¡Como si apenas empezaran a salir, aunque antes fueron pareja!"}
+{"key": "script/mp1201#talk_mouce/102", "es": "Es como si no supieran qué hacer el uno con el otro. ¡Qué inocentes! Eso sí, ya casi no se los ve por aquí."}
+{"key": "script/mp1201#talk_mouce/107", "es": "...O lo habrías hecho, si de verdad tuvieras tanto."}
+{"key": "script/mp1201#talk_mouce/110", "es": "¡¿Ni siquiera llevas cien encima?!"}
+{"key": "script/mp1201#talk_mouce/112", "es": "Bueno, los negocios son los negocios. No puedo decirte nada si no pagas. ¡Lo siento!"}
+{"key": "script/mp1201#talk_mouce/117", "es": "¿Qué, en serio?"}
+{"key": "script/mp1201#talk_mouce/119", "es": "¿Seguro que puedes vivir sin saber esta primicia increíble?"}
+{"key": "script/mp1201#talk_mouce/124", "es": "Rabbit y Pigeon fueron pareja. ¡Es un hecho!"}
+{"key": "script/mp1201#talk_mouce/126", "es": "¡Y no se lo cuentes a nadie! Si no, no podré hacer mucho negocio."}
+{"key": "script/mp1201#talk_mouce/133", "es": "¡Vengan por las últimas primicias!"}
+{"key": "script/mp1201#talk_mouce/135", "es": "¡Te vendo el chisme más reciente, recién salido de la imprenta, por solo cien monedas! ¿Qué dices?"}
+{"key": "script/mp1201#talk_mouce/140", "es": "¡Jeje! ¡Sabía que no podrías resistirte! ¿Al final decidiste pagar? Son cien monedas."}
+{"key": "script/mp1201#talk_mouce/145", "es": "Pagar cien monedas"}
+{"key": "script/mp1201#talk_mouce/146", "es": "Paso"}
+{"key": "script/mp1201#talk_mouce/153", "es": "Entregas cien monedas."}
+{"key": "script/mp1201#talk_mouce/158", "es": "¡Jeje, gracias! ♪"}
+{"key": "script/mp1201#talk_mouce/160", "es": "La primicia de hoy trata del dueño del bar, Mucho."}
+{"key": "script/mp1201#talk_mouce/162", "es": "En realidad es un exminero."}
+{"key": "script/mp1201#talk_mouce/164", "es": "Y con ese cuerpo, ¡era muy bueno, como te imaginarás! Pero un día anunció de repente que iba a perseguir sus sueños."}
+{"key": "script/mp1201#talk_mouce/166", "es": "\"¡Los músculos de calidad vienen de comida de calidad!\", dijo."}
+{"key": "script/mp1201#talk_mouce/168", "es": "Y pensaba convencer a todos de eso abriendo una posada, bar y restaurante donde solo serviría lo de mejor calidad."}
+{"key": "script/mp1201#talk_mouce/173", "es": "...O lo habrías hecho, si de verdad tuvieras tanto."}
+{"key": "script/mp1201#talk_mouce/176", "es": "¡¿Ni siquiera llevas cien encima?!"}
+{"key": "script/mp1201#talk_mouce/178", "es": "Bueno, los negocios son los negocios. No puedo decirte nada si no pagas. ¡Lo siento!"}
+{"key": "script/mp1201#talk_mouce/183", "es": "¿Qué, en serio?"}
+{"key": "script/mp1201#talk_mouce/185", "es": "¿Seguro que puedes vivir sin saber esta primicia increíble?"}
+{"key": "script/mp1201#talk_mouce/190", "es": "Mucho es un exminero, y eso es un hecho."}
+{"key": "script/mp1201#talk_mouce/192", "es": "¡No se lo cuentes a nadie! Si no, no podré hacer mucho negocio."}
+{"key": "script/mp1201#talk_mouce/199", "es": "¡Vengan por las últimas primicias!"}
+{"key": "script/mp1201#talk_mouce/201", "es": "¡Te vendo el chisme más reciente, recién salido de la imprenta, por solo cien monedas! ¿Qué dices?"}
+{"key": "script/mp1201#talk_mouce/207", "es": "¡Jeje! ¡Sabía que no podrías resistirte! ¿Al final decidiste pagar? Son cien monedas."}
+{"key": "script/mp1201#talk_mouce/212", "es": "Pagar cien monedas"}
+{"key": "script/mp1201#talk_mouce/213", "es": "Paso"}
+{"key": "script/mp1201#talk_mouce/220", "es": "Entregas cien monedas."}
+{"key": "script/mp1201#talk_mouce/225", "es": "¡Jeje, gracias! ♪"}
+{"key": "script/mp1201#talk_mouce/227", "es": "La primicia de hoy trata de Luluca, que trabaja en el bar de la ciudad."}
+{"key": "script/mp1201#talk_mouce/229", "es": "¿Listo para llevarte una sorpresa? ¡En realidad es la hija de ese obsesionado con los músculos!"}
+{"key": "script/mp1201#talk_mouce/233", "es": "Eso ya lo sabía."}
+{"key": "script/mp1201#talk_mouce/234", "es": "Vaya, ¿en serio?"}
+{"key": "script/mp1201#talk_mouce/240", "es": "Ah, ¿lo sabías? Bueno... ¡no te devolveré el dinero, así que ni lo pidas!"}
+{"key": "script/mp1201#talk_mouce/244", "es": "¡Jeje, en serio! Solo tengo las mejores primicias, como siempre digo."}
+{"key": "script/mp1201#talk_mouce/250", "es": "...O lo habrías hecho, si de verdad tuvieras tanto."}
+{"key": "script/mp1201#talk_mouce/253", "es": "¡¿Ni siquiera llevas cien encima?!"}
+{"key": "script/mp1201#talk_mouce/255", "es": "Bueno, los negocios son los negocios. No puedo decirte nada si no pagas. ¡Lo siento!"}
+{"key": "script/mp1201#talk_mouce/260", "es": "¿Qué, en serio?"}
+{"key": "script/mp1201#talk_mouce/262", "es": "¿Seguro que puedes vivir sin saber esta primicia increíble?"}
+{"key": "script/mp1201#talk_mouce/267", "es": "Luluca es la hija de Mucho. Increíble, ¿no?"}
+{"key": "script/mp1201#talk_mouce/269", "es": "¡Pero no se lo cuentes a nadie! Si no, no podré hacer mucho negocio."}
+{"key": "script/mp1201#talk_mouce/276", "es": "¡Vengan por las últimas primicias!"}
+{"key": "script/mp1201#talk_mouce/278", "es": "¡Te vendo el chisme más reciente, recién salido de la imprenta, por solo cien monedas! ¿Qué dices?"}
+{"key": "script/mp1201#talk_mouce/284", "es": "¡Jeje! ¡Sabía que no podrías resistirte! ¿Al final decidiste pagar? Son cien monedas."}
+{"key": "script/mp1201#talk_mouce/289", "es": "Pagar cien monedas"}
+{"key": "script/mp1201#talk_mouce/290", "es": "Paso"}
+{"key": "script/mp1201#talk_mouce/297", "es": "Entregas cien monedas."}
+{"key": "script/mp1201#talk_mouce/302", "es": "¡Jeje, gracias! ♪"}
+{"key": "script/mp1201#talk_mouce/304", "es": "La primicia de hoy trata de Sancho, el subordinado del comandante Leo."}
+{"key": "script/mp1201#talk_mouce/306", "es": "Panza, su subalterno, lo admira como a un hermano mayor, ¡pero en realidad Sancho es el menor de tres hermanos!"}
+{"key": "script/mp1201#talk_mouce/308", "es": "¿No es interesante?"}
+{"key": "script/mp1201#talk_mouce/313", "es": "...O lo habrías hecho, si de verdad tuvieras tanto."}
+{"key": "script/mp1201#talk_mouce/316", "es": "¡¿Ni siquiera llevas cien encima?!"}
+{"key": "script/mp1201#talk_mouce/318", "es": "Bueno, los negocios son los negocios. No puedo decirte nada si no pagas. ¡Lo siento!"}
+{"key": "script/mp1201#talk_mouce/323", "es": "¿Qué, en serio?"}
+{"key": "script/mp1201#talk_mouce/325", "es": "¿Seguro que puedes vivir sin saber esta primicia increíble?"}
+{"key": "script/mp1201#talk_mouce/330", "es": "Sancho, el subordinado del comandante Leo, es el menor de tres hermanos. No lo parece, ¿verdad?"}
+{"key": "script/mp1201#talk_mouce/332", "es": "¡Pero no se lo cuentes a nadie! Si no, no podré hacer mucho negocio."}
+{"key": "script/mp1201#talk_mouce/339", "es": "¡Vengan por las últimas primicias!"}
+{"key": "script/mp1201#talk_mouce/341", "es": "¡Te vendo el chisme más reciente, recién salido de la imprenta, por solo cien monedas! ¿Qué dices?"}
+{"key": "script/mp1201#talk_mouce/347", "es": "¡Jeje! ¡Sabía que no podrías resistirte! ¿Al final decidiste pagar? Son cien monedas."}
+{"key": "script/mp1201#talk_mouce/352", "es": "Pagar cien monedas"}
+{"key": "script/mp1201#talk_mouce/353", "es": "Paso"}
+{"key": "script/mp1201#talk_mouce/360", "es": "Entregas cien monedas."}
+{"key": "script/mp1201#talk_mouce/365", "es": "¡Jeje, gracias! ♪"}
+{"key": "script/mp1201#talk_mouce/367", "es": "La primicia de hoy trata de Panza, el subordinado del comandante Leo."}
+{"key": "script/mp1201#talk_mouce/369", "es": "Su pasatiempo principal es comer... algo que seguramente adivinas con solo mirarlo."}
+{"key": "script/mp1201#talk_mouce/371", "es": "¡Pero lo sorprendente es que, al parecer, odia los dulces!"}
+{"key": "script/mp1201#talk_mouce/373", "es": "No puedo evitar pensar que se pierde la mitad de las cosas buenas de la vida si odia los dulces... ¡y más siendo alguien así!"}
+{"key": "script/mp1201#talk_mouce/375", "es": "¿No es un dato interesante?"}
+{"key": "script/mp1201#talk_mouce/380", "es": "...O lo habrías hecho, si de verdad tuvieras tanto."}
+{"key": "script/mp1201#talk_mouce/383", "es": "¡¿Ni siquiera llevas cien encima?!"}
+{"key": "script/mp1201#talk_mouce/385", "es": "Bueno, los negocios son los negocios. No puedo decirte nada si no pagas. ¡Lo siento!"}
+{"key": "script/mp1201#talk_mouce/390", "es": "¿Qué, en serio?"}
+{"key": "script/mp1201#talk_mouce/392", "es": "¿Seguro que puedes vivir sin saber esta primicia increíble?"}
+{"key": "script/mp1201#talk_mouce/397", "es": "Panza, el subordinado del comandante Leo, odia los dulces, aunque le encanta comer. ¡¿Impactante, no?!"}
+{"key": "script/mp1201#talk_mouce/399", "es": "¡Pero no se lo cuentes a nadie! Si no, no podré hacer mucho negocio."}
+{"key": "script/mp1201#talk_mouce/406", "es": "¡Vengan por las últimas primicias!"}
+{"key": "script/mp1201#talk_mouce/408", "es": "¡Te vendo el chisme más reciente, recién salido de la imprenta, por solo cien monedas! ¿Qué dices?"}
+{"key": "script/mp1201#talk_mouce/414", "es": "¡Jeje! ¡Sabía que no podrías resistirte! ¿Al final decidiste pagar? Son cien monedas."}
+{"key": "script/mp1201#talk_mouce/419", "es": "Pagar cien monedas"}
+{"key": "script/mp1201#talk_mouce/420", "es": "Paso"}
+{"key": "script/mp1201#talk_mouce/427", "es": "Entregas cien monedas."}
+{"key": "script/mp1201#talk_mouce/432", "es": "¡Jeje, gracias! ♪"}
+{"key": "script/mp1201#talk_mouce/434", "es": "La primicia de hoy trata del comandante Leo del Ejército Celcetano."}
+{"key": "script/mp1201#talk_mouce/436", "es": "En realidad sigue soltero."}
+{"key": "script/mp1201#talk_mouce/438", "es": "Ha tenido un montón de entrevistas de matrimonio arreglado, pero ninguna resultó."}
+{"key": "script/mp1201#talk_mouce/440", "es": "Aunque cuesta culpar a nadie por rechazar a alguien como él, ¿eh?"}
+{"key": "script/mp1201#talk_mouce/445", "es": "...O lo habrías hecho, si de verdad tuvieras tanto."}
+{"key": "script/mp1201#talk_mouce/448", "es": "¡¿Ni siquiera llevas cien encima?!"}
+{"key": "script/mp1201#talk_mouce/450", "es": "Bueno, los negocios son los negocios. No puedo decirte nada si no pagas. ¡Lo siento!"}
+{"key": "script/mp1201#talk_mouce/455", "es": "¿Qué, en serio?"}
+{"key": "script/mp1201#talk_mouce/457", "es": "¿Seguro que puedes vivir sin saber esta primicia increíble?"}
+{"key": "script/mp1201#talk_mouce/462", "es": "El comandante Leo sigue soltero. Quizá no sorprenda, ¡pero igual es una noticia que vale la pena compartir!"}
+{"key": "script/mp1201#talk_mouce/464", "es": "Pero no se lo cuentes a nadie. Si no, no podré hacer mucho negocio."}
+{"key": "script/mp1201#talk_mouce/473", "es": "¡Vengan por las últimas primicias!"}
+{"key": "script/mp1201#talk_mouce/475", "es": "¡Tengo lo último sobre la mujer más hermosa de la ciudad, la gobernadora general Griselda!"}
+{"key": "script/mp1201#talk_mouce/477", "es": "¿Qué dices? ¡Te la vendo barata!"}
+{"key": "script/mp1201#talk_mouce/480", "es": "¿Todavía sigues con esto? ¡Seguro que te inventaste esta \"primicia\"!"}
+{"key": "script/mp1201#talk_mouce/487", "es": "Uf, eres tú, Duren. No esperaba encontrarte aquí."}
+{"key": "script/mp1201#talk_mouce/489", "es": "¡L-lo que sea! ¡No puedes probar que no es verdad hasta que la oigas! ¡Y no la oirás a menos que pagues! ¡Es lo justo!"}
+{"key": "script/mp1201#talk_mouce/491", "es": "Entonces, ¿qué dices? Te la cuento por apenas cien monedas. ¡Es una ganga!"}
+{"key": "script/mp1201#talk_mouce/497", "es": "¡Jeje, sabía que no podrías resistirte! ¿Al final decidiste pagar? Son cien monedas."}
+{"key": "script/mp1201#talk_mouce/502", "es": "Pagar cien monedas"}
+{"key": "script/mp1201#talk_mouce/503", "es": "Paso"}
+{"key": "script/mp1201#talk_mouce/510", "es": "Entregas cien monedas."}
+{"key": "script/mp1201#talk_mouce/515", "es": "¡Jeje, gracias!"}
+{"key": "script/mp1201#talk_mouce/517", "es": "Bueno, prepárate para quedar asombrado..."}
+{"key": "script/mp1201#talk_mouce/519", "es": "¡La gobernadora general Griselda adora los gatos!"}
+{"key": "script/mp1201#talk_mouce/525", "es": "*suspiro* Lo sabía... ¡¿Qué clase de \"primicia\" es esa?!"}
+{"key": "script/mp1201#talk_mouce/527", "es": "Además, ¿dónde está tu prueba?"}
+{"key": "script/mp1201#talk_mouce/530", "es": "El otro día la vi tropezar con un gato que estaba tumbado en medio del camino."}
+{"key": "script/mp1201#talk_mouce/532", "es": "El gato se enojó con ella y empezó a bufar, pero ella se disculpó con dulzura y empezó a acariciarle la cabeza."}
+{"key": "script/mp1201#talk_mouce/534", "es": "La forma en que lo acariciaba, en que le hablaba, en que lo miraba... Es una amante de los gatos. ¡Tiene que serlo!"}
+{"key": "script/mp1201#talk_mouce/540", "es": "Eso... no prueba nada. No son más que rumores. ¡Y absurdos, además!"}
+{"key": "script/mp1201#talk_mouce/542", "es": "Sabía que esto sería una pérdida de tiempo. Vamos, Adol."}
+{"key": "script/mp1201#talk_mouce/548", "es": "...O lo habrías hecho, si de verdad tuvieras tanto."}
+{"key": "script/mp1201#talk_mouce/551", "es": "¡¿Ni siquiera llevas cien encima?!"}
+{"key": "script/mp1201#talk_mouce/553", "es": "Bueno, los negocios son los negocios. No puedo decirte nada si no pagas. ¡Lo siento!"}
+{"key": "script/mp1201#talk_mouce/559", "es": "¿Qué, en serio?"}
+{"key": "script/mp1201#talk_mouce/561", "es": "¿Seguro que puedes vivir sin saber esta primicia increíble?"}
+{"key": "script/mp1201#talk_mouce/567", "es": "¡La gobernadora general Griselda adora los gatos! ¡Te juro que es verdad!"}
+{"key": "script/mp1201#talk_mouce/569", "es": "¡Y no se te ocurra contárselo a nadie más! Si no, no podré hacer mucho negocio."}
+{"key": "script/mp1201#talk_sandra/4", "es": "Oye, ¿buscas pasar un buen rato?"}
+{"key": "script/mp1201#talk_sandra/6", "es": "Solo te costará mil monedas, y solo por hoy, te regalo tiempo extra. ¿Qué dices, guapo?"}
+{"key": "script/mp1201#talk_sandra/11", "es": "Pagar mil monedas"}
+{"key": "script/mp1201#talk_sandra/12", "es": "Rechazar"}
+{"key": "script/mp1201#talk_sandra/23", "es": "Ooh, fantástico."}
+{"key": "script/mp1201#talk_sandra/25", "es": "¡Muy bien, entonces comencemos! ㈱"}
+{"key": "script/mp1201#talk_sandra/39", "es": "A Adol le mostraron Casnan y después lo invitaron a comer. ¡De verdad fue un buen rato!"}
+{"key": "script/mp1201#talk_sandra/43", "es": "¡Tus barras de PH y EXTRA aumentaron!"}
+{"key": "script/mp1201#talk_sandra/72", "es": "Bueno, ¿la pasaste bien?"}
+{"key": "script/mp1201#talk_sandra/74", "es": "Fue lo más divertido que he hecho en mucho tiempo, si se me permite decirlo."}
+{"key": "script/mp1201#talk_sandra/78", "es": "(¿Todo este tiempo solo ha trabajado de guía turística? ¡TIENE que saber lo que piensa la gente, ¿no?!)"}
+{"key": "script/mp1201#talk_sandra/106", "es": "...¿Eh? Parece que no te alcanza."}
+{"key": "script/mp1201#talk_sandra/108", "es": "Qué lástima. ¡No puedo trabajar gratis, ya sabes!"}
+{"key": "script/mp1201#talk_sandra/113", "es": "*suspiro* Qué frío..."}
+{"key": "script/mp1201#talk_sandra/115", "es": "¡Bueno, está bien! ¡Como si me importara!"}
+{"key": "script/mp1201#talk_sandra/120", "es": "Gracias otra vez por hoy."}
+{"key": "script/mp1201#talk_sandra/122", "es": "Tenía dudas de si de verdad quería seguir con este trabajo, pero gracias a ti ya lo decidí."}
+{"key": "script/mp1201#talk_sandra/127", "es": "*suspiro* Hoy estoy un poco cansada."}
+{"key": "script/mp1201#talk_sandra/129", "es": "Quizá debería buscar otro trabajo..."}
+{"key": "script/mp1201#talk_sandra/133", "es": "Quizá sea porque explorar el Gran Bosque es más difícil de lo que la gente esperaba, pero últimamente no hay muchos turistas por aquí."}
+{"key": "script/mp1201#talk_sandra/135", "es": "Siempre son las mismas pocas personas. Qué abuuurrido..."}
+{"key": "script/mp1201#talk_sandra/139", "es": "Todo ha vuelto a la normalidad por aquí, ahora que se fueron todos esos soldados."}
+{"key": "script/mp1201#talk_sandra/141", "es": "*suspiro* Y lo normal es tan insípido..."}
+{"key": "script/mp1201#talk_sandra/154", "es": "¡Vaya, pero si es mi joven favorito, de corazón frío pero increíblemente guapo!"}
+{"key": "script/mp1201#talk_sandra/156", "es": "¿Te animas a pasar un buen rato hoy, tal vez?"}
+{"key": "script/mp1201#talk_sandra/162", "es": "Paso."}
+{"key": "script/mp1201#talk_sandra/163", "es": "Otro día."}
+{"key": "script/mp1201#talk_sandra/169", "es": "Ay, no hace falta ser tan frío."}
+{"key": "script/mp1201#talk_sandra/171", "es": "Jijiji. Bueno, qué se le va a hacer. ¡Nos vemos! ㈱"}
+{"key": "script/mp1201#talk_sandra/177", "es": "Oh, qué sentimiento tan esperanzador."}
+{"key": "script/mp1201#talk_sandra/179", "es": "Jijiji. Me alegra oírlo, aunque solo lo digas por cortesía. Bueno, entonces... ¡la próxima vez! ㈱"}
+{"key": "script/mp1201#talk_sandra/193", "es": "Eh, la respuesta es \"No\". Ve a preguntarle a otro."}
+{"key": "script/mp1201#talk_sandra/196", "es": "¡Ay, vamos! ¡No hace falta ser tan frío!"}
+{"key": "script/mp1201#talk_sandra/198", "es": "Jijiji. Bueno, qué se le va a hacer. ¡Nos vemos! ㈱"}
+{"key": "script/mp1201#talk_sandra/204", "es": "Jijiji. Bueno, si cambias de opinión, avísame."}
+{"key": "script/mp1201#talk_sandra/206", "es": "¡Siempre estoy lista y esperando! ㈱"}
+{"key": "script/mp1201#talk_sandra/212", "es": "¿Hoy estás solo?"}
+{"key": "script/mp1201#talk_sandra/214", "es": "No hace falta que te contengas solo porque afuera hace un día precioso."}
+{"key": "script/mp1201#talk_sandra/216", "es": "Si no tienes nada más que hacer, ¿por qué no dejas que te entretenga? ㈱"}
+{"key": "script/mp1201#talk_sandra/221", "es": "No hace falta que te contengas solo porque afuera hace un día precioso."}
+{"key": "script/mp1201#talk_sandra/223", "es": "Si no tienes nada más que hacer, ¿por qué no dejas que te entretenga? ㈱"}
+{"key": "script/mp1201#talk_sandra/228", "es": "Jijiji. Si decides que quieres divertirte, ¡ya sabes dónde encontrarme!"}
+{"key": "script/mp1201#talk_sandra/230", "es": "Si de verdad quisieran, no me molestaría atender a los dos a la vez. ㈱"}
+{"key": "script/mp1201#talk_sandra/234", "es": "Vaya, vaya, qué caballeros tan apuestos..."}
+{"key": "script/mp1201#talk_sandra/236", "es": "¿Les gustaría divertirse conmigo? ¡Les haré pasar el mejor momento de su vida! ㈱"}
+{"key": "script/mp1201#talk_suzanna/3", "es": "Ahora que lo pienso, hace tiempo que no veo a Leo por aquí."}
+{"key": "script/mp1201#talk_suzanna/5", "es": "Me pregunto si volverá pronto..."}
+{"key": "script/mp1201#talk_suzanna/9", "es": "La verdad es que somos afortunados, si lo piensas."}
+{"key": "script/mp1201#talk_suzanna/11", "es": "Probablemente deberíamos estar más agradecidos por lo que tenemos, en lugar de darlo todo por sentado."}
+{"key": "script/mp1201#talk_suzanna/15", "es": "¿Oíste el último rumor? Dicen que hay un pueblo enorme en el Gran Bosque."}
+{"key": "script/mp1201#talk_suzanna/17", "es": "A mí me cuesta un poco creerlo..."}
+{"key": "script/mp1201#talk_suzanna/21", "es": "Ese hombre que está al mando del Ejército Romuno... ¿Gruda, se llamaba?"}
+{"key": "script/mp1201#talk_suzanna/23", "es": "Tiene una carita linda, pero es más bajo de lo que esperaba."}
+{"key": "script/mp1201#talk_suzanna/27", "es": "¿Conoces a esos soldados nuevos que llegaron? ¿Los de Romn? Todos parecen actuar de forma más... \"correcta\" cuando están cerca."}
+{"key": "script/mp1201#talk_suzanna/29", "es": "¿Adónde habrá ido Leo?"}
+{"key": "script/mp1201#talk_suzanna/33", "es": "¿Oíste las últimas noticias? Parece que encontraron dos aldeas en el Gran Bosque. ¡Dos!"}
+{"key": "script/mp1201#talk_suzanna/35", "es": "Me pregunto qué clase de gente vive ahí..."}
+{"key": "script/mp1201#talk_suzanna/39", "es": "Oh, ¿tú también vas a comer bistec esta noche?"}
+{"key": "script/mp1201#talk_suzanna/41", "es": "Mmm, ¡qué idea maravillosa! Quizá yo también coma bistec."}
+{"key": "script/mp1201#talk_suzanna/45", "es": "Oye, ¿te enteraste de lo de Leo? Parece que huyó cuando más lo necesitábamos... otra vez."}
+{"key": "script/mp1201#talk_suzanna/47", "es": "¡Y aun así siempre se cree la gran cosa! De verdad tiene que empezar a hacer su trabajo y dejar de fingir que es tan importante."}
+{"key": "script/mp1201#talk_blenda/3", "es": "Tienes toda la razón. Siempre es tan molesto y ruidoso cuando está aquí..."}
+{"key": "script/mp1201#talk_blenda/5", "es": "¡Pero cuando no está, se siente algo solitario, por alguna razón!"}
+{"key": "script/mp1201#talk_blenda/9", "es": "Tienes toda la razón. Tengo mucho dinero, así que desde luego no necesito contenerme."}
+{"key": "script/mp1201#talk_blenda/11", "es": "Además, tengo la bendición de una familia maravillosa."}
+{"key": "script/mp1201#talk_blenda/15", "es": "Yo también lo oí, pero me cuesta creerlo."}
+{"key": "script/mp1201#talk_blenda/17", "es": "Seguramente es solo una mentira inventada por algún explorador que quiere hacerse un nombre."}
+{"key": "script/mp1201#talk_blenda/21", "es": "Es cierto. Aunque me gusta el aspecto del oficial que a veces lo acompaña."}
+{"key": "script/mp1201#talk_blenda/23", "es": "Es delgado, ¡y se ve tan apuesto con ese cabello largo!"}
+{"key": "script/mp1201#talk_blenda/27", "es": "Oí que Leo volvió a entrar en el Gran Bosque."}
+{"key": "script/mp1201#talk_blenda/29", "es": "Va a ser tan aburrido aquí sin él."}
+{"key": "script/mp1201#talk_blenda/33", "es": "Eso oí. Al parecer fue Adol quien descubrió ambas también."}
+{"key": "script/mp1201#talk_blenda/35", "es": "Seguro que Leo está frustrado por no haber llegado primero. ¡Pero se lo merece!"}
+{"key": "script/mp1201#talk_blenda/39", "es": "Cierto, ¡no hay nada como la carne para llenarte de energía!"}
+{"key": "script/mp1201#talk_blenda/41", "es": "Mi esposo tiene que seguir esforzándose."}
+{"key": "script/mp1201#talk_blenda/45", "es": "Eso oí. De verdad es un caso perdido."}
+{"key": "script/mp1201#talk_blenda/47", "es": "¿No fue Adol quien terminó arreglándolo todo, también?"}
+{"key": "script/mp1201#talk_blenda/49", "es": "¿No puede alguien darle el trabajo de Leo a él?"}
+{"key": "script/mp1201#talk_evan/15", "es": "Hablar"}
+{"key": "script/mp1201#talk_evan/16", "es": "Rendirse"}
 {"key": "script/mp1201#talk_evan/17", "es": "Cancelar"}
+{"key": "script/mp1201#talk_evan/21", "es": "Je. Parece que tienes problemas."}
+{"key": "script/mp1201#talk_evan/23", "es": "Si de verdad no puedes encontrarlos, ¡siempre puedes rendirte y admitir la derrota!"}
+{"key": "script/mp1201#talk_evan/28", "es": "...Espera, ¡¿de verdad te vas a rendir?!"}
+{"key": "script/mp1201#talk_evan/30", "es": "Entonces, ¿admites la derrota ante nosotros?"}
+{"key": "script/mp1201#talk_evan/35", "es": "Admitir la derrota"}
+{"key": "script/mp1201#talk_evan/36", "es": "Seguir intentando un poco más"}
+{"key": "script/mp1201#talk_evan/40", "es": "¿En serio? ¡Entonces significa que ganamos!"}
+{"key": "script/mp1201#talk_evan/45", "es": "...Aunque no me siento muy feliz por eso."}
+{"key": "script/mp1201#talk_evan/50", "es": "Sí, yo esperaba que Adol opusiera un poco más de resistencia."}
+{"key": "script/mp1201#talk_evan/53", "es": "Aja. ¡Pensé que Adol nos mostraría el trabajo de un verdadero experto cazatesoros!"}
+{"key": "script/mp1201#talk_evan/55", "es": "Bueno, ¡de todos modos nuestra misión terminó!"}
+{"key": "script/mp1201#talk_evan/58", "es": "Muchas gracias por jugar con nosotros hoy."}
+{"key": "script/mp1201#talk_evan/66", "es": "Misión fallida: \"¡Desafío!\"..."}
+{"key": "script/mp1201#talk_evan/114", "es": "¡Ese es el espíritu! ¡No puedes rendirte tan fácil!"}
+{"key": "script/mp1201#talk_evan/116", "es": "¡Anda, sigue buscando!"}
+{"key": "script/mp1201#talk_evan/125", "es": "*jadeo* *jadeo* ¡¿Por qué no te rindes ya?!"}
+{"key": "script/mp1201#talk_evan/129", "es": "¡No eres rival para mí, Rey Monstro Decimoquinto! ...Espera, ¿o era el Decimosexto?"}
+{"key": "script/mp1201#talk_evan/131", "es": "...O quizá era el Decimocuarto..."}
+{"key": "script/mp1201#talk_evan/135", "es": "Uf, ahora sí que la luz volverá al mundo--"}
+{"key": "script/mp1201#talk_evan/137", "es": "¡TÚ! ¡¿Por qué sigues vivo?!"}
+{"key": "script/mp1201#talk_evan/141", "es": "¡Engendro, ¿por qué sigues vivo?!"}
+{"key": "script/mp1201#talk_evan/143", "es": "¡Yo acabé contigo!"}
+{"key": "script/mp1201#talk_evan/147", "es": "¡Pshiiiu! Fshhhh..."}
+{"key": "script/mp1201#talk_evan/149", "es": "¡Presencia el verdadero poder de un héroe!"}
+{"key": "script/mp1201#talk_evan/153", "es": "¡Hoy estoy más fuerte que nunca!"}
+{"key": "script/mp1201#talk_evan/155", "es": "¡Prepárate, Rey Monstro! ¡Aquí termina tu vida!"}
+{"key": "script/mp1201#talk_evan/159", "es": "Ugh... ¿Por qué mi espada no te hace daño?"}
+{"key": "script/mp1201#talk_evan/161", "es": "¡¿De qué está hecha tu armadura?!"}
+{"key": "script/mp1201#talk_evan/170", "es": "¡Maldito seas, Rey Monstro! ¡No dejaré que escapes!"}
+{"key": "script/mp1201#talk_evan/175", "es": "¡¿Monstruos?! ¡¿Qué clase de monstruos?!"}
+{"key": "script/mp1201#talk_evan/177", "es": "¡Quiero verlos! ¡De verdad quiero ver algunos monstruos, aunque sea un vistazo rápido una sola vez!"}
+{"key": "script/mp1201#talk_rile/15", "es": "Hablar"}
+{"key": "script/mp1201#talk_rile/16", "es": "Pedir una pista"}
 {"key": "script/mp1201#talk_rile/17", "es": "Cancelar"}
+{"key": "script/mp1201#talk_rile/21", "es": "¿Cómo va la búsqueda del tesoro? ¡Espero que sea un buen reto!"}
+{"key": "script/mp1201#talk_rile/23", "es": "Después de todo, tardamos mucho en pensar los mejores escondites posibles."}
+{"key": "script/mp1201#talk_rile/25", "es": "¡Si los encontraras con demasiada facilidad, no tendría gracia!"}
+{"key": "script/mp1201#talk_rile/33", "es": "Escondite 1"}
+{"key": "script/mp1201#talk_rile/34", "es": "Escondite 2"}
+{"key": "script/mp1201#talk_rile/35", "es": "Escondite 3"}
+{"key": "script/mp1201#talk_rile/36", "es": "Escondite 4"}
+{"key": "script/mp1201#talk_rile/37", "es": "Escondite 5"}
 {"key": "script/mp1201#talk_rile/38", "es": "Cancelar"}
+{"key": "script/mp1201#talk_rile/42", "es": "Eh... uno está escondido en un lugar donde los adultos suelen beber de jarras grandes y decir: \"¡Ahhhh!\""}
+{"key": "script/mp1201#talk_rile/44", "es": "Y el aliento suele oler, también. ¡Pero si digo más, lo delataré!"}
+{"key": "script/mp1201#talk_rile/46", "es": "Es un lugar bastante grande, así que mira bien."}
+{"key": "script/mp1201#talk_rile/51", "es": "Eh... uno está escondido en una casa de la parte baja de la ciudad, con un techo de otro color que el de las casas de alrededor."}
+{"key": "script/mp1201#talk_rile/53", "es": "Este se lo dejé a Evan, y creo que dijo que lo puso cerca de la zona de cocina. ¿Algo así?"}
+{"key": "script/mp1201#talk_rile/58", "es": "Eh... uno está escondido cerca de un animal en el que la gente puede montar."}
+{"key": "script/mp1201#talk_rile/60", "es": "También es bastante fuerte, así que hasta puede cargar el equipaje de la gente. ¿Eso lo hace más fácil?"}
+{"key": "script/mp1201#talk_rile/65", "es": "Eh... uno está escondido en un callejón oscuro y algo sospechoso."}
+{"key": "script/mp1201#talk_rile/67", "es": "Hay mucha gente de aspecto sospechoso ahí, así que si no lo encuentras rápido, alguien podría robarlo. ¿Eso lo hace más fácil?"}
+{"key": "script/mp1201#talk_rile/72", "es": "Eh... uno está escondido debajo de una carpa con una cruz y un círculo."}
+{"key": "script/mp1201#talk_rile/74", "es": "...¡En realidad, creo que acabo de darte la respuesta!"}
+{"key": "script/mp1201#talk_rile/85", "es": "¡Lo mismo te digo!"}
+{"key": "script/mp1201#talk_rile/87", "es": "¡Aunque me derrotes, la luz jamás volverá al mundo!"}
+{"key": "script/mp1201#talk_rile/91", "es": "Creo que era el..."}
+{"key": "script/mp1201#talk_rile/93", "es": "...¡A quién le importa eso! ¡Date prisa y pelea conmigo!"}
+{"key": "script/mp1201#talk_rile/97", "es": "¡Ja, ja, ja! ¡Héroe necio e ingenuo!"}
+{"key": "script/mp1201#talk_rile/99", "es": "¡Mi tribu vivirá para siempre! ¡Jajajajaja!"}
+{"key": "script/mp1201#talk_rile/103", "es": "¡Mi nombre es Rey Monstro Segundo!"}
+{"key": "script/mp1201#talk_rile/105", "es": "¡Vengaré la muerte de mi padre!"}
+{"key": "script/mp1201#talk_rile/109", "es": "¡Aaaargh! ¿Cómo... cómo es posible...?"}
+{"key": "script/mp1201#talk_rile/113", "es": "¡Muy bien, héroe pelirrojo! ¡Es hora de zanjar esto!"}
+{"key": "script/mp1201#talk_rile/117", "es": "¡Ja, ja, ja! ¡Mi armadura está hecha del metal legendario, el Ultrahiperio!"}
+{"key": "script/mp1201#talk_rile/119", "es": "¡Tu espada no puede nada contra ella!"}
+{"key": "script/mp1201#talk_rile/128", "es": "¡Héroe pelirrojo necio! ¡Ríndete!"}
+{"key": "script/mp1201#talk_rile/130", "es": "¡No puedes ganarme!"}
+{"key": "script/mp1201#talk_rile/135", "es": "No puedo creer que Evan de verdad quiera ver un monstruo. ¡Es increíblemente valiente!"}
+{"key": "script/mp1201#talk_rile/137", "es": "*escalofrío* Me da miedo solo pensar en ellos..."}
+{"key": "script/mp1201#talk_evan_rile/0", "es": "¡Así que por fin te muestras, Rey Monstro!"}
+{"key": "script/mp1201#talk_evan_rile/2", "es": "¡Hoy no escaparás! ¡Devolveré la luz al mundo! ¡Toma esto!"}
+{"key": "script/mp1201#talk_evan_rile/5", "es": "¡Jamás! ¡No puedes vencerme, héroe pelirrojo!"}
+{"key": "script/mp1201#talk_evan_rile/12", "es": "...Espera, tú también tienes el pelo rojo..."}
+{"key": "script/mp1201#talk_evan_rile/19", "es": "¿Q-qué? ¡¿En serio?!"}
+{"key": "script/mp1201#talk_evan_rile/21", "es": "¿Eso significa que tú eres quien derrotó ayer a ese monstruo de la mina?"}
+{"key": "script/mp1201#talk_evan_rile/27", "es": "...Eres... distinto a como te imaginaba..."}
+{"key": "script/mp1201#talk_evan_rile/30", "es": "Sí, ¡como venciste a ese monstruo, pensé que medías como tres melye de alto!"}
+{"key": "script/mp1201#talk_evan_rile/36", "es": "¿Tres melye de alto, eh? Eso es más o menos... el doble de mi estatura, poco más o menos."}
+{"key": "script/mp1201#talk_evan_rile/38", "es": "Los niños tienen una imaginación increíble."}
+{"key": "script/mp1201#talk_evan_rile/41", "es": "Mmm... bueno."}
+{"key": "script/mp1201#talk_evan_rile/43", "es": "¡Algún día voy a ser tan fuerte como tú!"}
+{"key": "script/mp1201#talk_evan_rile/46", "es": "Por eso estamos entrenando ahora mismo."}
+{"key": "script/mp1201#talk_evan_rile/48", "es": "¡Así que adiós!"}
+{"key": "script/mp1201#talk_dwait/3", "es": "Hay tantos rumores tan distintos sobre las Tierras Primigenias que no tengo idea de qué creer."}
+{"key": "script/mp1201#talk_dwait/5", "es": "Personalmente, me gustaría creer el que dice que es un paraíso lleno de mujeres hermosas, ¡pero suena demasiado bueno para ser verdad!"}
+{"key": "script/mp1201#talk_dwait/9", "es": "Hay tantos rumores tan distintos sobre las Tierras Primigenias... Algunos hasta dicen que no hay nada ahí."}
+{"key": "script/mp1201#talk_dwait/11", "es": "Pero si de verdad solo está cubierto de bosques primigenios... ¡Uf, qué aburrido sería!"}
+{"key": "script/mp1201#talk_dwait/15", "es": "¿Oíste el último rumor? Dicen que al otro lado del río hay una utopía llamada las Tierras Primigenias."}
+{"key": "script/mp1201#talk_dwait/17", "es": "¡Y se supone que está llena de nada más que mujeres hermosas!"}
+{"key": "script/mp1201#talk_dwait/19", "es": "...No suena muy realista, pero ¿qué hombre no querría que fuera real?"}
+{"key": "script/mp1201#talk_dwait/23", "es": "Primero el Ejército Romuno se fue al Gran Bosque, ¡y ahora hasta la gobernadora general Griselda entró ahí también!"}
+{"key": "script/mp1201#talk_dwait/25", "es": "Es una mujer muy valiente, hay que reconocérselo."}
+{"key": "script/mp1201#talk_dwait/30", "es": "Uf, fue divertido molestar a Leo ayer."}
+{"key": "script/mp1201#talk_dwait/32", "es": "Aun así, no creo que nadie esperara que de verdad escalara ese muro."}
+{"key": "script/mp1201#talk_dwait/34", "es": "...Ahora que lo pienso, pasó un buen rato en el Gran Bosque y aun así logró salir sano y salvo."}
+{"key": "script/mp1201#talk_dwait/36", "es": "¡Quizá sea bastante duro de verdad!"}
+{"key": "script/mp1201#talk_dwait/41", "es": "Quizá Leo sea bastante duro de verdad."}
+{"key": "script/mp1201#talk_dwait/43", "es": "Siempre anda buscando la gloria, pero no parece tener malas intenciones."}
+{"key": "script/mp1201#talk_dwait/49", "es": "Oye, Adol. Parece que hiciste un gran descubrimiento."}
+{"key": "script/mp1201#talk_dwait/51", "es": "Encontrar un asentamiento antes que nadie es un logro bastante impresionante."}
+{"key": "script/mp1201#talk_dwait/53", "es": "¡Sigue así! Necesitamos a alguien que deje en ridículo a Leo."}
+{"key": "script/mp1201#talk_dwait/58", "es": "Encontrar un asentamiento antes que nadie es todo un logro."}
+{"key": "script/mp1201#talk_dwait/60", "es": "¡Sigue así! Necesitamos a alguien que deje en ridículo a Leo."}
+{"key": "script/mp1201#talk_dwait/65", "es": "Oye, Adol. Me dijeron que estás intentando trazar el mapa del Gran Bosque. ¿Cómo te va?"}
+{"key": "script/mp1201#talk_dwait/67", "es": "De todos modos, que Leo no esté en la ciudad ya es bueno de por sí."}
+{"key": "script/mp1201#talk_dwait/74", "es": "Por tu cabello rojo, debes de ser ese tal Adol que acabó con el monstruo de la mina, ¿verdad?"}
+{"key": "script/mp1201#talk_dwait/76", "es": "Tienes muchísimo valor para alguien de tu edad."}
+{"key": "script/mp1201#talk_dwait/78", "es": "¡Leo podría aprender un par de cosas de ti!"}
+{"key": "script/mp1201#talk_dwait/83", "es": "Tienes muchísimo valor para alguien de tu edad."}
+{"key": "script/mp1201#talk_dwait/85", "es": "¡Leo podría aprender un par de cosas de ti!"}
+{"key": "script/mp1201#talk_merile/3", "es": "¡Bienvenido, bienvenido!"}
+{"key": "script/mp1201#talk_merile/5", "es": "Seas grande o pequeño, ¡siempre eres bienvenido en la tienda de Papi!"}
+{"key": "script/mp1201#talk_merile/9", "es": "¡Y siempre estamos abiertos!"}
+{"key": "script/mp1201#talk_merile/11", "es": "¡Por favor, compra muchas cosas a Papi!"}
+{"key": "script/mp1201#talk_merile/15", "es": "¡Bienvenido, bienvenido!"}
+{"key": "script/mp1201#talk_merile/17", "es": "Seas niño o niña, ¡siempre eres bienvenido o bienvenida en la tienda de Papi!"}
+{"key": "script/mp1201#talk_merile/22", "es": "Papi tiene un montón de nuevo equipamen...e..."}
+{"key": "script/mp1201#talk_merile/24", "es": "...¿Quipamento?"}
+{"key": "script/mp1201#talk_merile/26", "es": "...Equipamento...Equimapien...rrrg..."}
+{"key": "script/mp1201#talk_merile/28", "es": "¡Papi tiene un montón de armas y armaduras nuevas para que compres!"}
+{"key": "script/mp1201#talk_merile/30", "es": "¡Por favor, compra muchas cosas a Papi!"}
+{"key": "script/mp1201#talk_merile/35", "es": "¡Papi tiene armas y armaduras nuevas!"}
+{"key": "script/mp1201#talk_merile/37", "es": "¡Por favor, echa un vistazo!"}
+{"key": "script/mp1201#talk_merile/42", "es": "¡Bienvenido, bienvenido!"}
+{"key": "script/mp1201#talk_merile/44", "es": "Si no estás ocupado, ¡echa un vistazo!"}
+{"key": "script/mp1201#talk_merile/48", "es": "¡Bienvenido, bienvenido!"}
+{"key": "script/mp1201#talk_merile/50", "es": "Si te preocupan tus cosas de pelear, ¡ven a comprar con Papi!"}
+{"key": "script/mp1201#talk_merile/54", "es": "¡Tiene un montón de cosas para comprar!"}
+{"key": "script/mp1201#talk_merile/56", "es": "¡Y todas son baratísimas!"}
+{"key": "script/mp1201#talk_merile/60", "es": "¡Bienvenido, bienvenido!"}
+{"key": "script/mp1201#talk_merile/62", "es": "¡Papi tiene cosas filosas y cosas puntiagudas para que compres! ¡De todas clases!"}
+{"key": "script/mp1201#talk_rachel/2", "es": "¿Crees en el poder de las palabras?"}
+{"key": "script/mp1201#talk_rachel/4", "es": "Yo sí. Después de todo, las palabras forman el mundo que nos rodea."}
+{"key": "script/mp1201#talk_rachel/8", "es": "Las personas no son especiales por naturaleza... pero hay alguien que es especial para mí."}
+{"key": "script/mp1201#talk_rachel/10", "es": "El mundo está hecho de distintas perspectivas. Es simple, pero complejo."}
+{"key": "script/mp1201#talk_rachel/14", "es": "Suele decirse que el deseo humano no tiene límite, pero ¿será cierto?"}
+{"key": "script/mp1201#talk_rachel/16", "es": "Solo se puede desear aquello que se imagina... es decir, el deseo tiene los mismos límites que la imaginación."}
+{"key": "script/mp1201#talk_rachel/20", "es": "La historia humana no es más que un ciclo que se repite sin fin."}
+{"key": "script/mp1201#talk_rachel/22", "es": "Dicen que hay que aprender del pasado, pero en realidad eso es solo una excusa."}
+{"key": "script/mp1201#talk_rachel/27", "es": "¿Enfrentas las dificultades de frente? ¿O les das la espalda?"}
+{"key": "script/mp1201#talk_rachel/29", "es": "Yo soy de las segundas, pero eso no significa que huya."}
+{"key": "script/mp1201#talk_rachel/31", "es": "Es que cada quien tiene su propia manera de lidiar con los problemas, nada más."}
+{"key": "script/mp1201#talk_rachel/36", "es": "Es que cada quien tiene su propia manera de lidiar con los problemas."}
+{"key": "script/mp1201#talk_rachel/38", "es": "Nadie puede decir que es imposible superar un problema dándole la espalda."}
+{"key": "script/mp1201#talk_rachel/43", "es": "No puedes controlar el flujo de las eras, pero sí guiarlo en la dirección que deseas..."}
+{"key": "script/mp1201#talk_rachel/45", "es": "¿Eres de los que crean nuevas corrientes? ¿O de los que se dejan guiar por ellas?"}
+{"key": "script/mp1201#talk_rachel/49", "es": "Comparados con la naturaleza, los humanos somos en verdad impotentes. Por eso debemos apoyarnos unos a otros."}
+{"key": "script/mp1201#talk_rachel/51", "es": "Debes entender que no estás solo... Eso es lo más importante de vivir."}
+{"key": "script/mp1201#talk_rachel/58", "es": "Así que tú eres quien derrotó al monstruo... Creo que me había fijado en ti antes de que otros empezaran a hablar de tus hazañas."}
+{"key": "script/mp1201#talk_rachel/60", "es": "...¿Vas a entrar de nuevo en el Gran Bosque?"}
+{"key": "script/mp1201#talk_rachel/62", "es": "Eres un temerario o simplemente un necio... Pero tu imprudente locura resulta extrañamente admirable."}
+{"key": "script/mp1201#talk_rachel/67", "es": "...¿Vas a entrar de nuevo en el Gran Bosque?"}
+{"key": "script/mp1201#talk_rachel/69", "es": "Eres un temerario o simplemente un necio... Pero tu imprudente locura resulta extrañamente admirable."}
+{"key": "script/mp1201#talk_agnes/3", "es": "¡Lo decidí! ¡Me lo voy a llevar a casa!"}
+{"key": "script/mp1201#talk_agnes/5", "es": "¡Y entonces sus patitas serán solo mías! ¡No las compartiré con nadie!"}
+{"key": "script/mp1201#talk_agnes/9", "es": "¡Aaah, no puedo dejar de tocarlas!"}
+{"key": "script/mp1201#talk_agnes/11", "es": "Tengo hambre, pero quiero acariciar sus patitas más que comer."}
+{"key": "script/mp1201#talk_agnes/16", "es": "*aprieta*...*aprieta*..."}
+{"key": "script/mp1201#talk_agnes/18", "es": "*aprieta*...*apretujapretujapretujapretuja*..."}
+{"key": "script/mp1201#talk_agnes/20", "es": "Esta textura... Estas patitas..."}
+{"key": "script/mp1201#talk_agnes/23", "es": "¡Son gatásticas!"}
+{"key": "script/mp1201#talk_agnes/28", "es": "Las patitas son cosas maravillosas."}
+{"key": "script/mp1201#talk_agnes/30", "es": "¡No puedo dejar de tocarlas! ¡Podría hacerlo todo el día! ¡O toda la semana! ¡O incluso todo el año!"}
+{"key": "script/mp1201#talk_agnes/36", "es": "Me pregunto si no le molestaría que le toque la pancita. ¡Ay, qué importa! ¡Lo voy a hacer de todos modos!"}
+{"key": "script/mp1201#talk_agnes/41", "es": "Ooh, esto también se siente bien..."}
+{"key": "script/mp1201#talk_agnes/43", "es": "Es cálido y suave..."}
+{"key": "script/mp1201#talk_agnes/48", "es": "Tan cálido y suave..."}
+{"key": "script/mp1201#talk_agnes/54", "es": "Lo voy a hacer. ¡Lo voy a tocar!"}
+{"key": "script/mp1201#talk_agnes/59", "es": "¡Oooh, qué sedoso! No esperaba que fuera tan sedoso..."}
+{"key": "script/mp1201#talk_agnes/64", "es": "*acaricia* *acaricia*"}
+{"key": "script/mp1201#talk_agnes/66", "es": "¡Oooh, qué sedoso! No esperaba que fuera tan sedoso..."}
+{"key": "script/mp1201#talk_agnes/71", "es": "Como que quiero acariciarlo, y a la vez no..."}
+{"key": "script/mp1201#talk_agnes/73", "es": "No sé qué hacer..."}
+{"key": "script/mp1201#talk_agnes/77", "es": "¿Debería intentar acariciarlo? No sé si soy lo bastante valiente para eso."}
+{"key": "script/mp1201#talk_agnes/79", "es": "¿Y si me muerde?"}
+{"key": "script/mp1201#talk_agnes/83", "es": "S-Siempre me pongo nerviosa con los gatos..."}
+{"key": "script/mp1201#talk_agnes/85", "es": "Pero este tiene algo que simplemente me atrae."}
+{"key": "script/mp1201#talk_cat/6", "es": "Mreeeoooooowwwwnnn... ㈱"}
+{"key": "script/mp1201#talk_cat/14", "es": "Mreeeeoooowww... ㈱"}
+{"key": "script/mp1201#talk_cat/22", "es": "Meeeeooowww..."}
+{"key": "script/mp1201#talk_cat/30", "es": "¡Myaa!"}
+{"key": "script/mp1201#talk_cat/38", "es": "¡Myaaaownn!"}
+{"key": "script/mp1201#talk_cat/44", "es": "Darle una fruta o nuez"}
+{"key": "script/mp1201#talk_cat/45", "es": "Jalarle los bigotes"}
 {"key": "script/mp1201#talk_cat/46", "es": "Cancelar"}
+{"key": "script/mp1201#talk_cat/53", "es": "No tienes ninguno. Quizá debiste pensarlo antes de ofrecerlo, ¿eh?"}
+{"key": "script/mp1201#talk_cat/60", "es": "Darle una fruta podrida"}
+{"key": "script/mp1201#talk_cat/63", "es": "Darle una nuez de chito"}
+{"key": "script/mp1201#talk_cat/66", "es": "Darle una fruta de raparo"}
+{"key": "script/mp1201#talk_cat/69", "es": "Darle una fruta de arieda"}
+{"key": "script/mp1201#talk_cat/72", "es": "Darle una fruta de Roda"}
 {"key": "script/mp1201#talk_cat/74", "es": "Cancelar"}
+{"key": "script/mp1201#talk_cat/83", "es": "No parece impresionado."}
+{"key": "script/mp1201#talk_cat/96", "es": "Parece contento."}
+{"key": "script/mp1201#talk_cat/102", "es": "Recibes "}
+{"key": "script/mp1201#talk_cat/108", "es": "Recibes "}
+{"key": "script/mp1201#talk_cat/114", "es": "Recibes "}
+{"key": "script/mp1201#talk_cat/134", "es": "Parece muy contento."}
+{"key": "script/mp1201#talk_cat/140", "es": "Recibes "}
+{"key": "script/mp1201#talk_cat/146", "es": "Recibes "}
+{"key": "script/mp1201#talk_cat/152", "es": "Recibes "}
+{"key": "script/mp1201#talk_cat/172", "es": "Parece increíblemente contento."}
+{"key": "script/mp1201#talk_cat/178", "es": "Recibes "}
+{"key": "script/mp1201#talk_cat/184", "es": "Recibes "}
+{"key": "script/mp1201#talk_cat/204", "es": "Parece extasiado."}
+{"key": "script/mp1201#talk_cat/208", "es": "Recibes "}
+{"key": "script/mp1201#talk_cat/231", "es": "...Parece ofendido."}
+{"key": "script/mp1201#talk_cat/235", "es": "...Parece que no le caes bien."}
+{"key": "script/mp1201#talk_picard/6", "es": "Phweeeeooouugghh... ㈱ *hipo*"}
+{"key": "script/mp1201#talk_picard/14", "es": "Phweeeeeuugghh... ㈱ *hipo*"}
+{"key": "script/mp1201#talk_picard/22", "es": "Phwee... *hipo*"}
+{"key": "script/mp1201#talk_picard/30", "es": "¡Phweeee! *hipo*"}
+{"key": "script/mp1201#talk_picard/38", "es": "¡Phweeeeheeee! *hipo*"}
+{"key": "script/mp1201#talk_picard/48", "es": "Phweeeooouugghh... ㈱"}
+{"key": "script/mp1201#talk_picard/56", "es": "Phweeoouuggh... ㈱"}
+{"key": "script/mp1201#talk_picard/64", "es": "Phwee..."}
+{"key": "script/mp1201#talk_picard/72", "es": "¡Phweee!"}
+{"key": "script/mp1201#talk_picard/80", "es": "¡Phweeeeeheeeeeee!"}
+{"key": "script/mp1201#talk_picard/87", "es": "Darle una fruta o nuez"}
+{"key": "script/mp1201#talk_picard/88", "es": "Pellizcarle la nariz"}
 {"key": "script/mp1201#talk_picard/89", "es": "Cancelar"}
+{"key": "script/mp1201#talk_picard/96", "es": "¿No tienes ninguno? ¿Qué te pasa?"}
+{"key": "script/mp1201#talk_picard/103", "es": "Darle una fruta podrida"}
+{"key": "script/mp1201#talk_picard/106", "es": "Darle una nuez de chito"}
+{"key": "script/mp1201#talk_picard/109", "es": "Darle una fruta de raparo"}
+{"key": "script/mp1201#talk_picard/112", "es": "Darle una fruta de arieda"}
+{"key": "script/mp1201#talk_picard/115", "es": "Darle una fruta de Roda"}
 {"key": "script/mp1201#talk_picard/117", "es": "Cancelar"}
+{"key": "script/mp1201#talk_picard/126", "es": "No parece impresionado."}
+{"key": "script/mp1201#talk_picard/139", "es": "Parece contento."}
+{"key": "script/mp1201#talk_picard/145", "es": "Recibes "}
+{"key": "script/mp1201#talk_picard/151", "es": "Recibes "}
+{"key": "script/mp1201#talk_picard/157", "es": "Recibes "}
+{"key": "script/mp1201#talk_picard/177", "es": "Parece muy contento."}
+{"key": "script/mp1201#talk_picard/183", "es": "Recibes "}
+{"key": "script/mp1201#talk_picard/189", "es": "Recibes "}
+{"key": "script/mp1201#talk_picard/195", "es": "Recibes "}
+{"key": "script/mp1201#talk_picard/215", "es": "Parece increíblemente contento."}
+{"key": "script/mp1201#talk_picard/221", "es": "Recibes "}
+{"key": "script/mp1201#talk_picard/227", "es": "Recibes "}
+{"key": "script/mp1201#talk_picard/247", "es": "Parece extasiado."}
+{"key": "script/mp1201#talk_picard/251", "es": "Recibes "}
+{"key": "script/mp1201#talk_picard/274", "es": "...Parece ofendido."}
+{"key": "script/mp1201#talk_picard/278", "es": "...Parece que no le caes bien."}
+{"key": "script/mp1201#talk_dog/6", "es": "*baba* ¡Guau! ¡Guau! ㈱"}
+{"key": "script/mp1201#talk_dog/14", "es": "*baba* ¡Guau! ㈱"}
+{"key": "script/mp1201#talk_dog/22", "es": "*baba* ¡Guau!"}
+{"key": "script/mp1201#talk_dog/30", "es": "*baba* Grrr..."}
+{"key": "script/mp1201#talk_dog/38", "es": "*baba* ¡¡GRRRR!!"}
+{"key": "script/mp1201#talk_dog/44", "es": "Darle una fruta o nuez"}
+{"key": "script/mp1201#talk_dog/45", "es": "Jalarle las orejas"}
 {"key": "script/mp1201#talk_dog/46", "es": "Cancelar"}
+{"key": "script/mp1201#talk_dog/53", "es": "No tienes ninguno, pero está bien. No pasa nada. De verdad. Total, tampoco lo necesitaba... Qué malo eres."}
+{"key": "script/mp1201#talk_dog/60", "es": "Darle una fruta podrida"}
+{"key": "script/mp1201#talk_dog/63", "es": "Darle una nuez de chito"}
+{"key": "script/mp1201#talk_dog/66", "es": "Darle una fruta de raparo"}
+{"key": "script/mp1201#talk_dog/69", "es": "Darle una fruta de arieda"}
+{"key": "script/mp1201#talk_dog/72", "es": "Darle una fruta de Roda"}
 {"key": "script/mp1201#talk_dog/74", "es": "Cancelar"}
+{"key": "script/mp1201#talk_dog/83", "es": "No parece impresionado."}
+{"key": "script/mp1201#talk_dog/96", "es": "Parece contento."}
+{"key": "script/mp1201#talk_dog/102", "es": "Recibes "}
+{"key": "script/mp1201#talk_dog/108", "es": "Recibes "}
+{"key": "script/mp1201#talk_dog/114", "es": "Recibes "}
+{"key": "script/mp1201#talk_dog/134", "es": "Parece muy contento."}
+{"key": "script/mp1201#talk_dog/140", "es": "Recibes "}
+{"key": "script/mp1201#talk_dog/146", "es": "Recibes "}
+{"key": "script/mp1201#talk_dog/152", "es": "Recibes "}
+{"key": "script/mp1201#talk_dog/172", "es": "Parece increíblemente contento."}
+{"key": "script/mp1201#talk_dog/178", "es": "Recibes "}
+{"key": "script/mp1201#talk_dog/184", "es": "Recibes "}
+{"key": "script/mp1201#talk_dog/204", "es": "Parece extasiado."}
+{"key": "script/mp1201#talk_dog/208", "es": "Recibes "}
+{"key": "script/mp1201#talk_dog/231", "es": "...Parece ofendido."}
+{"key": "script/mp1201#talk_dog/235", "es": "...Parece que no le caes bien."}
+{"key": "script/mp1201#talk_rucile/4", "es": "Hablar"}
+{"key": "script/mp1201#talk_rucile/5", "es": "Darle un poco de medicina"}
 {"key": "script/mp1201#talk_rucile/6", "es": "Cancelar"}
+{"key": "script/mp1201#talk_rucile/22", "es": "Oh, ¿trajiste algo para curarle la resaca?"}
+{"key": "script/mp1201#talk_rucile/25", "es": "...¿No?"}
+{"key": "script/mp1201#talk_rucile/27", "es": "Oh. Qué decepción. Avísame si se te ocurre algo, ¿sí?"}
+{"key": "script/mp1201#talk_rucile/39", "es": "Este pikkard de verdad no tiene remedio..."}
+{"key": "script/mp1201#talk_rucile/41", "es": "Pero supongo que su desaliño es parte de su encanto."}
+{"key": "script/mp1201#talk_rucile/46", "es": "¡Sí que se ve feliz!"}
+{"key": "script/mp1201#talk_rucile/48", "es": "¡Pero no es justo que él pueda beber y yo todavía no!"}
+{"key": "script/mp1201#talk_rucile/52", "es": "*aprieta*...*aprieta*..."}
+{"key": "script/mp1201#talk_rucile/54", "es": "Oh, la calidad de su carne...digo, su cuerpo se ha ablandado bastante."}
+{"key": "script/mp1201#talk_rucile/58", "es": "Un pikkard al que le encanta el alcohol... Esto no puede ser normal, ¿verdad?"}
+{"key": "script/mp1201#talk_rucile/60", "es": "Aunque soy yo quien sigue dándoselo, así que supongo que la culpa es mía, en realidad."}
+{"key": "script/mp1201#talk_rucile/64", "es": "¡Cuanto más le doy, más me doy cuenta de lo bien que aguanta el licor!"}
+{"key": "script/mp1201#talk_rucile/68", "es": "*suspiro* Es un borrachín."}
+{"key": "script/mp1201#talk_rucile/73", "es": "Desde que empezó a beber, su cuerpo se ha puesto muy firme."}
+{"key": "script/mp1201#talk_rucile/77", "es": "...¡¿Qué estoy pensando?!"}
+{"key": "script/mp1201#talk_rucile/82", "es": "¡¿Q-Qué estoy pensando?!"}
+{"key": "script/mp1201#talk_rucile/88", "es": "¿Ves a ese perro detrás de mí?"}
+{"key": "script/mp1201#talk_rucile/90", "es": "Viene aquí todas las mañanas..."}
+{"key": "script/mp1201#talk_rucile/92", "es": "¡Seguro que va tras este pikkard!"}
+{"key": "script/mp1201#talk_rucile/97", "es": "¡Pero no voy a defraudar a mi querido cerdito! ¡Lo protegeré de cualquier depredador que se acerque por aquí!"}
+{"key": "script/mp1201#talk_rucile/103", "es": "A pesar de ser un pikkard, este pequeño bebe como un minero después de un duro día de trabajo."}
+{"key": "script/mp1201#talk_rucile/105", "es": "Parece disfrutarlo tanto que no puedo evitar darle más y más..."}
+{"key": "script/mp1201#talk_rucile/107", "es": "Pero eso no le hace bien. ¡Lo sé! De verdad debo dejar de alimentar su vicio, ¿no?"}
+{"key": "script/mp1201#talk_rucile/112", "es": "Parece disfrutarlo tanto que no puedo evitar darle más y más..."}
+{"key": "script/mp1201#talk_rucile/114", "es": "Pero eso no le hace bien. ¡Lo sé! De verdad debo dejar de alimentar su vicio, ¿no?"}
+{"key": "script/mp1201#talk_horse/6", "es": "*relincho* *relincho* ㈱"}
+{"key": "script/mp1201#talk_horse/14", "es": "*relincho* ㈱"}
+{"key": "script/mp1201#talk_horse/22", "es": "*resoplido*"}
+{"key": "script/mp1201#talk_horse/30", "es": "*chillido*"}
+{"key": "script/mp1201#talk_horse/38", "es": "*RUGIDO*"}
+{"key": "script/mp1201#talk_horse/44", "es": "Darle una hoja"}
+{"key": "script/mp1201#talk_horse/45", "es": "Darle una flor"}
+{"key": "script/mp1201#talk_horse/46", "es": "Jalarle la melena"}
 {"key": "script/mp1201#talk_horse/47", "es": "Cancelar"}
+{"key": "script/mp1201#talk_horse/54", "es": "No tienes ninguna ahora, ¡pero podrías tener si dejaras de ser tan flojo!"}
+{"key": "script/mp1201#talk_horse/61", "es": "Darle una hoja podrida"}
+{"key": "script/mp1201#talk_horse/64", "es": "Darle una hoja fresca"}
+{"key": "script/mp1201#talk_horse/67", "es": "Darle una hoja de Roda"}
 {"key": "script/mp1201#talk_horse/69", "es": "Cancelar"}
+{"key": "script/mp1201#talk_horse/78", "es": "No parece impresionado."}
+{"key": "script/mp1201#talk_horse/91", "es": "Parece contento."}
+{"key": "script/mp1201#talk_horse/97", "es": "Recibes "}
+{"key": "script/mp1201#talk_horse/103", "es": "Recibes "}
+{"key": "script/mp1201#talk_horse/109", "es": "Recibes "}
+{"key": "script/mp1201#talk_horse/129", "es": "Parece extasiado."}
+{"key": "script/mp1201#talk_horse/133", "es": "Recibes "}
+{"key": "script/mp1201#talk_horse/145", "es": "Deseas con todo tu corazón que algo aparezca mágicamente en tus manos, pero, ay, no eres un mago. Sigues sin tener ninguna."}
+{"key": "script/mp1201#talk_horse/152", "es": "Darle una flor marchita"}
+{"key": "script/mp1201#talk_horse/155", "es": "Darle una flor de marl"}
+{"key": "script/mp1201#talk_horse/158", "es": "Darle una flor de yupel"}
+{"key": "script/mp1201#talk_horse/161", "es": "Darle una flor de libra"}
+{"key": "script/mp1201#talk_horse/164", "es": "Darle una flor celcetana"}
 {"key": "script/mp1201#talk_horse/166", "es": "Cancelar"}
+{"key": "script/mp1201#talk_horse/175", "es": "No parece impresionado."}
+{"key": "script/mp1201#talk_horse/188", "es": "Parece contento."}
+{"key": "script/mp1201#talk_horse/194", "es": "Recibes "}
+{"key": "script/mp1201#talk_horse/200", "es": "Recibes "}
+{"key": "script/mp1201#talk_horse/206", "es": "Recibes "}
+{"key": "script/mp1201#talk_horse/226", "es": "Parece muy contento."}
+{"key": "script/mp1201#talk_horse/232", "es": "Recibes "}
+{"key": "script/mp1201#talk_horse/238", "es": "Recibes "}
+{"key": "script/mp1201#talk_horse/244", "es": "Recibes "}
+{"key": "script/mp1201#talk_horse/264", "es": "Parece increíblemente contento."}
+{"key": "script/mp1201#talk_horse/270", "es": "Recibes "}
+{"key": "script/mp1201#talk_horse/276", "es": "Recibes "}
+{"key": "script/mp1201#talk_horse/296", "es": "Parece extasiado."}
+{"key": "script/mp1201#talk_horse/300", "es": "Recibes "}
+{"key": "script/mp1201#talk_horse/323", "es": "...Parece ofendido."}
+{"key": "script/mp1201#talk_horse/327", "es": "...Parece que no le caes bien."}
+{"key": "script/mp1201#talk_ruven/3", "es": "Ahora que lo pienso, últimamente hay muchos menos conflictos entre la gente de aquí y el gobierno romuno de ocupación."}
+{"key": "script/mp1201#talk_ruven/5", "es": "Ni hace falta decir que se debe en gran parte a la gobernadora general Griselda."}
+{"key": "script/mp1201#talk_ruven/7", "es": "¡Es algo enorme si lo piensas!"}
+{"key": "script/mp1201#talk_ruven/11", "es": "Me pregunto qué estará haciendo ahora el Ejército Romuno."}
+{"key": "script/mp1201#talk_ruven/13", "es": "No han regresado desde que partieron al Gran Bosque... ¿Les habrá pasado algo?"}
+{"key": "script/mp1201#talk_ruven/17", "es": "Estos días todos hablan de las Tierras Primigenias."}
+{"key": "script/mp1201#talk_ruven/19", "es": "Parece que han encendido la imaginación de todos, pero ninguno de los rumores me parece muy creíble."}
+{"key": "script/mp1201#talk_ruven/23", "es": "Parece que todo el Ejército Romuno ya entró en el Gran Bosque."}
+{"key": "script/mp1201#talk_ruven/25", "es": "...Me pregunto cómo se sentirá que te envíen allá en una misión..."}
+{"key": "script/mp1201#talk_ruven/27", "es": "Si fuera yo, seguramente huiría en el último momento."}
+{"key": "script/mp1201#talk_ruven/31", "es": "Todavía no puedo creer lo del incidente de ayer con la chica que quería saltar del edificio."}
+{"key": "script/mp1201#talk_ruven/33", "es": "Pero lo más increíble de todo es que Leo de verdad creyó que podría convencer a alguien de esa manera."}
+{"key": "script/mp1201#talk_ruven/35", "es": "...Pero debo admitir que me impresionó verlo subir hasta allá. Tiene más agallas de las que pensaba."}
+{"key": "script/mp1201#talk_ruven/39", "es": "Los soldados del Ejército Romuno son mucho más amenazantes que los soldados del Ejército Celcetano. Quizá sea porque tienen mejor equipo."}
+{"key": "script/mp1201#talk_ruven/41", "es": "¡Tendré que cuidarme de no hacer nada que llame la atención!"}
+{"key": "script/mp1201#talk_ruven/45", "es": "Gracias a la fiebre del oro, Casnan está mucho más animada que antes."}
+{"key": "script/mp1201#talk_ruven/47", "es": "Pero, para ser sincero, prefería cómo era antes."}
+{"key": "script/mp1201#talk_ruven/49", "es": "Es mucho más difícil relajarse con tanta gente alrededor."}
+{"key": "script/mp1201#talk_ruven/53", "es": "La gobernadora general dijo que recompensará a quienes logren trazar el mapa del Gran Bosque."}
+{"key": "script/mp1201#talk_ruven/55", "es": "Al parecer es una suma considerable, así que mucha gente ha empezado a reunirse aquí para intentarlo."}
+{"key": "script/mp1201#talk_ruven/57", "es": "Pero si le preguntas a cualquiera de nosotros, los de aquí, es una empresa absurda. ¡Hay que estar loco para entrar ahí!"}
+{"key": "script/mp1201#talk_ruven/61", "es": "Joven llorón"}
+{"key": "script/mp1201#talk_ruven/62", "es": "Oye, ¿cuándo va a volver el comandante Leo?"}
+{"key": "script/mp1201#talk_ruven/64", "es": "Será demasiado tarde si vuelve después de que más gente resulte herida. ¡Alguien tiene que decirle que se apure!"}
+{"key": "script/mp1201#talk_ailin/3", "es": "¿Los exploradores suelen ser ricos?"}
+{"key": "script/mp1201#talk_ailin/5", "es": "No es que yo quiera explorar el mundo, ¿eh? Pero si pudiera encontrar a un buen explorador con quien sentar cabeza, ¡sería encantador!"}
+{"key": "script/mp1201#talk_ailin/9", "es": "En el fondo, la vida que llevas depende por completo de tu pareja. ¡Me refiero a cuánto dinero tienes para gastar, claro!"}
+{"key": "script/mp1201#talk_ailin/11", "es": "Ojalá hubiera por ahí un hombre apuesto, valiente y rico que me amara solo a mí..."}
+{"key": "script/mp1201#talk_ailin/15", "es": "Las grandes ciudades suenan mágicas, pero dicen que solo unas pocas personas pueden apreciar de verdad los placeres que ofrecen."}
+{"key": "script/mp1201#talk_ailin/17", "es": "¡Y yo desde luego no quiero acabar pobre, marginada y humillada! ¿Qué debería hacer?"}
+{"key": "script/mp1201#talk_ailin/21", "es": "Dicen que en las grandes ciudades hay lugares llamados \"casas de baños\"."}
+{"key": "script/mp1201#talk_ailin/23", "es": "Suenan maravillosas. Me encantaría ir a una algún día."}
+{"key": "script/mp1201#talk_ailin/27", "es": "¡Las óperas que se presentan en los teatros de las grandes ciudades suenan realmente sobrecogedoras!"}
+{"key": "script/mp1201#talk_ailin/29", "es": "Me emociono solo de pensar en ellas..."}
+{"key": "script/mp1201#talk_ailin/33", "es": "Las peleas de gladiadores en la gran ciudad suenan como verdaderos espectáculos."}
+{"key": "script/mp1201#talk_ailin/35", "es": "¡Se me alborota la sangre de solo pensarlo!"}
+{"key": "script/mp1201#talk_ailin/40", "es": "Casnan está en auge por la fiebre del oro."}
+{"key": "script/mp1201#talk_ailin/42", "es": "Pero eso no cambia el hecho de que siga siendo una ciudad pequeña y rural."}
+{"key": "script/mp1201#talk_ailin/44", "es": "De verdad me encantaría ir a una gran ciudad algún día..."}
+{"key": "script/mp1201#talk_ailin/49", "es": "Parece que en la gran ciudad hay una variedad de lugares de recreo."}
+{"key": "script/mp1201#talk_ailin/51", "es": "Puedes ver peleas de gladiadores en el coliseo, óperas en el teatro... ¡Debe de ser maravilloso vivir rodeada de tanto lujo!"}
+{"key": "script/mp1201#talk_ailin/58", "es": "Ese cabello rojo... ¿Serás Adol?"}
+{"key": "script/mp1201#talk_ailin/60", "es": "Pareces tan amable y, aun así, tienes la fuerza para derrotar a un monstruo..."}
+{"key": "script/mp1201#talk_ailin/62", "es": "¡Eres simplemente encantador!"}
+{"key": "script/mp1201#talk_ailin/66", "es": "Oí que hubo problemas aquí y decidí venir a verlo con mis propios ojos. Sin embargo, no parece prudente acercarse más."}
+{"key": "script/mp1201#talk_ailin/68", "es": "Creo que me mantendré a distancia y veré cómo se desarrolla el drama desde lejos."}
+{"key": "script/mp1201#talk_minmi/3", "es": "¡Ya no voy a ser egoísta! ¡Voy a ser una buena hermana mayor!"}
+{"key": "script/mp1201#talk_minmi/5", "es": "¡Ayer hasta me comí mis hongos! ¿Verdad que soy una niña buena?"}
+{"key": "script/mp1201#talk_minmi/9", "es": "Algún día voy a ser hermana mayor."}
+{"key": "script/mp1201#talk_minmi/11", "es": "Pero las hermanas mayores no pueden ser egoístas... *snif*"}
+{"key": "script/mp1201#talk_minmi/15", "es": "Soy muy codiciosa."}
+{"key": "script/mp1201#talk_minmi/17", "es": "¡Quiero toooooodo!"}
+{"key": "script/mp1201#talk_minmi/21", "es": "¡Aprendí a escribir mi propio nombre!"}
+{"key": "script/mp1201#talk_minmi/23", "es": "Después voy a aprender a escribir también el nombre de Papi."}
+{"key": "script/mp1201#talk_minmi/27", "es": "Cada vez que Mami me cuenta un cuento, siempre me da sueño."}
+{"key": "script/mp1201#talk_minmi/29", "es": "...La próxima vez voy a averiguar qué hacen Mami y Papi."}
+{"key": "script/mp1201#talk_minmi/33", "es": "Mami y Papi parecen hacer algo secreto después de que me duermo."}
+{"key": "script/mp1201#talk_minmi/35", "es": "¡Hoy me voy a quedar despierta para averiguar qué es!"}
+{"key": "script/mp1201#talk_minmi/39", "es": "¡Cuando sea grande, me voy a casar con Papi!"}
+{"key": "script/mp1201#talk_minmi/41", "es": "Y entonces Mami y yo vamos a pelear por él."}
+{"key": "script/mp1201#talk_minmi/45", "es": "¿Cuándo vuelve Papi a casa?"}
+{"key": "script/mp1201#talk_ralf/3", "es": "La gobernadora general Griselda es muy hermosa, ¿verdad?"}
+{"key": "script/mp1201#talk_ralf/5", "es": "...Tengo que controlarme..."}
+{"key": "script/mp1201#talk_ralf/9", "es": "La gobernadora general Griselda es muy hermosa, ¿verdad?"}
+{"key": "script/mp1201#talk_ralf/11", "es": "...Comparado con ella, me falta mucho camino por recorrer..."}
+{"key": "script/mp1201#talk_ralf/15", "es": "La gobernadora general Griselda es muy hermosa, ¿verdad?"}
+{"key": "script/mp1201#talk_ralf/17", "es": "Es asombroso lo mucho que trabaja, a su edad..."}
+{"key": "script/mp1201#talk_ralf/21", "es": "La gobernadora general Griselda es muy hermosa, ¿verdad?"}
+{"key": "script/mp1201#talk_ralf/23", "es": "Voluntad firme y recta... La admiro muchísimo."}
+{"key": "script/mp1201#talk_ralf/27", "es": "La gobernadora general Griselda es muy hermosa, ¿verdad?"}
+{"key": "script/mp1201#talk_ralf/29", "es": "Si alguna vez me regañara, no puedo imaginar qué haría..."}
+{"key": "script/mp1201#talk_ralf/33", "es": "La gobernadora general Griselda es muy hermosa, ¿verdad?"}
+{"key": "script/mp1201#talk_ralf/35", "es": "Si me diera una patada con esas piernas largas y esbeltas, yo simplemente..."}
+{"key": "script/mp1201#talk_ralf/39", "es": "La gobernadora general Griselda es muy hermosa, ¿verdad?"}
+{"key": "script/mp1201#talk_ralf/41", "es": "Si me mirara con esos ojos fríos, yo simplemente..."}
+{"key": "script/mp1201#talk_ralf/46", "es": "La gobernadora general Griselda es muy hermosa, ¿verdad?"}
+{"key": "script/mp1201#talk_ralf/48", "es": "Esos ojos fríos suyos son como gemas."}
+{"key": "script/mp1201#talk_ralf/53", "es": "...Oh, ¿querías pasar por aquí?"}
+{"key": "script/mp1201#talk_ralf/55", "es": "Lo siento, no puedo permitírtelo. Necesitas el permiso de la gobernadora general para salir de Celceta."}
+{"key": "script/mp1201#talk_ralf/57", "es": "Lo siento, pero son las reglas."}
+{"key": "script/mp1201#talk_ralf/62", "es": "Necesitas el permiso de la gobernadora general para salir de Celceta."}
+{"key": "script/mp1201#talk_ralf/64", "es": "Lo siento, pero son las reglas."}
+{"key": "script/mp1201#talk_rorens/3", "es": "El alcohol es mi vida, señor."}
+{"key": "script/mp1201#talk_rorens/5", "es": "No quiero imaginar una vida sin alcohol."}
+{"key": "script/mp1201#talk_rorens/9", "es": "Cada gota de alcohol es tan preciosa como una gota de sangre, señor."}
+{"key": "script/mp1201#talk_rorens/11", "es": "Pase lo que pase, nunca debería desperdiciarse."}
+{"key": "script/mp1201#talk_rorens/15", "es": "No puedo beber el Vino Musculoso de la barra, señor."}
+{"key": "script/mp1201#talk_rorens/17", "es": "Yo...simplemente no puedo."}
+{"key": "script/mp1201#talk_rorens/21", "es": "Dicen que soy otra persona cuando estoy borracho."}
+{"key": "script/mp1201#talk_rorens/23", "es": "Pero nunca puedo recordar nada de lo que pasó, señor."}
+{"key": "script/mp1201#talk_rorens/27", "es": "El vino y el queso combinan a la perfección, señor."}
+{"key": "script/mp1201#talk_rorens/29", "es": "Son realmente una combinación milagrosa."}
+{"key": "script/mp1201#talk_rorens/33", "es": "La espuma es lo más importante de una cerveza, señor."}
+{"key": "script/mp1201#talk_rorens/35", "es": "La cerveza sin espuma es como un pikkard sin engordar."}
+{"key": "script/mp1201#talk_rorens/39", "es": "Yo prefiero el vino a la cerveza, señor."}
+{"key": "script/mp1201#talk_rorens/41", "es": "Sin embargo, mi primer trago del día siempre es una cerveza."}
+{"key": "script/mp1201#talk_rorens/45", "es": "Tengo ganas de terminar el trabajo para ponerme a beber."}
+{"key": "script/mp1201#talk_rorens/47", "es": "De verdad es lo que me mantiene en pie, señor."}
+{"key": "script/mp1201#talk_hoover/3", "es": "Parece que los soldados del Ejército Romuno en el Gran Bosque están sanos y salvos, aunque no sé mucho más que eso."}
+{"key": "script/mp1201#talk_hoover/5", "es": "Por el caos en el cuartel general, parece que pronto va a pasar algo importante."}
+{"key": "script/mp1201#talk_hoover/10", "es": "A los guardias nos llega poca información de lo que pasa en el Gran Bosque, pero al menos sabemos si nuestros compañeros están a salvo."}
+{"key": "script/mp1201#talk_hoover/12", "es": "Parece que el comandante Leo y sus hombres están todos bien, al menos. Eso solo ya es bastante tranquilizador."}
+{"key": "script/mp1201#talk_hoover/17", "es": "Me cuesta tratar con él, pero eso no significa que quiera que le pase algo."}
+{"key": "script/mp1201#talk_hoover/19", "es": "...Aunque tendría sentido que le deseara algo malo, considerándolo todo."}
+{"key": "script/mp1201#talk_hoover/24", "es": "La gobernadora general no confirma ni desmiente ninguno de los rumores que circulan."}
+{"key": "script/mp1201#talk_hoover/26", "es": "Pero no me sorprendería que alguno resultara cierto."}
+{"key": "script/mp1201#talk_hoover/28", "es": "Claro, un soldado de bajo rango como yo jamás tendría acceso a esa información."}
+{"key": "script/mp1201#talk_hoover/33", "es": "Todos los soldados del Ejército Romuno que entraron en el Gran Bosque llevaban la misma máscara de aspecto sospechoso."}
+{"key": "script/mp1201#talk_hoover/35", "es": "No me informaron de ningún equipo de protección facial, así que me pareció bastante extraño."}
+{"key": "script/mp1201#talk_hoover/37", "es": "Aunque sea algún tipo de equipo de vanguardia, que todo el ejército use máscaras así es...muy, muy inquietante."}
+{"key": "script/mp1201#talk_hoover/42", "es": "Me pregunto por qué todos los soldados del Ejército Imperial llevaban máscaras..."}
+{"key": "script/mp1201#talk_hoover/44", "es": "Aunque sea algún tipo de equipo de vanguardia, que todo el ejército use máscaras así es...muy, muy inquietante."}
+{"key": "script/mp1201#talk_hoover/49", "es": "Cuando no están entrenando, los soldados del Ejército Romuno parecen libres de hacer lo que quieran."}
+{"key": "script/mp1201#talk_hoover/51", "es": "Ya hay varios de ellos en el bar. Ojalá pudiera unirme a ellos..."}
+{"key": "script/mp1201#talk_hoover/55", "es": "Enviar al Ejército Romuno a una región tan remota parece un desperdicio de recursos. Romn debe de estar ansioso por hallar más vetas de oro."}
+{"key": "script/mp1201#talk_hoover/57", "es": "Aunque, considerando lo mucho que hay por encontrar, supongo que tiene sentido."}
+{"key": "script/mp1201#talk_hoover/61", "es": "El dinero de la recompensa parece haber atraído hasta aquí a un buen número de buscadores y exploradores de aspecto competente."}
+{"key": "script/mp1201#talk_hoover/63", "es": "¡Pero la expedición al Gran Bosque apenas está comenzando, así que no bajes la guardia allí dentro!"}
+{"key": "script/mp1201#talk_hoover/67", "es": "¿Tú también vas a entrar en el Gran Bosque?"}
+{"key": "script/mp1201#talk_hoover/69", "es": "Seguro que ya te lo han dicho mil veces, pero es un lugar verdaderamente peligroso. Ten muchísimo cuidado y lleva muchas provisiones."}
+{"key": "script/mp1201#talk_hoover/73", "es": "B-bueno, es que..."}
+{"key": "script/mp1201#talk_hoover/75", "es": "P-por favor, solo un poco más de paciencia. Lo resolveremos en breve."}
+{"key": "script/mp1201#talk_sumson/3", "es": "¡Tampoco hoy hay nada fuera de lo común!"}
+{"key": "script/mp1201#talk_sumson/5", "es": "Aunque el ambiente en el Edificio de la Gobernación General está un poco tenso."}
+{"key": "script/mp1201#talk_sumson/9", "es": "¡Tampoco hoy hay nada fuera de lo común!"}
+{"key": "script/mp1201#talk_sumson/11", "es": "¡Es casi extraordinario lo poco que hay fuera de lo común!"}
+{"key": "script/mp1201#talk_sumson/15", "es": "¡Tampoco hoy hay nada fuera de lo común!"}
+{"key": "script/mp1201#talk_sumson/17", "es": "Aunque no puedo asegurar que no habrá nada fuera de lo común el año que viene ni el siguiente."}
+{"key": "script/mp1201#talk_sumson/21", "es": "¡Tampoco hoy hay nada fuera de lo común!"}
+{"key": "script/mp1201#talk_sumson/23", "es": "¡Seguro que tampoco habrá nada fuera de lo común mañana ni pasado mañana!"}
+{"key": "script/mp1201#talk_sumson/27", "es": "Hoy estoy patrullando, como siempre."}
+{"key": "script/mp1201#talk_sumson/29", "es": "La llegada del Ejército Romuno no afecta mis deberes en absoluto."}
+{"key": "script/mp1201#talk_sumson/31", "es": "...Lo que hago es la definición misma de la monotonía."}
+{"key": "script/mp1201#talk_sumson/36", "es": "Y-yo... vi algo en el almacén que probablemente no debía ver."}
+{"key": "script/mp1201#talk_sumson/38", "es": "Era una caja de madera gigante que el Ejército Romuno había traído. ¿Qué podría haber dentro? Parecía que debía de ser muy importante..."}
+{"key": "script/mp1201#talk_sumson/40", "es": "...Yo, eh, probablemente no debería hablar de esto con civiles, ¿verdad? A veces no se me da bien mi trabajo."}
+{"key": "script/mp1201#talk_sumson/42", "es": "Por favor, haz como que no dije nada."}
+{"key": "script/mp1201#talk_sumson/47", "es": "...Yo, eh, probablemente no debería hablar de esto con civiles, ¿verdad? A veces no se me da bien mi trabajo."}
+{"key": "script/mp1201#talk_sumson/49", "es": "Por favor, haz como que no dije nada."}
+{"key": "script/mp1201#talk_sumson/54", "es": "Los deberes de los soldados asignados al Edificio de la Gobernación General son sobre todo entrenar y patrullar. Eso es todo lo que hacemos aquí."}
+{"key": "script/mp1201#talk_sumson/56", "es": "...Se vuelve ridículamente monótono."}
+{"key": "script/mp1201#talk_sumson/60", "es": "A la izquierda están los barracones de los soldados. A la derecha, la cafetería. Y de frente encontrarás el Cuartel General Celcetano."}
+{"key": "script/mp1201#talk_sumson/62", "es": "La distribución es muy sencilla, así que dudo que haya posibilidad de perderse. A menos que seas un imbécil, claro."}
+{"key": "script/mp1201#talk_jimy/4", "es": "El otro día oí a uno de los soldados romunos que el comandante Leo fue un general bastante famoso."}
+{"key": "script/mp1201#talk_jimy/6", "es": "Pero hace unos años desobedeció a un oficial de cuna noble y acabó destinado aquí."}
+{"key": "script/mp1201#talk_jimy/8", "es": "Al parecer, todo empezó porque encubría a uno de sus subordinados, que había cometido algún tipo de error grave."}
+{"key": "script/mp1201#talk_jimy/10", "es": "¡Todo este tiempo me he estado burlando de él, pero por lo que parece, en realidad es un gran tipo!"}
+{"key": "script/mp1201#talk_jimy/15", "es": "Me pregunto por qué no le cuenta a nadie lo de ese incidente..."}
+{"key": "script/mp1201#talk_jimy/17", "es": "De cualquier forma, ahora tengo una opinión mucho mejor de él que antes."}
+{"key": "script/mp1201#talk_jimy/22", "es": "Hace tiempo que no veo al comandante Leo por aquí."}
+{"key": "script/mp1201#talk_jimy/24", "es": "Es como un perro ladrador. Molesta cuando está, pero se le extraña cuando no está."}
+{"key": "script/mp1201#talk_jimy/28", "es": "Últimamente no he oído los gritos tan característicos del comandante Leo."}
+{"key": "script/mp1201#talk_jimy/30", "es": "...Sin él, esto está medio aburrido."}
+{"key": "script/mp1201#talk_jimy/35", "es": "El peinado del comandante Leo sí que es único."}
+{"key": "script/mp1201#talk_jimy/39", "es": "...Pff... jajaja..."}
+{"key": "script/mp1201#talk_jimy/41", "es": "¡Con solo imaginármelo me da un ataque de risa! Tengo que controlarme antes de verlo la próxima vez, o si no... pfff..."}
+{"key": "script/mp1201#talk_jimy/46", "es": "Con solo imaginar el peinado del comandante me río."}
+{"key": "script/mp1201#talk_jimy/48", "es": "¡Si el comandante me ve así, me va a caer una buena!"}
+{"key": "script/mp1201#talk_jimy/53", "es": "¿Alguna vez has visto al comandante Leo pelear con una espada?"}
+{"key": "script/mp1201#talk_jimy/55", "es": "Tiene una postura bastante particular, pero en realidad es muy fuerte. Es... inesperado."}
+{"key": "script/mp1201#talk_jimy/60", "es": "Gruda... digo, el señor Gruda... Ese hombre tiene algo. Algo que es... extrañamente intimidante."}
+{"key": "script/mp1201#talk_jimy/62", "es": "*cof* P-Por eso no vayas a causar más problemas, ¡¿me oyes?!"}
+{"key": "script/mp1201#talk_jimy/66", "es": "Si dijera que no tengo ningún deseo de entrar en el Gran Bosque, mentiría. ¡Soy un hombre con sueños, después de todo!"}
+{"key": "script/mp1201#talk_jimy/68", "es": "Pero quedarme atrapado con el comandante Leo todo el tiempo... sería más de lo que podría soportar."}
+{"key": "script/mp1201#talk_jimy/74", "es": "*bostezo*"}
+{"key": "script/mp1201#talk_jimy/83", "es": "...N-no, señor, ¡no estaba bostezando, señor! Solo estaba..."}
+{"key": "script/mp1201#talk_jimy/88", "es": "¡Un momento, tú no eres el comandante Leo! No me asustes así."}
+{"key": "script/mp1201#talk_jimy/90", "es": "...Bueno, supongo que sí puedo bostezar. *bostezo*"}
+{"key": "script/mp1201#talk_jimy/95", "es": "El comandante Leo es demasiado estricto con las normas y la conducta."}
+{"key": "script/mp1201#talk_jimy/97", "es": "Tiene razón y todo, pero no hace falta insistir tanto."}
+{"key": "script/mp1201#talk_jimy/102", "es": "Este es el Edificio de la Gobernación General romuna. No se permite entrar a civiles, salvo a quienes trazan el mapa del bosque."}
+{"key": "script/mp1201#talk_jimy/104", "es": "¡Pero eso no es excusa para meter las narices donde no te llaman!"}
+{"key": "script/mp1201#talk_soldierC/3", "es": "¡Aaah, qué buena comida!"}
+{"key": "script/mp1201#talk_soldierC/5", "es": "...Bueno, buena comida, al menos. ¡Mejor ni hablar de esa bebida de nombre raro!"}
+{"key": "script/mp1201#talk_soldierC/9", "es": "Me pregunto cómo debería pasar el poco tiempo que me queda hasta que me llamen a servicio..."}
+{"key": "script/mp1201#talk_soldierD/3", "es": "Sí, lo habría disfrutado mucho más si no fuera por eso."}
+{"key": "script/mp1201#talk_soldierD/5", "es": "Bueno, ¿y si vamos de compras?"}
+{"key": "script/mp1201#talk_soldierD/9", "es": "No estaría mal dar una vuelta para matar el tiempo..."}
+{"key": "script/mp1201#talk_woman/2", "es": "La minería sí que es un trabajo arriesgado."}
+{"key": "script/mp1201#talk_woman/4", "es": "¡Solo espero que todos salgan bien!"}
+{"key": "script/mp1201#talk_youngman/2", "es": "Ese de allá no es Leo, ¿o sí?"}
+{"key": "script/mp1201#talk_youngman/4", "es": "...En realidad es una mujer, así que supongo que no."}
+{"key": "script/mp1201#talk_youngman/6", "es": "Mmm... no recuerdo haber visto a nadie así en el Ejército Celcetano..."}
+{"key": "script/mp1201#talk_Duren/1", "es": "Vaya, supongo que esa es la nueva gobernadora general de la que todos hablan."}
+{"key": "script/mp1201#talk_Duren/3", "es": "Parece muy emprendedora, a juzgar por su aspecto."}
+{"key": "script/mp1201#talk_merchant/2", "es": "Me pregunto cuándo aparecerá Leo..."}
+{"key": "script/mp1201#talk_merchant/4", "es": "De verdad siempre llega en el peor momento. Aunque supongo que no debería decirlo muy alto por aquí..."}
+{"key": "script/mp1201#talk_man/2", "es": "Sé que no está bien, pero vine aquí casi solo para ver a los romunos corriendo despavoridos."}
+{"key": "script/mp1201#talk_man/4", "es": "¡Desde luego no esperaba esto!"}
+{"key": "script/mp1201#talk_man/6", "es": "¡Esa gobernadora general Griselda en realidad se comporta de forma... competente!"}
+{"key": "script/mp1201#talk_Griselda/1", "es": "¡No hay tiempo que perder! ¡Dispongan personal adicional aquí de inmediato!"}
+{"key": "script/mp1201#talk_soldier/2", "es": "¡S-sí, señora!"}
+{"key": "script/mp1201#talk_miner1/2", "es": "Dijo que todavía hay tres mineros atrapados adentro, pero todos los demás están sanos y salvos."}
+{"key": "script/mp1201#talk_miner1/4", "es": "Algunos resultaron heridos, pero por suerte no ha muerto nadie. Todavía no, al menos..."}
+{"key": "script/mp1201#talk_miner1/6", "es": "Ahora solo falta que el capataz y los demás salgan con vida. ¡Ojalá estén bien!"}
+{"key": "script/mp1201#talk_miner2/3", "es": "A veces, al excavar, nos topamos con una ruina, y empiezan a aparecer criaturas extrañas."}
+{"key": "script/mp1201#talk_miner2/5", "es": "No es la primera vez que pasa."}
+{"key": "script/mp1201#talk_miner2/7", "es": "Pero cuanto más nos acercamos al Gran Bosque, más feroces son los monstruos que encontramos."}
+{"key": "script/mp1201#talk_miner2/9", "es": "¡Por eso siempre me he opuesto a excavar cerca de ese lugar!"}
+{"key": "script/mp1201#talk_miner2/14", "es": "¡Por eso siempre me he opuesto a excavar cerca de ese lugar!"}
+{"key": "script/mp1201#talk_miner2/16", "es": "Maldición... Solo puedo rezar para que estén todos a salvo."}
+{"key": "script/mp1201#talk_miner3/2", "es": "Tienes que concentrarte en descansar, y no en culparte, ¿de acuerdo?"}
+{"key": "script/mp1201#talk_miner3/4", "es": "Vamos, toma un poco de agua y cálmate."}
+{"key": "script/mp1201#talk_miner4/3", "es": "El capataz y los demás quedaron atrapados en una sala con un monstruo enorme..."}
+{"key": "script/mp1201#talk_miner4/5", "es": "Me da muchísima vergüenza no haber podido hacer nada. ¡¿Cómo pude huir así sin más?!"}
+{"key": "script/mp1201#LP_board/2", "es": "Hay un gran aviso que ofrece un trabajo para trazar el mapa del Gran Bosque, con una considerable suma de dinero como pago."}
+{"key": "script/mp1201#LP_board/7", "es": "Hay varios avisos de la gobernadora general para los habitantes de Casnan."}
+{"key": "script/mp1201#stop_general/6", "es": "Este camino parece llevar a un edificio grande. Ahora no hay motivo para ir por aquí."}
+{"key": "script/mp1201#stop_street/6", "es": "Parece ser un callejón trasero. Ahora no hay motivo para ir por aquí."}
+{"key": "script/mp1201#stop_gate/6", "es": "La mina parece ser el lugar donde está ocurriendo algo grande."}
+{"key": "script/mp1201#stop_sloop/6", "es": "Los mineros no parecen haber venido por aquí."}
+{"key": "script/mp1201#stop_east/6", "es": "El alboroto parece venir de la dirección contraria."}
+{"key": "script/mp1201#stop_miniroot/6", "es": "Este no es el camino a la mina."}
+{"key": "script/mp1201#stop_mine/6", "es": "Esa luz extraña es muy sospechosa. Quizá sea prudente investigarla antes de hacer cualquier otra cosa."}
+{"key": "script/mp1201#talk_Mishy/31", "es": "¡Jijijiii! ♪"}
+{"key": "script/mp1201#talk_Mishy/40", "es": "¡Jiiijijiiiii!"}

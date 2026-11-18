@@ -1,17 +1,174 @@
+{"key": "script/mp2201#EV01_01_Meet_Carna/165", "es": "¡¿Q-qué?!"}
 {"key": "script/mp2201#QS201_Start/55", "es": "Aceptar"}
 {"key": "script/mp2201#QS201_Start2/99", "es": "¡Perfecto!"}
+{"key": "script/mp2201#QS201_End_Win/116", "es": "Recibes "}
+{"key": "script/mp2201#QS201_End_Common/57", "es": "*jadeo* *jadeo*"}
+{"key": "script/mp2201#QS201_End_Common/103", "es": "Recibes "}
+{"key": "script/mp2201#QS202_End/32", "es": "Entregas "}
+{"key": "script/mp2201#QS202_End/44", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardA/43", "es": "Darle una fruta o nuez"}
+{"key": "script/mp2201#talk_picardA/44", "es": "Pellizcarle la nariz"}
 {"key": "script/mp2201#talk_picardA/45", "es": "Cancelar"}
+{"key": "script/mp2201#talk_picardA/59", "es": "Darle una fruta podrida"}
+{"key": "script/mp2201#talk_picardA/62", "es": "Darle una nuez de chito"}
+{"key": "script/mp2201#talk_picardA/65", "es": "Darle una fruta de raparo"}
+{"key": "script/mp2201#talk_picardA/68", "es": "Darle una fruta de arieda"}
+{"key": "script/mp2201#talk_picardA/71", "es": "Darle una fruta de Roda"}
 {"key": "script/mp2201#talk_picardA/73", "es": "Cancelar"}
+{"key": "script/mp2201#talk_picardA/82", "es": "No parece impresionado."}
+{"key": "script/mp2201#talk_picardA/95", "es": "Parece contento."}
+{"key": "script/mp2201#talk_picardA/101", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardA/107", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardA/113", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardA/133", "es": "Parece muy contento."}
+{"key": "script/mp2201#talk_picardA/139", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardA/145", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardA/151", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardA/171", "es": "Parece increíblemente contento."}
+{"key": "script/mp2201#talk_picardA/177", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardA/183", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardA/203", "es": "Parece extasiado."}
+{"key": "script/mp2201#talk_picardA/207", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardA/230", "es": "...Parece ofendido."}
+{"key": "script/mp2201#talk_picardA/234", "es": "...Parece que no le caes bien."}
+{"key": "script/mp2201#talk_picardB/43", "es": "Darle una fruta o nuez"}
+{"key": "script/mp2201#talk_picardB/44", "es": "Pellizcarle la nariz"}
 {"key": "script/mp2201#talk_picardB/45", "es": "Cancelar"}
+{"key": "script/mp2201#talk_picardB/59", "es": "Darle una fruta podrida"}
+{"key": "script/mp2201#talk_picardB/62", "es": "Darle una nuez de chito"}
+{"key": "script/mp2201#talk_picardB/65", "es": "Darle una fruta de raparo"}
+{"key": "script/mp2201#talk_picardB/68", "es": "Darle una fruta de arieda"}
+{"key": "script/mp2201#talk_picardB/71", "es": "Darle una fruta de Roda"}
 {"key": "script/mp2201#talk_picardB/73", "es": "Cancelar"}
+{"key": "script/mp2201#talk_picardB/82", "es": "No parece impresionado."}
+{"key": "script/mp2201#talk_picardB/95", "es": "Parece contento."}
+{"key": "script/mp2201#talk_picardB/101", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardB/107", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardB/113", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardB/133", "es": "Parece muy contento."}
+{"key": "script/mp2201#talk_picardB/139", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardB/145", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardB/151", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardB/171", "es": "Parece increíblemente contento."}
+{"key": "script/mp2201#talk_picardB/177", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardB/183", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardB/203", "es": "Parece extasiado."}
+{"key": "script/mp2201#talk_picardB/207", "es": "Recibes "}
+{"key": "script/mp2201#talk_picardB/230", "es": "...Parece ofendido."}
+{"key": "script/mp2201#talk_picardB/234", "es": "...Parece que no le caes bien."}
+{"key": "script/mp2201#talk_nabal/36", "es": "¿Quién eres?"}
+{"key": "script/mp2201#talk_fururu/6", "es": "Hablar"}
 {"key": "script/mp2201#talk_fururu/7", "es": "Cancelar"}
+{"key": "script/mp2201#talk_sikaA/44", "es": "Darle una hoja"}
+{"key": "script/mp2201#talk_sikaA/45", "es": "Darle una flor"}
 {"key": "script/mp2201#talk_sikaA/47", "es": "Cancelar"}
+{"key": "script/mp2201#talk_sikaA/61", "es": "Darle una hoja podrida"}
+{"key": "script/mp2201#talk_sikaA/64", "es": "Darle una hoja fresca"}
+{"key": "script/mp2201#talk_sikaA/67", "es": "Darle una hoja de Roda"}
 {"key": "script/mp2201#talk_sikaA/69", "es": "Cancelar"}
+{"key": "script/mp2201#talk_sikaA/78", "es": "No parece impresionado."}
+{"key": "script/mp2201#talk_sikaA/94", "es": "Parece contento."}
+{"key": "script/mp2201#talk_sikaA/100", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/106", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/112", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/132", "es": "Parece extasiado."}
+{"key": "script/mp2201#talk_sikaA/136", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/155", "es": "Darle una flor marchita"}
+{"key": "script/mp2201#talk_sikaA/158", "es": "Darle una flor de marl"}
+{"key": "script/mp2201#talk_sikaA/161", "es": "Darle una flor de yupel"}
+{"key": "script/mp2201#talk_sikaA/164", "es": "Darle una flor de libra"}
+{"key": "script/mp2201#talk_sikaA/167", "es": "Darle una flor celcetana"}
 {"key": "script/mp2201#talk_sikaA/169", "es": "Cancelar"}
+{"key": "script/mp2201#talk_sikaA/178", "es": "No parece impresionado."}
+{"key": "script/mp2201#talk_sikaA/191", "es": "Parece contento."}
+{"key": "script/mp2201#talk_sikaA/197", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/203", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/209", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/229", "es": "Parece muy contento."}
+{"key": "script/mp2201#talk_sikaA/235", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/241", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/247", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/267", "es": "Parece increíblemente contento."}
+{"key": "script/mp2201#talk_sikaA/273", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/279", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/299", "es": "Parece extasiado."}
+{"key": "script/mp2201#talk_sikaA/303", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/326", "es": "...Parece ofendido."}
+{"key": "script/mp2201#talk_sikaA/330", "es": "...Parece que no le caes bien."}
+{"key": "script/mp2201#talk_sikaB/44", "es": "Darle una hoja"}
+{"key": "script/mp2201#talk_sikaB/45", "es": "Darle una flor"}
+{"key": "script/mp2201#talk_sikaB/46", "es": "Pellizcarle la nariz"}
 {"key": "script/mp2201#talk_sikaB/47", "es": "Cancelar"}
+{"key": "script/mp2201#talk_sikaB/61", "es": "Darle una hoja podrida"}
+{"key": "script/mp2201#talk_sikaB/64", "es": "Darle una hoja fresca"}
+{"key": "script/mp2201#talk_sikaB/67", "es": "Darle una hoja de Roda"}
 {"key": "script/mp2201#talk_sikaB/69", "es": "Cancelar"}
+{"key": "script/mp2201#talk_sikaB/78", "es": "No parece impresionado."}
+{"key": "script/mp2201#talk_sikaB/91", "es": "Parece contento."}
+{"key": "script/mp2201#talk_sikaB/97", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/103", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/109", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/129", "es": "Parece extasiado."}
+{"key": "script/mp2201#talk_sikaB/133", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/152", "es": "Darle una flor marchita"}
+{"key": "script/mp2201#talk_sikaB/155", "es": "Darle una flor de marl"}
+{"key": "script/mp2201#talk_sikaB/158", "es": "Darle una flor de yupel"}
+{"key": "script/mp2201#talk_sikaB/161", "es": "Darle una flor de libra"}
+{"key": "script/mp2201#talk_sikaB/164", "es": "Darle una flor celcetana"}
 {"key": "script/mp2201#talk_sikaB/166", "es": "Cancelar"}
+{"key": "script/mp2201#talk_sikaB/175", "es": "No parece impresionado."}
+{"key": "script/mp2201#talk_sikaB/188", "es": "Parece contento."}
+{"key": "script/mp2201#talk_sikaB/194", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/200", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/206", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/226", "es": "Parece muy contento."}
+{"key": "script/mp2201#talk_sikaB/232", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/238", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/244", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/264", "es": "Parece increíblemente contento."}
+{"key": "script/mp2201#talk_sikaB/270", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/276", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/296", "es": "Parece extasiado."}
+{"key": "script/mp2201#talk_sikaB/300", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/323", "es": "...Parece ofendido."}
+{"key": "script/mp2201#talk_sikaB/327", "es": "...Parece que no le caes bien."}
+{"key": "script/mp2201#talk_sikaC/44", "es": "Darle una hoja"}
+{"key": "script/mp2201#talk_sikaC/45", "es": "Darle una flor"}
 {"key": "script/mp2201#talk_sikaC/47", "es": "Cancelar"}
+{"key": "script/mp2201#talk_sikaC/61", "es": "Darle una hoja podrida"}
+{"key": "script/mp2201#talk_sikaC/64", "es": "Darle una hoja fresca"}
+{"key": "script/mp2201#talk_sikaC/67", "es": "Darle una hoja de Roda"}
 {"key": "script/mp2201#talk_sikaC/69", "es": "Cancelar"}
+{"key": "script/mp2201#talk_sikaC/78", "es": "No parece impresionado."}
+{"key": "script/mp2201#talk_sikaC/91", "es": "Parece contento."}
+{"key": "script/mp2201#talk_sikaC/97", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/103", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/109", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/129", "es": "Parece extasiado."}
+{"key": "script/mp2201#talk_sikaC/133", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/152", "es": "Darle una flor marchita"}
+{"key": "script/mp2201#talk_sikaC/155", "es": "Darle una flor de marl"}
+{"key": "script/mp2201#talk_sikaC/158", "es": "Darle una flor de yupel"}
+{"key": "script/mp2201#talk_sikaC/161", "es": "Darle una flor de libra"}
+{"key": "script/mp2201#talk_sikaC/164", "es": "Darle una flor celcetana"}
 {"key": "script/mp2201#talk_sikaC/166", "es": "Cancelar"}
+{"key": "script/mp2201#talk_sikaC/175", "es": "No parece impresionado."}
+{"key": "script/mp2201#talk_sikaC/188", "es": "Parece contento."}
+{"key": "script/mp2201#talk_sikaC/194", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/200", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/206", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/226", "es": "Parece muy contento."}
+{"key": "script/mp2201#talk_sikaC/232", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/238", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/244", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/264", "es": "Parece increíblemente contento."}
+{"key": "script/mp2201#talk_sikaC/270", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/276", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/296", "es": "Parece extasiado."}
+{"key": "script/mp2201#talk_sikaC/300", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/323", "es": "...Parece ofendido."}
+{"key": "script/mp2201#talk_sikaC/327", "es": "...Parece que no le caes bien."}
+{"key": "script/mp2201#talk_jesica/4", "es": "Hablar"}
 {"key": "script/mp2201#talk_jesica/6", "es": "Cancelar"}
+{"key": "script/mp2201#talk_Mishy/35", "es": "¡Jijijiii! ♪"}
+{"key": "script/mp2201#talk_Mishy/44", "es": "¡Jiiijijiiiii!"}

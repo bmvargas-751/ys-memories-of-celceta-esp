@@ -73,7 +73,7 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Agent | agente | Decidido (G-2), DECISIONS 2026-11-18 | Título ante nombre: «Agent Theresa» → «agente Theresa», «Agent Bertha» → «agente Bertha». |
 | Gazock the Strong | Gazock el Fuerte | Decidido (G-2), DECISIONS 2026-11-18 | Sobrenombre. |
 | Explorer | explorador | Decidido (G-2), DECISIONS 2026-11-18 | Título de los exploradores; el alias queda en inglés: «Explorer Rabbit» → «exploradora Rabbit». Género según la ficha. «Prospector Owl» → «buscador Owl», «Guide Jackal» → «guía Jackal». |
-| Information Dealer | informante | Decidido (G-2), DECISIONS 2026-11-18 | Oficio y rótulo: «Information Dealer Mouse» → «informante Mouse». |
+| Information Dealer | informante | Decidido (G-2), DECISIONS 2026-11-18 | Oficio y rótulo: «Information Dealer Mouse» → «informante Mouse». Mouse es hombre (habla masculina en el japonés: オイラ, だぜ). |
 | Apostle | apóstol | Decidido (G-2), DECISIONS 2026-11-18 | Rango de Highland; plural «apóstoles». «Apprentice Apostle» → «aprendiz de apóstol». |
 | Grand Roo | Gran Roo | Decidido (G-2), DECISIONS 2026-11-18 | Un roo con título propio (mayúscula). |
 | Young Sparda | sparda joven | Decidido (G-2), DECISIONS 2026-11-18 | Rótulo de PNJ. |
@@ -84,7 +84,7 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Canlilica | Calilica | Decidido (G-2), DECISIONS 2026-11-18 | Inconsistencia de `text/status`: se usa el nombre de los diálogos [DECISIONS 2026-11-17]. |
 | frida | Frieda | Decidido (G-2), DECISIONS 2026-11-18 | Inconsistencia de `text/status`: se usa el nombre de los diálogos [DECISIONS 2026-11-17]. |
 | Riesa | Leeza | Decidido (G-2), DECISIONS 2026-11-18 | Inconsistencia de `text/status`: se usa el nombre de los diálogos [DECISIONS 2026-11-17]. |
-| Romun | romuno | Decidido (G-2), DECISIONS 2026-11-18 | Imperio; adjetivo y gentilicio, concuerda: «Romun Army» → «Ejército Romuno», «Romun Empire» → «Imperio Romuno», «a Romun soldier» → «un soldado romuno». No hay forma oficial: *Ys IX* no salió en español. |
+| Romun | romuno | Decidido (G-2), DECISIONS 2026-11-18 | Imperio; adjetivo y gentilicio, concuerda: «Romun Army» → «Ejército Romuno», «Romun Empire» → «Imperio de Romun» (como «Reino de Celceta»; decisión del usuario 2026-11-18), «a Romun soldier» → «un soldado romuno». No hay forma oficial: *Ys IX* no salió en español. |
 | Romuns | romunos | Decidido (G-2), DECISIONS 2026-11-18 | El pueblo: «the Romuns» → «los romunos». |
 | Celcetan Army | Ejército Celcetano | Decidido (G-2), DECISIONS 2026-11-18 | Facción, con el adjetivo oficial «celcetano». «Celcetan Army Soldier» → «soldado celcetano». |
 | Kingdom of Celceta | Reino de Celceta | Decidido (G-2), DECISIONS 2026-11-18 | Reino antiguo. «the Celcetan Kingdom» → «el Reino de Celceta». |
@@ -179,6 +179,11 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Camp | campamento | Decidido (G-2), DECISIONS 2026-11-18 | «Camping and Memories» → «Campamentos y recuerdos»; «Resting» → «Descansar». |
 | Monster Compendium | Compendio de monstruos | Decidido (G-2), DECISIONS 2026-11-18 | «Material Compendium» → «Compendio de materiales». |
 | krimelye | krimelye | Decidido (G-2), DECISIONS 2026-11-18 | Unidad de distancia de la serie: se deja igual. |
+| melye | melye | Decidido (G-2), 2026-11-18 (orquestador, por delegación) | Unidad de longitud del mundo del juego: se deja igual, como «krimelye» («tres melye de alto»). |
+| King Monstro | Rey Monstro | Decidido (G-2), 2026-11-18 (orquestador, por delegación) | Monstruo de cuento de los niños, con ordinal: «King Monstro the Fifteenth» → «Rey Monstro Decimoquinto». |
+| Ultrahyperium | Ultrahiperio | Decidido (G-2), 2026-11-18 (orquestador, por delegación) | Metal inventado; prefijo «hiper-» como «Hiperquebrantador». |
+| Muscle Wine | Vino Musculoso | Decidido (G-2), 2026-11-18 (orquestador, por delegación) | Producto de la barra de la posada (japonés マッスルワイン); nombre propio con mayúscula. |
+| Muscle Milkshake | Batido Musculoso | Decidido (G-2), 2026-11-18 (orquestador, por delegación) | Producto de Mucho (`script/mp1211`); plural «Batidos Musculosos». Misma fórmula que «Vino Musculoso». |
 | Time Attack | Contrarreloj | Decidido (G-2), DECISIONS 2026-11-18 | Modo de juego. «Boss Rush» → «Desafío de jefes». |
 | Nightmare | Pesadilla | Decidido (G-2), DECISIONS 2026-11-18 | Dificultades: «Easy» → «Fácil», «Normal» → «Normal», «Hard» → «Difícil». «Difficult: %s» → «Dificultad: %s». |
 | Mapped | Cartografiado | Decidido (G-2), DECISIONS 2026-11-18 | «Map Completion» → «Mapa completado». |
