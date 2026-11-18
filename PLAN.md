@@ -62,7 +62,7 @@ Obligatorio: sin él, `loc.py prepare` no arma lotes.
 
 - [x] Elegir con el usuario los casos reales (al menos uno de cada tipo; mejor dos o tres). (2026-11-18: 17 casos en `golden.jsonl`, dos o tres de cada tipo.)
 - [x] Aprobarlo (`loc.py golden approve`).
-- [ ] Probar a los agentes (`loc.py golden prepare`, traductor, revisor y corrector, `loc.py golden score`) hasta que pase. (2026-11-18: pasó `oro-006`, 17 de 17, tras corregir casos, el chequeo de caja, los saltos fijos de `strSystem` y dos líneas de prompt: corrector y traductor.)
+- [ ] Probar a los agentes (`loc.py golden prepare`, traductor, revisor y corrector, `loc.py golden score`) hasta que pase. (2026-11-18: pasó `oro-007`, 17 de 17, tras corregir casos, el chequeo de caja, los saltos fijos de `strSystem` y una línea del prompt del traductor (género).)
 
 ### Fase 5. Piloto
 
