@@ -175,13 +175,13 @@ def party_names():
     """{id interno: nombre visible} de los personajes del grupo (lang/en/text/pc.tbb).
 
     pc.tbb: rutas de modelos y, desde 0x89, un bloque FALCOM3 con registros de
-    145 bytes (id[32], nombre[32], ...).
+    116 bytes (id[32], nombre[32], ...).
     """
     import falcom
     d = (GAME / "lang/en/text/pc.tbb").read_bytes()
     out, _ = falcom.decompress_falcom3(d[0x89:])
     names = {}
-    for p in range(0, len(out) - 63, 145):
+    for p in range(0, len(out) - 63, 116):
         cid = out[p:p + 32].split(b"\0", 1)[0].decode("ascii")
         name = out[p + 32:p + 64].split(b"\0", 1)[0].decode("cp932")
         if cid:
