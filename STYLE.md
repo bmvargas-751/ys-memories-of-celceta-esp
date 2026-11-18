@@ -86,6 +86,7 @@ Aquí no se agrega ninguna regla sin fuente.
 - **E-21** Cada personaje habla como en el original: formalidad, vocabulario, humor, trato y peculiaridades. No todos hablan igual; tiene que sonar espontáneo, no a texto traducido ni demasiado formal. Lo de cada uno está en su ficha ([characters/](characters)). [Encargo §3]
 - **E-22** Los tics van según el original: cortes, tartamudeos, jerga, muletillas y groserías. Las groserías no se suavizan ni se intensifican: igualan la intensidad del original. [THL]
 - **E-23** Frases delicadas (juegos de palabras, muletillas, referencias, acertijos): se traducen desde el original con una solución provisional y se anotan en [PENDING.md](PENDING.md). No se agregan datos que el original no tiene. [THL]
+- **E-24** El tono del mundo de Ys sigue la traducción oficial de *Ys Origin* (PLAN, G-1): cuánta formalidad y épica, cómo se trata a diosas, nobles y órdenes («la señora Feena», «los Caballeros Sagrados»), cómo se marcan los títulos y el estilo de los textos de sistema («Obtienes...»). Se toma el tono, no la variante: lo propio de España (*vosotros*, *-áis/-éis*, *vale*, *tío*) va en español neutro (E-10 a E-13). Cada personaje sigue su ficha y el original (E-21). [DECISIONS 2026-11-17]
 
 ## Trato
 

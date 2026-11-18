@@ -9,3 +9,10 @@ Formato: `- [ ] \`clave\` (rol, motivo): «fragmento» → «propuesta». Por qu
 Se deciden al ver la pantalla.
 
 ## De los lotes
+
+## Términos por decidir (glosario)
+
+Propuestas del terminólogo (2026-11-17). Lo decidido pasa a GLOSSARY.md y DECISIONS.md.
+### Personajes con título
+
+- [ ] `map/mp6210#maru` (delicadas, juego de palabras): «Maroolyn» y los demás nombres de roos con juego de palabras sobre «roo» (Oroocle, Roomeo, Aroostotle, Roocifer, Froogal, Arroogant, Embarroosed, Rooinous, Roopture, Adoroo, Proose, Droowsy, Scrooup, Roopeat). Los resuelve el agente de delicadas (E-23), con la base de *Ys Origin* para los roos [DECISIONS 2026-11-17].

@@ -8,6 +8,7 @@ Se cierran en la fase 0, porque son caras de cambiar después.
 - **Original:** inglés oficial de la versión de Steam (`lang/en`), para que los subtítulos coincidan con las voces en inglés. [DECISIONS 2026-11-17]
 - **Otra versión de apoyo:** el japonés del mismo juego (`lang/ja`), solo para género, sujeto omitido y trato (E-1). [DECISIONS 2026-11-17]
 - **Terminología oficial:** la traducción oficial al español de *Ys Origin* (G-1). [DECISIONS 2026-11-17]
+- **Tono:** el de *Ys Origin* en español, adaptado a español neutro (E-24). [DECISIONS 2026-11-17]
 - **Pruebas:** la versión de Steam en Windows y en Steam Deck / Linux, con un instalador multiplataforma que arma la traducción con la copia de cada persona. [DECISIONS 2026-11-17]
 - **Sin spoilers:** los documentos, los commits y el chat nombran zonas o archivos, nunca hechos de la historia.
 - **Contenido del repo:** solo la traducción y las herramientas propias; nunca archivos del juego.
@@ -35,14 +36,25 @@ Antes de esto no se decide nada más.
 
 ### Fase 2. Inventario y presupuesto
 
-- [ ] Volumen por sección (`loc.py progress`).
-- [ ] Costo estimado por sección, antes de empezarla.
+- [x] Volumen por sección (`loc.py progress`).
+- [x] Costo estimado por sección, antes de empezarla. (2026-11-17; referencia de METHOD.md: 25 000 + 18 000 tokens por agente cada 250 líneas, 4 agentes Sonnet por lote. Las líneas repetidas se traducen una vez.)
+
+| Sección | Líneas | Distintas | Palabras | Lotes | Tokens aprox. |
+|---|---:|---:|---:|---:|---:|
+| Interfaz | 994 | 747 | 2209 | 3 | 0,5 M |
+| Objetos, materiales y habilidades | 1381 | 1015 | 5696 | 5 | 0,9 M |
+| Bestiario, nombres y PNJ | 1267 | 633 | 4112 | 3 | 0,5 M |
+| Diario, misiones y recuerdos | 795 | 696 | 11 335 | 3 | 0,5 M (líneas largas: hasta ×1,5) |
+| Guiones | 14 602 | 12 021 | 124 887 | 49 | 8,4 M |
+| **Total** | **19 039** | **15 112** | **148 239** | **63** | **≈ 11 M** |
+
+Aparte: terminólogo, perfilador (Opus), delicadas y las pruebas del set de oro.
 
 ### Fase 3. Documentos
 
-- [ ] Glosario: el terminólogo propone las filas.
-- [ ] Fichas de personajes: el perfilador, antes de cada sección.
-- [ ] DECISIONS.md y PENDING.md al día.
+- [x] Glosario: el terminólogo propone las filas. (2026-11-18: 158 términos en GLOSSARY.md, 32 oficiales de *Ys Origin* y el resto decididos con el usuario; en PENDING.md solo quedan los nombres de los roos, para delicadas.)
+- [x] Fichas de personajes: el perfilador, antes de cada sección. (2026-11-18: el grupo principal y Griselda — Duren, Karna, Ozma, Calilica, Frieda, Leeza, Griselda — con muestras de 300 líneas; género y trato aprobados. Los demás, antes de cada sección.)
+- [x] DECISIONS.md y PENDING.md al día.
 
 ### Fase 4. Set de oro
 

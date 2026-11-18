@@ -146,16 +146,47 @@ def reflow(font, text, maxw):
     return lines
 
 
+_VOCAB = None
+SUFFIXES = {"ing", "ed", "es", "s", "tion", "sion", "ment", "ments", "ness", "ly", "er", "ers", "est",
+            "ance", "ence", "able", "ible", "ity", "ous", "ful", "less", "al", "ial", "ive", "ize", "ise"}
+
+
+def vocab():
+    """Palabras (en minúscula) que usa el juego en sus guiones: sirve para saber
+    si un guion al final de renglón era un corte («enthu-» + «siasm»)."""
+    global _VOCAB
+    if _VOCAB is None:
+        words = set()
+        for path in script_files():
+            for _, _, _, v in ys7scp.Script(path.read_bytes()).strings():
+                try:
+                    words.update(w.lower() for w in re.findall(r"[A-Za-z]+", decode(v)))
+                except UnicodeDecodeError:
+                    pass
+        _VOCAB = words
+    return _VOCAB
+
+
 def join_lines(lines):
-    """Une renglones: con espacio, o sin él si el anterior termina en guion."""
+    """Une renglones con un espacio. Si el anterior termina en guion: es un
+    corte de palabra si al unir las dos partes sale una palabra que el juego usa
+    («enthu-» + «siasm» → «enthusiasm»); si no, es un compuesto y el guion queda
+    («suspicious-» + «looking»)."""
     out = ""
     for ln in lines:
+        ln = ln.strip(" ")
         if not ln:
             continue
         if not out:
             out = ln
         elif out.endswith("-") and not out.endswith("--"):
-            out += ln
+            head = re.search(r"([A-Za-z]+)-$", out)
+            tail = re.match(r"([a-z]+)", ln)
+            if head and tail and ((head.group(1) + tail.group(1)).lower() in vocab()
+                                  or tail.group(1) in SUFFIXES):
+                out = out[:-1] + ln
+            else:
+                out += ln
         else:
             out += " " + ln
     return out
@@ -175,13 +206,13 @@ def party_names():
     """{id interno: nombre visible} de los personajes del grupo (lang/en/text/pc.tbb).
 
     pc.tbb: rutas de modelos y, desde 0x89, un bloque FALCOM3 con registros de
-    145 bytes (id[32], nombre[32], ...).
+    116 bytes (id[32], nombre[32], ...).
     """
     import falcom
     d = (GAME / "lang/en/text/pc.tbb").read_bytes()
     out, _ = falcom.decompress_falcom3(d[0x89:])
     names = {}
-    for p in range(0, len(out) - 63, 145):
+    for p in range(0, len(out) - 63, 116):
         cid = out[p:p + 32].split(b"\0", 1)[0].decode("ascii")
         name = out[p + 32:p + 64].split(b"\0", 1)[0].decode("cp932")
         if cid:

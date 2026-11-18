@@ -1,0 +1,26 @@
+# Ozma
+
+- **Género:** masculino, marcado por el juego: la narración dice «Ozma produced several tools from **his** bag» (contexto de `script/mp3313#EV02_18_Meet_Gadis/148`) y «Ozma felt power surging throughout **his** body» (`script/mp1211#QS108_End/220`); el diario y otros personajes lo nombran con *he/him/his/himself* (`text/diary#GF_03MP3201_2_10_SEARCH_INFO`, `script/mp3201#talk_river/109`, `script/mp3202#EV03_09_Ozma_Again/272`). Sus líneas son solo suyas, no es voz compartida.
+- **Trato (aprobado por el usuario, DECISIONS 2026-11-18):**
+  - **Tú** con Adol, Duren, Karna, Calilica, Frieda, Leeza, Vanjo y Remnos, y con la gente de Selray (Cecily, Syriu, Rilche, Zara, Gazock, Rivarl): los llama por su nombre, sin títulos. Con Adol es cortés y distante al principio (`script/mp3202#EV02_09_Meet_Ozma/152`) y cálido después, pero el trato no cambia en todo el juego (E-30); la distancia se marca con el vocabulario, no con *usted*.
+  - **Tú** con Gadis (enemigo, le grita).
+  - **Usted** con el alcalde Alon (lo llama «Mayor»: `script/mp4203#EV04_35_Come_Griselda/148`) y con Eldeel cuando le habla directamente (siempre lo nombra «Lord Eldeel», como a una deidad; E-24).
+  - **Usted** también con Lefance (le dice solo «Lefance», sin título, en `script/mp7341#EV10_07_In_Center/93`, aunque en tercera persona dice «King Lefance») y el Gran Roo (Guran), con quien es muy respetuoso (`script/mp6210#EV06_09_Meet_GrandRu/371`). Va *usted* con los dos, por respeto.
+- **Registro:** formal, culto y medido. Casi nunca usa contracciones (4 de 667 líneas): *I am*, *I do not*, *cannot*, *It is*. Frases completas, vocabulario elevado (*perilous*, *implausible*, *arbiters of our own destinies*, *befouled*, *for naught*) y tono de razonamiento: evalúa pruebas, probabilidades e hipótesis (*circumstantial*, *high probability*, *the most plausible course of events*). Es cortés y se disculpa y agradece mucho. En español: formal pero natural, sin sonar a texto traducido (E-21); nada de coloquialismos.
+- **Muletillas y tics:**
+  - *Indeed.*, *I see...*, *Hmm...*, *Naturally,*, *I concur.*, *I agree.*
+  - Disculpas y gratitud con intensificador: *My apologies.*, *I am truly sorry*, *I am truly grateful*, *You have my word.*
+  - Hedging: *It appears...*, *It seems...*, *I believe...*, *most likely*.
+  - Preguntas de confirmación al final: *..., no?*, *..., yes?*, *..., correct?*
+  - Pausas con puntos suspensivos cuando duda o le pesa algo (*I...am not done yet.*).
+  - Cuando lo avergüenzan o lo toman por sorpresa (bromas sobre Cecily, insinuaciones) tartamudea y carraspea: *W-well...*, *Th-think nothing of it.*, *R-right...*, *\*cough\**. Risa contenida: *Pff...*, y una carcajada abierta muy rara (*Haha...hahahahaha!*).
+  - Ironía seca y cortés: *You ought to choose your friends more carefully, then.*
+  - Cuando se enoja (lo provocan con su tribu o su familia) pierde la compostura: gritos y exclamaciones (*Raaaaaaaah!*, *...Grr...*).
+  - Ojo: los guiones dentro de palabras (*sit-uation*, *con-vince*, *know-ledge*, *resi-dences*, *group-ing*) son cortes de renglón del original, no tartamudeos. Tampoco son tics las erratas del inglés (*I will be accompany you*, *makes yourselves*).
+- **Groserías:** casi ninguna. La única de la muestra es un estallido de rabia: *DAMMIT!!* (`script/mp3313#EV02_18_Meet_Gadis/966`): se traduce con la misma intensidad y en mayúsculas (E-22). Fuera de ese momento, cero groserías: no se agregan.
+- **Ejemplos:**
+  - Formal y razonador: `script/mp3201#talk_river/139`, `script/mp6101#EV04_18_Grave_Digger/291`
+  - Ironía cortés: `script/mp3202#EV02_09_Meet_Ozma/205`, `script/mp3202#QS305_End/93`
+  - Avergonzado: `script/mp3202#QS308_End2/51`, `script/mp3202#talk_cecily/118`
+  - Pierde la compostura: `script/mp3313#EV02_18_Meet_Gadis/844`, `script/mp3313#EV02_18_Meet_Gadis/966`
+- **Fuente:** las 300 líneas de `build/work/fichas/ozma-muestra.md` (de 667, repartidas por todo el juego), cada una con su línea anterior. Para el género, búsquedas puntuales en `source.jsonl` (diario, narración y otros personajes que lo nombran). Para el trato, búsqueda en sus líneas de *Lord*, *Mayor*, *King*, *Lefance* y *Guran*.
