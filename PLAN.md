@@ -52,7 +52,7 @@ Aparte: terminólogo, perfilador (Opus), delicadas y las pruebas del set de oro.
 
 ### Fase 3. Documentos
 
-- [x] Glosario: el terminólogo propone las filas. (2026-11-17: 38 filas en GLOSSARY.md, 32 oficiales de *Ys Origin* y 6 decididas; 112 términos por decidir en PENDING.md.)
+- [x] Glosario: el terminólogo propone las filas. (2026-11-18: 158 términos en GLOSSARY.md, 32 oficiales de *Ys Origin* y el resto decididos con el usuario; en PENDING.md solo quedan los nombres de los roos, para delicadas.)
 - [ ] Fichas de personajes: el perfilador, antes de cada sección.
 - [ ] DECISIONS.md y PENDING.md al día.
 

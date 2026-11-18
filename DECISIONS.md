@@ -19,3 +19,9 @@ Lo que el usuario decidió, con fecha, para no volver a discutirlo. Una regla de
 - **2026-11-17** Los alias de los exploradores quedan en inglés (Rabbit, Pigeon, Beaver, Swan, Slash, Owl, Jackal); el título se traduce según el género de cada uno (ver fichas).
 - **2026-11-17** Las inconsistencias del original se unifican en una sola forma: «Sol-Galba» (no «Sol-Galva»), una para «Ashen Forest» / «Forest of Ash», una para «monolith» / «monument», una para «Personal Action» / «Unique Actions», «Difficult: %s» como «Dificultad: %s», y en `text/status` los nombres de los diálogos (Karna, Calilica, Frieda, Leeza).
 - **2026-11-17** Los nombres de los roos con juego de palabras van al agente de líneas delicadas; base: cómo trata *Ys Origin* a los roos (especie en minúscula, «la costumbre de los roos»).
+- **2026-11-18** Personajes con título: se aprueban las propuestas del terminólogo, con «capataz» (Head Miner), «informante» (Information Dealer) y «domador de bestias» (Beast Tamer). Títulos en minúscula ante el nombre, como *Ys Origin*.
+- **2026-11-18** «Romun» pasa a «romuno/romuna» (cambia la decisión del 2026-11-17): «los romunos», «Ejército Romuno», «Imperio Romuno». Invariable sonaba forzado en las 69 frases sobre el pueblo; no hay forma oficial (*Ys IX* no salió en español y el parche de fans no se pudo consultar).
+- **2026-11-18** Facciones y criaturas: se aprueban las propuestas (Ejército Celcetano, Reino de Celceta, División Enmascarada, sparda, bestias sagradas, fabros).
+- **2026-11-18** Lugares: se aprueban las 32 propuestas del terminólogo tal cual (también valen para las imágenes de nombre de zona).
+- **2026-11-18** Objetos y materiales: se aprueban las 22 propuestas del terminólogo tal cual.
+- **2026-11-18** Mecánicas e interfaz: se aprueban las 30 propuestas del terminólogo, con «PAR» (no «PARÁ») para la parálisis en la ficha de equipo.
