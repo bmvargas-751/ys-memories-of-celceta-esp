@@ -9,3 +9,5 @@ Lo que el usuario decidió, con fecha, para no volver a discutirlo. Una regla de
 - **2026-11-17** STYLE.md: se deja toda la base del kit.
 - **2026-11-17** Reglas del repositorio iguales a las de The Hundred Line: `main` solo por pull request con revisión del dueño (CODEOWNERS), etiquetas `v*` protegidas, solo squash, licencia doble (MIT para `tools/`, CC BY-NC-SA 4.0 para la traducción) y commits sin firma de Claude.
 - **2026-11-17** Cuadros de diálogo (`TalkMes`, hasta 3 renglones): se exporta cada cuadro como un solo texto, sin saltos, y el adaptador lo reparte en renglones al importarlo, según el ancho real de la fuente (reflujo). Si no cabe en 3 renglones, el chequeo avisa y se acorta la frase; no se agregan cuadros.
+- **2026-11-17** Imágenes con texto: se editan a mano (PNG en la carpeta local, fuera del repo). `tools/images.py` exporta los originales a PNG y convierte los editados a ITP. Cómo llegan al jugador se decide con el instalador (fase 8).
+- **2026-11-17** Los tutoriales (`lang/en/visual/topic_*`, 58 páginas) se hacen al final, después del resto de las imágenes; hasta entonces quedan en inglés.

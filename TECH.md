@@ -24,7 +24,22 @@ El adaptador es `tools/celceta.py` (`export`, `import`, `roundtrip`, `pseudo`). 
 | `map/` | `lang/en/map/*/*.arb` | mapas YS7_ARG (`arb.py`) | nombres de PNJ, habilidades de campo, monstruos de misión |
 | — | `lang/en/system/font.itf` | fuente (`itf.py`, `font_es.py`) | letras españolas |
 
-Exportar e importar sin cambios da los mismos archivos, byte por byte (`roundtrip`). Lo que falta: las imágenes con texto (`.itp` de menús y títulos de zona).
+Exportar e importar sin cambios da los mismos archivos, byte por byte (`roundtrip`).
+
+### Imágenes con texto
+
+Se editan a mano [DECISIONS 2026-11-17]. `tools/images.py export` deja los originales en PNG en `../ys-memories-of-celceta-esp-local/imagenes/en/`; los editados van en `imagenes/es/` con el mismo nombre y tamaño, y `tools/celceta.py import` (o `images.py import`) los convierte a ITP en `build/`. Formato ITP según Cradle (`tools/itp.py`): 32 bits sin compresión, o 256 colores con FALCOM3 y mosaicos de 32×32; si los colores nuevos no están en la paleta, se usa el más cercano o una paleta nueva, lo que se aleje menos.
+
+| Grupo | Archivos | Texto |
+|---|---|---|
+| `lang/en/visual/mapname/` | 39 | nombres de zona (los mismos de `text/mapname`) |
+| `lang/en/visual/bossname/` | 20 | título del jefe; el nombre propio queda |
+| `system/ti_icon.itp` | 1 | menú de título |
+| `system/system01.itp`, `system/emotion.itp` | 2 | combate (Guard, Miss…) y globos (TALK, SHOP, QUEST) |
+| `lang/en/system/menu_mt1-4.itp`, `menucom.itp` | 5 | etiquetas y cabeceras de los menús |
+| `lang/en/visual/topic_*.itp` | 58 | tutoriales (al final) [DECISIONS 2026-11-17] |
+
+`system/` no está dentro de `lang/en`: lo comparten los dos idiomas del juego.
 
 ## Espacio
 

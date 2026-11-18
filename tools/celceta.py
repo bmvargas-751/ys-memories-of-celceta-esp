@@ -450,6 +450,9 @@ def do_import():
     tr = load_translation()
     ws = build_scripts(tr, font, BUILD)
     wt = build_tables(tr, font, BUILD) + build_system(tr, BUILD) + build_records(tr, BUILD) + build_maps(tr, BUILD)
+    import images
+    wi = images.build_images(BUILD)
+    print(f"{len(wi)} imágenes editadas")
     print(f"{len(ws)} guiones, {len(wt)} tablas y mapas, y la fuente en {BUILD / 'lang/en'}")
 
 
