@@ -1,0 +1,27 @@
+# Karna
+
+- **Género:** femenino. El juego lo marca varias veces: Duren dice «she's found us» (`script/mp2201#EV01_06_Return_Now/68`) y la llama «one tough little lady» (`script/mp2201#EV01_10_Join_Carna/148`), su padre la llama «my daughter» (`script/mp2202#talk_Asad/293`), Leo le dice «Young lady» (`script/mp6192#EV08_00_Arrive_SnowMt/417`) y ella misma se llama «older sister» (`script/mp4201#EV04_34_Entry_Gruhda/700`) y habla de cuando era «a little girl». Todo lo que dice de sí misma concuerda en femenino: *Estoy segura*, *No soy buena para...*, *Me quedé dormida*.
+- **Trato (propuesta, la aprueba el usuario):**
+  - *Tú* con todos: Adol, Duren, Ozma, Calilica, Frieda, Leeza, Leo, su hermano Remnos, la gente de Comodo (Pippi, Saisen, Sadoc, Lindsay) y los enemigos. Habla igual de directo con desconocidos que con amigos: «You know Remnos?!», «Are you sure you'll be okay on your own?».
+  - Con su padre (Asad), *tú* con el vocativo *padre*. En inglés lo llama siempre «Father» y es más respetuosa con él («As you wish, Father.», «Allow me to introduce you. This is my father.»), pero le habla con cariño y confianza («Heh. You always could see right through me. Maybe I take after you.»). Hay que confirmar si se prefiere *usted* con él. Si se elige, va solo con Asad y se mantiene en todo el juego (E-30).
+  - Con Eldeel y Lefance casi no habla en la muestra. Se queda en *tú* por defecto hasta ver sus líneas.
+- **Registro:** casual, directo y enérgico. Es cazadora y se describe así: «I'm a doer, not a thinker.» Cuando tiene que hacer de anfitriona o explicar la situación del pueblo, sube un poco el registro y se pone seria y ordenada («It's a difficult time for everyone here, but that's all the more reason we need to stay calm and rational.»). Con Remnos hace de hermana mayor mandona («I'm your older sister, so if I say you can't have one, you can't have one!»). Con los demás es cálida y anima mucho: «That's the spirit!», «So chin up!», «Welcome to the team.». Usa vocabulario de caza (rastros, presas, «I sensed something», sigilo). No conoce la tecnología ni el mundo de afuera: separa en sílabas las palabras raras («Ma...chine...ry?») y pregunta por ellas («What does 'cannon' mean?»). En las misiones del pueblo responde corto y práctico: «Okay, got it.», «Check.».
+- **Muletillas y tics:**
+  - Risita «Heheh» / «Heh» al empezar la frase, muy frecuente. También «Hahaha», «Hahaha, sorry!».
+  - «Heh. Gotcha!» / «Heheh, got you!» cuando atrapa algo, y «Aww, it got away...» / «Aww, he ran away!» cuando se le escapa.
+  - Interjecciones: «Aww(w)», «Wow», «Whoa», «Phew/Whew», «Hmph», «Erm», «Um», «Man,», «Yep!», «Ooh».
+  - «Check.» para confirmar instrucciones (`script/mp2202#QS205_Start2/15`).
+  - Acciones entre asteriscos: «*sigh*», «*cough*» (para cortarse cuando se le escapa algo), «*gulp* *gulp*».
+  - Tartamudeo cuando la sorprenden o se pone nerviosa: «R-really?», «Wh-why not?», «W-wait!», «I-I know, I'm sorry...».
+  - Puntos suspensivos cuando duda o se queda impactada: «...B-but...», «He's...gone...?».
+  - Mayúsculas para gritar o enfatizar: «THIS different», «AGAIN?!», «WHAT?!», «until GOD feels better».
+  - Palabras alargadas: «reeeeally», «Mmmnnng...», «Whaaat?!». A veces cierra una frase alegre con «♪».
+  - Pensamientos entre paréntesis (`script/mp6210#talk_Remnos/102`).
+  - «gonna» de vez en cuando, en momentos de decisión.
+  - No son tics: los guiones dentro de palabras («weigh-ing», «disappear-ances», «any-where») y los espacios dobles vienen de cortes de renglón del original. No se reproducen.
+- **Groserías:** muy suaves y escasas. «It sucks.» (`script/mp4201#EV04_34_Entry_Gruhda/691`), «Man, I can't believe this!», «Pretty low, Duren!». No dice palabrotas. En español van igual de suaves (por ejemplo *apesta*, *qué mal*, *¡no puede ser!*), sin subirlas ni bajarlas (E-22).
+- **Ejemplos:**
+  - `script/mp2201#EV01_10_Join_Carna/143`: «I'm no good at sitting around and weigh-ing my options. I much prefer standing tall and taking action.» (directa, de acción)
+  - `script/mp2202#QS205_Start/31`: «Er, I mean, one of your precious children has gone missing.» (se corrige con humor)
+  - `script/mp4203#EV04_19_Talk_Riesa/174`: «Man, I can't believe this! Do we really have to wait until GOD feels better before we can talk to him?!» (exasperación, mayúsculas, «Man»)
+- **Fuente:** las 300 líneas de `build/work/fichas/karna-muestra.md` (muestra repartida por todo el juego: `script/mp1201`, `mp1211`, `mp2103`, `mp2201`, `mp2201m`, `mp2202`, `mp2202m`, `mp2301`, `mp2309`, `mp2310`, `mp3103`, `mp3104`, `mp3201`, `mp3202`, `mp4201`, `mp4202`, `mp4203`, `mp4301`, `mp4312`, `mp5201`, `mp5211`, `mp6101`–`mp6365`, `mp7301`, `mp7341`, `mp7342`, `sd2120`), con su línea de contexto. Para el género: `script/mp2201#EV01_06_Return_Now/68`, `script/mp2201#EV01_10_Join_Carna/148`, `script/mp2202#talk_Asad/293` y `script/mp6192#EV08_00_Arrive_SnowMt/417`.

@@ -1,0 +1,29 @@
+# Duren
+
+- **Género:** masculino, según lo marca el juego: «a burly man named Duren [...] who claims he's an information dealer» (`text/diary#GF_01MP1211_0_01_GO_MINE~2`), «Duren felt power surging throughout his body» (`script/mp1211#QS108_End/144`), «he's not a bad information dealer at all» (`script/mp1211#talk_black/79`), «Duren is mumbling in his sleep» (`script/mp4203#talk_Duren/5`).
+- **Trato (PROPUESTA, la aprueba el usuario):**
+  - **Tú con Adol**, siempre: le habla como un compañero de confianza, lo regaña, lo apura y bromea con él («man», «Come on, Adol», «you lazy slob»).
+  - **Tú con el resto del grupo y con la gente que se cruza** (Karna, Ozma, Calilica, Frieda, aldeanos, quienes dan misiones): en el original no usa títulos ni fórmulas de cortesía con ellos («You come here often, Ozma?», «So you're Wallace?», «Just tell us what your quest is!»). A una niña la llama «young lady» en broma (`script/mp3202#talk_cecily/126`).
+  - **Por confirmar: autoridades y mayores** (la gobernadora general Griselda, el comandante Leo, los ancianos de las aldeas). En la muestra solo hay una línea suya dirigida a Griselda, y es igual de informal («Yeah, I guess we'll just have to keep looking.», `script/mp1213#EV03_01_Acc_Griselda/259`). Mi propuesta es tú también con ellos, porque nada en el original marca distancia, pero el usuario decide si prefiere usted con alguno de ellos. Con quien quede, el trato se mantiene igual todo el juego (E-30).
+  - Cuando nombra a terceros usa sus títulos: «Commander Leo», «the new Governor General», «Lord Eldeel» (seguir el tono de E-24 para esos títulos).
+- **Registro:** casual, coloquial y rápido. Un tipo de ciudad, práctico y algo pícaro, que vive de vender información y lo dice sin vergüenza («I want the money, you want to get your memories back...»). Usa jerga de su oficio («info», «intel», «sources», «the information game»). Le gustan los modismos y las frases hechas: «small potatoes», «in a nutshell», «piece of cake», «back to square one», «second fiddle», «like talking to a brick wall», e incluso los deforma para hacer chiste («no point crying over spilled memories»). Sarcástico y quejica cuando algo le molesta (enumera sus desgracias, se queja del cansancio o del aburrimiento), pero entusiasta y animador cuando toca seguir («All right, then, let's get this party started!», «Onward to Casnan, then!»). En los tutoriales explica con claridad y orden («First, quests! Here's how they work.»), sin perder el tono informal. No suena a texto de época ni solemne: es de los personajes más relajados del grupo.
+- **Muletillas y tics:**
+  - Suspiros y quejidos escritos: «\*sigh\*», «\*yawn\*», «Ugh», «Whew», «Tch.», «Rrg!», «Hrrrnnnng!», «Erm...».
+  - Exclamaciones de muletilla: «Oh boy», «Whoa», «Man,», «Heh», «Haha», «Huh?», «Hmm...», «Whelp», «Voila!», «Yep», «Right, then», «All right».
+  - Coletillas de pregunta para buscar complicidad: «..., huh?», «..., right?», «..., you know?», «..., got it?», «..., would you?».
+  - Contracciones y habla relajada: «gonna», «wanna», «gotta», «kinda», «dunno», «'em», «woulda», «playin'», «C'mon», «See ya», «here-ish».
+  - Omite el sujeto al empezar la frase: «Gonna have to look for another route», «Guess we've got competition», «Seems like...», «Sure looks old...».
+  - Vocales alargadas para recalcar: «veeeeery carefully», «...Buuut», «Reeeally».
+  - Tartamudeo cuando lo pillan por sorpresa o se pone nervioso: «Y-yeah», «W-wait...», «O-of course...», «Wh-what?!», «O-okay...».
+  - Se corta y se corrige para hacer chiste: «You're my favorite source of mone-- I mean, my dearest friend!».
+  - Mayúsculas para enfatizar una palabra: «She HAS to know», «deal in MONEY», «one of THOSE people», «Who ARE you».
+  - Pensamientos entre paréntesis en algunas líneas (`script/mp1201#talk_sandra/78`).
+- **Groserías:** moderadas, frecuentes en momentos de enfado o sorpresa, nunca fuertes. Las del original: «dammit», «the hell» / «what the hell» / «get the hell out of here», «a hell of a battle», «about damned time», «work my ass off», y el insulto cariñoso «you lazy slob». No hay groserías más fuertes en la muestra. Igualar esa intensidad (E-22): ni suavizarlas hasta desaparecer ni subirlas de tono.
+- **Ejemplos:**
+  - `script/mp1211#EV00_01_Meet_Dulen/226`: el chiste del dinero con autocorrección.
+  - `script/mp1211#EV03_04_Meeting_MB/125`: queja, grosería e insulto cariñoso a Adol en una sola línea.
+  - `script/mp1302#ev_tutorial_1_start/170`: regaño con «dammit», tono de compañero impaciente.
+  - `script/mp3105#EV02_01_Arrive_Serurei/225`: suspiro y frase hecha deformada.
+- **Fuente:**
+  - Las 300 líneas de `build/work/fichas/duren-muestra.md` (de 1749), leídas completas con su línea anterior; van de `script/mp1101#tutorial_plain_1/64` a `script/sd4110#SUB_cliff_hint_2/38`, repartidas por todo el juego.
+  - Género, búsqueda puntual en `source.jsonl`: `text/diary#GF_01MP1211_0_01_GO_MINE~2`, `script/mp1211#QS108_End/144`, `script/mp1211#talk_black/79`, `script/mp1211#talk_black/90`, `script/mp4203#talk_Duren/5`, `script/mp5201#talk_kisera/38`, `script/mp5201#talk_kisera/44`.
