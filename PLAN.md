@@ -35,8 +35,19 @@ Antes de esto no se decide nada más.
 
 ### Fase 2. Inventario y presupuesto
 
-- [ ] Volumen por sección (`loc.py progress`).
-- [ ] Costo estimado por sección, antes de empezarla.
+- [x] Volumen por sección (`loc.py progress`).
+- [x] Costo estimado por sección, antes de empezarla. (2026-11-17; referencia de METHOD.md: 25 000 + 18 000 tokens por agente cada 250 líneas, 4 agentes Sonnet por lote. Las líneas repetidas se traducen una vez.)
+
+| Sección | Líneas | Distintas | Palabras | Lotes | Tokens aprox. |
+|---|---:|---:|---:|---:|---:|
+| Interfaz | 994 | 747 | 2209 | 3 | 0,5 M |
+| Objetos, materiales y habilidades | 1381 | 1015 | 5696 | 5 | 0,9 M |
+| Bestiario, nombres y PNJ | 1267 | 633 | 4112 | 3 | 0,5 M |
+| Diario, misiones y recuerdos | 795 | 696 | 11 335 | 3 | 0,5 M (líneas largas: hasta ×1,5) |
+| Guiones | 14 602 | 12 021 | 124 887 | 49 | 8,4 M |
+| **Total** | **19 039** | **15 112** | **148 239** | **63** | **≈ 11 M** |
+
+Aparte: terminólogo, perfilador (Opus), delicadas y las pruebas del set de oro.
 
 ### Fase 3. Documentos
 
