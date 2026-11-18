@@ -1,0 +1,151 @@
+{"key": "text/matlib#GROUP/descripcion", "es": "#139IMinerales"}
+{"key": "text/matlib#ICON3D_MT_COAL/descripcion", "es": "Una mena muy útil y de extracción común. Se usa como combustible al refinar otros minerales."}
+{"key": "text/matlib#ICON3D_MT_COAL/nombre", "es": "★Carbón"}
+{"key": "text/matlib#ICON3D_MT_IRON/descripcion", "es": "Una mena verdosa y parcialmente transparente. Demuestra su verdadero valor como gema al refinarse o procesarse."}
+{"key": "text/matlib#ICON3D_MT_IRON/nombre", "es": "★Mena de hierro"}
+{"key": "text/matlib#ICON3D_MT_SILVER/descripcion", "es": "Una mena de metal precioso que emite un brillo tenue. Una vez refinada, tiene un hermoso lustre blanco y su resplandor iguala al del oro."}
+{"key": "text/matlib#ICON3D_MT_SILVER/nombre", "es": "★Mena de plata"}
+{"key": "text/matlib#ICON3D_MT_GOLD/descripcion", "es": "Una mena de metal precioso que emite un brillo elegante. Es tan valiosa que el Imperio Romuno busca extraer más oro del Gran Bosque."}
+{"key": "text/matlib#ICON3D_MT_GOLD/nombre", "es": "★Mena de oro"}
+{"key": "text/matlib#ICON3D_MT_EMERALD/descripcion", "es": "Una mena verdosa y parcialmente transparente. Demuestra su verdadero valor como gema al refinarse o procesarse."}
+{"key": "text/matlib#ICON3D_MT_EMERALD/nombre", "es": "★Piedra verde"}
+{"key": "text/matlib#ICON3D_MT_TOPAZ/descripcion", "es": "Mena de un cálido tono amarillo. Demuestra su verdadero valor como gema al refinarse o procesarse."}
+{"key": "text/matlib#ICON3D_MT_TOPAZ/nombre", "es": "★Piedra amarilla"}
+{"key": "text/matlib#ICON3D_MT_RUBY/descripcion", "es": "Una mena de un rojo vivo. Demuestra su verdadero valor como gema al refinarse o procesarse."}
+{"key": "text/matlib#ICON3D_MT_RUBY/nombre", "es": "★Piedra roja"}
+{"key": "text/matlib#ICON3D_MT_SAPPHIRE/descripcion", "es": "Mena de un color azul claro y tenue. Demuestra su verdadero valor como gema al refinarse o procesarse."}
+{"key": "text/matlib#ICON3D_MT_SAPPHIRE/nombre", "es": "★Piedra azul"}
+{"key": "text/matlib#ICON3D_MT_AMETHYST/descripcion", "es": "Mena de un violeta turbio. Demuestra su verdadero valor como gema al refinarse o procesarse."}
+{"key": "text/matlib#ICON3D_MT_AMETHYST/nombre", "es": "★Piedra morada"}
+{"key": "text/matlib#ICON3D_MT_ONYX/descripcion", "es": "Una mena negra y lustrosa. Demuestra su verdadero valor como gema al refinarse o procesarse."}
+{"key": "text/matlib#ICON3D_MT_ONYX/nombre", "es": "★Piedra negra"}
+{"key": "text/matlib#ICON3D_MT_DIAMOND/descripcion", "es": "Una mena dura que brilla como las estrellas en el cielo nocturno. Demuestra su verdadero valor como gema al refinarse o procesarse."}
+{"key": "text/matlib#ICON3D_MT_DIAMOND/nombre", "es": "★Piedra de luz estelar"}
+{"key": "text/matlib#ICON3D_MT_R_IRON/descripcion", "es": "Lingote que se usa para fabricar diversos artículos. Los soldados romunos de Casnan lo aprecian por su versatilidad en la fabricación de armas y armaduras."}
+{"key": "text/matlib#ICON3D_MT_R_IRON/nombre", "es": "★Lingote de hierro"}
+{"key": "text/matlib#ICON3D_MT_R_SILVER/descripcion", "es": "Lingote de plata refinado que emite un brillo tenue. Los objetos hechos con él resisten el óxido y se dice que ahuyentan el mal."}
+{"key": "text/matlib#ICON3D_MT_R_SILVER/nombre", "es": "★Lingote de plata"}
+{"key": "text/matlib#ICON3D_MT_R_GOLD/descripcion", "es": "Lingote de oro de gran pureza. Extremadamente radiante, no solo es valioso, sino también excelente para la fabricación por su peso y suavidad."}
+{"key": "text/matlib#ICON3D_MT_R_GOLD/nombre", "es": "★Lingote de oro"}
+{"key": "text/matlib#ICON3D_MT_R_EMERALD/descripcion", "es": "Una gema transparente, lustrosa y de un verde intenso. Solo los más hermosos de los minerales llamados \"berilos\" reciben este nombre."}
+{"key": "text/matlib#ICON3D_MT_R_EMERALD/nombre", "es": "★Esmeralda"}
+{"key": "text/matlib#ICON3D_MT_R_TOPAZ/descripcion", "es": "Una gema de belleza especial, muy usada en adornos. Su nombre significa \"buscar\" y ninguna exposición a la luz le hará perder su color."}
+{"key": "text/matlib#ICON3D_MT_R_TOPAZ/nombre", "es": "★Topacio"}
+{"key": "text/matlib#ICON3D_MT_R_RUBY/descripcion", "es": "Una gema de un rojo apasionado, variedad del mineral \"corundo\". Su transparencia determina su valor y aumenta su demanda."}
+{"key": "text/matlib#ICON3D_MT_R_RUBY/nombre", "es": "★Rubí"}
+{"key": "text/matlib#ICON3D_MT_R_SAPPHIRE/descripcion", "es": "Una gema refrescante de tono azulado, variedad del mineral \"corundo\", que se usa en adornos. También se dice que sirve como colorante para pintar."}
+{"key": "text/matlib#ICON3D_MT_R_SAPPHIRE/nombre", "es": "★Zafiro"}
+{"key": "text/matlib#ICON3D_MT_R_AMETHYST/descripcion", "es": "Un cristal púrpura que debe su color a elementos traza. Se usa en la adivinación por su aspecto místico, pero hay que mantenerlo alejado de la luz del sol."}
+{"key": "text/matlib#ICON3D_MT_R_AMETHYST/nombre", "es": "★Amatista"}
+{"key": "text/matlib#ICON3D_MT_R_ONYX/descripcion", "es": "Una gema negra azabache, sin nubes, que se usa para ahuyentar el mal. Valiosa por su versatilidad en la fabricación."}
+{"key": "text/matlib#ICON3D_MT_R_ONYX/nombre", "es": "★Ónix"}
+{"key": "text/matlib#ICON3D_MT_R_DIAMOND/descripcion", "es": "Una gema rara que no solo se usa como adorno, sino también para cortar y pulir otros materiales por su dureza. Refracta la luz de forma hermosa."}
+{"key": "text/matlib#ICON3D_MT_R_DIAMOND/nombre", "es": "★Diamante"}
+{"key": "text/matlib#ICON3D_MT_FAKE_PEDESTAL/descripcion", "es": "Una réplica bañada en oro de un tesoro antiguo. Aunque tiene muchas impurezas, sirve para reforzar."}
+{"key": "text/matlib#ICON3D_MT_FAKE_PEDESTAL/nombre", "es": "Pedestal de oro (réplica)"}
+{"key": "text/matlib#ICON3D_MT_GOLD_PEDESTAL/descripcion", "es": "Un tesoro antiguo de oro puro, con una historia interesante. Al usarlo en un refuerzo, potencia cualquier equipo al máximo."}
+{"key": "text/matlib#ICON3D_MT_GOLD_PEDESTAL/nombre", "es": "Pedestal de oro (auténtico)"}
+{"key": "text/matlib#GROUP/descripcion~2", "es": "#158IMateriales animales"}
+{"key": "text/matlib#ICON3D_MT_BONE/descripcion", "es": "Hueso de bestia que se dañó y se volvió quebradizo. En su estado actual no sirve, pero se puede intercambiar en gran cantidad por materiales más útiles."}
+{"key": "text/matlib#ICON3D_MT_BONE/nombre", "es": "★Hueso quebradizo"}
+{"key": "text/matlib#ICON3D_MT_SKIN/descripcion", "es": "Piel de bestia rasgada y dañada. En su estado actual no sirve, pero se puede intercambiar en gran cantidad por materiales más útiles."}
+{"key": "text/matlib#ICON3D_MT_SKIN/nombre", "es": "★Piel dañada"}
+{"key": "text/matlib#ICON3D_MT_SHELL/descripcion", "es": "Caparazón dañado por un fuerte impacto. En su estado actual no sirve, pero se puede intercambiar en gran cantidad por materiales más útiles."}
+{"key": "text/matlib#ICON3D_MT_SHELL/nombre", "es": "★Caparazón agrietado"}
+{"key": "text/matlib#ICON3D_MT_HAIR/descripcion", "es": "Pelo dañado que perdió su brillo y su humedad. En su estado actual no sirve, pero se puede intercambiar en gran cantidad por materiales más útiles."}
+{"key": "text/matlib#ICON3D_MT_HAIR/nombre", "es": "★Pelo partido"}
+{"key": "text/matlib#ICON3D_MT_LIQUID/descripcion", "es": "Líquido de aspecto insalubre y lleno de impurezas. En su estado actual no sirve, pero se puede intercambiar en gran cantidad por materiales más útiles."}
+{"key": "text/matlib#ICON3D_MT_LIQUID/nombre", "es": "★Líquido inmundo"}
+{"key": "text/matlib#ICON3D_MT_LUMP/descripcion", "es": "Un grumo misterioso e indescriptible. En su estado actual no sirve, pero se puede intercambiar en gran cantidad por materiales más útiles."}
+{"key": "text/matlib#ICON3D_MT_LUMP/nombre", "es": "★Masa extraña"}
+{"key": "text/matlib#ICON3D_MT_R_BONE/descripcion", "es": "Un hueso firme y muy denso. Su solidez es comparable a la del hierro y, al combinar varios, se puede crear un material de gran calidad."}
+{"key": "text/matlib#ICON3D_MT_R_BONE/nombre", "es": "★Hueso robusto"}
+{"key": "text/matlib#ICON3D_MT_R_SKIN/descripcion", "es": "Piel que sirve para muchos fines una vez curtida. Muy apreciada desde la antigüedad por su durabilidad en el diseño de ropa y armaduras."}
+{"key": "text/matlib#ICON3D_MT_R_SKIN/nombre", "es": "★Piel robusta"}
+{"key": "text/matlib#ICON3D_MT_R_SHELL/descripcion", "es": "Un caparazón robusto, duro como el acero. Suele ser fruto de un hueso modificado y se usa para hacer armaduras desde la antigüedad."}
+{"key": "text/matlib#ICON3D_MT_R_SHELL/nombre", "es": "★Caparazón robusto"}
+{"key": "text/matlib#ICON3D_MT_R_HAIR/descripcion", "es": "Un mechón de pelos flexibles pero fuertes. Delicado al tacto, se usa a menudo en adornos o se teje en telas."}
+{"key": "text/matlib#ICON3D_MT_R_HAIR/nombre", "es": "★Cabello fuerte"}
+{"key": "text/matlib#ICON3D_MT_R_LIQUID/descripcion", "es": "Mucosidad perfectamente translúcida de bestias y plantas. Llena de extractos y nutrientes de alta calidad, se puede beber tras tratarla."}
+{"key": "text/matlib#ICON3D_MT_R_LIQUID/nombre", "es": "★Líquido transparente"}
+{"key": "text/matlib#ICON3D_MT_SR_POIZON/descripcion", "es": "Un órgano de un ser vivo lleno de veneno. Su estructura interna mantiene el veneno aislado, pero hay que manejarlo con cuidado."}
+{"key": "text/matlib#ICON3D_MT_SR_POIZON/nombre", "es": "★Órgano venenoso"}
+{"key": "text/matlib#ICON3D_MT_SR_SPIDER/descripcion", "es": "Una telaraña muy viscosa que usan las arañas para capturar a sus presas. Casi líquida, es un ingrediente frecuente en pegamentos y pastas."}
+{"key": "text/matlib#ICON3D_MT_SR_SPIDER/nombre", "es": "★Telaraña"}
+{"key": "text/matlib#ICON3D_MT_SR_FANG/descripcion", "es": "El colmillo de una bestia feroz que ha atravesado la carne de incontables presas. Su superficie es áspera como una lima por tantas muertes."}
+{"key": "text/matlib#ICON3D_MT_SR_FANG/nombre", "es": "★Colmillo de bestia"}
+{"key": "text/matlib#ICON3D_MT_SR_SHELL/descripcion", "es": "Un caparazón tan duro como el diamante. Que sea imposible rayarlo lo hace ideal para fabricar objetos, pero también difícil de obtener."}
+{"key": "text/matlib#ICON3D_MT_SR_SHELL/nombre", "es": "★Caparazón indestructible"}
+{"key": "text/matlib#ICON3D_MT_SR_SCALE/descripcion", "es": "Un conjunto de escamas duras y unidas. Tienen una leve capacidad regenerativa que les permite curar por sí solas los daños menores."}
+{"key": "text/matlib#ICON3D_MT_SR_SCALE/nombre", "es": "★Escama dura"}
+{"key": "text/matlib#ICON3D_MT_SR_FROGJUICE/descripcion", "es": "Líquido extraído de una rana. Contiene nutrientes y sirve para hacer medicinas, pero es amargo y no se puede beber solo."}
+{"key": "text/matlib#ICON3D_MT_SR_FROGJUICE/nombre", "es": "★Extracto de rana"}
+{"key": "text/matlib#ICON3D_MT_SR_SUBE_FUR/descripcion", "es": "Un pelaje hermoso, brillante como un cabello bien cuidado. Es muy popular entre comerciantes y maestros sastres."}
+{"key": "text/matlib#ICON3D_MT_SR_SUBE_FUR/nombre", "es": "★Pelaje suave"}
+{"key": "text/matlib#ICON3D_MT_SR_MOKO_FUR/descripcion", "es": "Un pelaje ligero y esponjoso, con una textura casi de nube. Su excepcional aislamiento lo hace perfecto para objetos pensados contra el frío."}
+{"key": "text/matlib#ICON3D_MT_SR_MOKO_FUR/nombre", "es": "★Pelaje esponjoso"}
+{"key": "text/matlib#ICON3D_MT_SR_NAIL/descripcion", "es": "Garra de una bestia que ha matado a incontables enemigos. El uso constante la ha afilado tanto que supera con facilidad a un cuchillo de acero."}
+{"key": "text/matlib#ICON3D_MT_SR_NAIL/nombre", "es": "★Garra de bestia feroz"}
+{"key": "text/matlib#ICON3D_MT_SR_SKIN/descripcion", "es": "Una piel de monstruo de aspecto siniestro y peculiar. Su grosor dificulta trabajarla, pero tiene propiedades que aumentan la vitalidad."}
+{"key": "text/matlib#ICON3D_MT_SR_SKIN/nombre", "es": "★Piel extraña"}
+{"key": "text/matlib#ICON3D_MT_SR_ACIDJUICE/descripcion", "es": "Un ácido potente que adormece la lengua. Es venenoso si se bebe sin tratar, pero puede servir para hacer elixires si se purifica bien."}
+{"key": "text/matlib#ICON3D_MT_SR_ACIDJUICE/nombre", "es": "★Líquido ácido"}
+{"key": "text/matlib#ICON3D_MT_SR_BACTERIUM/descripcion", "es": "Un hongo prohibido que se usa en hechicería y en el reflejo de maldiciones. Su composición está envuelta en misterio."}
+{"key": "text/matlib#ICON3D_MT_SR_BACTERIUM/nombre", "es": "★Moho viscoso"}
+{"key": "text/matlib#ICON3D_MT_SR_BONE/descripcion", "es": "El hueso gigante de una bestia del pasado remoto. Tiene la gran masa y la inmensa fuerza necesarias para soportar el increíble peso del animal."}
+{"key": "text/matlib#ICON3D_MT_SR_BONE/nombre", "es": "★Hueso titánico"}
+{"key": "text/matlib#ICON3D_MT_SR_CLOTH/descripcion", "es": "Tela bordada que usaban las tribus indígenas que vivieron en el Gran Bosque. Tiene muchos usos y es lo bastante resistente para durar en condiciones duras."}
+{"key": "text/matlib#ICON3D_MT_SR_CLOTH/nombre", "es": "★Tela tribal"}
+{"key": "text/matlib#ICON3D_MT_SSR_TAIL/descripcion", "es": "Una cola que evolucionó con forma de hacha de guerra para partir a sus presas en dos. Se puede obtener de los murciélagos que acechan en las cuevas."}
+{"key": "text/matlib#ICON3D_MT_SSR_TAIL/nombre", "es": "★Cola de hacha"}
+{"key": "text/matlib#ICON3D_MT_SSR_HONE/descripcion", "es": "Cuerno de un búfalo feroz. Capaz de destrozar rocas en una embestida a gran velocidad, su fuerza es excepcional y casi sin igual."}
+{"key": "text/matlib#ICON3D_MT_SSR_HONE/nombre", "es": "★Cuerno de búfalo"}
+{"key": "text/matlib#ICON3D_MT_SSR_HAIR/descripcion", "es": "Prueba de haber matado al rey de los monos que habitan el Gran Bosque. Algunos creen que su color proviene de la sangre de sus víctimas."}
+{"key": "text/matlib#ICON3D_MT_SSR_HAIR/nombre", "es": "★Pelo del rey mono"}
+{"key": "text/matlib#ICON3D_MT_SSR_SHELL/descripcion", "es": "Exoesqueleto en forma de casco que protegía la cabeza de un jabalí. Además de su resistencia, su elasticidad le permite reducir el daño de los impactos."}
+{"key": "text/matlib#ICON3D_MT_SSR_SHELL/nombre", "es": "★Exoesqueleto jabalí"}
+{"key": "text/matlib#ICON3D_MT_SSR_BEAK/descripcion", "es": "El pico de un ave capaz de atacar con la fuerza de un martillo. Su peso y su capacidad ofensiva muestran claramente que su dueña evolucionó para combatir."}
+{"key": "text/matlib#ICON3D_MT_SSR_BEAK/nombre", "es": "★Pico martillo"}
+{"key": "text/matlib#ICON3D_MT_SSR_NAIL/descripcion", "es": "Una garra de un monstruo grotesco del Bosque Subterráneo. Es tan afilada que se clava hondo en la carne de sus presas para que no escapen."}
+{"key": "text/matlib#ICON3D_MT_SSR_NAIL/nombre", "es": "★Garra monstruosa"}
+{"key": "text/matlib#ICON3D_MT_SSR_TURTLE/descripcion", "es": "Un caparazón de un monstruo del Bosque de Ceniza. Hecho de una sustancia desconocida, es ligero pero resistente."}
+{"key": "text/matlib#ICON3D_MT_SSR_TURTLE/nombre", "es": "★Caparazón atroz"}
+{"key": "text/matlib#ICON3D_MT_SSR_BEETLE/descripcion", "es": "Cuerno de un escarabajo de lo más profundo de las montañas. Se dice que es incluso más duro que el diamante y que puede perforar fácilmente la tierra helada."}
+{"key": "text/matlib#ICON3D_MT_SSR_BEETLE/nombre", "es": "★Cuerno afilado"}
+{"key": "text/matlib#ICON3D_MT_SSR_DRILL/descripcion", "es": "Un pico afilado y helicoidal. Tiene tanto poder destructivo que puede pulverizar incluso el acero."}
+{"key": "text/matlib#ICON3D_MT_SSR_DRILL/nombre", "es": "★Pico taladro"}
+{"key": "text/matlib#ICON3D_MT_SSR_DARKEDGE/descripcion", "es": "Una hoja oscura que empuñaba un monstruo grotesco, capaz de cortar cualquier cosa. En su interior se almacena el resentimiento de quienes murieron a su filo."}
+{"key": "text/matlib#ICON3D_MT_SSR_DARKEDGE/nombre", "es": "★Hoja maldita"}
+{"key": "text/matlib#GROUP/descripcion~3", "es": "#194IMateriales vegetales"}
+{"key": "text/matlib#ICON3D_MT_WOOD/descripcion", "es": "Madera muy dañada. Inútil en su estado actual, pero se puede cambiar en grandes cantidades por materiales más útiles."}
+{"key": "text/matlib#ICON3D_MT_WOOD/nombre", "es": "★Madera dañada"}
+{"key": "text/matlib#ICON3D_MT_LEAF/descripcion", "es": "Una hoja podrida. Inútil en su estado actual, pero se puede cambiar en grandes cantidades por materiales más útiles."}
+{"key": "text/matlib#ICON3D_MT_LEAF/nombre", "es": "★Hoja podrida"}
+{"key": "text/matlib#ICON3D_MT_FLOWER/descripcion", "es": "Una flor marchita y sin vida. Inútil en su estado actual, pero se puede cambiar en grandes cantidades por materiales más útiles."}
+{"key": "text/matlib#ICON3D_MT_FLOWER/nombre", "es": "★Flor marchita"}
+{"key": "text/matlib#ICON3D_MT_BERRY/descripcion", "es": "Una fruta podrida y descompuesta. Inútil en su estado actual, pero se puede cambiar en grandes cantidades por materiales más útiles."}
+{"key": "text/matlib#ICON3D_MT_BERRY/nombre", "es": "★Fruta podrida"}
+{"key": "text/matlib#ICON3D_MT_R_WOOD/descripcion", "es": "Madera voluminosa y robusta de un árbol sano. Sirve para fabricar objetos fuertes y resistentes."}
+{"key": "text/matlib#ICON3D_MT_R_WOOD/nombre", "es": "★Madera robusta"}
+{"key": "text/matlib#ICON3D_MT_R_MUSHROOM/descripcion", "es": "Un hongo valioso que se dice que crece solo en la oscuridad. Los médicos lo aprecian por su utilidad para preparar medicinas duraderas."}
+{"key": "text/matlib#ICON3D_MT_R_MUSHROOM/nombre", "es": "★Hongo nocturno"}
+{"key": "text/matlib#ICON3D_MT_R_LEAF/descripcion", "es": "Una hoja fresca que ha recibido las bendiciones del Gran Bosque. Se usa en medicinas curativas y suele recolectarse con fines medicinales."}
+{"key": "text/matlib#ICON3D_MT_R_LEAF/nombre", "es": "★Hoja fresca"}
+{"key": "text/matlib#ICON3D_MT_SSR_LEAF/descripcion", "es": "Hoja de uno de los poquísimos árboles espirituales del mundo. Cada hoja contiene un poder notable y se dice que tiene increíbles propiedades curativas."}
+{"key": "text/matlib#ICON3D_MT_SSR_LEAF/nombre", "es": "★Hoja de Roda"}
+{"key": "text/matlib#ICON3D_MT_R_FLOWER/descripcion", "es": "Una flor de un lindo tono rosado que destaca en el bosque frondoso. Está llena de una miel dulce que cura la fatiga al instante."}
+{"key": "text/matlib#ICON3D_MT_R_FLOWER/nombre", "es": "★Flor de marl"}
+{"key": "text/matlib#ICON3D_MT_SR_FLOWER_01/descripcion", "es": "Una flor amarilla, como la luz del sol que se filtra entre los árboles. Sus pétalos tienen un efecto desintoxicante. Muestra su verdadero valor al hervirla y usarla en medicinas."}
+{"key": "text/matlib#ICON3D_MT_SR_FLOWER_01/nombre", "es": "★Flor de yupel"}
+{"key": "text/matlib#ICON3D_MT_SR_FLOWER_02/descripcion", "es": "Una flor celeste que representa la pureza. Se dice que tiene muchas propiedades medicinales y se usa a menudo para hacer elixires."}
+{"key": "text/matlib#ICON3D_MT_SR_FLOWER_02/nombre", "es": "★Flor de libra"}
+{"key": "text/matlib#ICON3D_MT_SSR_FLOWER/descripcion", "es": "Una flor valiosa de la región de Celceta. Posee una vitalidad increíble, lo que la hace un excelente material para crear elixires."}
+{"key": "text/matlib#ICON3D_MT_SSR_FLOWER/nombre", "es": "★Flor celcetana"}
+{"key": "text/matlib#ICON3D_MT_R_BERRY/descripcion", "es": "Una nuez de alto valor nutritivo, muy querida por los animales pequeños. Es común en muchas regiones, pero las nueces de Celceta tienen un sabor profundo si se preparan bien."}
+{"key": "text/matlib#ICON3D_MT_R_BERRY/nombre", "es": "★Nuez de chito"}
+{"key": "text/matlib#ICON3D_MT_SR_BERRY_01/descripcion", "es": "Una fruta de sabor ácido y refrescante. Se dice que otorga las bendiciones de la naturaleza al comerla y es muy querida en toda la región."}
+{"key": "text/matlib#ICON3D_MT_SR_BERRY_01/nombre", "es": "★Fruta de raparo"}
+{"key": "text/matlib#ICON3D_MT_SR_BERRY_02/descripcion", "es": "Una fruta conocida por su sabor dulce, picante y estimulante. Algunos la llaman \"fruta de fuego\" y a muchos les encanta su sabor distintivo."}
+{"key": "text/matlib#ICON3D_MT_SR_BERRY_02/nombre", "es": "★Fruta de arieda"}
+{"key": "text/matlib#ICON3D_MT_SSR_BERRY/descripcion", "es": "Fruta del árbol Roda. Tiene un sabor excepcionalmente dulce y un valor nutritivo incomparable. Se dice que se usa en un elixir legendario."}
+{"key": "text/matlib#ICON3D_MT_SSR_BERRY/nombre", "es": "★Fruta de Roda"}

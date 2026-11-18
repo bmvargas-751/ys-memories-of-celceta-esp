@@ -1,0 +1,396 @@
+{"key": "text/skill#0/nombre", "es": "Deslizamiento sónico"}
+{"key": "text/skill#0/descripcion", "es": "Vuela hacia el enemigo y pasa con un potente tajo."}
+{"key": "text/skill#1/nombre", "es": "Deslizamiento sónico"}
+{"key": "text/skill#1/descripcion", "es": "Vuela hacia el enemigo y pasa con un potente tajo."}
+{"key": "text/skill#2/nombre", "es": "Deslizamiento sónico"}
+{"key": "text/skill#2/descripcion", "es": "Vuela hacia el enemigo y pasa con un potente tajo."}
+{"key": "text/skill#3/nombre", "es": "Filo ascendente"}
+{"key": "text/skill#3/descripcion", "es": "Lanza al enemigo al aire con un tajo de revés."}
+{"key": "text/skill#4/nombre", "es": "Filo ascendente"}
+{"key": "text/skill#4/descripcion", "es": "Lanza al enemigo al aire con un tajo de revés."}
+{"key": "text/skill#5/nombre", "es": "Filo ascendente"}
+{"key": "text/skill#5/descripcion", "es": "Lanza al enemigo al aire con un tajo de revés."}
+{"key": "text/skill#6/nombre", "es": "Onda sónica"}
+{"key": "text/skill#6/descripcion", "es": "Desenvaina a gran velocidad y libera una onda de choque."}
+{"key": "text/skill#7/nombre", "es": "Onda sónica"}
+{"key": "text/skill#7/descripcion", "es": "Desenvaina a gran velocidad y libera una onda de choque."}
+{"key": "text/skill#8/nombre", "es": "Onda sónica"}
+{"key": "text/skill#8/descripcion", "es": "Desenvaina a gran velocidad y libera una onda de choque."}
+{"key": "text/skill#9/nombre", "es": "Estoque vendaval"}
+{"key": "text/skill#9/descripcion", "es": "Estoca hacia delante y libera una onda de choque helicoidal."}
+{"key": "text/skill#10/nombre", "es": "Estoque vendaval"}
+{"key": "text/skill#10/descripcion", "es": "Estoca hacia delante y libera una onda de choque helicoidal."}
+{"key": "text/skill#11/nombre", "es": "Estoque vendaval"}
+{"key": "text/skill#11/descripcion", "es": "Estoca hacia delante y libera una onda de choque helicoidal."}
+{"key": "text/skill#12/nombre", "es": "Tajo circular"}
+{"key": "text/skill#12/descripcion", "es": "Gira la espada y golpea varias veces a los cercanos."}
+{"key": "text/skill#13/nombre", "es": "Tajo circular"}
+{"key": "text/skill#13/descripcion", "es": "Gira la espada y golpea varias veces a los cercanos."}
+{"key": "text/skill#14/nombre", "es": "Tajo circular"}
+{"key": "text/skill#14/descripcion", "es": "Gira la espada y golpea varias veces a los cercanos."}
+{"key": "text/skill#15/nombre", "es": "Asalto aturdidor"}
+{"key": "text/skill#15/descripcion", "es": "Salta y atraviesa al descender. Aturde con facilidad."}
+{"key": "text/skill#16/nombre", "es": "Asalto aturdidor"}
+{"key": "text/skill#16/descripcion", "es": "Salta y atraviesa al descender. Aturde con facilidad."}
+{"key": "text/skill#17/nombre", "es": "Asalto aturdidor"}
+{"key": "text/skill#17/descripcion", "es": "Salta y atraviesa al descender. Aturde con facilidad."}
+{"key": "text/skill#18/nombre", "es": "Tajo ascendente"}
+{"key": "text/skill#18/descripcion", "es": "Lanza al enemigo al aire y lo corta antes de que caiga."}
+{"key": "text/skill#19/nombre", "es": "Tajo ascendente"}
+{"key": "text/skill#19/descripcion", "es": "Lanza al enemigo al aire y lo corta antes de que caiga."}
+{"key": "text/skill#20/nombre", "es": "Tajo ascendente"}
+{"key": "text/skill#20/descripcion", "es": "Lanza al enemigo al aire y lo corta antes de que caiga."}
+{"key": "text/skill#21/nombre", "es": "Impulso aéreo"}
+{"key": "text/skill#21/descripcion", "es": "Ataque giratorio aéreo que libera una onda de choque."}
+{"key": "text/skill#22/nombre", "es": "Impulso aéreo"}
+{"key": "text/skill#22/descripcion", "es": "Ataque giratorio aéreo que libera una onda de choque."}
+{"key": "text/skill#23/nombre", "es": "Impulso aéreo"}
+{"key": "text/skill#23/descripcion", "es": "Ataque giratorio aéreo que libera una onda de choque."}
+{"key": "text/skill#24/nombre", "es": "Explosión de arco"}
+{"key": "text/skill#24/descripcion", "es": "Corta el suelo y lanza enemigos con una onda de choque."}
+{"key": "text/skill#25/nombre", "es": "Explosión de arco"}
+{"key": "text/skill#25/descripcion", "es": "Corta el suelo y lanza enemigos con una onda de choque."}
+{"key": "text/skill#26/nombre", "es": "Explosión de arco"}
+{"key": "text/skill#26/descripcion", "es": "Corta el suelo y lanza enemigos con una onda de choque."}
+{"key": "text/skill#27/nombre", "es": "Ráfaga de filo"}
+{"key": "text/skill#27/descripcion", "es": "Desata una lluvia continua de ataques sobre el enemigo."}
+{"key": "text/skill#28/nombre", "es": "Ráfaga de filo"}
+{"key": "text/skill#28/descripcion", "es": "Desata una lluvia continua de ataques sobre el enemigo."}
+{"key": "text/skill#29/nombre", "es": "Ráfaga de filo"}
+{"key": "text/skill#29/descripcion", "es": "Desata una lluvia continua de ataques sobre el enemigo."}
+{"key": "text/skill#30/nombre", "es": "Aluvión de filo"}
+{"key": "text/skill#30/descripcion", "es": "Baña a los enemigos en tajos y luego los empuja."}
+{"key": "text/skill#31/nombre", "es": "Aluvión de filo"}
+{"key": "text/skill#31/descripcion", "es": "Baña a los enemigos en tajos y luego los empuja."}
+{"key": "text/skill#32/nombre", "es": "Aluvión de filo"}
+{"key": "text/skill#32/descripcion", "es": "Baña a los enemigos en tajos y luego los empuja."}
+{"key": "text/skill#33/nombre", "es": "Esgrimista del aura"}
+{"key": "text/skill#33/descripcion", "es": "Atraviesa a los enemigos de enfrente con un estallido de luz."}
+{"key": "text/skill#34/nombre", "es": "Esgrimista del aura"}
+{"key": "text/skill#34/descripcion", "es": "Atraviesa a los enemigos de enfrente con un estallido de luz."}
+{"key": "text/skill#35/nombre", "es": "Esgrimista del aura"}
+{"key": "text/skill#35/descripcion", "es": "Atraviesa a los enemigos de enfrente con un estallido de luz."}
+{"key": "text/skill#36/nombre", "es": "Rompesol"}
+{"key": "text/skill#36/descripcion", "es": "Habilidad EXTRA."}
+{"key": "text/skill#37/nombre", "es": "Golpe de arco"}
+{"key": "text/skill#37/descripcion", "es": "Habilidad EXTRA."}
+{"key": "text/skill#38/nombre", "es": "Quebrantacaparazones"}
+{"key": "text/skill#38/descripcion", "es": "Gira en el aire y cae aplastando a los enemigos."}
+{"key": "text/skill#39/nombre", "es": "Quebrantacaparazones"}
+{"key": "text/skill#39/descripcion", "es": "Gira en el aire y cae aplastando a los enemigos."}
+{"key": "text/skill#40/nombre", "es": "Quebrantacaparazones"}
+{"key": "text/skill#40/descripcion", "es": "Gira en el aire y cae aplastando a los enemigos."}
+{"key": "text/skill#41/nombre", "es": "Patada de golondrina"}
+{"key": "text/skill#41/descripcion", "es": "Una potente patada que manda a los enemigos hacia arriba."}
+{"key": "text/skill#42/nombre", "es": "Patada de golondrina"}
+{"key": "text/skill#42/descripcion", "es": "Una potente patada que manda a los enemigos hacia arriba."}
+{"key": "text/skill#43/nombre", "es": "Patada de golondrina"}
+{"key": "text/skill#43/descripcion", "es": "Una potente patada que manda a los enemigos hacia arriba."}
+{"key": "text/skill#44/nombre", "es": "Golpe deslizante"}
+{"key": "text/skill#44/descripcion", "es": "Se desliza y daña a los enemigos en línea recta."}
+{"key": "text/skill#45/nombre", "es": "Golpe deslizante"}
+{"key": "text/skill#45/descripcion", "es": "Se desliza y daña a los enemigos en línea recta."}
+{"key": "text/skill#46/nombre", "es": "Golpe deslizante"}
+{"key": "text/skill#46/descripcion", "es": "Se desliza y daña a los enemigos en línea recta."}
+{"key": "text/skill#47/nombre", "es": "Aura caótica"}
+{"key": "text/skill#47/descripcion", "es": "Mientras dura, todo el daño de Duren y contra él es crítico."}
+{"key": "text/skill#48/nombre", "es": "Aura caótica"}
+{"key": "text/skill#48/descripcion", "es": "Mientras dura, todo el daño de Duren y contra él es crítico."}
+{"key": "text/skill#49/nombre", "es": "Aura caótica"}
+{"key": "text/skill#49/descripcion", "es": "Mientras dura, todo el daño de Duren y contra él es crítico."}
+{"key": "text/skill#50/nombre", "es": "Rompemandíbulas"}
+{"key": "text/skill#50/descripcion", "es": "Acumula energía y lanza un potente gancho ascendente."}
+{"key": "text/skill#51/nombre", "es": "Rompemandíbulas"}
+{"key": "text/skill#51/descripcion", "es": "Acumula energía y lanza un potente gancho ascendente."}
+{"key": "text/skill#52/nombre", "es": "Rompemandíbulas"}
+{"key": "text/skill#52/descripcion", "es": "Acumula energía y lanza un potente gancho ascendente."}
+{"key": "text/skill#53/nombre", "es": "Contragolpe letal"}
+{"key": "text/skill#53/descripcion", "es": "Prevé el ataque enemigo y lo aprovecha para dañar mucho."}
+{"key": "text/skill#54/nombre", "es": "Contragolpe letal"}
+{"key": "text/skill#54/descripcion", "es": "Prevé el ataque enemigo y lo aprovecha para dañar mucho."}
+{"key": "text/skill#55/nombre", "es": "Contragolpe letal"}
+{"key": "text/skill#55/descripcion", "es": "Prevé el ataque enemigo y lo aprovecha para dañar mucho."}
+{"key": "text/skill#56/nombre", "es": "Asalto salvaje"}
+{"key": "text/skill#56/descripcion", "es": "Patea hacia delante con toda su fuerza."}
+{"key": "text/skill#57/nombre", "es": "Asalto salvaje"}
+{"key": "text/skill#57/descripcion", "es": "Patea hacia delante con toda su fuerza."}
+{"key": "text/skill#58/nombre", "es": "Asalto salvaje"}
+{"key": "text/skill#58/descripcion", "es": "Patea hacia delante con toda su fuerza."}
+{"key": "text/skill#59/nombre", "es": "Mirada del abismo"}
+{"key": "text/skill#59/descripcion", "es": "Envía una onda de choque por el suelo hacia un enemigo."}
+{"key": "text/skill#60/nombre", "es": "Mirada del abismo"}
+{"key": "text/skill#60/descripcion", "es": "Envía una onda de choque por el suelo hacia un enemigo."}
+{"key": "text/skill#61/nombre", "es": "Mirada del abismo"}
+{"key": "text/skill#61/descripcion", "es": "Envía una onda de choque por el suelo hacia un enemigo."}
+{"key": "text/skill#62/nombre", "es": "Patada de dragón"}
+{"key": "text/skill#62/descripcion", "es": "Manda a volar a los enemigos con una patada de energía."}
+{"key": "text/skill#63/nombre", "es": "Patada de dragón"}
+{"key": "text/skill#63/descripcion", "es": "Manda a volar a los enemigos con una patada de energía."}
+{"key": "text/skill#64/nombre", "es": "Patada de dragón"}
+{"key": "text/skill#64/descripcion", "es": "Manda a volar a los enemigos con una patada de energía."}
+{"key": "text/skill#65/nombre", "es": "Patada de fénix"}
+{"key": "text/skill#65/descripcion", "es": "Patea al enemigo hacia arriba y sigue pateando en el aire."}
+{"key": "text/skill#66/nombre", "es": "Patada de fénix"}
+{"key": "text/skill#66/descripcion", "es": "Patea al enemigo hacia arriba y sigue pateando en el aire."}
+{"key": "text/skill#67/nombre", "es": "Patada de fénix"}
+{"key": "text/skill#67/descripcion", "es": "Patea al enemigo hacia arriba y sigue pateando en el aire."}
+{"key": "text/skill#68/nombre", "es": "Golpe pulverizador"}
+{"key": "text/skill#68/descripcion", "es": "Habilidad EXTRA."}
+{"key": "text/skill#69/nombre", "es": "Impacto detonante"}
+{"key": "text/skill#69/descripcion", "es": "Habilidad EXTRA."}
+{"key": "text/skill#70/nombre", "es": "Cuchillos guiados"}
+{"key": "text/skill#70/descripcion", "es": "Lanza varios cuchillos directamente al objetivo."}
+{"key": "text/skill#71/nombre", "es": "Cuchillos guiados"}
+{"key": "text/skill#71/descripcion", "es": "Lanza varios cuchillos directamente al objetivo."}
+{"key": "text/skill#72/nombre", "es": "Cuchillos guiados"}
+{"key": "text/skill#72/descripcion", "es": "Lanza varios cuchillos directamente al objetivo."}
+{"key": "text/skill#73/nombre", "es": "Daga envenenada"}
+{"key": "text/skill#73/descripcion", "es": "Lanza una daga con veneno a un enemigo. Causa Veneno."}
+{"key": "text/skill#74/nombre", "es": "Daga envenenada"}
+{"key": "text/skill#74/descripcion", "es": "Lanza una daga con veneno a un enemigo. Causa Veneno."}
+{"key": "text/skill#75/nombre", "es": "Daga envenenada"}
+{"key": "text/skill#75/descripcion", "es": "Lanza una daga con veneno a un enemigo. Causa Veneno."}
+{"key": "text/skill#76/nombre", "es": "Giro de cuchillos"}
+{"key": "text/skill#76/descripcion", "es": "Lanza cuchillos que giran sin control y dañan un área."}
+{"key": "text/skill#77/nombre", "es": "Giro de cuchillos"}
+{"key": "text/skill#77/descripcion", "es": "Lanza cuchillos que giran sin control y dañan un área."}
+{"key": "text/skill#78/nombre", "es": "Giro de cuchillos"}
+{"key": "text/skill#78/descripcion", "es": "Lanza cuchillos que giran sin control y dañan un área."}
+{"key": "text/skill#79/nombre", "es": "Filo del viento"}
+{"key": "text/skill#79/descripcion", "es": "Lanza un cuchillo envuelto en viento que empuja a enemigos."}
+{"key": "text/skill#80/nombre", "es": "Filo del viento"}
+{"key": "text/skill#80/descripcion", "es": "Lanza un cuchillo envuelto en viento que empuja a enemigos."}
+{"key": "text/skill#81/nombre", "es": "Filo del viento"}
+{"key": "text/skill#81/descripcion", "es": "Lanza un cuchillo envuelto en viento que empuja a enemigos."}
+{"key": "text/skill#82/nombre", "es": "Chispa de choque"}
+{"key": "text/skill#82/descripcion", "es": "Crea rayos en el aire con cuchillos. Puede paralizar."}
+{"key": "text/skill#83/nombre", "es": "Chispa de choque"}
+{"key": "text/skill#83/descripcion", "es": "Crea rayos en el aire con cuchillos. Puede paralizar."}
+{"key": "text/skill#84/nombre", "es": "Chispa de choque"}
+{"key": "text/skill#84/descripcion", "es": "Crea rayos en el aire con cuchillos. Puede paralizar."}
+{"key": "text/skill#85/nombre", "es": "Giro del mistral"}
+{"key": "text/skill#85/descripcion", "es": "Gira y crea un tornado que lanza a los enemigos hacia arriba."}
+{"key": "text/skill#86/nombre", "es": "Giro del mistral"}
+{"key": "text/skill#86/descripcion", "es": "Gira y crea un tornado que lanza a los enemigos hacia arriba."}
+{"key": "text/skill#87/nombre", "es": "Giro del mistral"}
+{"key": "text/skill#87/descripcion", "es": "Gira y crea un tornado que lanza a los enemigos hacia arriba."}
+{"key": "text/skill#88/nombre", "es": "Filo del ciclón"}
+{"key": "text/skill#88/descripcion", "es": "Lanza un cuchillo tornado que empuja a los enemigos."}
+{"key": "text/skill#89/nombre", "es": "Filo del ciclón"}
+{"key": "text/skill#89/descripcion", "es": "Lanza un cuchillo tornado que empuja a los enemigos."}
+{"key": "text/skill#90/nombre", "es": "Filo del ciclón"}
+{"key": "text/skill#90/descripcion", "es": "Lanza un cuchillo tornado que empuja a los enemigos."}
+{"key": "text/skill#91/nombre", "es": "Tornado explosivo"}
+{"key": "text/skill#91/descripcion", "es": "Clava cuchillos que estallan bajo los enemigos."}
+{"key": "text/skill#92/nombre", "es": "Tornado explosivo"}
+{"key": "text/skill#92/descripcion", "es": "Clava cuchillos que estallan bajo los enemigos."}
+{"key": "text/skill#93/nombre", "es": "Tornado explosivo"}
+{"key": "text/skill#93/descripcion", "es": "Clava cuchillos que estallan bajo los enemigos."}
+{"key": "text/skill#94/nombre", "es": "Disparo de napalm"}
+{"key": "text/skill#94/descripcion", "es": "Lanza cuchillos llenos de pólvora y causa una gran explosión."}
+{"key": "text/skill#95/nombre", "es": "Disparo de napalm"}
+{"key": "text/skill#95/descripcion", "es": "Lanza cuchillos llenos de pólvora y causa una gran explosión."}
+{"key": "text/skill#96/nombre", "es": "Disparo de napalm"}
+{"key": "text/skill#96/descripcion", "es": "Lanza cuchillos llenos de pólvora y causa una gran explosión."}
+{"key": "text/skill#97/nombre", "es": "Púa caleidoscópica"}
+{"key": "text/skill#97/descripcion", "es": "Lanza incontables cuchillos y luego embiste con fuerza."}
+{"key": "text/skill#98/nombre", "es": "Púa caleidoscópica"}
+{"key": "text/skill#98/descripcion", "es": "Lanza incontables cuchillos y luego embiste con fuerza."}
+{"key": "text/skill#99/nombre", "es": "Púa caleidoscópica"}
+{"key": "text/skill#99/descripcion", "es": "Lanza incontables cuchillos y luego embiste con fuerza."}
+{"key": "text/skill#100/nombre", "es": "Tempestad feroz"}
+{"key": "text/skill#100/descripcion", "es": "Hace llover incontables flechas sobre los enemigos."}
+{"key": "text/skill#101/nombre", "es": "Último recurso"}
+{"key": "text/skill#101/descripcion", "es": "Hace llover incontables flechas sobre los enemigos."}
+{"key": "text/skill#102/nombre", "es": "Lanza de riscos"}
+{"key": "text/skill#102/descripcion", "es": "Lanza a los enemigos hacia arriba con un pilar de tierra."}
+{"key": "text/skill#103/nombre", "es": "Lanza de riscos"}
+{"key": "text/skill#103/descripcion", "es": "Lanza a los enemigos hacia arriba con un pilar de tierra."}
+{"key": "text/skill#104/nombre", "es": "Lanza de riscos"}
+{"key": "text/skill#104/descripcion", "es": "Lanza a los enemigos hacia arriba con un pilar de tierra."}
+{"key": "text/skill#105/nombre", "es": "Torbellino"}
+{"key": "text/skill#105/descripcion", "es": "Gira la lanza a gran velocidad y lanza a los enemigos al aire."}
+{"key": "text/skill#106/nombre", "es": "Torbellino"}
+{"key": "text/skill#106/descripcion", "es": "Gira la lanza a gran velocidad y lanza a los enemigos al aire."}
+{"key": "text/skill#107/nombre", "es": "Torbellino"}
+{"key": "text/skill#107/descripcion", "es": "Gira la lanza a gran velocidad y lanza a los enemigos al aire."}
+{"key": "text/skill#108/nombre", "es": "Presión acuática"}
+{"key": "text/skill#108/descripcion", "es": "Ataca con una corriente violenta y causa Pesadez."}
+{"key": "text/skill#109/nombre", "es": "Presión acuática"}
+{"key": "text/skill#109/descripcion", "es": "Ataca con una corriente violenta y causa Pesadez."}
+{"key": "text/skill#110/nombre", "es": "Presión acuática"}
+{"key": "text/skill#110/descripcion", "es": "Ataca con una corriente violenta y causa Pesadez."}
+{"key": "text/skill#111/nombre", "es": "Muro de Gaia"}
+{"key": "text/skill#111/descripcion", "es": "Invoca el poder de la tierra para subir la DEF del grupo."}
+{"key": "text/skill#112/nombre", "es": "Muro de Gaia"}
+{"key": "text/skill#112/descripcion", "es": "Invoca el poder de la tierra para subir la DEF del grupo."}
+{"key": "text/skill#113/nombre", "es": "Muro de Gaia"}
+{"key": "text/skill#113/descripcion", "es": "Invoca el poder de la tierra para subir la DEF del grupo."}
+{"key": "text/skill#114/nombre", "es": "Destello de tigre"}
+{"key": "text/skill#114/descripcion", "es": "Lanza una única estocada concentrada hacia delante."}
+{"key": "text/skill#115/nombre", "es": "Destello de tigre"}
+{"key": "text/skill#115/descripcion", "es": "Lanza una única estocada concentrada hacia delante."}
+{"key": "text/skill#116/nombre", "es": "Destello de tigre"}
+{"key": "text/skill#116/descripcion", "es": "Lanza una única estocada concentrada hacia delante."}
+{"key": "text/skill#117/nombre", "es": "Picada de halcón"}
+{"key": "text/skill#117/descripcion", "es": "Salta al aire y se lanza hacia delante a gran velocidad."}
+{"key": "text/skill#118/nombre", "es": "Picada de halcón"}
+{"key": "text/skill#118/descripcion", "es": "Salta al aire y se lanza hacia delante a gran velocidad."}
+{"key": "text/skill#119/nombre", "es": "Picada de halcón"}
+{"key": "text/skill#119/descripcion", "es": "Salta al aire y se lanza hacia delante a gran velocidad."}
+{"key": "text/skill#120/nombre", "es": "Prisión de agua"}
+{"key": "text/skill#120/descripcion", "es": "Crea una esfera de agua que golpea varias veces."}
+{"key": "text/skill#121/nombre", "es": "Prisión de agua"}
+{"key": "text/skill#121/descripcion", "es": "Crea una esfera de agua que golpea varias veces."}
+{"key": "text/skill#122/nombre", "es": "Prisión de agua"}
+{"key": "text/skill#122/descripcion", "es": "Crea una esfera de agua que golpea varias veces."}
+{"key": "text/skill#123/nombre", "es": "Ascenso de marea"}
+{"key": "text/skill#123/descripcion", "es": "Avanza y lanza a los enemigos hacia arriba con una corriente."}
+{"key": "text/skill#124/nombre", "es": "Ascenso de marea"}
+{"key": "text/skill#124/descripcion", "es": "Avanza y lanza a los enemigos hacia arriba con una corriente."}
+{"key": "text/skill#125/nombre", "es": "Ascenso de marea"}
+{"key": "text/skill#125/descripcion", "es": "Avanza y lanza a los enemigos hacia arriba con una corriente."}
+{"key": "text/skill#126/nombre", "es": "Estallido de riscos"}
+{"key": "text/skill#126/descripcion", "es": "Atraviesa el suelo y crea pilares de tierra en un área amplia."}
+{"key": "text/skill#127/nombre", "es": "Estallido de riscos"}
+{"key": "text/skill#127/descripcion", "es": "Atraviesa el suelo y crea pilares de tierra en un área amplia."}
+{"key": "text/skill#128/nombre", "es": "Estallido de riscos"}
+{"key": "text/skill#128/descripcion", "es": "Atraviesa el suelo y crea pilares de tierra en un área amplia."}
+{"key": "text/skill#129/nombre", "es": "Lanza de Gaia"}
+{"key": "text/skill#129/descripcion", "es": "Domina a los enemigos con una serie de potentes ataques."}
+{"key": "text/skill#130/nombre", "es": "Lanza de Gaia"}
+{"key": "text/skill#130/descripcion", "es": "Domina a los enemigos con una serie de potentes ataques."}
+{"key": "text/skill#131/nombre", "es": "Lanza de Gaia"}
+{"key": "text/skill#131/descripcion", "es": "Domina a los enemigos con una serie de potentes ataques."}
+{"key": "text/skill#132/nombre", "es": "Asalto implacable"}
+{"key": "text/skill#132/descripcion", "es": "Habilidad EXTRA."}
+{"key": "text/skill#133/nombre", "es": "Vorágine divina"}
+{"key": "text/skill#133/descripcion", "es": "Habilidad EXTRA."}
+{"key": "text/skill#134/nombre", "es": "Esfera gravitatoria"}
+{"key": "text/skill#134/descripcion", "es": "Crea un campo que atrae y daña a los enemigos."}
+{"key": "text/skill#135/nombre", "es": "Esfera gravitatoria"}
+{"key": "text/skill#135/descripcion", "es": "Crea un campo que atrae y daña a los enemigos."}
+{"key": "text/skill#136/nombre", "es": "Esfera gravitatoria"}
+{"key": "text/skill#136/descripcion", "es": "Crea un campo que atrae y daña a los enemigos."}
+{"key": "text/skill#137/nombre", "es": "Impacto doble"}
+{"key": "text/skill#137/descripcion", "es": "Lanza a los enemigos hacia arriba y los estrella abajo."}
+{"key": "text/skill#138/nombre", "es": "Impacto doble"}
+{"key": "text/skill#138/descripcion", "es": "Lanza a los enemigos hacia arriba y los estrella abajo."}
+{"key": "text/skill#139/nombre", "es": "Impacto doble"}
+{"key": "text/skill#139/descripcion", "es": "Lanza a los enemigos hacia arriba y los estrella abajo."}
+{"key": "text/skill#140/nombre", "es": "Esferas del trueno"}
+{"key": "text/skill#140/descripcion", "es": "Invoca artefactos autónomos como apoyo en combate."}
+{"key": "text/skill#141/nombre", "es": "Esferas del trueno"}
+{"key": "text/skill#141/descripcion", "es": "Invoca artefactos autónomos como apoyo en combate."}
+{"key": "text/skill#142/nombre", "es": "Esferas del trueno"}
+{"key": "text/skill#142/descripcion", "es": "Invoca artefactos autónomos como apoyo en combate."}
+{"key": "text/skill#143/nombre", "es": "Lanzador mágico"}
+{"key": "text/skill#143/descripcion", "es": "Lanza la punta de la maza y daña a enemigos lejanos."}
+{"key": "text/skill#144/nombre", "es": "Lanzador mágico"}
+{"key": "text/skill#144/descripcion", "es": "Lanza la punta de la maza y daña a enemigos lejanos."}
+{"key": "text/skill#145/nombre", "es": "Lanzador mágico"}
+{"key": "text/skill#145/descripcion", "es": "Lanza la punta de la maza y daña a enemigos lejanos."}
+{"key": "text/skill#146/nombre", "es": "Golpe potente"}
+{"key": "text/skill#146/descripcion", "es": "Blande la maza y usa su magia para dañar más."}
+{"key": "text/skill#147/nombre", "es": "Golpe potente"}
+{"key": "text/skill#147/descripcion", "es": "Blande la maza y usa su magia para dañar más."}
+{"key": "text/skill#148/nombre", "es": "Golpe potente"}
+{"key": "text/skill#148/descripcion", "es": "Blande la maza y usa su magia para dañar más."}
+{"key": "text/skill#149/nombre", "es": "Cazarrayos"}
+{"key": "text/skill#149/descripcion", "es": "Libera magia de rayos que rebota entre los enemigos."}
+{"key": "text/skill#150/nombre", "es": "Cazarrayos"}
+{"key": "text/skill#150/descripcion", "es": "Libera magia de rayos que rebota entre los enemigos."}
+{"key": "text/skill#151/nombre", "es": "Cazarrayos"}
+{"key": "text/skill#151/descripcion", "es": "Libera magia de rayos que rebota entre los enemigos."}
+{"key": "text/skill#152/nombre", "es": "Fiebre del oro"}
+{"key": "text/skill#152/descripcion", "es": "Golpea con una maza enorme y revela monedas ocultas."}
+{"key": "text/skill#153/nombre", "es": "Fiebre del oro"}
+{"key": "text/skill#153/descripcion", "es": "Golpea con una maza enorme y revela monedas ocultas."}
+{"key": "text/skill#154/nombre", "es": "Fiebre del oro"}
+{"key": "text/skill#154/descripcion", "es": "Golpea con una maza enorme y revela monedas ocultas."}
+{"key": "text/skill#155/nombre", "es": "Impacto aturdidor"}
+{"key": "text/skill#155/descripcion", "es": "Golpea la tierra e invoca rayos. Aturde con facilidad."}
+{"key": "text/skill#156/nombre", "es": "Impacto aturdidor"}
+{"key": "text/skill#156/descripcion", "es": "Golpea la tierra e invoca rayos. Aturde con facilidad."}
+{"key": "text/skill#157/nombre", "es": "Impacto aturdidor"}
+{"key": "text/skill#157/descripcion", "es": "Golpea la tierra e invoca rayos. Aturde con facilidad."}
+{"key": "text/skill#158/nombre", "es": "Martillo gigante"}
+{"key": "text/skill#158/descripcion", "es": "Agranda la maza y descarga su inmenso peso hacia abajo."}
+{"key": "text/skill#159/nombre", "es": "Martillo gigante"}
+{"key": "text/skill#159/descripcion", "es": "Agranda la maza y descarga su inmenso peso hacia abajo."}
+{"key": "text/skill#160/nombre", "es": "Martillo gigante"}
+{"key": "text/skill#160/descripcion", "es": "Agranda la maza y descarga su inmenso peso hacia abajo."}
+{"key": "text/skill#161/nombre", "es": "Triple rompedor"}
+{"key": "text/skill#161/descripcion", "es": "Tres potentes golpes de maza seguidos de un rayo explosivo."}
+{"key": "text/skill#162/nombre", "es": "Triple rompedor"}
+{"key": "text/skill#162/descripcion", "es": "Tres potentes golpes de maza seguidos de un rayo explosivo."}
+{"key": "text/skill#163/nombre", "es": "Triple rompedor"}
+{"key": "text/skill#163/descripcion", "es": "Tres potentes golpes de maza seguidos de un rayo explosivo."}
+{"key": "text/skill#164/nombre", "es": "Golpe de trueno"}
+{"key": "text/skill#164/descripcion", "es": "Habilidad EXTRA."}
+{"key": "text/skill#165/nombre", "es": "Purgatorio"}
+{"key": "text/skill#165/descripcion", "es": "Habilidad EXTRA."}
+{"key": "text/skill#166/nombre", "es": "Giro huracanado"}
+{"key": "text/skill#166/descripcion", "es": "Gira la alabarda apuntando a los pies de los enemigos."}
+{"key": "text/skill#167/nombre", "es": "Giro huracanado"}
+{"key": "text/skill#167/descripcion", "es": "Gira la alabarda apuntando a los pies de los enemigos."}
+{"key": "text/skill#168/nombre", "es": "Giro huracanado"}
+{"key": "text/skill#168/descripcion", "es": "Gira la alabarda apuntando a los pies de los enemigos."}
+{"key": "text/skill#169/nombre", "es": "Pilar de hielo"}
+{"key": "text/skill#169/descripcion", "es": "Invoca un pilar de hielo que lanza a un enemigo al aire."}
+{"key": "text/skill#170/nombre", "es": "Pilar de hielo"}
+{"key": "text/skill#170/descripcion", "es": "Invoca un pilar de hielo que lanza a un enemigo al aire."}
+{"key": "text/skill#171/nombre", "es": "Pilar de hielo"}
+{"key": "text/skill#171/descripcion", "es": "Invoca un pilar de hielo que lanza a un enemigo al aire."}
+{"key": "text/skill#172/nombre", "es": "Golpe de hada"}
+{"key": "text/skill#172/descripcion", "es": "Invoca a Nina para arrebatar un objeto a un enemigo."}
+{"key": "text/skill#173/nombre", "es": "Golpe de hada"}
+{"key": "text/skill#173/descripcion", "es": "Invoca a Nina para arrebatar un objeto a un enemigo."}
+{"key": "text/skill#174/nombre", "es": "Golpe de hada"}
+{"key": "text/skill#174/descripcion", "es": "Invoca a Nina para arrebatar un objeto a un enemigo."}
+{"key": "text/skill#175/nombre", "es": "Filo demoníaco"}
+{"key": "text/skill#175/descripcion", "es": "Usa el espíritu de lucha para subir la FUE del grupo."}
+{"key": "text/skill#176/nombre", "es": "Filo demoníaco"}
+{"key": "text/skill#176/descripcion", "es": "Usa el espíritu de lucha para subir la FUE del grupo."}
+{"key": "text/skill#177/nombre", "es": "Filo demoníaco"}
+{"key": "text/skill#177/descripcion", "es": "Usa el espíritu de lucha para subir la FUE del grupo."}
+{"key": "text/skill#178/nombre", "es": "Vórtice demoníaco"}
+{"key": "text/skill#178/descripcion", "es": "Crea un vórtice que atrae a enemigos y los golpea."}
+{"key": "text/skill#179/nombre", "es": "Vórtice demoníaco"}
+{"key": "text/skill#179/descripcion", "es": "Crea un vórtice que atrae a enemigos y los golpea."}
+{"key": "text/skill#180/nombre", "es": "Vórtice demoníaco"}
+{"key": "text/skill#180/descripcion", "es": "Crea un vórtice que atrae a enemigos y los golpea."}
+{"key": "text/skill#181/nombre", "es": "Caída de hielo"}
+{"key": "text/skill#181/descripcion", "es": "Ataca con un bloque de hielo que cae. Causa Congelación."}
+{"key": "text/skill#182/nombre", "es": "Caída de hielo"}
+{"key": "text/skill#182/descripcion", "es": "Ataca con un bloque de hielo que cae. Causa Congelación."}
+{"key": "text/skill#183/nombre", "es": "Caída de hielo"}
+{"key": "text/skill#183/descripcion", "es": "Ataca con un bloque de hielo que cae. Causa Congelación."}
+{"key": "text/skill#184/nombre", "es": "Luna fosfórica"}
+{"key": "text/skill#184/descripcion", "es": "Se acerca al enemigo, lo atraviesa y lo lanza hacia arriba."}
+{"key": "text/skill#185/nombre", "es": "Luna fosfórica"}
+{"key": "text/skill#185/descripcion", "es": "Se acerca al enemigo, lo atraviesa y lo lanza hacia arriba."}
+{"key": "text/skill#186/nombre", "es": "Luna fosfórica"}
+{"key": "text/skill#186/descripcion", "es": "Se acerca al enemigo, lo atraviesa y lo lanza hacia arriba."}
+{"key": "text/skill#187/nombre", "es": "Jabalina de hielo"}
+{"key": "text/skill#187/descripcion", "es": "Dispara una lluvia continua de pilares de hielo desde arriba."}
+{"key": "text/skill#188/nombre", "es": "Jabalina de hielo"}
+{"key": "text/skill#188/descripcion", "es": "Dispara una lluvia continua de pilares de hielo desde arriba."}
+{"key": "text/skill#189/nombre", "es": "Jabalina de hielo"}
+{"key": "text/skill#189/descripcion", "es": "Dispara una lluvia continua de pilares de hielo desde arriba."}
+{"key": "text/skill#190/nombre", "es": "Impulso de Cocito"}
+{"key": "text/skill#190/descripcion", "es": "Crea una línea de pilares de hielo que lanza enemigos al aire."}
+{"key": "text/skill#191/nombre", "es": "Impulso de Cocito"}
+{"key": "text/skill#191/descripcion", "es": "Crea una línea de pilares de hielo que lanza enemigos al aire."}
+{"key": "text/skill#192/nombre", "es": "Impulso de Cocito"}
+{"key": "text/skill#192/descripcion", "es": "Crea una línea de pilares de hielo que lanza enemigos al aire."}
+{"key": "text/skill#193/nombre", "es": "Danza destructora"}
+{"key": "text/skill#193/descripcion", "es": "Blande la alabarda sin parar y lanza enemigos al aire."}
+{"key": "text/skill#194/nombre", "es": "Danza destructora"}
+{"key": "text/skill#194/descripcion", "es": "Blande la alabarda sin parar y lanza enemigos al aire."}
+{"key": "text/skill#195/nombre", "es": "Danza destructora"}
+{"key": "text/skill#195/descripcion", "es": "Blande la alabarda sin parar y lanza enemigos al aire."}
+{"key": "text/skill#196/nombre", "es": "Prisión helada"}
+{"key": "text/skill#196/descripcion", "es": "Habilidad EXTRA."}
+{"key": "text/skill#197/nombre", "es": "Asalto mariposa"}
+{"key": "text/skill#197/descripcion", "es": "Habilidad EXTRA."}

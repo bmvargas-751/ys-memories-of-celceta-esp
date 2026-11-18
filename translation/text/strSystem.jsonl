@@ -316,7 +316,7 @@
 {"key": "text/strSystem#STR_HELP_FILE_RETRY", "es": "Reintenta desde el último monolito tocado."}
 {"key": "text/strSystem#STR_HELP_FILE_TITLE", "es": "Vuelve al menú de título."}
 {"key": "text/strSystem#STR_HELP_TOPIC_MONS", "es": "Info de enemigos"}
-{"key": "text/strSystem#STR_HELP_TOPIC_COMPOSITE", "es": "Info de síntesis"}
+{"key": "text/strSystem#STR_HELP_TOPIC_COMPOSITE", "es": "Info de objetos de síntesis"}
 {"key": "text/strSystem#STR_HELP_TOPIC_QUEST", "es": "Info de misiones"}
 {"key": "text/strSystem#STR_HELP_TOPIC_HELP", "es": "Mensajes de ayuda"}
 {"key": "text/strSystem#STR_HELP_EQUIP_VIEW", "es": "Modo de vista"}

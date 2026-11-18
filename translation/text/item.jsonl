@@ -30,7 +30,7 @@
 {"key": "text/item#10/descripcion", "es": "Espada sagrada que se ha usado en incontables batallas."}
 {"key": "text/item#11/nombre", "es": "Espada Ajax"}
 {"key": "text/item#11/efecto", "es": "FUE 266"}
-{"key": "text/item#11/descripcion", "es": "Recreada con mineral raro. Puede cortar cualquier cosa."}
+{"key": "text/item#11/descripcion", "es": "Recreada con mena rara. Puede cortar cualquier cosa."}
 {"key": "text/item#12/nombre", "es": "Espada ardiente fabulosa"}
 {"key": "text/item#12/efecto", "es": "FUE 73 / Quemadura 30%"}
 {"key": "text/item#12/descripcion", "es": "Forjada en Selray. Tan caliente que quema a quien la usa."}
@@ -38,4 +38,797 @@
 {"key": "text/item#13/efecto", "es": "FUE 74 / Quemadura 30%"}
 {"key": "text/item#13/descripcion", "es": "Refinada en Selray. Hace arder en llamas a los enemigos."}
 {"key": "text/item#21/nombre", "es": "Manopla"}
+{"key": "text/item#21/efecto", "es": "FUE 8"}
+{"key": "text/item#21/descripcion", "es": "Cubre el puño con latón para aumentar la fuerza."}
+{"key": "text/item#22/nombre", "es": "Guantelete de acero"}
+{"key": "text/item#22/efecto", "es": "FUE 26"}
+{"key": "text/item#22/descripcion", "es": "Guantelete de acero para el combate cuerpo a cuerpo."}
+{"key": "text/item#23/nombre", "es": "Cabeza de águila"}
+{"key": "text/item#23/efecto", "es": "FUE 41 / Veneno 5%"}
+{"key": "text/item#23/descripcion", "es": "Parece una cabeza de águila. Causa daño concentrado."}
+{"key": "text/item#24/nombre", "es": "Aleta de tiburón"}
+{"key": "text/item#24/efecto", "es": "FUE 46 / Parálisis 5%"}
+{"key": "text/item#24/descripcion", "es": "Imita garras de bestias sagradas. Para enemigos acuáticos."}
+{"key": "text/item#25/nombre", "es": "Cabeza de águila DX"}
+{"key": "text/item#25/efecto", "es": "FUE 59 / Veneno 5%"}
+{"key": "text/item#25/descripcion", "es": "Modificado para combatir bestias del Gran Bosque."}
+{"key": "text/item#26/nombre", "es": "Aleta de tiburón DX"}
+{"key": "text/item#26/efecto", "es": "FUE 63 / Parálisis 5%"}
+{"key": "text/item#26/descripcion", "es": "Imita las garras de un sparda. Duro y afilado."}
+{"key": "text/item#27/nombre", "es": "Guantelete pesado"}
+{"key": "text/item#27/efecto", "es": "FUE 95"}
+{"key": "text/item#27/descripcion", "es": "Guantelete de acero extremadamente sólido y destructivo."}
+{"key": "text/item#28/nombre", "es": "Garra de Belial"}
+{"key": "text/item#28/efecto", "es": "FUE 142"}
+{"key": "text/item#28/descripcion", "es": "Guantelete mortal y ligero, ideado para el espionaje."}
+{"key": "text/item#29/nombre", "es": "Guante sagrado"}
+{"key": "text/item#29/efecto", "es": "FUE 187"}
+{"key": "text/item#29/descripcion", "es": "Antiguo guante celcetano que venció a un gran mal."}
+{"key": "text/item#30/nombre", "es": "Purgatorio"}
+{"key": "text/item#30/efecto", "es": "FUE 227"}
+{"key": "text/item#30/descripcion", "es": "Imita a un dragón purgatorial. Inmensamente poderoso."}
+{"key": "text/item#31/nombre", "es": "Guantelete de Baldr"}
+{"key": "text/item#31/efecto", "es": "FUE 248"}
+{"key": "text/item#31/descripcion", "es": "Recreado con mena rara. Cambia el rumbo de la batalla."}
+{"key": "text/item#32/nombre", "es": "Guantelete tóxico soberbio"}
+{"key": "text/item#32/efecto", "es": "FUE 76 / Veneno 30%"}
+{"key": "text/item#32/descripcion", "es": "Forjado en Selray. Su liberador de veneno es defectuoso."}
+{"key": "text/item#33/nombre", "es": "Puño venenoso"}
+{"key": "text/item#33/efecto", "es": "FUE 77 / Veneno 30%"}
+{"key": "text/item#33/descripcion", "es": "Refinado en Selray. Sus garras afiladas portan veneno mortal."}
+{"key": "text/item#41/nombre", "es": "Colmillos de lanza"}
+{"key": "text/item#41/efecto", "es": "FUE 46"}
+{"key": "text/item#41/descripcion", "es": "Cuchillos romunos para los huecos de las armaduras."}
+{"key": "text/item#42/nombre", "es": "Cuchillos de cazador"}
+{"key": "text/item#42/efecto", "es": "FUE 43 / Veneno 5%"}
+{"key": "text/item#42/descripcion", "es": "Cuchillos arrojadizos ligeros para cazar en el bosque."}
+{"key": "text/item#43/nombre", "es": "Cuchillos de cazador DX"}
+{"key": "text/item#43/efecto", "es": "FUE 57 / Veneno 5%"}
+{"key": "text/item#43/descripcion", "es": "Cuchillos con más peso, usados por cazadores veteranos."}
+{"key": "text/item#44/nombre", "es": "Cuchillos de pluma"}
+{"key": "text/item#44/efecto", "es": "FUE 92"}
+{"key": "text/item#44/descripcion", "es": "Cuchillos arrojadizos ligeros pero resistentes."}
+{"key": "text/item#45/nombre", "es": "Devorasombras"}
+{"key": "text/item#45/efecto", "es": "FUE 138"}
+{"key": "text/item#45/descripcion", "es": "Cuchillos negro azabache. Se usan para cazar de noche."}
+{"key": "text/item#46/nombre", "es": "Cuchillos sagrados"}
+{"key": "text/item#46/efecto", "es": "FUE 181"}
+{"key": "text/item#46/descripcion", "es": "Cuchillos sagrados que purifican todo lo que perforan."}
+{"key": "text/item#47/nombre", "es": "Juicio"}
+{"key": "text/item#47/efecto", "es": "FUE 220"}
+{"key": "text/item#47/descripcion", "es": "Cuchillos que hacen caer el juicio sobre los malvados."}
+{"key": "text/item#48/nombre", "es": "Cuchillos de Venus"}
+{"key": "text/item#48/efecto", "es": "FUE 240"}
+{"key": "text/item#48/descripcion", "es": "Recreados con mena rara. Hojas que perforan el mal."}
+{"key": "text/item#49/nombre", "es": "Cuchillos viscosos increíbles"}
+{"key": "text/item#49/efecto", "es": "FUE 105 / Pesadez 30%"}
+{"key": "text/item#49/descripcion", "es": "Forjados en Selray. La telaraña interior tiende a enredarse."}
+{"key": "text/item#50/nombre", "es": "Filo de araña"}
+{"key": "text/item#50/efecto", "es": "FUE 106 / Pesadez 30%"}
+{"key": "text/item#50/descripcion", "es": "Refinado en Selray. Enreda a los enemigos con hilo fino."}
+{"key": "text/item#61/nombre", "es": "Lanza larga"}
+{"key": "text/item#61/efecto", "es": "FUE 58"}
+{"key": "text/item#61/descripcion", "es": "Lanza de acero del Ejército Romuno. Pesada pero poderosa."}
+{"key": "text/item#62/nombre", "es": "Dolor azur"}
+{"key": "text/item#62/efecto", "es": "FUE 55 / Parálisis 5%"}
+{"key": "text/item#62/descripcion", "es": "Lanza favorita de los pescadores de Selray. Ideal en el agua."}
+{"key": "text/item#63/nombre", "es": "Dolor azur DX"}
+{"key": "text/item#63/efecto", "es": "FUE 74 / Parálisis 5%"}
+{"key": "text/item#63/descripcion", "es": "Modificada para combatir monstruos que estorban la pesca."}
+{"key": "text/item#64/nombre", "es": "Tridente"}
+{"key": "text/item#64/efecto", "es": "FUE 112"}
+{"key": "text/item#64/descripcion", "es": "Basado en la lanza de un dios de tierras lejanas."}
+{"key": "text/item#65/nombre", "es": "Pica de calamidad"}
+{"key": "text/item#65/efecto", "es": "FUE 167"}
+{"key": "text/item#65/descripcion", "es": "Lanza negra capaz de asestar impactos poderosos."}
+{"key": "text/item#66/nombre", "es": "Lanza del Grial"}
+{"key": "text/item#66/efecto", "es": "FUE 220"}
+{"key": "text/item#66/descripcion", "es": "Antigua lanza bendecida por las bestias sagradas."}
+{"key": "text/item#67/nombre", "es": "Ragnarok"}
+{"key": "text/item#67/efecto", "es": "FUE 267"}
+{"key": "text/item#67/descripcion", "es": "Contiene las almas de incontables guerreros caídos."}
+{"key": "text/item#68/nombre", "es": "Lanza de Júpiter"}
+{"key": "text/item#68/efecto", "es": "FUE 291"}
+{"key": "text/item#68/descripcion", "es": "Recreada con mena rara. Su poder lo domina todo."}
+{"key": "text/item#69/nombre", "es": "Lanza del trueno temible"}
+{"key": "text/item#69/efecto", "es": "FUE 120 / Parálisis 30%"}
+{"key": "text/item#69/descripcion", "es": "Forjada en Selray. No controla el rayo que lleva dentro."}
+{"key": "text/item#70/nombre", "es": "Lanza relámpago"}
+{"key": "text/item#70/efecto", "es": "FUE 121 / Parálisis 30%"}
+{"key": "text/item#70/descripcion", "es": "Refinada en Selray. Contiene el poder del rayo."}
+{"key": "text/item#81/nombre", "es": "Maza dorada"}
+{"key": "text/item#81/efecto", "es": "FUE 108"}
+{"key": "text/item#81/descripcion", "es": "Maza color oro. Daña a los enemigos con su peso."}
+{"key": "text/item#82/nombre", "es": "Maza prisma"}
+{"key": "text/item#82/efecto", "es": "FUE 99"}
+{"key": "text/item#82/descripcion", "es": "La usan los apóstoles. Se ve fluir la magia en su interior."}
+{"key": "text/item#83/nombre", "es": "Maza demoníaca"}
+{"key": "text/item#83/efecto", "es": "FUE 148"}
+{"key": "text/item#83/descripcion", "es": "Imbuida de magia. Hecha con tecnología danana."}
+{"key": "text/item#84/nombre", "es": "Maza sagrada"}
+{"key": "text/item#84/efecto", "es": "FUE 195"}
+{"key": "text/item#84/descripcion", "es": "Dicen que la usaban los clérigos celcetanos."}
+{"key": "text/item#85/nombre", "es": "Armagedón"}
+{"key": "text/item#85/efecto", "es": "FUE 237"}
+{"key": "text/item#85/descripcion", "es": "Maza muy destructiva imbuida de inmensa magia."}
+{"key": "text/item#86/nombre", "es": "Maza de Gaia"}
+{"key": "text/item#86/efecto", "es": "FUE 258"}
+{"key": "text/item#86/descripcion", "es": "Recreada con mena rara. Sacude la tierra al impactar."}
+{"key": "text/item#87/nombre", "es": "Maza mortal extrema"}
+{"key": "text/item#87/efecto", "es": "FUE 153 / DEF -100 / Crítico 30%"}
+{"key": "text/item#87/descripcion", "es": "Forjada en Selray. Tan pesada que deja indefenso."}
+{"key": "text/item#88/nombre", "es": "Hiperquebrantador"}
+{"key": "text/item#88/efecto", "es": "FUE 154 / Crítico 30%"}
+{"key": "text/item#88/descripcion", "es": "Refinado en Selray. Pesa más de lo normal."}
+{"key": "text/item#101/nombre", "es": "Gran alabarda"}
+{"key": "text/item#101/efecto", "es": "FUE 165"}
+{"key": "text/item#101/descripcion", "es": "La usan soldados romunos de armadura pesada. Muy fuerte."}
+{"key": "text/item#102/nombre", "es": "Alabarda antigua"}
+{"key": "text/item#102/efecto", "es": "FUE 160"}
+{"key": "text/item#102/descripcion", "es": "Alabarda antigua transmitida durante siglos en Danan."}
+{"key": "text/item#103/nombre", "es": "Glaive rúnico"}
+{"key": "text/item#103/efecto", "es": "FUE 210"}
+{"key": "text/item#103/descripcion", "es": "Alabarda de doble filo que brilla con poder sagrado."}
+{"key": "text/item#104/nombre", "es": "Elíseo"}
+{"key": "text/item#104/efecto", "es": "FUE 255"}
+{"key": "text/item#104/descripcion", "es": "Alabarda surgida del infierno para castigar a los lóbregos."}
+{"key": "text/item#105/nombre", "es": "Alabarda de Equidna"}
+{"key": "text/item#105/efecto", "es": "FUE 278"}
+{"key": "text/item#105/descripcion", "es": "Recreada con mena rara. Cosecha almas de enemigos."}
+{"key": "text/item#106/nombre", "es": "Alabarda helada increíble"}
+{"key": "text/item#106/efecto", "es": "FUE 170 / Congelación 30%"}
+{"key": "text/item#106/descripcion", "es": "Forjada en Selray. Congela a todo el que la porta."}
+{"key": "text/item#107/nombre", "es": "Hacha cruel"}
+{"key": "text/item#107/efecto", "es": "FUE 171 / Congelación 30%"}
+{"key": "text/item#107/descripcion", "es": "Refinada en Selray. Congela a quien se opone a su portador."}
+{"key": "text/item#121/nombre", "es": "Peto de cuero"}
+{"key": "text/item#121/efecto", "es": "DEF 9"}
+{"key": "text/item#121/descripcion", "es": "Peto ligero y resistente de piel curtida de bestia."}
+{"key": "text/item#122/nombre", "es": "Peto de hierro"}
+{"key": "text/item#122/efecto", "es": "DEF 24"}
+{"key": "text/item#122/descripcion", "es": "Armadura de acero resistente de soldados romunos novatos."}
+{"key": "text/item#123/nombre", "es": "Cuero de bestia"}
+{"key": "text/item#123/efecto", "es": "DEF 38"}
+{"key": "text/item#123/descripcion", "es": "Hecho de piel de bestia. Se usa para cazar en el bosque."}
+{"key": "text/item#124/nombre", "es": "Cota de escamas"}
+{"key": "text/item#124/efecto", "es": "DEF 43"}
+{"key": "text/item#124/descripcion", "es": "Armadura de escamas de monstruo. Más dura que el hierro."}
+{"key": "text/item#125/nombre", "es": "Cuero de bestia DX"}
+{"key": "text/item#125/efecto", "es": "DEF 55"}
+{"key": "text/item#125/descripcion", "es": "Modificado para resistir indefinidamente en cacerías largas."}
+{"key": "text/item#126/nombre", "es": "Cota de escamas DX"}
+{"key": "text/item#126/efecto", "es": "DEF 60"}
+{"key": "text/item#126/descripcion", "es": "Armadura ligera reforzada con escamas de monstruo."}
+{"key": "text/item#127/nombre", "es": "Armadura laminada"}
+{"key": "text/item#127/efecto", "es": "DEF 97"}
+{"key": "text/item#127/descripcion", "es": "Armadura flexible y resistente de tecnología avanzada."}
+{"key": "text/item#128/nombre", "es": "Abrigo ámbar"}
+{"key": "text/item#128/efecto", "es": "DEF 75 / FUE 4 (solo hombres)"}
+{"key": "text/item#128/descripcion", "es": "Hecho con fibras especiales. Libera el potencial latente."}
+{"key": "text/item#129/nombre", "es": "Capa cereza"}
+{"key": "text/item#129/efecto", "es": "DEF 82 / FUE 2 (solo mujeres)"}
+{"key": "text/item#129/descripcion", "es": "Amplifica el poder interior para fortalecer a quien la viste."}
+{"key": "text/item#130/nombre", "es": "Túnica de hechicería"}
+{"key": "text/item#130/efecto", "es": "DEF 127"}
+{"key": "text/item#130/descripcion", "es": "Hecha con hilo de gusanos de seda que comen magia."}
+{"key": "text/item#131/nombre", "es": "Capa rúnica"}
+{"key": "text/item#131/efecto", "es": "DEF 173"}
+{"key": "text/item#131/descripcion", "es": "Capa sagrada bendecida por el árbol Roda."}
+{"key": "text/item#132/nombre", "es": "Túnica santa"}
+{"key": "text/item#132/efecto", "es": "DEF 228"}
+{"key": "text/item#132/descripcion", "es": "Dicen que la vestían los sacerdotes de la antigüedad."}
+{"key": "text/item#133/nombre", "es": "Armadura de berserker"}
+{"key": "text/item#133/efecto", "es": "DEF 212 / FUE 8 (solo hombres)"}
+{"key": "text/item#133/descripcion", "es": "La vestían guerreros de armadura pesada en la antigüedad."}
+{"key": "text/item#134/nombre", "es": "Vestido de valquiria"}
+{"key": "text/item#134/efecto", "es": "DEF 218 / FUE 4 (solo mujeres)"}
+{"key": "text/item#134/descripcion", "es": "Armadura ligera que vistió una valquiria de la antigüedad."}
+{"key": "text/item#135/nombre", "es": "Bendición de Víctor"}
+{"key": "text/item#135/efecto", "es": "DEF 239 / FUE 12 (solo hombres)"}
+{"key": "text/item#135/descripcion", "es": "Armadura divina de plata que ilumina la oscuridad."}
+{"key": "text/item#136/nombre", "es": "Bendición de Victoria"}
+{"key": "text/item#136/efecto", "es": "DEF 252 / FUE 6 (solo mujeres)"}
+{"key": "text/item#136/descripcion", "es": "Armadura divina dorada que repele el mal."}
+{"key": "text/item#147/nombre", "es": "Anillo de habilidad I"}
+{"key": "text/item#147/efecto", "es": "Consumo de PH -10%"}
+{"key": "text/item#147/descripcion", "es": "Aumenta la voluntad. Reduce el consumo de PH en un 10%."}
+{"key": "text/item#148/nombre", "es": "Anillo de habilidad II"}
+{"key": "text/item#148/efecto", "es": "Consumo de PH -20%"}
+{"key": "text/item#148/descripcion", "es": "Aumenta la voluntad. Reduce el consumo de PH en un 20%."}
+{"key": "text/item#149/nombre", "es": "Anillo de habilidad III"}
+{"key": "text/item#149/efecto", "es": "Consumo de PH -35%"}
+{"key": "text/item#149/descripcion", "es": "Aumenta la voluntad. Reduce el consumo de PH en un 35%."}
+{"key": "text/item#150/nombre", "es": "Anillo de habilidad IV"}
+{"key": "text/item#150/efecto", "es": "Consumo de PH -50%"}
+{"key": "text/item#150/descripcion", "es": "Aumenta la voluntad. Reduce el consumo de PH en un 50%."}
+{"key": "text/item#151/nombre", "es": "Anillo de vida I"}
+{"key": "text/item#151/efecto", "es": "PV máx. +100"}
+{"key": "text/item#151/descripcion", "es": "Anillo vitalizante. Aumenta los PV máx. en 100."}
+{"key": "text/item#152/nombre", "es": "Anillo de vida II"}
+{"key": "text/item#152/efecto", "es": "PV máx. +200"}
+{"key": "text/item#152/descripcion", "es": "Anillo vitalizante. Aumenta los PV máx. en 200."}
+{"key": "text/item#153/nombre", "es": "Anillo de vida III"}
+{"key": "text/item#153/efecto", "es": "PV máx. +350"}
+{"key": "text/item#153/descripcion", "es": "Anillo vitalizante. Aumenta los PV máx. en 350."}
+{"key": "text/item#154/nombre", "es": "Anillo de vida IV"}
+{"key": "text/item#154/efecto", "es": "PV máx. +500"}
+{"key": "text/item#154/descripcion", "es": "Anillo vitalizante. Aumenta los PV máx. en 500."}
+{"key": "text/item#155/nombre", "es": "Anillo de poder I"}
+{"key": "text/item#155/efecto", "es": "FUE +5"}
+{"key": "text/item#155/descripcion", "es": "Mejora la capacidad de combate de quien lo lleva. FUE +5."}
+{"key": "text/item#156/nombre", "es": "Anillo de poder II"}
+{"key": "text/item#156/efecto", "es": "FUE +10"}
+{"key": "text/item#156/descripcion", "es": "Mejora la capacidad de combate de quien lo lleva. FUE +10."}
+{"key": "text/item#157/nombre", "es": "Anillo de poder III"}
+{"key": "text/item#157/efecto", "es": "FUE +15"}
+{"key": "text/item#157/descripcion", "es": "Mejora la capacidad de combate de quien lo lleva. FUE +15."}
+{"key": "text/item#158/nombre", "es": "Anillo de poder IV"}
+{"key": "text/item#158/efecto", "es": "FUE +20"}
+{"key": "text/item#158/descripcion", "es": "Mejora la capacidad de combate de quien lo lleva. FUE +20."}
+{"key": "text/item#159/nombre", "es": "Anillo de escudo I"}
+{"key": "text/item#159/efecto", "es": "DEF +5"}
+{"key": "text/item#159/descripcion", "es": "Anillo que protege a quien lo lleva. Aumenta la DEF en 5."}
+{"key": "text/item#160/nombre", "es": "Anillo de escudo II"}
+{"key": "text/item#160/efecto", "es": "DEF +10"}
+{"key": "text/item#160/descripcion", "es": "Anillo que protege a quien lo lleva. Aumenta la DEF en 10."}
+{"key": "text/item#161/nombre", "es": "Anillo de escudo III"}
+{"key": "text/item#161/efecto", "es": "DEF +15"}
+{"key": "text/item#161/descripcion", "es": "Anillo que protege a quien lo lleva. Aumenta la DEF en 15."}
+{"key": "text/item#162/nombre", "es": "Anillo de escudo IV"}
+{"key": "text/item#162/efecto", "es": "DEF +20"}
+{"key": "text/item#162/descripcion", "es": "Anillo que protege a quien lo lleva. Aumenta la DEF en 20."}
+{"key": "text/item#163/nombre", "es": "Adorno azul"}
+{"key": "text/item#163/efecto", "es": "Obtienes PH en combos aéreos"}
+{"key": "text/item#163/descripcion", "es": "Los combos aéreos cargan la barra de PH."}
+{"key": "text/item#164/nombre", "es": "Adorno dorado"}
+{"key": "text/item#164/efecto", "es": "La barra EXTRA sube en combos aéreos"}
+{"key": "text/item#164/descripcion", "es": "Los combos aéreos cargan la barra EXTRA."}
+{"key": "text/item#165/nombre", "es": "Arete del árbol azul"}
+{"key": "text/item#165/efecto", "es": "Aumenta los PH obtenidos"}
+{"key": "text/item#165/descripcion", "es": "Arete hechizante. Ganas más PH al atacar."}
+{"key": "text/item#166/nombre", "es": "Arete del árbol espiritual"}
+{"key": "text/item#166/efecto", "es": "Carga EXTRA más rápida con habilidades"}
+{"key": "text/item#166/descripcion", "es": "Aumenta la carga de la barra EXTRA al usar habilidades."}
+{"key": "text/item#167/nombre", "es": "Cinturón de valor"}
+{"key": "text/item#167/efecto", "es": "Obtienes PH al recibir daño"}
+{"key": "text/item#167/descripcion", "es": "Permite a quien lo lleva obtener PH al recibir daño."}
+{"key": "text/item#168/nombre", "es": "Cinturón místico"}
+{"key": "text/item#168/efecto", "es": "Sube la barra EXTRA al recibir daño"}
+{"key": "text/item#168/descripcion", "es": "Aumenta la barra EXTRA cuando quien lo lleva recibe daño."}
+{"key": "text/item#169/nombre", "es": "Capa del caminante"}
+{"key": "text/item#169/efecto", "es": "Poder según la distancia recorrida"}
+{"key": "text/item#169/descripcion", "es": "Fortalece a quien la lleva según la distancia total recorrida."}
+{"key": "text/item#170/nombre", "es": "Capa del héroe"}
+{"key": "text/item#170/efecto", "es": "Poder según los enemigos derrotados"}
+{"key": "text/item#170/descripcion", "es": "Fortalece a quien la lleva según los enemigos eliminados."}
+{"key": "text/item#171/nombre", "es": "Bandana arriesgada"}
+{"key": "text/item#171/efecto", "es": "FUE +15 / DEF -15"}
+{"key": "text/item#171/descripcion", "es": "Representa el deseo de vencer a un enemigo a toda costa."}
+{"key": "text/item#172/nombre", "es": "Bandana peligrosa"}
+{"key": "text/item#172/efecto", "es": "FUE +5 / Más daño con pocos PV"}
+{"key": "text/item#172/descripcion", "es": "Aumenta el daño causado si quien la lleva tiene pocos PV."}
+{"key": "text/item#173/nombre", "es": "Bufanda de valor"}
+{"key": "text/item#173/efecto", "es": "Obtienes PH al caminar"}
+{"key": "text/item#173/descripcion", "es": "Bufanda que fortalece la voluntad. Ganas PH al caminar."}
+{"key": "text/item#174/nombre", "es": "Bufanda del ermitaño"}
+{"key": "text/item#174/efecto", "es": "Obtienes EXP al caminar"}
+{"key": "text/item#174/descripcion", "es": "Trae iluminación a quien la lleva. Ganas EXP al caminar."}
+{"key": "text/item#175/nombre", "es": "Guantes del estratega"}
+{"key": "text/item#175/efecto", "es": "Más PH con el Remate de habilidad"}
+{"key": "text/item#175/descripcion", "es": "Los Remates de habilidad restauran todos los PH gastados."}
+{"key": "text/item#176/nombre", "es": "Cinturón de inmovilidad"}
+{"key": "text/item#176/efecto", "es": "No retrocedes al usar habilidades"}
+{"key": "text/item#176/descripcion", "es": "Quien lo lleva no es empujado hacia atrás al usar habilidades."}
+{"key": "text/item#177/nombre", "es": "Brazalete relámpago"}
+{"key": "text/item#177/efecto", "es": "Recupera PV con Guardia relámpago"}
+{"key": "text/item#177/descripcion", "es": "Recupera algunos PV tras una Guardia relámpago exitosa."}
+{"key": "text/item#178/nombre", "es": "Tobillera relámpago"}
+{"key": "text/item#178/efecto", "es": "Más tiempo lento en Esquiva relámpago"}
+{"key": "text/item#178/descripcion", "es": "Alarga la cámara lenta tras una Esquiva relámpago exitosa."}
+{"key": "text/item#179/nombre", "es": "Amuleto de serpiente"}
+{"key": "text/item#179/efecto", "es": "Previene Veneno"}
+{"key": "text/item#179/descripcion", "es": "Amuleto con una serpiente sagrada. Previene Veneno."}
+{"key": "text/item#180/nombre", "es": "Amuleto de golondrina"}
+{"key": "text/item#180/efecto", "es": "Previene Pesadez"}
+{"key": "text/item#180/descripcion", "es": "Amuleto con una golondrina en vuelo. Previene Pesadez."}
+{"key": "text/item#181/nombre", "es": "Amuleto de bestia del trueno"}
+{"key": "text/item#181/efecto", "es": "Previene Parálisis"}
+{"key": "text/item#181/descripcion", "es": "Amuleto con una bestia del trueno. Previene Parálisis."}
+{"key": "text/item#182/nombre", "es": "Amuleto de escamas carmesí"}
+{"key": "text/item#182/efecto", "es": "Previene Quemadura"}
+{"key": "text/item#182/descripcion", "es": "Amuleto con escamas carmesí. Previene Quemadura."}
+{"key": "text/item#183/nombre", "es": "Amuleto de escamas azur"}
+{"key": "text/item#183/efecto", "es": "Previene Congelación"}
+{"key": "text/item#183/descripcion", "es": "Amuleto con escamas azur. Previene Congelación."}
+{"key": "text/item#184/nombre", "es": "Amuleto de dragón plateado"}
+{"key": "text/item#184/efecto", "es": "Previene Maldición / DEF +5"}
+{"key": "text/item#184/descripcion", "es": "Amuleto con un dragón plateado. Previene Maldición."}
+{"key": "text/item#185/nombre", "es": "Amuleto de dragón dorado"}
+{"key": "text/item#185/efecto", "es": "Previene Infortunio / FUE +5"}
+{"key": "text/item#185/descripcion", "es": "Amuleto con un dragón dorado. Previene Infortunio."}
+{"key": "text/item#186/nombre", "es": "Sello de guerrero I"}
+{"key": "text/item#186/efecto", "es": "EXP de habilidad +1"}
+{"key": "text/item#186/descripcion", "es": "Acelera el aprendizaje de habilidades. EXP de habilidad +1."}
+{"key": "text/item#187/nombre", "es": "Sello de guerrero II"}
+{"key": "text/item#187/efecto", "es": "EXP de habilidad +2"}
+{"key": "text/item#187/descripcion", "es": "Acelera el aprendizaje de habilidades. EXP de habilidad +2."}
+{"key": "text/item#188/nombre", "es": "Sello de guerrero III"}
+{"key": "text/item#188/efecto", "es": "EXP de habilidad +3"}
+{"key": "text/item#188/descripcion", "es": "Acelera el aprendizaje de habilidades. EXP de habilidad +3."}
+{"key": "text/item#189/nombre", "es": "Sello de guerrero IV"}
+{"key": "text/item#189/efecto", "es": "EXP de habilidad +4"}
+{"key": "text/item#189/descripcion", "es": "Acelera el aprendizaje de habilidades. EXP de habilidad +4."}
+{"key": "text/item#190/nombre", "es": "Hacha de plata"}
+{"key": "text/item#190/efecto", "es": "Aumenta la obtención de objetos raros"}
+{"key": "text/item#190/descripcion", "es": "Amuleto con forma de hacha. Más objetos raros."}
+{"key": "text/item#191/nombre", "es": "Hacha de oro"}
+{"key": "text/item#191/efecto", "es": "Aumenta las monedas obtenidas"}
+{"key": "text/item#191/descripcion", "es": "Amuleto con forma de hacha. Más monedas obtenidas."}
+{"key": "text/item#192/nombre", "es": "Diadema del sabio"}
+{"key": "text/item#192/efecto", "es": "Aumenta la EXP obtenida"}
+{"key": "text/item#192/descripcion", "es": "Simboliza la sabiduría. Aumenta la EXP obtenida."}
+{"key": "text/item#193/nombre", "es": "Diadema del santo"}
+{"key": "text/item#193/efecto", "es": "Convierte las monedas obtenidas en EXP"}
+{"key": "text/item#193/descripcion", "es": "Irradia luz sagrada. Obtienes EXP en lugar de monedas."}
+{"key": "text/item#194/nombre", "es": "Collar espectral"}
+{"key": "text/item#194/efecto", "es": "Revive a quien lo lleva una vez al morir"}
+{"key": "text/item#194/descripcion", "es": "Revive a quien lo lleva una vez al morir y luego se rompe."}
+{"key": "text/item#195/nombre", "es": "Magatama sangriento"}
+{"key": "text/item#195/efecto", "es": "Atrae a un espíritu errante"}
+{"key": "text/item#195/descripcion", "es": "Joya siniestra y ensangrentada. Atrae a un espíritu errante."}
+{"key": "text/item#196/nombre", "es": "Magatama del caballero sagrado"}
+{"key": "text/item#196/efecto", "es": "Previene Maldición / FUE +10 / DEF +10"}
+{"key": "text/item#196/descripcion", "es": "El alma de un caballero sagrado purificado. Protege."}
+{"key": "text/item#197/nombre", "es": "Anillo del héroe"}
+{"key": "text/item#197/efecto", "es": "Cambia la habilidad EXTRA"}
+{"key": "text/item#197/descripcion", "es": "Cambia la habilidad EXTRA de quien lo lleva por otra más fuerte."}
+{"key": "text/item#656/nombre", "es": "1 PH"}
+{"key": "text/item#656/descripcion", "es": "Energía vital"}
+{"key": "text/item#657/nombre", "es": "5 PH"}
+{"key": "text/item#657/descripcion", "es": "Energía vital"}
+{"key": "text/item#658/nombre", "es": "1 EX"}
+{"key": "text/item#658/descripcion", "es": "Energía vital"}
+{"key": "text/item#659/nombre", "es": "5 EX"}
+{"key": "text/item#659/descripcion", "es": "Energía vital"}
+{"key": "text/item#660/nombre", "es": "1 moneda"}
+{"key": "text/item#660/descripcion", "es": "Dinero"}
+{"key": "text/item#661/nombre", "es": "5 monedas"}
+{"key": "text/item#661/descripcion", "es": "Dinero"}
+{"key": "text/item#662/nombre", "es": "10 monedas"}
+{"key": "text/item#662/descripcion", "es": "Dinero"}
+{"key": "text/item#663/nombre", "es": "50 monedas"}
+{"key": "text/item#663/descripcion", "es": "Dinero"}
+{"key": "text/item#664/nombre", "es": "100 monedas"}
+{"key": "text/item#664/descripcion", "es": "Dinero"}
+{"key": "text/item#665/nombre", "es": "500 monedas"}
+{"key": "text/item#665/descripcion", "es": "Dinero"}
+{"key": "text/item#666/nombre", "es": "1000 monedas"}
+{"key": "text/item#666/descripcion", "es": "Dinero"}
+{"key": "text/item#667/nombre", "es": "5000 monedas"}
+{"key": "text/item#667/descripcion", "es": "Dinero"}
+{"key": "text/item#668/nombre", "es": "1 PV"}
+{"key": "text/item#668/descripcion", "es": "Energía vital"}
+{"key": "text/item#669/nombre", "es": "5 PV"}
+{"key": "text/item#669/descripcion", "es": "Energía vital"}
+{"key": "text/item#670/nombre", "es": "Poción de miel"}
+{"key": "text/item#670/efecto", "es": "Recupera 100 PV"}
+{"key": "text/item#670/descripcion", "es": "Bebida dulce con olor a miel. Recupera 100 PV."}
+{"key": "text/item#671/nombre", "es": "Poción amarga"}
+{"key": "text/item#671/efecto", "es": "Recupera 500 PV"}
+{"key": "text/item#671/descripcion", "es": "Bebida potente, pero de sabor amargo. Recupera 500 PV."}
+{"key": "text/item#672/nombre", "es": "Poción káiser"}
+{"key": "text/item#672/efecto", "es": "Recupera 2000 PV"}
+{"key": "text/item#672/descripcion", "es": "Bebida de recuperación muy potente. Recupera 2000 PV."}
+{"key": "text/item#673/nombre", "es": "Polvo antídoto"}
+{"key": "text/item#673/efecto", "es": "Cura Veneno"}
+{"key": "text/item#673/descripcion", "es": "Medicina insípida e inodora que cura Veneno."}
+{"key": "text/item#674/nombre", "es": "Polvo antiparálisis"}
+{"key": "text/item#674/efecto", "es": "Cura Parálisis"}
+{"key": "text/item#674/descripcion", "es": "Medicina de olor penetrante que cura Parálisis."}
+{"key": "text/item#675/nombre", "es": "Polvo purificador"}
+{"key": "text/item#675/efecto", "es": "Cura Maldición / Infortunio"}
+{"key": "text/item#675/descripcion", "es": "Medicina refrescante que cura Maldición e Infortunio."}
+{"key": "text/item#678/nombre", "es": "Gota de Roda"}
+{"key": "text/item#678/efecto", "es": "Recupera 10% de PV / Revive a un aliado"}
+{"key": "text/item#678/descripcion", "es": "Gota del árbol Roda. Revive a un aliado caído con 10% de PV."}
+{"key": "text/item#679/nombre", "es": "Panacea celcetana"}
+{"key": "text/item#679/efecto", "es": "Recupera todos los PV / Revive a aliado"}
+{"key": "text/item#679/descripcion", "es": "Legado de Celceta. Revive a un aliado con todos sus PV."}
+{"key": "text/item#681/nombre", "es": "Catholicon"}
+{"key": "text/item#681/efecto", "es": "Cura todos los estados alterados"}
+{"key": "text/item#681/descripcion", "es": "Medicina misteriosa que cura todos los estados alterados."}
+{"key": "text/item#683/nombre", "es": "Ala de plata"}
+{"key": "text/item#683/efecto", "es": "Transporte entre monolitos del mismo color"}
+{"key": "text/item#683/descripcion", "es": "Permite transportarse entre monolitos del mismo color."}
+{"key": "text/item#684/nombre", "es": "Ala dorada"}
+{"key": "text/item#684/efecto", "es": "Transporte a cualquier monolito del mapa"}
+{"key": "text/item#684/descripcion", "es": "Permite transportarse a cualquier monolito ya tocado."}
 {"key": "text/item#685/nombre", "es": "Diario"}
+{"key": "text/item#685/efecto", "es": "Se puede leer en el 'Diario'"}
+{"key": "text/item#685/descripcion", "es": "Registro de las aventuras de Adol en Celceta."}
+{"key": "text/item#686/nombre", "es": "Mapa de Celceta"}
+{"key": "text/item#686/efecto", "es": "Se puede consultar en el 'Mapa'"}
+{"key": "text/item#686/descripcion", "es": "Mapa de Celceta incompleto. Registra las áreas exploradas."}
+{"key": "text/item#687/nombre", "es": "Llave de la mina"}
+{"key": "text/item#687/descripcion", "es": "Una llave vieja obtenida en las minas."}
+{"key": "text/item#688/nombre", "es": "Fragmento de tablilla"}
+{"key": "text/item#688/descripcion", "es": "Fragmento de una tablilla, hallado en la Madriguera Antigua."}
+{"key": "text/item#689/nombre", "es": "Fragmento de tablilla"}
+{"key": "text/item#689/descripcion", "es": "Fragmento de tablilla hallado en el Nido de las Bestias Sagradas."}
+{"key": "text/item#690/nombre", "es": "Cuaderno muy gastado"}
+{"key": "text/item#690/descripcion", "es": "Era de Adol. Muestra el camino a las Tierras Primigenias."}
+{"key": "text/item#691/nombre", "es": "Trozo de cuaderno"}
+{"key": "text/item#691/descripcion", "es": "Un trozo de papel rasgado. Dice: 'Recibí la Máscara de...'"}
+{"key": "text/item#693/nombre", "es": "Fragmento izquierdo de máscara"}
+{"key": "text/item#693/descripcion", "es": "Fragmento de máscara hallado en el monte Vesuvio. Sin poder."}
+{"key": "text/item#694/nombre", "es": "Fragmento derecho de máscara"}
+{"key": "text/item#694/descripcion", "es": "Fragmento de máscara hallado en las Ruinas del Lago Tolmes. Sin poder."}
+{"key": "text/item#695/nombre", "es": "Espada Artefacto Emeraude"}
+{"key": "text/item#695/descripcion", "es": "Espada recibida del árbol Roda. Derrota armas vivientes."}
+{"key": "text/item#696/nombre", "es": "Máscara de la Luna"}
+{"key": "text/item#696/descripcion", "es": "Permite a quien la lleva entrar al Templo del Sol."}
+{"key": "text/item#697/nombre", "es": "Máscara del Sol"}
+{"key": "text/item#697/descripcion", "es": "Permite a quien la lleva leer los Registros Akáshicos."}
+{"key": "text/item#698/nombre", "es": "Cimera del viento"}
+{"key": "text/item#698/descripcion", "es": "Una cimera que contiene el poder de los vientos furiosos."}
+{"key": "text/item#699/nombre", "es": "Cimera de la lluvia"}
+{"key": "text/item#699/descripcion", "es": "Una cimera que contiene el poder de la lluvia que cae."}
+{"key": "text/item#700/nombre", "es": "Cimera del sol"}
+{"key": "text/item#700/descripcion", "es": "Una cimera que contiene el poder del sol ardiente."}
+{"key": "text/item#706/nombre", "es": "Leche de fabros"}
+{"key": "text/item#706/descripcion", "es": "Leche fresca de un fabros."}
+{"key": "text/item#707/nombre", "es": "Libro de firmas de Ethan"}
+{"key": "text/item#707/descripcion", "es": "Cuaderno lleno de firmas que Ethan heredó de su padre."}
+{"key": "text/item#708/nombre", "es": "Piedra solar"}
+{"key": "text/item#708/descripcion", "es": "Irradia un leve calor. Se usa para forjar armas antiguas."}
+{"key": "text/item#709/nombre", "es": "Guirnalda de marl"}
+{"key": "text/item#709/efecto", "es": "Previene Veneno / DEF +1"}
+{"key": "text/item#709/descripcion", "es": "Guirnalda de flores de marl. Tiene una fragancia dulce."}
+{"key": "text/item#710/nombre", "es": "Guirnalda de yupel"}
+{"key": "text/item#710/efecto", "es": "Previene Parálisis / DEF +3"}
+{"key": "text/item#710/descripcion", "es": "Guirnalda de flores de yupel. Tiene un aroma encantador."}
+{"key": "text/item#711/nombre", "es": "Guirnalda de libra"}
+{"key": "text/item#711/efecto", "es": "Previene Congelación / DEF +5"}
+{"key": "text/item#711/descripcion", "es": "Guirnalda hecha con flores de libra. Tiene un olor muy puro."}
+{"key": "text/item#712/nombre", "es": "Guirnalda celcetana"}
+{"key": "text/item#712/efecto", "es": "Previene Maldición / DEF +10 / PV +200"}
+{"key": "text/item#712/descripcion", "es": "Guirnalda hecha con flores celcetanas. Irradia vitalidad."}
+{"key": "text/item#725/nombre", "es": "Elixir de vida"}
+{"key": "text/item#725/efecto", "es": "PV máx. +100"}
+{"key": "text/item#725/descripcion", "es": "Aumenta permanentemente los PV de quien lo usa en 100."}
+{"key": "text/item#726/nombre", "es": "Elixir de poder"}
+{"key": "text/item#726/efecto", "es": "FUE +3"}
+{"key": "text/item#726/descripcion", "es": "Aumenta permanentemente la FUE de quien lo usa en 3."}
+{"key": "text/item#727/nombre", "es": "Elixir de guardia"}
+{"key": "text/item#727/efecto", "es": "DEF +3"}
+{"key": "text/item#727/descripcion", "es": "Aumenta permanentemente la DEF de quien lo usa en 3."}
+{"key": "text/item#728/nombre", "es": "Tablilla de escudo"}
+{"key": "text/item#728/efecto", "es": "Aumento temporal de DEF"}
+{"key": "text/item#728/descripcion", "es": "Reduce temporalmente el daño recibido de los enemigos."}
+{"key": "text/item#729/nombre", "es": "Tablilla de habilidad"}
+{"key": "text/item#729/efecto", "es": "Más recuperación de PH por un tiempo"}
+{"key": "text/item#729/descripcion", "es": "Restaura poco a poco los PH de quien la usa por un tiempo."}
+{"key": "text/item#730/nombre", "es": "Tablilla enigmática"}
+{"key": "text/item#730/efecto", "es": "Efecto aleatorio temporal"}
+{"key": "text/item#730/descripcion", "es": "Una tablilla extraña que tiene un efecto distinto cada vez."}
+{"key": "text/item#731/nombre", "es": "Tablilla curativa"}
+{"key": "text/item#731/efecto", "es": "Más recuperación de PV por un tiempo"}
+{"key": "text/item#731/descripcion", "es": "Restaura poco a poco los PV de quien la usa por un tiempo."}
+{"key": "text/item#732/nombre", "es": "Tablilla de poder"}
+{"key": "text/item#732/efecto", "es": "Aumento temporal de FUE"}
+{"key": "text/item#732/descripcion", "es": "Aumenta el daño a los enemigos por un tiempo limitado."}
+{"key": "text/item#735/nombre", "es": "Collar de bestia sagrada"}
+{"key": "text/item#735/descripcion", "es": "Conviértete en roo, habla con los roos y evita ataques."}
+{"key": "text/item#736/nombre", "es": "Brazalete enano"}
+{"key": "text/item#736/descripcion", "es": "Encoge al grupo para que pase por pasajes pequeños."}
+{"key": "text/item#738/nombre", "es": "Escamas de dragón acuátil"}
+{"key": "text/item#738/descripcion", "es": "Permite al grupo bucear y respirar bajo el agua."}
+{"key": "text/item#740/nombre", "es": "Zapatos de vendaval"}
+{"key": "text/item#740/descripcion", "es": "Permite correr por ciertas pendientes. Mantén presionado #-2Y#112P."}
+{"key": "text/item#741/nombre", "es": "Garras del rey bestia"}
+{"key": "text/item#741/descripcion", "es": "Destruye ciertos obstáculos con el botón #-2Y#112P."}
+{"key": "text/item#742/nombre", "es": "Capa espectral"}
+{"key": "text/item#742/descripcion", "es": "Restaura PV cuando el grupo se queda quieto."}
+{"key": "text/item#743/nombre", "es": "Sello de Ares"}
+{"key": "text/item#743/descripcion", "es": "Aumenta la velocidad con que se llena la barra EXTRA."}
+{"key": "text/item#744/nombre", "es": "Urna de Aeolus"}
+{"key": "text/item#744/descripcion", "es": "Atrae hacia el grupo los objetos caídos cercanos."}
+{"key": "text/item#745/nombre", "es": "Carbón"}
+{"key": "text/item#745/efecto", "es": "Mineral"}
+{"key": "text/item#745/descripcion", "es": "Carbón común. Sirve de combustible al refinar mena."}
+{"key": "text/item#746/nombre", "es": "Mena de hierro"}
+{"key": "text/item#746/efecto", "es": "Mineral"}
+{"key": "text/item#746/descripcion", "es": "Mena de hierro sin refinar. Revela su valor al refinarse."}
+{"key": "text/item#747/nombre", "es": "Mena de plata"}
+{"key": "text/item#747/efecto", "es": "Mineral"}
+{"key": "text/item#747/descripcion", "es": "Mena que emite una luz tenue. Se puede refinar."}
+{"key": "text/item#748/nombre", "es": "Mena de oro"}
+{"key": "text/item#748/efecto", "es": "Mineral"}
+{"key": "text/item#748/descripcion", "es": "Mena que emite un brillo elegante. Se puede refinar."}
+{"key": "text/item#749/nombre", "es": "Piedra verde"}
+{"key": "text/item#749/efecto", "es": "Mineral"}
+{"key": "text/item#749/descripcion", "es": "Mena de tono verde. Revela su verdadero valor al refinarse."}
+{"key": "text/item#750/nombre", "es": "Piedra amarilla"}
+{"key": "text/item#750/efecto", "es": "Mineral"}
+{"key": "text/item#750/descripcion", "es": "Mena de tono amarillo. Revela su verdadero valor al refinarse."}
+{"key": "text/item#751/nombre", "es": "Piedra roja"}
+{"key": "text/item#751/efecto", "es": "Mineral"}
+{"key": "text/item#751/descripcion", "es": "Mena de tono rojo. Revela su verdadero valor al refinarse."}
+{"key": "text/item#752/nombre", "es": "Piedra azul"}
+{"key": "text/item#752/efecto", "es": "Mineral"}
+{"key": "text/item#752/descripcion", "es": "Mena de tono azul. Revela su verdadero valor al refinarse."}
+{"key": "text/item#753/nombre", "es": "Piedra morada"}
+{"key": "text/item#753/efecto", "es": "Mineral"}
+{"key": "text/item#753/descripcion", "es": "Mena de tono morado. Revela su verdadero valor al refinarse."}
+{"key": "text/item#754/nombre", "es": "Piedra negra"}
+{"key": "text/item#754/efecto", "es": "Mineral"}
+{"key": "text/item#754/descripcion", "es": "Mena de tono negro. Revela su verdadero valor al refinarse."}
+{"key": "text/item#755/nombre", "es": "Piedra de luz estelar"}
+{"key": "text/item#755/efecto", "es": "Mineral"}
+{"key": "text/item#755/descripcion", "es": "Mena que brilla como las estrellas. Se puede refinar."}
+{"key": "text/item#760/nombre", "es": "Lingote de hierro"}
+{"key": "text/item#760/efecto", "es": "Mineral"}
+{"key": "text/item#760/descripcion", "es": "Lingote de hierro que se usa para fabricar diversos artículos."}
+{"key": "text/item#761/nombre", "es": "Lingote de plata"}
+{"key": "text/item#761/efecto", "es": "Mineral"}
+{"key": "text/item#761/descripcion", "es": "Lingote de plata de brillo tenue. Dicen que ahuyenta el mal."}
+{"key": "text/item#762/nombre", "es": "Lingote de oro"}
+{"key": "text/item#762/efecto", "es": "Mineral"}
+{"key": "text/item#762/descripcion", "es": "Lingote de oro muy puro, antiguo símbolo de la codicia."}
+{"key": "text/item#763/nombre", "es": "Esmeralda"}
+{"key": "text/item#763/efecto", "es": "Mineral"}
+{"key": "text/item#763/descripcion", "es": "Gema transparente de un verde intenso."}
+{"key": "text/item#764/nombre", "es": "Topacio"}
+{"key": "text/item#764/efecto", "es": "Mineral"}
+{"key": "text/item#764/descripcion", "es": "Una gema de belleza especial que se usa en adornos."}
+{"key": "text/item#765/nombre", "es": "Rubí"}
+{"key": "text/item#765/efecto", "es": "Mineral"}
+{"key": "text/item#765/descripcion", "es": "Variedad del mineral \"corundo\" de un rojo apasionado."}
+{"key": "text/item#766/nombre", "es": "Zafiro"}
+{"key": "text/item#766/efecto", "es": "Mineral"}
+{"key": "text/item#766/descripcion", "es": "Variedad del mineral \"corundo\" de un azul refrescante."}
+{"key": "text/item#767/nombre", "es": "Amatista"}
+{"key": "text/item#767/efecto", "es": "Mineral"}
+{"key": "text/item#767/descripcion", "es": "Su color viene de elementos traza. Se usa en adivinación."}
+{"key": "text/item#768/nombre", "es": "Ónix"}
+{"key": "text/item#768/efecto", "es": "Mineral"}
+{"key": "text/item#768/descripcion", "es": "Piedra negra azabache, sin nubes, que ahuyenta monstruos."}
+{"key": "text/item#769/nombre", "es": "Diamante"}
+{"key": "text/item#769/efecto", "es": "Mineral"}
+{"key": "text/item#769/descripcion", "es": "Gema muy dura. Por refracción, brilla hasta en la oscuridad."}
+{"key": "text/item#770/nombre", "es": "Réplica de pedestal de oro"}
+{"key": "text/item#770/efecto", "es": "Mineral"}
+{"key": "text/item#770/descripcion", "es": "Réplica bañada en oro de un tesoro antiguo."}
+{"key": "text/item#771/nombre", "es": "Pedestal de oro"}
+{"key": "text/item#771/efecto", "es": "Mineral"}
+{"key": "text/item#771/descripcion", "es": "Oro puro. Brilla con intensidad. Tiene una historia interesante."}
+{"key": "text/item#780/nombre", "es": "Hueso quebradizo"}
+{"key": "text/item#780/efecto", "es": "Material animal"}
+{"key": "text/item#780/descripcion", "es": "Un hueso quebradizo. Se puede intercambiar."}
+{"key": "text/item#781/nombre", "es": "Piel dañada"}
+{"key": "text/item#781/efecto", "es": "Material animal"}
+{"key": "text/item#781/descripcion", "es": "Un trozo de piel de monstruo. Se puede intercambiar."}
+{"key": "text/item#782/nombre", "es": "Caparazón agrietado"}
+{"key": "text/item#782/efecto", "es": "Material animal"}
+{"key": "text/item#782/descripcion", "es": "Un caparazón agrietado. Se puede intercambiar."}
+{"key": "text/item#783/nombre", "es": "Pelo partido"}
+{"key": "text/item#783/efecto", "es": "Material animal"}
+{"key": "text/item#783/descripcion", "es": "Mechón opaco de pelo de monstruo. Se puede intercambiar."}
+{"key": "text/item#784/nombre", "es": "Líquido inmundo"}
+{"key": "text/item#784/efecto", "es": "Material animal"}
+{"key": "text/item#784/descripcion", "es": "Un líquido con muchas impurezas. Se puede intercambiar."}
+{"key": "text/item#785/nombre", "es": "Masa extraña"}
+{"key": "text/item#785/efecto", "es": "Material animal"}
+{"key": "text/item#785/descripcion", "es": "Un grumo indescriptible de porquería. Se puede intercambiar."}
+{"key": "text/item#790/nombre", "es": "Hueso robusto"}
+{"key": "text/item#790/efecto", "es": "Material animal"}
+{"key": "text/item#790/descripcion", "es": "Un hueso de gran densidad."}
+{"key": "text/item#791/nombre", "es": "Piel robusta"}
+{"key": "text/item#791/efecto", "es": "Material animal"}
+{"key": "text/item#791/descripcion", "es": "Una piel robusta que sirve para muchos usos una vez curtida."}
+{"key": "text/item#792/nombre", "es": "Caparazón robusto"}
+{"key": "text/item#792/efecto", "es": "Material animal"}
+{"key": "text/item#792/descripcion", "es": "Un caparazón tan resistente como el acero."}
+{"key": "text/item#793/nombre", "es": "Pelo resistente"}
+{"key": "text/item#793/efecto", "es": "Material animal"}
+{"key": "text/item#793/descripcion", "es": "Un mechón de pelo fuerte y flexible."}
+{"key": "text/item#794/nombre", "es": "Líquido transparente"}
+{"key": "text/item#794/efecto", "es": "Material animal"}
+{"key": "text/item#794/descripcion", "es": "Líquido totalmente transparente. Se bebe una vez tratado."}
+{"key": "text/item#800/nombre", "es": "Órgano venenoso"}
+{"key": "text/item#800/efecto", "es": "Material animal"}
+{"key": "text/item#800/descripcion", "es": "Un órgano lleno de veneno. Hay que manipularlo con cuidado."}
+{"key": "text/item#801/nombre", "es": "Telaraña"}
+{"key": "text/item#801/efecto", "es": "Material animal"}
+{"key": "text/item#801/descripcion", "es": "Telaraña pegajosa con la que las arañas atrapan presas."}
+{"key": "text/item#802/nombre", "es": "Colmillo de bestia"}
+{"key": "text/item#802/efecto", "es": "Material animal"}
+{"key": "text/item#802/descripcion", "es": "Colmillo de bestia feroz. Mató a incontables presas."}
+{"key": "text/item#803/nombre", "es": "Caparazón indestructible"}
+{"key": "text/item#803/efecto", "es": "Material animal"}
+{"key": "text/item#803/descripcion", "es": "Caparazón duro como el diamante. Ni siquiera se raya."}
+{"key": "text/item#804/nombre", "es": "Escama dura"}
+{"key": "text/item#804/efecto", "es": "Material animal"}
+{"key": "text/item#804/descripcion", "es": "Placa de escamas de monstruo unidas y durísimas."}
+{"key": "text/item#805/nombre", "es": "Extracto de rana"}
+{"key": "text/item#805/efecto", "es": "Material animal"}
+{"key": "text/item#805/descripcion", "es": "Líquido extraído de una rana. Tiene valor nutritivo."}
+{"key": "text/item#806/nombre", "es": "Pelaje suave"}
+{"key": "text/item#806/efecto", "es": "Material animal"}
+{"key": "text/item#806/descripcion", "es": "Pelaje hermoso y brillante, como cabello bien cuidado."}
+{"key": "text/item#807/nombre", "es": "Pelaje esponjoso"}
+{"key": "text/item#807/efecto", "es": "Material animal"}
+{"key": "text/item#807/descripcion", "es": "Pelaje ligero y esponjoso. Parece que tocas las nubes."}
+{"key": "text/item#808/nombre", "es": "Garra de bestia feroz"}
+{"key": "text/item#808/efecto", "es": "Material animal"}
+{"key": "text/item#808/descripcion", "es": "La garra de una bestia que ha ganado incontables batallas."}
+{"key": "text/item#809/nombre", "es": "Piel extraña"}
+{"key": "text/item#809/efecto", "es": "Material animal"}
+{"key": "text/item#809/descripcion", "es": "Una piel de monstruo muy característica."}
+{"key": "text/item#810/nombre", "es": "Líquido ácido"}
+{"key": "text/item#810/efecto", "es": "Material animal"}
+{"key": "text/item#810/descripcion", "es": "Tan ácido que adormece la lengua. Se usa en elixires."}
+{"key": "text/item#811/nombre", "es": "Moho viscoso"}
+{"key": "text/item#811/efecto", "es": "Material animal"}
+{"key": "text/item#811/descripcion", "es": "Hongo prohibido usado en hechicería y reflejo de maldición."}
+{"key": "text/item#812/nombre", "es": "Hueso titánico"}
+{"key": "text/item#812/efecto", "es": "Material animal"}
+{"key": "text/item#812/descripcion", "es": "El hueso gigante de una enorme bestia del pasado remoto."}
+{"key": "text/item#813/nombre", "es": "Tela tribal"}
+{"key": "text/item#813/efecto", "es": "Material animal"}
+{"key": "text/item#813/descripcion", "es": "Tela bordada que usaban los antiguos habitantes del bosque."}
+{"key": "text/item#820/nombre", "es": "Cola de hacha"}
+{"key": "text/item#820/efecto", "es": "Material animal"}
+{"key": "text/item#820/descripcion", "es": "Evolucionó con forma de hacha para partir presas en dos."}
+{"key": "text/item#821/nombre", "es": "Cuerno de búfalo"}
+{"key": "text/item#821/efecto", "es": "Material animal"}
+{"key": "text/item#821/descripcion", "es": "Cuerno gigante de búfalo, capaz de romper rocas."}
+{"key": "text/item#822/nombre", "es": "Pelo del rey mono"}
+{"key": "text/item#822/efecto", "es": "Material animal"}
+{"key": "text/item#822/descripcion", "es": "Prueba de que el rey mono ya come bananas en el Valhalla."}
+{"key": "text/item#823/nombre", "es": "Exoesqueleto de jabalí"}
+{"key": "text/item#823/efecto", "es": "Material animal"}
+{"key": "text/item#823/descripcion", "es": "Exoesqueleto en forma de casco que protege de impactos."}
+{"key": "text/item#824/nombre", "es": "Pico de martillo"}
+{"key": "text/item#824/efecto", "es": "Material animal"}
+{"key": "text/item#824/descripcion", "es": "El pico de un ave que se puede blandir como un martillo."}
+{"key": "text/item#825/nombre", "es": "Garra monstruosa"}
+{"key": "text/item#825/efecto", "es": "Material animal"}
+{"key": "text/item#825/descripcion", "es": "Garra de un monstruo grotesco que no suelta a su presa."}
+{"key": "text/item#826/nombre", "es": "Coraza espantosa"}
+{"key": "text/item#826/efecto", "es": "Material animal"}
+{"key": "text/item#826/descripcion", "es": "Coraza de monstruo. Hecha de un material desconocido."}
+{"key": "text/item#827/nombre", "es": "Cuerno afilado"}
+{"key": "text/item#827/efecto", "es": "Material animal"}
+{"key": "text/item#827/descripcion", "es": "Cuerno más duro que el diamante. Excava tierra helada."}
+{"key": "text/item#828/nombre", "es": "Pico de taladro"}
+{"key": "text/item#828/efecto", "es": "Material animal"}
+{"key": "text/item#828/descripcion", "es": "Un pico helicoidal. Lo bastante fuerte para pulverizar el acero."}
+{"key": "text/item#829/nombre", "es": "Hoja maldita"}
+{"key": "text/item#829/efecto", "es": "Material animal"}
+{"key": "text/item#829/descripcion", "es": "Hoja oscura de un monstruo grotesco. Corta cualquier cosa."}
+{"key": "text/item#840/nombre", "es": "Madera dañada"}
+{"key": "text/item#840/efecto", "es": "Material vegetal"}
+{"key": "text/item#840/descripcion", "es": "Madera muy dañada. Se puede intercambiar."}
+{"key": "text/item#841/nombre", "es": "Hoja podrida"}
+{"key": "text/item#841/efecto", "es": "Material vegetal"}
+{"key": "text/item#841/descripcion", "es": "Una hoja podrida. Se puede intercambiar."}
+{"key": "text/item#842/nombre", "es": "Flor marchita"}
+{"key": "text/item#842/efecto", "es": "Material vegetal"}
+{"key": "text/item#842/descripcion", "es": "Una flor marchita y sin vida. Se puede intercambiar."}
+{"key": "text/item#843/nombre", "es": "Fruta podrida"}
+{"key": "text/item#843/efecto", "es": "Material vegetal"}
+{"key": "text/item#843/descripcion", "es": "Fruta podrida, en descomposición. Se puede intercambiar."}
+{"key": "text/item#845/nombre", "es": "Madera robusta"}
+{"key": "text/item#845/efecto", "es": "Material vegetal"}
+{"key": "text/item#845/descripcion", "es": "Madera voluminosa y robusta de un árbol sano."}
+{"key": "text/item#846/nombre", "es": "Hongo nocturno"}
+{"key": "text/item#846/efecto", "es": "Material vegetal"}
+{"key": "text/item#846/descripcion", "es": "Un hongo valioso que solo crece en lugares oscuros."}
+{"key": "text/item#850/nombre", "es": "Hoja fresca"}
+{"key": "text/item#850/efecto", "es": "Material vegetal"}
+{"key": "text/item#850/descripcion", "es": "Una hoja fresca con propiedades medicinales."}
+{"key": "text/item#851/nombre", "es": "Hoja de Roda"}
+{"key": "text/item#851/efecto", "es": "Material vegetal"}
+{"key": "text/item#851/descripcion", "es": "Una hoja muy buscada del árbol Roda. Rebosa vitalidad."}
+{"key": "text/item#855/nombre", "es": "Flor de marl"}
+{"key": "text/item#855/efecto", "es": "Material vegetal"}
+{"key": "text/item#855/descripcion", "es": "Flor de pétalos rosados. Llena de una miel que cura la fatiga."}
+{"key": "text/item#856/nombre", "es": "Flor de yupel"}
+{"key": "text/item#856/efecto", "es": "Material vegetal"}
+{"key": "text/item#856/descripcion", "es": "Una flor amarilla. Sus pétalos tienen un efecto desintoxicante."}
+{"key": "text/item#857/nombre", "es": "Flor de libra"}
+{"key": "text/item#857/efecto", "es": "Material vegetal"}
+{"key": "text/item#857/descripcion", "es": "Simboliza la pureza y tiene varias propiedades medicinales."}
+{"key": "text/item#858/nombre", "es": "Flor celcetana"}
+{"key": "text/item#858/efecto", "es": "Material vegetal"}
+{"key": "text/item#858/descripcion", "es": "Flor valiosa que se halla en Celceta. Se usa en elixires."}
+{"key": "text/item#865/nombre", "es": "Nuez de chito"}
+{"key": "text/item#865/efecto", "es": "Material vegetal"}
+{"key": "text/item#865/descripcion", "es": "Un tipo de nuez muy común y de alto valor nutritivo."}
+{"key": "text/item#866/nombre", "es": "Fruta de raparo"}
+{"key": "text/item#866/efecto", "es": "Material vegetal"}
+{"key": "text/item#866/descripcion", "es": "Una fruta conocida por su refrescante sabor ácido."}
+{"key": "text/item#867/nombre", "es": "Fruta de arieda"}
+{"key": "text/item#867/efecto", "es": "Material vegetal"}
+{"key": "text/item#867/descripcion", "es": "Una fruta de un sabor \"especiado\" único."}
+{"key": "text/item#868/nombre", "es": "Fruta de Roda"}
+{"key": "text/item#868/efecto", "es": "Material vegetal"}
+{"key": "text/item#868/descripcion", "es": "Fruta dulce del árbol Roda. Valor nutritivo inmenso."}
+{"key": "text/item#875/nombre", "es": "Brazalete enano+"}
+{"key": "text/item#875/efecto", "es": "FUE/DEF no se reducen"}
+{"key": "text/item#875/descripcion", "es": "Encoge al grupo para que pase por pasajes pequeños."}
+{"key": "text/item#876/nombre", "es": "Escamas de dragón acuátil+"}
+{"key": "text/item#876/efecto", "es": "Daño adicional bajo el agua"}
+{"key": "text/item#876/descripcion", "es": "Permite al grupo bucear y respirar bajo el agua."}
+{"key": "text/item#877/nombre", "es": "Zapatos de vendaval+"}
+{"key": "text/item#877/efecto", "es": "Al correr, aleja a los enemigos"}
+{"key": "text/item#877/descripcion", "es": "Permite correr por ciertas pendientes. Mantén presionado #-2Y#112P."}
+{"key": "text/item#878/nombre", "es": "Garras del rey bestia+"}
+{"key": "text/item#878/efecto", "es": "Más daño de embestida"}
+{"key": "text/item#878/descripcion", "es": "Destruye ciertos obstáculos con el botón #-2Y#112P."}
+{"key": "text/item#879/nombre", "es": "Collar de bestia sagrada+"}
+{"key": "text/item#879/efecto", "es": "Más velocidad de movimiento"}
+{"key": "text/item#879/descripcion", "es": "Conviértete en roo, habla con los roos y evita ataques."}
+{"key": "text/item#880/nombre", "es": "Capa espectral+"}
+{"key": "text/item#880/efecto", "es": "Más velocidad de recuperación de PV"}
+{"key": "text/item#880/descripcion", "es": "Restaura PV cuando el grupo se queda quieto."}
+{"key": "text/item#881/nombre", "es": "Sello de Ares+"}
+{"key": "text/item#881/efecto", "es": "Barra EXTRA más rápida"}
+{"key": "text/item#881/descripcion", "es": "Aumenta la velocidad con que se llena la barra EXTRA."}
+{"key": "text/item#882/nombre", "es": "Urna de Aeolus+"}
+{"key": "text/item#882/efecto", "es": "A veces se obtienen monedas"}
+{"key": "text/item#882/descripcion", "es": "Atrae hacia el grupo los objetos caídos cercanos."}
+{"key": "text/item#973/nombre", "es": "Karna L3"}
+{"key": "text/item#974/nombre", "es": "Karna L16"}
+{"key": "text/item#975/nombre", "es": "Ozma L3"}
+{"key": "text/item#976/nombre", "es": "Ozma L15"}
+{"key": "text/item#977/nombre", "es": "Calilica L3"}
+{"key": "text/item#978/nombre", "es": "Calilica L15"}
+{"key": "text/item#979/nombre", "es": "Calilica L16"}
+{"key": "text/item#980/nombre", "es": "Frieda L3"}
+{"key": "text/item#981/nombre", "es": "Frieda L15"}
+{"key": "text/item#982/nombre", "es": "Frieda L16"}
+{"key": "text/item#983/nombre", "es": "Frieda L24"}
+{"key": "text/item#986/nombre", "es": "◆Cosa de Maldición"}
+{"key": "text/item#986/efecto", "es": "Inflige Maldición"}
+{"key": "text/item#986/descripcion", "es": "◆Objeto de depuración"}
+{"key": "text/item#987/nombre", "es": "◆Cosa de Infortunio"}
+{"key": "text/item#987/efecto", "es": "Inflige Infortunio"}
+{"key": "text/item#987/descripcion", "es": "◆Objeto de depuración"}
+{"key": "text/item#988/nombre", "es": "◆Cosa de Pesadez"}
+{"key": "text/item#988/efecto", "es": "Inflige Pesadez"}
+{"key": "text/item#988/descripcion", "es": "◆Objeto de depuración"}
+{"key": "text/item#989/nombre", "es": "◆Cosa de Congelación"}
+{"key": "text/item#989/efecto", "es": "Inflige Congelación"}
+{"key": "text/item#989/descripcion", "es": "◆Objeto de depuración"}
+{"key": "text/item#990/nombre", "es": "◆Cosa de Quemadura"}
+{"key": "text/item#990/efecto", "es": "Inflige Quemadura"}
+{"key": "text/item#990/descripcion", "es": "◆Objeto de depuración"}
+{"key": "text/item#991/nombre", "es": "◆Cosa de Parálisis"}
+{"key": "text/item#991/efecto", "es": "Inflige Parálisis"}
+{"key": "text/item#991/descripcion", "es": "◆Objeto de depuración"}
+{"key": "text/item#992/nombre", "es": "◆Hoja de Veneno"}
+{"key": "text/item#992/efecto", "es": "Inflige Veneno"}
+{"key": "text/item#992/descripcion", "es": "◆Objeto de depuración"}
+{"key": "text/item#993/nombre", "es": "◆100% Maldición"}
+{"key": "text/item#993/efecto", "es": "Siempre con Maldición"}
+{"key": "text/item#993/descripcion", "es": "◆Objeto de depuración"}
+{"key": "text/item#994/nombre", "es": "◆100% Infortunio"}
+{"key": "text/item#994/efecto", "es": "Siempre con Infortunio"}
+{"key": "text/item#994/descripcion", "es": "◆Objeto de depuración"}
+{"key": "text/item#995/nombre", "es": "◆100% Pesadez"}
+{"key": "text/item#995/efecto", "es": "Siempre con Pesadez"}
+{"key": "text/item#995/descripcion", "es": "◆Objeto de depuración"}
+{"key": "text/item#996/nombre", "es": "◆100% Congelación"}
+{"key": "text/item#996/efecto", "es": "Siempre con Congelación"}
+{"key": "text/item#996/descripcion", "es": "◆Objeto de depuración"}
+{"key": "text/item#997/nombre", "es": "◆100% Quemadura"}
+{"key": "text/item#997/efecto", "es": "Siempre con Quemadura"}
+{"key": "text/item#997/descripcion", "es": "◆Objeto de depuración"}
+{"key": "text/item#998/nombre", "es": "◆100% Parálisis"}
+{"key": "text/item#998/efecto", "es": "Siempre con Parálisis"}
+{"key": "text/item#998/descripcion", "es": "◆Objeto de depuración"}
+{"key": "text/item#999/nombre", "es": "◆100% Veneno"}
+{"key": "text/item#999/efecto", "es": "Siempre con Veneno"}
+{"key": "text/item#999/descripcion", "es": "◆Objeto de depuración"}

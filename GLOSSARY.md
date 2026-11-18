@@ -30,7 +30,7 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Roo | roo | Oficial (G-1), Ys Origin guiones («The Roo appears to be hungry» → «El roo parece hambriento»), 2026-11-17 | Animal sagrado; en minúscula como especie (`script/` y `text/diary`). |
 | Roos | roos | Oficial (G-1), Ys Origin guiones («us Roos» → «los roos»), 2026-11-17 | Plural de «roo». |
 | pikkard | pikkard | Oficial (G-1), Ys Origin guiones («piel de pikkard»), 2026-11-17 | Animal de la serie; en minúscula como especie (`text/monslib#E0950/descripcion`). |
-| Celcetan | celcetano, celcetana | Oficial (G-1), Ys Origin `invinfo` tl_23 («Panacea celcetana»), 2026-11-17 | Adjetivo de Celceta; concuerda con el sustantivo. El nombre «Celceta» se queda igual. |
+| Celcetan | celcetano | Oficial (G-1), Ys Origin `invinfo` tl_23 («Panacea celcetana»), 2026-11-17 | Adjetivo de Celceta; concuerda con el sustantivo («celcetana», «celcetanos»). El nombre «Celceta» se queda igual. |
 | Emerald | esmeralda | Oficial (G-1), Ys Origin guiones («Acquired Emerald.» → «Obtienes esmeralda.»), 2026-11-17 | Gema; material (`text/item#763/nombre`). |
 | Topaz | topacio | Oficial (G-1), Ys Origin guiones («Acquired Topaz.» → «Obtienes topacio.»), 2026-11-17 | Gema; material (`text/item#764/nombre`). |
 | Commander | comandante | Oficial (G-1), Ys Origin guiones («Commander Saul Tovah» → «el comandante Saúl Tovah»), 2026-11-17 | Título militar, en minúscula ante el nombre: «Commander Leo» → «el comandante Leo». |
@@ -54,7 +54,7 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Woman's Voice | Voz de mujer | Oficial (G-1), Ys Origin guiones, 2026-11-17 | Rótulo de quien habla (`script/mp4203#EV04_35_Come_Griselda/483`). |
 | Girl's Voice | Voz de chica | Oficial (G-1), Ys Origin guiones, 2026-11-17 | Rótulo de quien habla (`script/mp3202m#MESUB_10ev/103`). |
 | SP | PH | Decidido (G-2), DECISIONS 2026-11-17 | Puntos de habilidad: la barra que gastan las habilidades (`text/strSystem#STR_MENU_COST_SP`). En *Ys Origin* «SP» era otra cosa («PE»). «Req. SP» → «PH nec.». |
-| gold | monedas | Decidido (G-2), DECISIONS 2026-11-17 | Moneda, como *Ys Origin*: «You don't have enough gold» → «No tienes suficientes monedas». En nombres («Gold Ore», «Gold Colossus») es el metal: «oro». |
+| gold | monedas | Decidido (G-2), DECISIONS 2026-11-17 | Moneda, como *Ys Origin*: «You don't have enough gold» → «No tienes suficientes monedas». En nombres («Gold Ore», «Gold Colossus») es el metal: «oro». Cuando «gold» es el metal («pure gold», «Gold Ingot») va «oro», y el aviso `gold → monedas` de `loc.py check` es falso: se deja. |
 | %d G | %d M | Decidido (G-2), DECISIONS 2026-11-17 | Abreviatura de la moneda, como *Ys Origin*: «500 G» → «500 M». |
 | Sol-Galva | Sol-Galba | Decidido (G-2), DECISIONS 2026-11-17 | Inconsistencia del original (`map/`): se unifica con «Sol-Galba», la forma del resto del juego. |
 | Governor General Griselda | gobernadora general Griselda | Decidido (G-2), DECISIONS 2026-11-18 | Título de Griselda; con artículo en la frase: «la gobernadora general Griselda». |
@@ -226,3 +226,12 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Left/Right Trigger | Gatillo izq./der. | Decidido (G-2), DECISIONS 2026-11-18 | Control; «Left/Right Stick» → «Stick I/D». |
 | Page Up / Page Down | Re Pág / Av Pág | Decidido (G-2), DECISIONS 2026-11-18 | Teclas; «Backspace» → «Retroceso», «Left/Right Shift» → «Mayús izq./der.». |
 | Voice On / Off | Sí / No | Decidido (G-2), DECISIONS 2026-11-18 | Opción de voz; «Adol voice off» → «Adol desactivado». |
+| Silver | plata | Decidido (G-2), DECISIONS 2026-11-18 | El metal («Silver Armor» → «armadura de plata»); no es el regionalismo de E-13. |
+| Superb Toxic Gauntlet | Guantelete tóxico soberbio | Decidido (G-2), DECISIONS 2026-11-18 | Pareja de «Espada ardiente fabulosa»: misma broma, adjetivo exagerado al final. |
+| Amazing Viscous Knives | Cuchillos viscosos increíbles | Decidido (G-2), DECISIONS 2026-11-18 | Misma serie de la broma. |
+| Perilous Thunder Spear | Lanza del trueno temible | Decidido (G-2), DECISIONS 2026-11-18 | Misma serie de la broma. |
+| Extreme Death Mace | Maza mortal extrema | Decidido (G-2), DECISIONS 2026-11-18 | Misma serie de la broma. |
+| silver | plata | Decidido (G-2), DECISIONS 2026-11-18 | Igual que «Silver», en minúscula a media frase («Divine silver armor»). |
+| Darklings | lóbregos | Oficial (G-1), Ys Origin `ev_feena02` («I'm a member of the Darklings» → «Soy un miembro de los lóbregos»), 2026-11-18 | La tribu maldita; en minúscula a media frase. |
+| Dananian | danano | Decidido (G-2), DECISIONS 2026-11-18 | Gentilicio de Danan; concuerda: «tecnología danana». |
+| ore | mena | Oficial (G-1), como «Ore», 2026-11-18 | En minúscula a media frase: «rare ore» → «mena rara». |
