@@ -7,7 +7,7 @@ Plantilla del kit: los números quedan; lo de cada regla se completa con lo que 
 ## Códigos y saltos
 
 - **T-1** Los códigos (variables, etiquetas, colores, nombres insertados) quedan intactos y en el mismo orden que en el original. Los reconoce la lista `codes` de `loc.json`. (`codigos`)
-  - En Celceta son `#` + número + letra (`#4C`, `#00407F`, `#2M`, `#0B`), de ancho cero. Los del inicio del cuadro (cara `F`, centrado `C`, gesto `M`, voz `V`, tamaño `S`, pausa `W`) no se exportan: el adaptador los quita del texto y los vuelve a poner. Los que quedan en medio (por ejemplo `#0B`, el icono de un botón) van en la traducción tal cual.
+  - En Celceta son `#` + número + letra (`#4C`, `#00407F`, `#2M`, `#0B`), de ancho cero. Los del inicio del cuadro (cara `F`, centrado `C`, gesto `M`, voz `V`, tamaño `S`, pausa `W`) no se exportan: el adaptador los quita del texto y los vuelve a poner. Los que quedan en medio (por ejemplo `#0B`, el icono de un botón) van en la traducción tal cual. En la interfaz también hay `#%dA` (el icono del botón cuyo número llega por `%d`) y los `%s`, `%d` de `printf`; todos van intactos y en el mismo orden. Los textos sin letras («???», «...») no se exportan.
 - **T-2** Saltos de línea: los fijos (`fixed_break` en `loc.json`) van exactamente donde están en el original, ni más ni menos. Los demás, si el adaptador parte los renglones, los pone el adaptador. (`saltos`)
   - En Celceta no hay saltos fijos: los cuadros de diálogo y los mensajes se exportan sin saltos y el adaptador los reparte en renglones según el ancho de la fuente. La traducción no lleva saltos. [DECISIONS 2026-11-17]
 
@@ -43,7 +43,7 @@ Se editan a mano [DECISIONS 2026-11-17]. `tools/images.py export` deja los origi
 
 ## Espacio
 
-Anchos máximos medidos en el inglés, en unidades de la fuente (`tools/celceta.py`, `WIDTH`): cuadro con retrato 960, sin retrato 1100, narración centrada 1500, mensaje del sistema 1300. Cuadros de diálogo: hasta 3 renglones. En el juego (2026-11-17), los cuadros sin retrato caben con un 10–14 % de margen; los otros tipos faltan por confirmar.
+Anchos máximos medidos en el inglés, en unidades de la fuente (`tools/celceta.py`, `WIDTH`): cuadro con retrato 960, sin retrato 1100, narración centrada 1500, mensaje del sistema 1300. Cuadros de diálogo: hasta 3 renglones. En el juego (2026-11-17): los cuadros sin retrato caben con un 10–14 % de margen y los con retrato admiten unas 1000 unidades. Los textos de interfaz llevan como límite el ancho del original: el aviso no obliga a recortar (T-3), pero los que van anclados a la derecha (avisos de acción) o junto a otro elemento (cabeceras, columnas de «Records») se salen si son mucho más largos.
 
 - **T-3** La caja: ningún renglón puede pasar del ancho que permite el juego. Si el límite medido es el del original y no el de la pantalla, el aviso no obliga a recortar: se permiten abreviaturas reconocibles, pero nunca se quitan palabras ni se acorta de forma que se pierda el sentido. Si la forma completa no cabe, va completa y con su aviso, y se revisa en el juego. [IVA] (chequeo del proyecto, en `hooks`)
 - **T-4** Los textos con largo máximo en bytes (`max` en el lote) no pueden pasarlo: es un límite duro. (`bytes`)

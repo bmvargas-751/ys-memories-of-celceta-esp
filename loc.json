@@ -51,7 +51,7 @@
     "script/test#"
   ],
   "codes": [
-    "#-?\\d+[A-Za-z]",
+    "#-?(?:\\d+|%d)[A-Za-z]",
     "%[-+0-9.]*[sdifxXu]"
   ],
   "fixed_break": null,

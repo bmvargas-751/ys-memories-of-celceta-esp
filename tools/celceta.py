@@ -39,8 +39,8 @@ SOURCE = LOCAL / "source.jsonl"
 TRANSLATION = ROOT / "translation"
 
 # Códigos de control del texto: #4C, #00407F, #2M, #0B... (ancho cero)
-CODE = re.compile(r"#-?\d+[A-Za-z]")
-LEAD = re.compile(r"^(?:#-?\d+[A-Za-z])+")
+CODE = re.compile(r"#-?(?:\d+|%d)[A-Za-z]")
+LEAD = re.compile(r"^(?:#-?(?:\d+|%d)[A-Za-z])+")
 
 # ---------------------------------------------------------------- codificación
 
@@ -295,6 +295,13 @@ def script_files():
 
 # ---------------------------------------------------------------- comandos
 
+PRINTF = re.compile(r"%[-+0-9.]*[sdifxXu]")
+
+
+def has_letters(text):
+    return re.search(r"[A-Za-zÁÉÍÓÚÜÑáéíóúüñ]", PRINTF.sub("", CODE.sub("", text))) is not None
+
+
 def table_files():
     return [GAME / "lang/en/text" / f"{n}.tbb" for n in tables.FILES]
 
@@ -316,6 +323,8 @@ def export():
                 n += 1
         for path in map_files():
             for uid, text, kind in arb.units(path.read_bytes(), sys.modules[__name__]):
+                if not has_letters(text):
+                    continue
                 out.write(json.dumps({"key": f"map/{path.stem}#{uid}", "en": text, "note": kind},
                                      ensure_ascii=False) + "\n")
                 n += 1
@@ -326,6 +335,8 @@ def export():
         for path in script_files():
             script = ys7scp.Script(path.read_bytes())
             for uid, text, speaker, note, _ in script_units(script):
+                if not has_letters(text):
+                    continue  # «???», «...»: no se traduce
                 row = {"key": f"script/{path.stem}#{uid}", "en": text}
                 if speaker:
                     row["speaker"] = speaker

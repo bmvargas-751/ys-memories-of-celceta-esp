@@ -24,13 +24,14 @@ Se cierran en la fase 0, porque son caras de cambiar después.
 Antes de esto no se decide nada más.
 
 - [x] Extraer los archivos del juego, a una carpeta fuera del repo. (`../ys-memories-of-celceta-esp-local/celceta/`, 2026-11-17.)
-- [ ] Adaptador: exportar el texto al formato común (`source` de `loc.json`) e importarlo de vuelta. (Hecho para todo el texto, 19 745 líneas, 2026-11-17; faltan las imágenes con texto.)
+- [x] Adaptador: exportar el texto al formato común (`source` de `loc.json`) e importarlo de vuelta. (`tools/celceta.py`, 19 374 textos; imágenes con `tools/images.py`, 2026-11-17.)
 - [x] Ida y vuelta idéntica: exportar e importar sin cambios da los mismos archivos. (`tools/celceta.py roundtrip`, 2026-11-17.)
 - [x] Caracteres: si la fuente tiene las letras españolas, o cómo se agregan (T-5). (No las tiene; `tools/font_es.py` las agrega. Probado en el juego, 2026-11-17.)
-- [ ] Límites: bytes, ancho y renglones de cada tipo de texto (T-3, T-4), y sus chequeos en `hooks`. Los cuadros de diálogo van con reflujo automático, hasta 3 renglones. [DECISIONS 2026-11-17]
-- [ ] Pseudolocalización: todo el texto más largo y con letras españolas, en el juego, para ver cortes y glifos que faltan.
-  - 2026-11-17, guiones: las letras españolas se ven bien (sin cortes arriba) y los cuadros sin retrato caben con un 10–14 % de margen. Falta ver cuadros con retrato, narración centrada y opciones, y todo lo que no son guiones.
-- [ ] Completar TECH.md y `loc.json` (`codes`, `fixed_break`, `excluded`, `sections`).
+- [x] Límites: bytes, ancho y renglones de cada tipo de texto (T-3, T-4), y sus chequeos en `hooks`. Los cuadros de diálogo van con reflujo automático, hasta 3 renglones. [DECISIONS 2026-11-17] (`tools/hooks.py`; ver TECH.md.)
+- [x] Pseudolocalización: todo el texto más largo y con letras españolas, en el juego, para ver cortes y glifos que faltan. (`tools/gametest.py`.)
+  - 2026-11-17, guiones: las letras españolas se ven bien (sin cortes arriba) y los cuadros sin retrato caben con un 10–14 % de margen.
+  - 2026-11-17, todo el texto: funcionan tablas (con filas extra en el diario), habilidades comprimidas, interfaz, nombres de PNJ y la fuente del mapa. Los cuadros con retrato admiten unas 1000 unidades (límite 960). Se corrigieron el pie `STRL` de `strSystem.dbin` y el código `#%dA`. Lo que se sale (cabeceras, avisos a la derecha, valores de «Records») es por el largo de la pseudo y lo marca el chequeo.
+- [x] Completar TECH.md y `loc.json` (`codes`, `fixed_break`, `excluded`, `sections`).
 
 ### Fase 2. Inventario y presupuesto
 
