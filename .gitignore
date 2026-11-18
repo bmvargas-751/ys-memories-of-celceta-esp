@@ -1,0 +1,7 @@
+# Textos extraídos del juego, artefactos y archivos de trabajo (no se suben)
+build/
+dist/
+# Originales del juego que guarda el instalador
+backup/
+# Caché de Python
+__pycache__/
