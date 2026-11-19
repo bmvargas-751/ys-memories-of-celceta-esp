@@ -43,3 +43,4 @@ Lo que el usuario decidió, con fecha, para no volver a discutirlo. Una regla de
 - **2026-11-18** Lote guiones-011 (orquestador, por delegación): Adol le habla de *usted* a Griselda, como ella a él. «Romn» (la capital del imperio) queda igual. «Stormwall» → «Muro de Tormenta» y «Altagan Dragon Knights» → «Caballeros Dragón de Altago», «altaginos» (provisionales, sin fila en el glosario todavía).
 - **2026-11-18** Lote guiones-012 (orquestador, por delegación): «Roaring Leo» → «Leo Rugiente». «X joined the party» → «X se unió al grupo».
 - **2026-11-19** Lote guiones-016 (orquestador, por delegación): Adol tutea a Asad (Asad lo tutea y no hay ficha que pida *usted*). «Muscular Warrior» → «Guerrero musculoso». «spirited away» → «esfumarse»; los afectados, «los desaparecidos».
+- **2026-11-19** Lote guiones-017 (orquestador, por delegación): aviso de misión nueva → «Se agregó la misión "X" a tu diario.».
