@@ -1,8 +1,10 @@
 {"key": "script/mp6210#EV06_07_Hear_Voice/87", "es": "¿En serio?"}
+{"key": "script/mp6210#EV06_09_Meet_GrandRu/272", "es": "¡¿De verdad?!"}
 {"key": "script/mp6210#EV06_09_Meet_GrandRu/313", "es": "¿Qué es?"}
 {"key": "script/mp6210#EV06_09_Meet_GrandRu/340", "es": "Gracias."}
 {"key": "script/mp6210#EV09_00_Talk_Remnos/69", "es": "¡Ah...!"}
 {"key": "script/mp6210#EV09_00_Talk_Remnos/175", "es": "No te preocupes."}
+{"key": "script/mp6210#EV09_01_Talk_GrandRu/115", "es": "¿Mm?"}
 {"key": "script/mp6210#EV09_01_Talk_GrandRu/161", "es": "Obtienes "}
 {"key": "script/mp6210#EV09_01_Talk_GrandRu/187", "es": "Gracias."}
 {"key": "script/mp6210#EV09_01_Talk_GrandRu/198", "es": "Permítanme explicarles."}
@@ -16,6 +18,7 @@
 {"key": "script/mp6210#talk_guran/75", "es": "Zzz... Zzz..."}
 {"key": "script/mp6210#talk_guran/83", "es": "Zzz... Zzz..."}
 {"key": "script/mp6210#talk_Gazock/19", "es": "Reforzar/Refinar"}
+{"key": "script/mp6210#talk_Gazock/20", "es": "Fabricar accesorio"}
 {"key": "script/mp6210#talk_Gazock/21", "es": "Hablar"}
 {"key": "script/mp6210#talk_Gazock/22", "es": "Cancelar"}
 {"key": "script/mp6210#talk_Pansa/24", "es": "*jadeo* *jadeo*"}

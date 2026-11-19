@@ -1,7 +1,256 @@
+{"key": "script/mp3201#EV02_10_Search_Info/34", "es": "Como prometí, les he explicado la situación a todos los aldeanos."}
+{"key": "script/mp3201#EV02_10_Search_Info/36", "es": "Y les he pedido que cooperen con su investigación, así que no duden en plantear cualquier pregunta que tengan."}
+{"key": "script/mp3201#EV02_10_Search_Info/39", "es": "Me pone algo nervioso, considerando que aún no hemos probado nuestra inocencia..."}
+{"key": "script/mp3201#EV02_10_Search_Info/41", "es": "Bueno, vamos a ver si encontramos pistas."}
+{"key": "script/mp3201#EV02_11_Order_Info/32", "es": "Creo que ya tenemos suficiente información para empezar, al menos."}
+{"key": "script/mp3201#EV02_11_Order_Info/35", "es": "Repasemos lo que sabemos y veamos si podemos ordenarlo, ¿de acuerdo?"}
+{"key": "script/mp3201#EV02_11_Order_Info/41", "es": "Primero, veamos... ¿Cuándo notaron los aldeanos el veneno por primera vez?"}
+{"key": "script/mp3201#Question_01/2", "es": "Antes de que me fuera."}
+{"key": "script/mp3201#Question_01/3", "es": "Después de que me fui."}
+{"key": "script/mp3201#Question_01/9", "es": "...¿En serio? No recuerdo que nadie dijera algo así. Piénsalo otra vez."}
+{"key": "script/mp3201#Question_01/11", "es": "¿Cuándo notaron los aldeanos el veneno por primera vez?"}
+{"key": "script/mp3201#Question_01/18", "es": "Sí, lo notaron justo después de que te fueras de Selray."}
+{"key": "script/mp3201#Question_01/20", "es": "Y por eso te culpan."}
+{"key": "script/mp3201#Question_01/22", "es": "La siguiente pregunta es: ¿cómo lo notaron?"}
+{"key": "script/mp3201#Question_02/2", "es": "Un olor fétido del río."}
+{"key": "script/mp3201#Question_02/3", "es": "El río se tiñó de rojo."}
+{"key": "script/mp3201#Question_02/10", "es": "¡Vamos, Adol, sé que no soy quien para hablar, pero ponte serio, ¿quieres?!"}
+{"key": "script/mp3201#Question_02/12", "es": "¿Cómo notaron el veneno?"}
+{"key": "script/mp3201#Question_02/18", "es": "Sí, parece que lo que sea que había ahí tiñó el agua de rojo. ¡Debió de ser una verdadera locura verlo!"}
+{"key": "script/mp3201#Question_02/20", "es": "¿Y de dónde se originó el veneno?"}
+{"key": "script/mp3201#Question_03/2", "es": "Cerca de la aldea."}
+{"key": "script/mp3201#Question_03/3", "es": "Río arriba."}
+{"key": "script/mp3201#Question_03/9", "es": "¿En serio? No recuerdo que nadie nos dijera eso..."}
+{"key": "script/mp3201#Question_03/11", "es": "Piénsalo otra vez. ¿De dónde se originó el veneno?"}
+{"key": "script/mp3201#Question_03/18", "es": "Sí, eso es. Y si vino de río arriba, debió venir de algún lugar fuera de Selray."}
+{"key": "script/mp3201#Question_03/20", "es": "...Muy bien, Adol. Si sumas todo eso, ¿quién destaca como el culpable más probable?"}
+{"key": "script/mp3201#Question_04/2", "es": "¡Fui yo! ¡Tenía que ser!"}
+{"key": "script/mp3201#Question_04/3", "es": "Fue alguien de la aldea."}
+{"key": "script/mp3201#Question_04/4", "es": "No fue una persona en absoluto..."}
 {"key": "script/mp3201#Question_04/11", "es": "¡¿Qué?!"}
+{"key": "script/mp3201#Question_04/13", "es": "¡¿Acaso no hacemos todo esto para probar que NO envenenaste las aguas de por aquí?!"}
+{"key": "script/mp3201#Question_04/15", "es": "Te lo pregunto de nuevo: ¿qué tiene más sentido según todo lo que hemos oído?"}
+{"key": "script/mp3201#Question_04/24", "es": "Eso no tendría sentido, ¿verdad? Esta aldea necesita peces para sobrevivir. ¿Quién envenenaría su única fuente de alimento?"}
+{"key": "script/mp3201#Question_04/26", "es": "Los pescadores a quienes preguntamos estaban todos horrorizados."}
+{"key": "script/mp3201#Question_04/28", "es": "No hay manera de que alguien de aquí haga algo así."}
+{"key": "script/mp3201#Question_04/36", "es": "...¿Qué te lleva a esa conclusión?"}
+{"key": "script/mp3201#Question_04/42", "es": "Tiene sentido, si lo piensas."}
+{"key": "script/mp3201#Question_04/44", "es": "Haría falta muchísimo veneno para teñir de rojo todo un río."}
+{"key": "script/mp3201#Question_04/46", "es": "Y si vino de río arriba, eso significaría que alguien lo vertió en el río desde algún lugar fuera de la aldea."}
+{"key": "script/mp3201#Question_04/48", "es": "Nadie puede cargar tanto veneno por un bosque infestado de monstruos. ¡Y menos solo, como habría tenido que hacerlo Adol!"}
+{"key": "script/mp3201#Question_04/50", "es": "Es decir, no digo que sea imposible envenenar el agua desde río arriba, pero ¿teñir todo el río de rojo? ¡Poco probable!"}
+{"key": "script/mp3201#Question_04/54", "es": "...Sí parece bastante inverosímil."}
+{"key": "script/mp3201#Question_04/56", "es": "Entonces, ¿tu conclusión es que el culpable podría ser un fenómeno natural, o una criatura?"}
+{"key": "script/mp3201#Question_04/60", "es": "Adol y... ¿dijiste que te llamabas Duren, verdad? ¿Podría pedirles que vengan conmigo?"}
+{"key": "script/mp3201#EV02_20_Leave_Serurei/32", "es": "No puedo creer que él cuide de toda una aldea a su edad."}
+{"key": "script/mp3201#EV02_20_Leave_Serurei/34", "es": "Debe de ser una carga enorme sobre sus hombros. Si tenemos la oportunidad, deberíamos ir a verlo de nuevo algún día."}
+{"key": "script/mp3201#EV02_20_Leave_Serurei/42", "es": "Ahora puedes aceptar misiones en Selray."}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/48", "es": "Creo que ya terminé todos mis preparativos."}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/50", "es": "Se siente extraño dejar mi hogar por primera vez para emprender un viaje."}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/53", "es": "¡Oh, créeme, sé exactamente a qué te refieres!"}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/55", "es": "Es una gran mezcla de emoción y nervios. Se te hace un nudo en el estómago, el corazón se te sale del pecho..."}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/60", "es": "Yo... eh... Creo que a Ozma le preocupan más sus responsabilidades."}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/66", "es": "¡Hmph! ¿Qué estás insinuando?"}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/72", "es": "¿Qué pasará con los spardas mientras no estés? Creía que eras el único que podía cuidarlos, ¿no?"}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/78", "es": "Otra persona de la aldea puede atender sus necesidades básicas. Es lo único que puede hacer, pero debería bastar."}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/80", "es": "Normalmente, incluso eso estaría prohibido por las leyes de mi tribu, sin embargo..."}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/84", "es": "¿Es esa chica con la que eres amigo desde que eras niño?"}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/87", "es": "¡Oh, ya entiendo lo que pasa aquí!"}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/89", "es": "¿Por qué no te casas con ella? O sea, no sé cómo funcionan las cosas aquí, pero eso resolvería tu problema con la ley, ¿no?"}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/95", "es": "¡Oh-ho, esa sí que es una reacción interesante!"}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/98", "es": "*Ejem*"}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/103", "es": "Ayyy..."}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/106", "es": "B-Bien..."}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/113", "es": "Volviendo al asunto que nos ocupa, si salimos de aquí y seguimos el río hacia el norte, deberíamos llegar a las ruinas."}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/115", "es": "Marqué en su mapa dónde creo que se encuentran, por si necesitan confirmar su ubicación."}
+{"key": "script/mp3201#EV03_10_Go_UG_Ruin/120", "es": "Muy bien, Adol. ¿Listo para esto? ¡Pongámonos en marcha!"}
+{"key": "script/mp3201#EV03_11_Look_River/33", "es": "Ese Leo estuvo aquí hace un rato y se fue en uno de los spardas sin permiso."}
+{"key": "script/mp3201#EV03_11_Look_River/35", "es": "Parece que se están acercando mucho a la orilla opuesta. Espero que estén bien..."}
+{"key": "script/mp3201#EV03_13_Leo_Stream/38", "es": "Supongo que ellos también intentan cruzar a las Tierras Primigenias, ¿no?"}
+{"key": "script/mp3201#EV03_13_Leo_Stream/41", "es": "Les dije que era imposible en un sparda, pero no quisieron escuchar razones."}
+{"key": "script/mp3201#EV03_13_Leo_Stream/46", "es": "¿E-Estarán bien allá afuera?"}
+{"key": "script/mp3201#EV03_13_Leo_Stream/49", "es": "Bah, son un grupo sorprendentemente duro. Seguro que estarán bien."}
+{"key": "script/mp3201#QS301_Start/29", "es": "Ah, son ustedes dos. ¿Necesitaban algo?"}
+{"key": "script/mp3201#QS301_Start/32", "es": "Ah, no, venimos por tu solicitud del tablón."}
+{"key": "script/mp3201#QS301_Start/39", "es": "Ah, ¿lo del tendero temporal?"}
+{"key": "script/mp3201#QS301_Start/41", "es": "Hmm... Bueno, ya quedaron libres de sospecha, así que... claro, ¿por qué no?"}
+{"key": "script/mp3201#QS301_Start/43", "es": "¿Les interesa probar suerte con las ventas?"}
+{"key": "script/mp3201#QS301_Start/49", "es": "Ah, son ustedes dos. ¿Cambiaron de opinión sobre la solicitud del tendero temporal?"}
 {"key": "script/mp3201#QS301_Start/55", "es": "Aceptar"}
 {"key": "script/mp3201#QS301_Start/56", "es": "Rechazar"}
+{"key": "script/mp3201#QS301_Start/64", "es": "Está bien. Supongo que tendré que esperar a otra persona, entonces."}
+{"key": "script/mp3201#QS301_Start/66", "es": "Bueno, si necesitan comprar algo, avísenme."}
+{"key": "script/mp3201#QS301_Start/93", "es": "¡Excelente!"}
+{"key": "script/mp3201#QS301_Start/95", "es": "Muy bien, déjenme explicarles en resumen lo que quiero que hagan."}
+{"key": "script/mp3201#QS301_Start2/22", "es": "¡Ahí parados juntos parecen verdaderos comerciantes!"}
+{"key": "script/mp3201#QS301_Start2/24", "es": "Hoy quiero que los dos sean dependientes de la tienda. Básicamente, si llega un cliente, le venden cosas. Sencillo, ¿no?"}
+{"key": "script/mp3201#QS301_Start2/26", "es": "Pero hay algo que necesito explicarles, y es cómo manejo los descuentos."}
+{"key": "script/mp3201#QS301_Start2/29", "es": "¿Descuentos?"}
+{"key": "script/mp3201#QS301_Start2/33", "es": "Es el secreto para dejar contento a todos... ¿o para mantener el negocio, quizás? De cualquier forma, los descuentos son importantísimos."}
+{"key": "script/mp3201#QS301_Start2/35", "es": "Un comerciante exitoso no solo vende las cosas a su precio normal. Hay que saber adaptarse según la situación."}
+{"key": "script/mp3201#QS301_Start2/37", "es": "¡Les voy a explicar qué pueden y qué no pueden rebajar, así que presten atención y no olviden nada de esto!"}
+{"key": "script/mp3201#QS301_Start2/40", "es": "*suspiro* Suena a que va a ser un fastidio..."}
+{"key": "script/mp3201#QS301_Start2/43", "es": "Jaja. ¡Vamos, vamos, no pongas esa cara! Esta es la auténtica experiencia de vendedor. ¡Bienvenido a mi mundo!"}
+{"key": "script/mp3201#QS301_Start2/45", "es": "...¡Aquí vamos! ¿Me escuchan?"}
+{"key": "script/mp3201#QS301_Start2/58", "es": "Primero, los granos."}
+{"key": "script/mp3201#QS301_Start2/60", "es": "Trigo, legumbres, maíz, ese tipo de cosas. Son esenciales en casi toda dieta, pero..."}
+{"key": "script/mp3201#QS301_Start2/62", "es": "Su época de cosecha ya pasó, así que por ahora no podemos venderlos con descuento."}
+{"key": "script/mp3201#QS301_Start2/65", "es": "No rebajar los granos. Entendido."}
+{"key": "script/mp3201#QS301_Start2/68", "es": "Ahora, los ingredientes frescos. En concreto, frutas, verduras y cosas por el estilo."}
+{"key": "script/mp3201#QS301_Start2/70", "es": "En cuanto a las verduras, la cosecha de este año fue sorprendentemente normal, así que no podemos bajar mucho sus precios."}
+{"key": "script/mp3201#QS301_Start2/72", "es": "En cambio, la mayoría de las frutas y nueces todavía se cosechan con bastante facilidad, así que sí hay margen para bajar el precio."}
+{"key": "script/mp3201#QS301_Start2/78", "es": "En especial, hoy cosechamos muchas nueces de chito."}
+{"key": "script/mp3201#QS301_Start2/81", "es": "Y si sobra alguna, se echará a perder... así que traten de venderlas con descuento siempre que sea posible."}
+{"key": "script/mp3201#QS301_Start2/84", "es": "Eh... no rebajar las verduras, vender las nueces de chito con descuento siempre que sea posible. Entendido."}
+{"key": "script/mp3201#QS301_Start2/89", "es": "En especial, hoy cosechamos muchas frutas de raparo."}
+{"key": "script/mp3201#QS301_Start2/91", "es": "Y si sobra alguna, se echará a perder... así que traten de venderlas con descuento siempre que sea posible."}
+{"key": "script/mp3201#QS301_Start2/94", "es": "Eh... no rebajar las verduras, vender las frutas de raparo con descuento siempre que sea posible. Entendido."}
+{"key": "script/mp3201#QS301_Start2/99", "es": "En especial, hoy cosechamos muchas frutas de arieda."}
+{"key": "script/mp3201#QS301_Start2/101", "es": "Y si sobra alguna, se echará a perder... así que traten de venderlas con descuento siempre que sea posible."}
+{"key": "script/mp3201#QS301_Start2/104", "es": "Eh... no rebajar las verduras, vender las frutas de arieda con descuento siempre que sea posible. Entendido."}
+{"key": "script/mp3201#QS301_Start2/108", "es": "Ahora vienen las telas para ropa. Seda, algodón y cosas así."}
+{"key": "script/mp3201#QS301_Start2/110", "es": "Pronto cosecharemos más algodón en rama y todavía queda bastante, así que intenten deshacerse de él a bajo precio si pueden."}
+{"key": "script/mp3201#QS301_Start2/113", "es": "Vender el algodón con descuento. Entendido."}
+{"key": "script/mp3201#QS301_Start2/116", "es": "Por último, la vajilla. Tazas, platos, ese tipo de artículos de uso diario."}
+{"key": "script/mp3201#QS301_Start2/118", "es": "No podemos ofrecer ningún descuento en esos, así que tengan eso muy presente."}
+{"key": "script/mp3201#QS301_Start2/121", "es": "Nada de rebajas en la vajilla. Entendido."}
+{"key": "script/mp3201#QS301_Start2/123", "es": "...Uf, es mucho que asimilar."}
+{"key": "script/mp3201#QS301_Start2/126", "es": "Ah, y antes de que se me olvide..."}
+{"key": "script/mp3201#QS301_Start2/129", "es": "*suspiro* ¿Hay más?"}
+{"key": "script/mp3201#QS301_Start2/132", "es": "Recuerden siempre recibir a los clientes con una sonrisa alegre."}
+{"key": "script/mp3201#QS301_Start2/135", "es": "Aunque ya nadie sospecha de ustedes, siguen sin ser de esta aldea."}
+{"key": "script/mp3201#QS301_Start2/137", "es": "Así que la gente se sentirá mucho más tranquila con ustedes si se ven seguros y... accesibles."}
+{"key": "script/mp3201#QS301_Start2/140", "es": "Hmm... Sí, tiene sentido."}
+{"key": "script/mp3201#QS301_Start2/143", "es": "Eso es todo, más o menos."}
+{"key": "script/mp3201#QS301_Start2/145", "es": "¿Creen que podrán recordar todo eso?"}
+{"key": "script/mp3201#QS301_Start2/147", "es": "Puedo explicarlo todo otra vez si quieren."}
+{"key": "script/mp3201#QS301_Start2/153", "es": "¡Me lo sé de memoria!"}
+{"key": "script/mp3201#QS301_Start2/154", "es": "Explícalo otra vez, por favor."}
+{"key": "script/mp3201#QS301_Start2/159", "es": "Muy bien. Esta vez escuchen con atención, por favor. Primero, los granos."}
+{"key": "script/mp3201#QS301_Start2/161", "es": "Trigo, legumbres, maíz, ese tipo de cosas. Son esenciales en casi toda dieta, pero..."}
+{"key": "script/mp3201#QS301_Start2/163", "es": "Su época de cosecha ya pasó, así que por ahora no podemos venderlos con descuento."}
+{"key": "script/mp3201#QS301_Start2/165", "es": "Ahora, los ingredientes frescos. En concreto, frutas, verduras y cosas por el estilo."}
+{"key": "script/mp3201#QS301_Start2/167", "es": "En cuanto a las verduras, la cosecha de este año fue sorprendentemente normal, así que no podemos bajar mucho sus precios."}
+{"key": "script/mp3201#QS301_Start2/169", "es": "En cambio, la mayoría de las frutas y nueces todavía se cosechan con bastante facilidad, así que sí hay margen para bajar el precio."}
+{"key": "script/mp3201#QS301_Start2/172", "es": "En especial, hoy cosechamos muchas nueces de chito."}
+{"key": "script/mp3201#QS301_Start2/174", "es": "Y si sobra alguna, se echará a perder... así que traten de venderlas con descuento siempre que sea posible."}
+{"key": "script/mp3201#QS301_Start2/178", "es": "En especial, hoy cosechamos muchas frutas de raparo."}
+{"key": "script/mp3201#QS301_Start2/180", "es": "Y si sobra alguna, se echará a perder... así que traten de venderlas con descuento siempre que sea posible."}
+{"key": "script/mp3201#QS301_Start2/184", "es": "En especial, hoy cosechamos muchas frutas de arieda."}
+{"key": "script/mp3201#QS301_Start2/186", "es": "Y si sobra alguna, se echará a perder... así que traten de venderlas con descuento siempre que sea posible."}
+{"key": "script/mp3201#QS301_Start2/190", "es": "Ahora vienen las telas para ropa. Seda, algodón y cosas así."}
+{"key": "script/mp3201#QS301_Start2/192", "es": "Pronto cosecharemos más algodón en rama y todavía queda bastante, así que intenten deshacerse de él a bajo precio si pueden."}
+{"key": "script/mp3201#QS301_Start2/194", "es": "Por último, la vajilla. Tazas, platos, ese tipo de artículos de uso diario."}
+{"key": "script/mp3201#QS301_Start2/196", "es": "No podemos ofrecer ningún descuento en esos, así que tengan eso muy presente."}
+{"key": "script/mp3201#QS301_Start2/198", "es": "Y por último, asegúrense de recibir a los clientes con una sonrisa alegre. Eso también es vital."}
+{"key": "script/mp3201#QS301_Start2/200", "es": "Aunque ya nadie sospecha de ustedes, siguen sin ser de esta aldea."}
+{"key": "script/mp3201#QS301_Start2/202", "es": "Así que la gente se sentirá mucho más tranquila con ustedes si se ven seguros y accesibles."}
+{"key": "script/mp3201#QS301_Start2/204", "es": "Creo que eso es todo."}
+{"key": "script/mp3201#QS301_Start2/206", "es": "¿Lo entendieron todo esta vez? Puedo explicarlo las veces que necesiten."}
+{"key": "script/mp3201#QS301_Start2/212", "es": "Excelente. Muchas gracias."}
+{"key": "script/mp3201#QS301_Start2/219", "es": "¡Muy bien, manos a la obra!"}
+{"key": "script/mp3201#QS301_Start2/221", "es": "¡Si me lo propongo, seguro que puedo llegar a ser uno de los mejores hombres de negocios de la zona!"}
+{"key": "script/mp3201#QS301_Start2/228", "es": "Eh, bueno..."}
+{"key": "script/mp3201#QS301_Start2/231", "es": "Lamento decirte esto cuando estás tan animado, pero..."}
+{"key": "script/mp3201#QS301_Start2/236", "es": "¿Sí?"}
+{"key": "script/mp3201#QS301_Start2/239", "es": "Pensándolo bien, en realidad solo hace falta un tendero."}
+{"key": "script/mp3201#QS301_Start2/241", "es": "Así que lo que REALMENTE agradecería es alguien grande y fuerte que me ayude a cargar mi mercancía."}
+{"key": "script/mp3201#QS301_Start2/244", "es": "¿Qué? ¡¿Por qué yo?!"}
+{"key": "script/mp3201#QS301_Start2/246", "es": "¡Y eso que me tomé la molestia de memorizar todos los artículos que podía rebajar!"}
+{"key": "script/mp3201#QS301_Start2/249", "es": "¡Perdón por decepcionarte!"}
+{"key": "script/mp3201#QS301_Start2/251", "es": "Es que últimamente me duele muchísimo la espalda."}
+{"key": "script/mp3201#QS301_Start2/253", "es": "Sin tu ayuda, yo..."}
+{"key": "script/mp3201#QS301_Start2/258", "es": "¡Está bien, está bien!"}
+{"key": "script/mp3201#QS301_Start2/260", "es": "¡Lo haré!"}
+{"key": "script/mp3201#QS301_Start2/274", "es": "Perdón, Adol, parece que tendré que dejarte la tienda a ti."}
+{"key": "script/mp3201#QS301_Start2/278", "es": "¡Espero que puedas arreglártelas solo!"}
+{"key": "script/mp3201#QS301_Start2/281", "es": "Gracias. De verdad te agradezco la ayuda."}
+{"key": "script/mp3201#QS301_Start2/286", "es": "Tendremos que irnos enseguida."}
+{"key": "script/mp3201#QS301_Start2/288", "es": "Así que cuida bien la tienda mientras no estoy, ¿de acuerdo?"}
+{"key": "script/mp3201#QS301_Sale/40", "es": "¡Vaya, no esperaba encontrar a un joven tan apuesto atendiendo la tienda hoy!"}
+{"key": "script/mp3201#QS301_Sale/45", "es": "...Aunque creo que Ray se molestaría si me oyera decir eso. Jeje."}
+{"key": "script/mp3201#QS301_Sale/47", "es": "En realidad vine a ver distintas telas para mis costuras."}
+{"key": "script/mp3201#QS301_Sale/49", "es": "¿Hay algo barato hoy que me recomiendes?"}
+{"key": "script/mp3201#QS301_Sale/54", "es": "Recomendar lino"}
+{"key": "script/mp3201#QS301_Sale/55", "es": "Recomendar algodón"}
+{"key": "script/mp3201#QS301_Sale/61", "es": "¿Lino, dices? ¿A cuánto está hoy?"}
+{"key": "script/mp3201#QS301_Sale/64", "es": "Hmm... No parece ser más barato que de costumbre."}
+{"key": "script/mp3201#QS301_Sale/67", "es": "Bueno, supongo que puedo esperar un poco más antes de comprar algo."}
+{"key": "script/mp3201#QS301_Sale/69", "es": "¡Gracias por tu ayuda!"}
+{"key": "script/mp3201#QS301_Sale/74", "es": "¿Algodón, dices? ¿A cuánto está hoy?"}
+{"key": "script/mp3201#QS301_Sale/80", "es": "¡Vaya, qué barato!"}
+{"key": "script/mp3201#QS301_Sale/82", "es": "Bueno, entonces me llevaré... ¡ah, por qué no! ¡Cinco rollos, por favor!"}
+{"key": "script/mp3201#QS301_Sale/89", "es": "...Eso sí que es mucho algodón... ¡pero qué gran oferta! ¡Muchas gracias!"}
+{"key": "script/mp3201#QS301_Sale/119", "es": "¡De compras, de compras! ¡Plato, plato, plato! ♪"}
+{"key": "script/mp3201#QS301_Sale/121", "es": "Mmm... ¿dónde están los platos?"}
+{"key": "script/mp3201#QS301_Sale/126", "es": "¡Ah, ahí están!"}
+{"key": "script/mp3201#QS301_Sale/131", "es": "Oye, mmm..."}
+{"key": "script/mp3201#QS301_Sale/136", "es": "¿Me puedez vender ezte plato máz barato?"}
 {"key": "script/mp3201#QS301_Sale/141", "es": "Rechazar"}
+{"key": "script/mp3201#QS301_Sale/142", "es": "Vender con descuento"}
+{"key": "script/mp3201#QS301_Sale/150", "es": "*snif* Operazión Quedarme con el Cambio... fracazada..."}
+{"key": "script/mp3201#QS301_Sale/155", "es": "Pero ez para mi hermana, azí que lo voy a comprar de todoz modoz."}
+{"key": "script/mp3201#QS301_Sale/163", "es": "Comprarle una fruta (30M)"}
+{"key": "script/mp3201#QS301_Sale/164", "es": "No ceder ante la ternura"}
+{"key": "script/mp3201#QS301_Sale/173", "es": "¡¿De verdad?!"}
+{"key": "script/mp3201#QS301_Sale/178", "es": "¡Yupi! ¡Eztoy tan feliz!"}
+{"key": "script/mp3201#QS301_Sale/185", "es": "Lamentablemente, no tienes suficiente."}
+{"key": "script/mp3201#QS301_Sale/190", "es": "¿Mmm? ¿Paza algo?"}
+{"key": "script/mp3201#QS301_Sale/192", "es": "...Bueno, ¡tengo que llevar ezto a caza!"}
+{"key": "script/mp3201#QS301_Sale/200", "es": "¿Mmm? ¿Paza algo?"}
+{"key": "script/mp3201#QS301_Sale/202", "es": "...Bueno, ¡tengo que llevar ezto a caza!"}
+{"key": "script/mp3201#QS301_Sale/210", "es": "¡¿De verdad?! ¡Muchízimaz graziaz!"}
+{"key": "script/mp3201#QS301_Sale/212", "es": "Aquí eztá el dinero."}
+{"key": "script/mp3201#QS301_Sale/219", "es": "Jiji, Operazión Quedarme con el Cambio... ¡exitoza!"}
+{"key": "script/mp3201#QS301_Sale/250", "es": "...Parece que no vienen más clientes."}
+{"key": "script/mp3201#QS301_Sale/255", "es": "Llamar para atraer a más"}
+{"key": "script/mp3201#QS301_Sale/256", "es": "Holgazanear"}
+{"key": "script/mp3201#QS301_Sale/281", "es": "¡Qué joven tan animado!"}
+{"key": "script/mp3201#QS301_Sale/286", "es": "Se me antoja... una fruta, o una nuez. Solo una. La que sea más barata."}
+{"key": "script/mp3201#QS301_Sale/291", "es": "Venderle una nuez de chito"}
+{"key": "script/mp3201#QS301_Sale/292", "es": "Venderle una fruta de raparo"}
+{"key": "script/mp3201#QS301_Sale/293", "es": "Venderle una fruta de arieda"}
+{"key": "script/mp3201#QS301_Sale/299", "es": "¡Vaya, ese sí es un precio más bajo que de costumbre! Muy bien."}
+{"key": "script/mp3201#QS301_Sale/305", "es": "Hmm... Parece que es el precio normal. ¡Supongo que hoy no es mi día de suerte! Me lo llevo de todos modos."}
+{"key": "script/mp3201#QS301_Sale/311", "es": "¡Sigue con el buen trabajo!"}
+{"key": "script/mp3201#QS301_Sale/320", "es": "Adol se sintió atormentado por una intensa culpa."}
+{"key": "script/mp3201#QS301_Sale/352", "es": "¡La la laaa! ♪ ¡Ir de compras es muy divertido!"}
+{"key": "script/mp3201#QS301_Sale/354", "es": "Bien, tengo que dejar de mirar y comprar algo de una vez."}
+{"key": "script/mp3201#QS301_Sale/359", "es": "¿Disculpe, señor?"}
+{"key": "script/mp3201#QS301_Sale/364", "es": "¿Podría darme... mmm..."}
+{"key": "script/mp3201#QS301_Sale/368", "es": "¿Qué tal harina para pan, tomates y nueces de chito, por favor?"}
+{"key": "script/mp3201#QS301_Sale/373", "es": "¿Qué tal harina para pan, tomates y frutas de raparo, por favor?"}
+{"key": "script/mp3201#QS301_Sale/378", "es": "¿Qué tal harina para pan, tomates y frutas de arieda, por favor?"}
+{"key": "script/mp3201#QS301_Sale/384", "es": "Vender todo a precio normal"}
+{"key": "script/mp3201#QS301_Sale/385", "es": "Rebajar la harina para pan"}
+{"key": "script/mp3201#QS301_Sale/386", "es": "Rebajar los tomates"}
+{"key": "script/mp3201#QS301_Sale/388", "es": "Rebajar las nueces de chito"}
+{"key": "script/mp3201#QS301_Sale/391", "es": "Rebajar las frutas de raparo"}
+{"key": "script/mp3201#QS301_Sale/394", "es": "Rebajar las frutas de arieda"}
+{"key": "script/mp3201#QS301_Sale/396", "es": "Vender todo con descuento"}
+{"key": "script/mp3201#QS301_Sale/404", "es": "¿De verdad? ¿Está seguro?"}
+{"key": "script/mp3201#QS301_Sale/409", "es": "¿De verdad? ¿Está seguro?"}
+{"key": "script/mp3201#QS301_Sale/413", "es": "Vaya, esto es mucho más barato que de costumbre."}
+{"key": "script/mp3201#QS301_Sale/418", "es": "Ah, mi Rilche me contó que usted le dio un pequeño extra hace un rato."}
+{"key": "script/mp3201#QS301_Sale/420", "es": "¡Supongo que compraré un poco más de lo habitual, como mi forma de darle las gracias!"}
+{"key": "script/mp3201#QS301_Sale/425", "es": "Aquí está el dinero."}
+{"key": "script/mp3201#QS301_Sale/431", "es": "¡Gracias otra vez!"}
+{"key": "script/mp3201#QS301_End/23", "es": "Gracias por eso, Adol."}
+{"key": "script/mp3201#QS301_End/25", "es": "¿Cómo te fue con todo?"}
+{"key": "script/mp3201#QS301_End/30", "es": "Uf, parece que te la pasaste en grande ahí."}
+{"key": "script/mp3201#QS301_End/32", "es": "¡A mí me hicieron trabajar tanto que pensé que me iba a desplomar!"}
+{"key": "script/mp3201#QS301_End/37", "es": "Jaja. De verdad te agradezco la ayuda, Duren. Habría sido mucho más difícil sin ti."}
+{"key": "script/mp3201#QS301_End/39", "es": "¡Los jóvenes sí que tienen mucha más energía!"}
+{"key": "script/mp3201#QS301_End/44", "es": "¿Jóvenes? ...¿Cuántos años tienes?"}
+{"key": "script/mp3201#QS301_End/47", "es": "Je. ¿De verdad quieres saberlo?"}
+{"key": "script/mp3201#QS301_End/49", "es": "Bueno... ¡no te lo voy a decir! ¡Esa información es se-cre-ta! ㈱"}
+{"key": "script/mp3201#QS301_End/52", "es": "(¿Puedo darle un puñetazo? Por favor, déjame darle un puñetazo.)"}
+{"key": "script/mp3201#QS301_End/57", "es": "En fin..."}
+{"key": "script/mp3201#QS301_End/59", "es": "Veamos cuánto vendiste."}
+{"key": "script/mp3201#QS301_End/87", "es": "...¡Vaya, no esperaba que te fuera tan bien!"}
+{"key": "script/mp3201#QS301_End/89", "es": "¿Alguna vez pensaste en ser comerciante? Creo que tienes talento natural."}
+{"key": "script/mp3201#QS301_End/91", "es": "Por tu instinto natural para los negocios, te doy esto."}
+{"key": "script/mp3201#QS301_End/93", "es": "¡Nuestro surtido de productos recomendados (extragrande)!"}
 {"key": "script/mp3201#QS301_End/96", "es": "Recibes "}
 {"key": "script/mp3201#QS301_End/99", "es": "Recibes "}
 {"key": "script/mp3201#QS301_End/102", "es": "Recibes "}
@@ -12,6 +261,9 @@
 {"key": "script/mp3201#QS301_End/117", "es": "Recibes "}
 {"key": "script/mp3201#QS301_End/120", "es": "Recibes "}
 {"key": "script/mp3201#QS301_End/123", "es": "Recibes "}
+{"key": "script/mp3201#QS301_End/129", "es": "Hmm... Lo hiciste bastante bien."}
+{"key": "script/mp3201#QS301_End/131", "es": "Y por tu arduo trabajo, te doy esto."}
+{"key": "script/mp3201#QS301_End/133", "es": "¡Nuestro surtido de productos recomendados (grande)!"}
 {"key": "script/mp3201#QS301_End/136", "es": "Recibes "}
 {"key": "script/mp3201#QS301_End/139", "es": "Recibes "}
 {"key": "script/mp3201#QS301_End/142", "es": "Recibes "}
@@ -22,6 +274,10 @@
 {"key": "script/mp3201#QS301_End/157", "es": "Recibes "}
 {"key": "script/mp3201#QS301_End/160", "es": "Recibes "}
 {"key": "script/mp3201#QS301_End/163", "es": "Recibes "}
+{"key": "script/mp3201#QS301_End/169", "es": "Hmm... Estoy un poco decepcionado, para ser sincero. Esperaba algo mejor."}
+{"key": "script/mp3201#QS301_End/171", "es": "Pero, bueno, ¡como era tu primera vez, se nota que hiciste tu mejor esfuerzo!"}
+{"key": "script/mp3201#QS301_End/173", "es": "Y por tu esfuerzo, te doy esto."}
+{"key": "script/mp3201#QS301_End/175", "es": "Nuestro surtido de productos recomendados (estándar)."}
 {"key": "script/mp3201#QS301_End/178", "es": "Recibes "}
 {"key": "script/mp3201#QS301_End/181", "es": "Recibes "}
 {"key": "script/mp3201#QS301_End/184", "es": "Recibes "}
@@ -29,17 +285,141 @@
 {"key": "script/mp3201#QS301_End/190", "es": "Recibes "}
 {"key": "script/mp3201#QS301_End/193", "es": "Recibes "}
 {"key": "script/mp3201#QS301_End/196", "es": "Recibes "}
+{"key": "script/mp3201#QS301_End/201", "es": "Muy bien, eso es todo lo que necesito de ustedes hoy."}
+{"key": "script/mp3201#QS301_End/203", "es": "¡Gracias por todo, los dos!"}
+{"key": "script/mp3201#QS301_End/211", "es": "¡Misión completada: \"Tendero por un día\"!"}
+{"key": "script/mp3201#QS302_End/31", "es": "Ah, ¿me trajiste líquido transparente?"}
+{"key": "script/mp3201#QS302_End/33", "es": "A ver... Sí, esto debería bastar."}
 {"key": "script/mp3201#QS302_End/36", "es": "Entregas "}
+{"key": "script/mp3201#QS302_End/40", "es": "Je, muchas gracias. No es mucho, pero por favor acepta esto como muestra de mi agradecimiento."}
 {"key": "script/mp3201#QS302_End/44", "es": "Recibes "}
+{"key": "script/mp3201#QS302_End/48", "es": "...Ahora, démosle un poco de esto..."}
+{"key": "script/mp3201#QS302_End/53", "es": "Bonnie le frotó el líquido transparente por toda la rana con los dedos."}
+{"key": "script/mp3201#QS302_End/60", "es": "¡Je, míralo! ¡Se ve tan feliz! ㈱"}
+{"key": "script/mp3201#QS302_End/62", "es": "Las ranas necesitan su humedad."}
+{"key": "script/mp3201#QS302_End/80", "es": "¡Misión completada: \"Se busca humectante\"!"}
+{"key": "script/mp3201#QS308_Start/31", "es": "Rilche, vimos tu solicitud en el tablón."}
+{"key": "script/mp3201#QS308_Start/34", "es": "¡Ah, Ozma!"}
+{"key": "script/mp3201#QS308_Start/36", "es": "Quería tu ayuda para hazer una guirnalda."}
+{"key": "script/mp3201#QS308_Start/39", "es": "¿Una... guirnalda, dices?"}
+{"key": "script/mp3201#QS308_Start/41", "es": "¿Qué es lo que necesitas que te traigamos?"}
+{"key": "script/mp3201#QS308_Start/44", "es": "Mmm... Veamoz..."}
+{"key": "script/mp3201#QS308_Start/46", "es": "Unaz florez bonitaz."}
+{"key": "script/mp3201#QS308_Start/48", "es": "Cualquier flor zirve, pero nezezito trez."}
+{"key": "script/mp3201#QS308_Start/51", "es": "Muy bien. ¿Entonces necesitas tres flores de cualquier variedad? Parece bastante sencillo."}
+{"key": "script/mp3201#QS308_Start/53", "es": "Con gusto buscaremos algunas para ti."}
+{"key": "script/mp3201#QS308_Start/56", "es": "¡Graziaz!"}
+{"key": "script/mp3201#QS308_End/33", "es": "¿Me trajizte unaz florez?"}
+{"key": "script/mp3201#QS308_End/40", "es": "Entregar tres flores de marl"}
+{"key": "script/mp3201#QS308_End/44", "es": "Entregar tres flores de yupel"}
+{"key": "script/mp3201#QS308_End/48", "es": "Entregar tres flores de libra"}
+{"key": "script/mp3201#QS308_End/52", "es": "Entregar tres flores celcetanas"}
+{"key": "script/mp3201#QS308_End/56", "es": "Entregar tres de cada variedad"}
+{"key": "script/mp3201#QS308_End/59", "es": "Ah, ¿todavía no laz encontrazte?"}
+{"key": "script/mp3201#QS308_End/61", "es": "Bueno, avízame cuando hayaz encontrado alguna."}
+{"key": "script/mp3201#QS308_End/67", "es": "Azí que, ¿cuál me vaz a dar?"}
 {"key": "script/mp3201#QS308_End/70", "es": "Cancelar"}
+{"key": "script/mp3201#QS308_End/76", "es": "Ay, ¡y yo que me había iluzionado!"}
+{"key": "script/mp3201#QS308_End/78", "es": "Eztá bien, zeguiré ezperando."}
+{"key": "script/mp3201#QS308_End/102", "es": "Vaya, ¿de verdad me vaz a dar tantaz?"}
+{"key": "script/mp3201#QS308_End/104", "es": "¡Graziaz, graziaz, graziaz!"}
+{"key": "script/mp3201#QS308_End/108", "es": "¡Graziaz!"}
+{"key": "script/mp3201#QS308_End/112", "es": "Bueno, vamoz a ver a Zezily."}
 {"key": "script/mp3201#QS308_End/117", "es": "...¿Qué?"}
+{"key": "script/mp3201#talk_ray/12", "es": "Comprar/Intercambiar"}
 {"key": "script/mp3201#talk_ray/13", "es": "Hablar"}
 {"key": "script/mp3201#talk_ray/14", "es": "Cancelar"}
+{"key": "script/mp3201#talk_ray/37", "es": "No ha habido incidentes graves por aquí desde que desapareció la niebla al otro lado del río, pero no podemos bajar la guardia."}
+{"key": "script/mp3201#talk_ray/39", "es": "Sobre todo en lo que respecta a Romn. Preferiría de verdad no tener nada que ver con ellos..."}
+{"key": "script/mp3201#talk_ray/44", "es": "Es bastante extraño que los soldados romunos vayan todos vestidos igual."}
+{"key": "script/mp3201#talk_ray/46", "es": "Hace que sea... un poco difícil distinguirlos, para decir la verdad."}
+{"key": "script/mp3201#talk_ray/51", "es": "Creo que es seguro suponer que los soldados romunos que pasaron por la aldea ya llegaron a las Tierras Primigenias."}
+{"key": "script/mp3201#talk_ray/53", "es": "Tengo sentimientos encontrados por el hecho de que forasteros descubrieran los secretos de las Tierras Primigenias antes que nosotros."}
+{"key": "script/mp3201#talk_ray/58", "es": "Me pregunto qué habrá pasado para que el río se calmara y la niebla desapareciera."}
+{"key": "script/mp3201#talk_ray/60", "es": "Solo espero que no sea un presagio de cosas malas por venir..."}
+{"key": "script/mp3201#talk_ray/65", "es": "Para ser sincero, me pone algo nervioso la ausencia de Ozma en la aldea, pero tenemos que respetar su decisión."}
+{"key": "script/mp3201#talk_ray/67", "es": "Y todos los que estamos aquí tenemos el deber de protegernos unos a otros, y de proteger nuestra forma de vida, mientras él esté fuera."}
+{"key": "script/mp3201#talk_ray/73", "es": "Muchas gracias por tu ayuda de hoy."}
+{"key": "script/mp3201#talk_ray/75", "es": "De verdad estoy muy agradecido por ella."}
+{"key": "script/mp3201#talk_ray/80", "es": "Ahora que encontramos al culpable y podemos pescar otra vez, supongo que la vida aquí volvió a la normalidad."}
+{"key": "script/mp3201#talk_ray/82", "es": "...Supongo que debería volver al trabajo."}
+{"key": "script/mp3201#talk_ray/88", "es": "Ahora que no podemos pescar por el veneno del río, nuestra única forma de sobrevivir es buscar otras fuentes de alimento en el bosque."}
+{"key": "script/mp3201#talk_ray/90", "es": "En comparación con la pesca, cazar y recolectar en el bosque es una tarea muy difícil."}
+{"key": "script/mp3201#talk_ray/92", "es": "Pero en tiempos como estos, tenemos que unirnos como aldea y hacer lo que podamos."}
+{"key": "script/mp3201#talk_rob/3", "es": "Syriu siempre es una gran trabajadora."}
+{"key": "script/mp3201#talk_rob/5", "es": "No creo que encuentres a muchas chicas que quieran ser herreras, pero eso es lo que más me gusta de ella."}
+{"key": "script/mp3201#talk_rob/13", "es": "Syriu se ve genial cuando trabaja."}
+{"key": "script/mp3201#talk_rob/15", "es": "Sudando frente a esa fragua... *glup* Taaan sexy..."}
+{"key": "script/mp3201#talk_rob/23", "es": "Parece que Syriu trabaja duro otra vez hoy."}
+{"key": "script/mp3201#talk_rob/25", "es": "...¡Pero ese maldito Hakan siempre se me atraviesa y no puedo mirarla!"}
+{"key": "script/mp3201#talk_renard/3", "es": "Mmm... Tres días comiendo nada más que nueces kuru..."}
+{"key": "script/mp3201#talk_renard/5", "es": "Supongo que podría hacerlo... pero ¿hay alguna razón para eso?"}
+{"key": "script/mp3201#talk_renard/16", "es": "...¡No, no, no, ni hablar! ¡Ni hablar!"}
+{"key": "script/mp3201#talk_renard/18", "es": "¡Ni siquiera voy a pensarlo!"}
+{"key": "script/mp3201#talk_renard/34", "es": "No, no, no, aunque comer una no me matara (¡y es muy posible que sí!), definitivamente no saldría bien librado."}
+{"key": "script/mp3201#talk_renard/36", "es": "¡Vi a una bestia comerse una y después se retorcía de dolor!"}
+{"key": "script/mp3201#talk_ana/3", "es": "¡No intentes encontrarle sentido, Reynal!"}
+{"key": "script/mp3201#talk_ana/5", "es": "¡No tiene ninguno!"}
+{"key": "script/mp3201#talk_ana/10", "es": "*suspiro* Qué aburrido es esto sin Reynal."}
+{"key": "script/mp3201#talk_ana/12", "es": "Ojalá se apurara a volver para poder molestarlo un poco más..."}
+{"key": "script/mp3201#talk_ana/17", "es": "Ay, Reynal, mi dulce Reynal..."}
+{"key": "script/mp3201#talk_ana/19", "es": "¿Cómo lo atormento hoy? Hay tantas posibilidades..."}
+{"key": "script/mp3201#talk_ana/24", "es": "¿De verdad hay un acantilado empinado al otro lado del río, eh?"}
+{"key": "script/mp3201#talk_ana/26", "es": "Creo que deberías subir tú mismo para comprobar que es real. ¡Anda!"}
+{"key": "script/mp3201#talk_ana/31", "es": "Ay, Reynal, mi dulce Reynal..."}
+{"key": "script/mp3201#talk_ana/33", "es": "¡Vuelve pronto para que pueda molestarte un poco más! ¡Aquí es muy aburrido sin ti!"}
+{"key": "script/mp3201#talk_ana/38", "es": "Me alegra que por fin podamos pescar otra vez."}
+{"key": "script/mp3201#talk_ana/40", "es": "...Aunque es aburrido sin Reynal."}
+{"key": "script/mp3201#talk_ana/50", "es": "Me pregunto si los peces que murieron envenenados todavía se pueden comer..."}
+{"key": "script/mp3201#talk_ana/52", "es": "Prueba uno, Reynal. ¡Quizá no te pase nada!"}
+{"key": "script/mp3201#talk_renard_ana/41", "es": "*suspiro* Qué aburrido es cuando no podemos salir a pescar."}
+{"key": "script/mp3201#talk_renard_ana/44", "es": "¡Lo único que haces es quejarte de que no puedes ir a pescar!"}
+{"key": "script/mp3201#talk_renard_ana/46", "es": "¡Si tienes tiempo para quejarte, úsalo en resolver qué voy a comer yo!"}
+{"key": "script/mp3201#talk_renard_ana/49", "es": "Lo haría si pudiera, pero ¿qué se supone que haga?"}
 {"key": "script/mp3201#talk_renard_ana/52", "es": "Hmm..."}
-{"key": "script/mp3201#talk_renard_ana/93", "es": "¿Q-qué?"}
+{"key": "script/mp3201#talk_renard_ana/54", "es": "¿Cuánto hace, a propósito, que apareció el veneno en el río?"}
+{"key": "script/mp3201#talk_renard_ana/63", "es": "Ah, eres tú."}
+{"key": "script/mp3201#talk_renard_ana/66", "es": "Veo que investigas el envenenamiento con Ozma."}
+{"key": "script/mp3201#talk_renard_ana/71", "es": "Bueno, vamos, Reynal. ¡Responde la pregunta!"}
+{"key": "script/mp3201#talk_renard_ana/74", "es": "B-Bien..."}
+{"key": "script/mp3201#talk_renard_ana/79", "es": "El veneno apareció en el río hace como... diez días, creo."}
+{"key": "script/mp3201#talk_renard_ana/82", "es": "Mmm... ¿Diez días? Entonces hace bastante."}
+{"key": "script/mp3201#talk_renard_ana/90", "es": "...¿Eso es todo lo que tienes que decir?"}
+{"key": "script/mp3201#talk_renard_ana/93", "es": "¿Q-Qué?"}
+{"key": "script/mp3201#talk_renard_ana/96", "es": "*suspiro* Te falta el detalle más importante."}
+{"key": "script/mp3201#talk_renard_ana/98", "es": "¡Pasó justo después de que este espadachín pelirrojo se fue de la aldea!"}
+{"key": "script/mp3201#talk_renard_ana/103", "es": "P-Pero..."}
+{"key": "script/mp3201#talk_renard_ana/107", "es": "¿D-De verdad?"}
+{"key": "script/mp3201#talk_renard_ana/114", "es": "¡Y desapareció sin decirle a nadie adónde iba, ni siquiera que se iba!"}
+{"key": "script/mp3201#talk_renard_ana/116", "es": "¿Cómo no íbamos a sospechar de él? ¡Hay una montaña de pruebas que lo implican en esto!"}
+{"key": "script/mp3201#talk_renard_ana/119", "es": "Tengo que admitir que entiendo lo que dices."}
+{"key": "script/mp3201#talk_renard_ana/123", "es": "Aun así, las pruebas contra Adol son solo circunstanciales. No podemos probar su culpa, ni tampoco su inocencia."}
+{"key": "script/mp3201#talk_renard_ana/125", "es": "Debemos continuar con la investigación."}
+{"key": "script/mp3201#talk_eeta/3", "es": "Las Tierras Primigenias... Romn... Comodo..."}
+{"key": "script/mp3201#talk_eeta/5", "es": "Cuando sea grande, quiero ir a conocer el mundo en vez de ser pescador."}
+{"key": "script/mp3201#talk_eeta/9", "es": "Esos de allá dicen que son soldados romunos."}
+{"key": "script/mp3201#talk_eeta/11", "es": "¿En qué se diferencian los soldados de los pescadores? ¿Atrapan algo más que peces para comer?"}
+{"key": "script/mp3201#talk_eeta/15", "es": "¡Patito, patito, patito! ♪"}
+{"key": "script/mp3201#talk_eeta/17", "es": "¡Es muy lindo cómo los patos mueven el trasero de un lado a otro al caminar!"}
+{"key": "script/mp3201#talk_eeta/21", "es": "¿Qué será esa cosa enorme como un pilar al otro lado del río...?"}
+{"key": "script/mp3201#talk_eeta/23", "es": "¿Vivirá gente ahí dentro? ¡Eso sería genial!"}
+{"key": "script/mp3201#talk_eeta/27", "es": "¡Patito, patito, patito! ♪"}
+{"key": "script/mp3201#talk_eeta/29", "es": "Los patos se llevan muy bien con sus padres."}
+{"key": "script/mp3201#talk_eeta/33", "es": "Parece que al final no hiciste nada malo."}
+{"key": "script/mp3201#talk_eeta/35", "es": "...Perdón por pensar que eras malo. Ven a jugar otra vez, ¿okey?"}
+{"key": "script/mp3201#talk_eeta/42", "es": "¡Ay, Ado... digo, v-vete, envenenador!"}
+{"key": "script/mp3201#talk_eeta/44", "es": "No voy a ayudar a un malo como tú. ¡Vete!"}
+{"key": "script/mp3201#talk_eeta/49", "es": "No voy a ayudar a un malo como tú. ¡Vete!"}
+{"key": "script/mp3201#talk_duckA/5", "es": "¡Cuaaaac! ㈱"}
+{"key": "script/mp3201#talk_duckA/13", "es": "¡Cuaaac! ㈱"}
+{"key": "script/mp3201#talk_duckA/21", "es": "Cuac, cuac."}
+{"key": "script/mp3201#talk_duckA/29", "es": "¡Cuaaaarc!"}
+{"key": "script/mp3201#talk_duckA/37", "es": "¡¡Cuaaaaaaaaarc!!"}
 {"key": "script/mp3201#talk_duckA/43", "es": "Darle una hoja"}
 {"key": "script/mp3201#talk_duckA/44", "es": "Darle una flor"}
+{"key": "script/mp3201#talk_duckA/45", "es": "Agarrarle el pico"}
 {"key": "script/mp3201#talk_duckA/46", "es": "Cancelar"}
+{"key": "script/mp3201#talk_duckA/53", "es": "No tienes nada. Olvidaste que le diste lo último que tenías al Sr. Tiddles."}
 {"key": "script/mp3201#talk_duckA/60", "es": "Darle una hoja podrida"}
 {"key": "script/mp3201#talk_duckA/63", "es": "Darle una hoja fresca"}
 {"key": "script/mp3201#talk_duckA/66", "es": "Darle una hoja de Roda"}
@@ -51,6 +431,7 @@
 {"key": "script/mp3201#talk_duckA/108", "es": "Recibes "}
 {"key": "script/mp3201#talk_duckA/128", "es": "Parece extasiado."}
 {"key": "script/mp3201#talk_duckA/132", "es": "Recibes "}
+{"key": "script/mp3201#talk_duckA/144", "es": "¿No tienes nada? Ah, eres MALVADO. MAAAAAAALVAAAAAADO."}
 {"key": "script/mp3201#talk_duckA/151", "es": "Darle una flor marchita"}
 {"key": "script/mp3201#talk_duckA/154", "es": "Darle una flor de marl"}
 {"key": "script/mp3201#talk_duckA/157", "es": "Darle una flor de yupel"}
@@ -73,9 +454,16 @@
 {"key": "script/mp3201#talk_duckA/299", "es": "Recibes "}
 {"key": "script/mp3201#talk_duckA/322", "es": "...Parece ofendido."}
 {"key": "script/mp3201#talk_duckA/326", "es": "...Parece que no le caes bien."}
+{"key": "script/mp3201#talk_duckB/5", "es": "¡Cuaaaac! ㈱"}
+{"key": "script/mp3201#talk_duckB/13", "es": "¡Cuaaac! ㈱"}
+{"key": "script/mp3201#talk_duckB/21", "es": "Cuac, cuac."}
+{"key": "script/mp3201#talk_duckB/29", "es": "¡Cuaaaarc!"}
+{"key": "script/mp3201#talk_duckB/37", "es": "¡¡Cuaaaaaaaaarc!!"}
 {"key": "script/mp3201#talk_duckB/43", "es": "Darle una hoja"}
 {"key": "script/mp3201#talk_duckB/44", "es": "Darle una flor"}
+{"key": "script/mp3201#talk_duckB/45", "es": "Agarrarle el pico"}
 {"key": "script/mp3201#talk_duckB/46", "es": "Cancelar"}
+{"key": "script/mp3201#talk_duckB/53", "es": "Había una vez un niño pobre que no tenía nada. Bueno, en realidad todavía anda por aquí. Ese pobre niño eres tú."}
 {"key": "script/mp3201#talk_duckB/60", "es": "Darle una hoja podrida"}
 {"key": "script/mp3201#talk_duckB/63", "es": "Darle una hoja fresca"}
 {"key": "script/mp3201#talk_duckB/66", "es": "Darle una hoja de Roda"}
@@ -87,6 +475,7 @@
 {"key": "script/mp3201#talk_duckB/108", "es": "Recibes "}
 {"key": "script/mp3201#talk_duckB/128", "es": "Parece extasiado."}
 {"key": "script/mp3201#talk_duckB/132", "es": "Recibes "}
+{"key": "script/mp3201#talk_duckB/144", "es": "No tienes nada, pero ¡esta criatura esperanzada no tolerará esta injusticia! ¡Exige regalos!"}
 {"key": "script/mp3201#talk_duckB/151", "es": "Darle una flor marchita"}
 {"key": "script/mp3201#talk_duckB/154", "es": "Darle una flor de marl"}
 {"key": "script/mp3201#talk_duckB/157", "es": "Darle una flor de yupel"}
@@ -109,11 +498,43 @@
 {"key": "script/mp3201#talk_duckB/299", "es": "Recibes "}
 {"key": "script/mp3201#talk_duckB/323", "es": "...Parece ofendido."}
 {"key": "script/mp3201#talk_duckB/327", "es": "...Parece que no le caes bien."}
+{"key": "script/mp3201#talk_mooco/3", "es": "¿Por qué los pikkards son tan lindos?"}
+{"key": "script/mp3201#talk_mooco/5", "es": "¿Será algún tipo de mecanismo de autoconservación?"}
+{"key": "script/mp3201#talk_mooco/9", "es": "Me pregunto a qué habrán venido esos soldados..."}
+{"key": "script/mp3201#talk_mooco/11", "es": "No vendrán por los pikkards, ¿o sí? No, eso sería una tontería..."}
+{"key": "script/mp3201#talk_mooco/15", "es": "Me pregunto si habrá pikkards en las Tierras Primigenias."}
+{"key": "script/mp3201#talk_mooco/17", "es": "...¡Me gustaría ir a verlos si los hay!"}
+{"key": "script/mp3201#talk_mooco/21", "es": "Nunca en toda mi vida había visto tan claro el otro lado del río."}
+{"key": "script/mp3201#talk_mooco/23", "es": "Me pregunto qué pasó. Quizá sea mi imaginación, pero los pikkards también parecen inquietos desde que se despejó el clima por allá..."}
+{"key": "script/mp3201#talk_mooco/27", "es": "Los pikkards pueden parecer todos iguales, pero cada uno tiene pequeñas manías que lo hacen único."}
+{"key": "script/mp3201#talk_mooco/29", "es": "Je. Me pregunto si los pikkards tendrán vida amorosa..."}
+{"key": "script/mp3201#talk_mooco/33", "es": "Qué lindo es poder pescar otra vez."}
+{"key": "script/mp3201#talk_mooco/35", "es": "Je. ¡Quizá sea solo cosa mía, pero estos pikkards también parecen más felices ahora!"}
+{"key": "script/mp3201#talk_mooco/39", "es": "Si no conseguimos pescado para comer, tendré... tendré que..."}
+{"key": "script/mp3201#talk_mooco/41", "es": "...¡No! ¡¿En qué estoy pensando?!"}
+{"key": "script/mp3201#talk_maru/3", "es": "Aww... Qué aburrido es esto sin Gazock."}
+{"key": "script/mp3201#talk_maru/5", "es": "¿Adónde se fue, por cierto?"}
+{"key": "script/mp3201#talk_maru/9", "es": "Esa gente de armadura dijo que venía de Romn."}
+{"key": "script/mp3201#talk_maru/11", "es": "...¿Qué clase de aldea será Romn?"}
+{"key": "script/mp3201#talk_maru/15", "es": "Me pregunto si Gazock cruzó el río hacia esas Tierras Primigenias de las que todos hablan."}
+{"key": "script/mp3201#talk_maru/17", "es": "¿Y si no vuelve?"}
+{"key": "script/mp3201#talk_maru/21", "es": "Gazock hace siglos que no vuelve por aquí."}
+{"key": "script/mp3201#talk_maru/23", "es": "Me pregunto si habrá vuelto a su casa en el bosque..."}
+{"key": "script/mp3201#talk_maru/27", "es": "¿Adónde se fue Gazock?"}
+{"key": "script/mp3201#talk_maru/29", "es": "Me pregunto si habrá vuelto al bosque..."}
+{"key": "script/mp3201#talk_maru/33", "es": "Podemos comer todo el pescado que queramos otra vez."}
+{"key": "script/mp3201#talk_maru/35", "es": "Jejeje. ¡No veo la hora de que sea la cena!"}
+{"key": "script/mp3201#talk_maru/39", "es": "Gazock dijo que antes vivía en el bosque, él solo."}
+{"key": "script/mp3201#talk_maru/41", "es": "Pero dijo que fue antes de que yo naciera, así que es todo lo que sé."}
+{"key": "script/mp3201#talk_picardA/5", "es": "¡Fiiiijijijiii! ㈱"}
+{"key": "script/mp3201#talk_picardA/13", "es": "¡Fiiiijijiii! ㈱"}
 {"key": "script/mp3201#talk_picardA/21", "es": "Phwee..."}
 {"key": "script/mp3201#talk_picardA/29", "es": "¡Phwee!"}
+{"key": "script/mp3201#talk_picardA/37", "es": "¡¡FIIJI!!"}
 {"key": "script/mp3201#talk_picardA/43", "es": "Darle una fruta o nuez"}
 {"key": "script/mp3201#talk_picardA/44", "es": "Pellizcarle la nariz"}
 {"key": "script/mp3201#talk_picardA/45", "es": "Cancelar"}
+{"key": "script/mp3201#talk_picardA/52", "es": "¿Te presentas ante un miembro de la familia real pikkard y no tienes nada que ofrecer? ¡Blasfemia!"}
 {"key": "script/mp3201#talk_picardA/59", "es": "Darle una fruta podrida"}
 {"key": "script/mp3201#talk_picardA/62", "es": "Darle una nuez de chito"}
 {"key": "script/mp3201#talk_picardA/65", "es": "Darle una fruta de raparo"}
@@ -136,11 +557,15 @@
 {"key": "script/mp3201#talk_picardA/207", "es": "Recibes "}
 {"key": "script/mp3201#talk_picardA/230", "es": "...Parece ofendido."}
 {"key": "script/mp3201#talk_picardA/234", "es": "...Parece que no le caes bien."}
+{"key": "script/mp3201#talk_picardB/5", "es": "¡Fiiiijijijiii! ㈱"}
+{"key": "script/mp3201#talk_picardB/13", "es": "¡Fiiiijijiii! ㈱"}
 {"key": "script/mp3201#talk_picardB/21", "es": "Phwee..."}
 {"key": "script/mp3201#talk_picardB/29", "es": "¡Phwee!"}
+{"key": "script/mp3201#talk_picardB/37", "es": "¡¡FIIJI!!"}
 {"key": "script/mp3201#talk_picardB/43", "es": "Darle una fruta o nuez"}
 {"key": "script/mp3201#talk_picardB/44", "es": "Pellizcarle la nariz"}
 {"key": "script/mp3201#talk_picardB/45", "es": "Cancelar"}
+{"key": "script/mp3201#talk_picardB/52", "es": "Iba a invitarte a una cita, pero este pequeño es muy materialista. Lo descartó en cuanto supo que no tienes nada para darle."}
 {"key": "script/mp3201#talk_picardB/59", "es": "Darle una fruta podrida"}
 {"key": "script/mp3201#talk_picardB/62", "es": "Darle una nuez de chito"}
 {"key": "script/mp3201#talk_picardB/65", "es": "Darle una fruta de raparo"}
@@ -167,12 +592,158 @@
 {"key": "script/mp3201#talk_picardB/253", "es": "Parece extasiado."}
 {"key": "script/mp3201#talk_picardB/274", "es": "...Parece ofendido."}
 {"key": "script/mp3201#talk_picardB/278", "es": "...Parece que no le caes bien."}
+{"key": "script/mp3201#talk_omal/3", "es": "Debe de ser fácil ser un pez. ¡Solo hay que nadar perezosamente todo el día!"}
+{"key": "script/mp3201#talk_omal/5", "es": "...Aunque supongo que están tan desesperados por sobrevivir como nosotros los humanos, así que en lo esencial no son tan distintos de nosotros."}
+{"key": "script/mp3201#talk_omal/14", "es": "El entorno del río cambió drásticamente en los últimos días."}
+{"key": "script/mp3201#talk_omal/16", "es": "Dejé de pescar temprano para inspeccionar la zona."}
+{"key": "script/mp3201#talk_omal/18", "es": "Solo espero que no pase nada más por aquí..."}
+{"key": "script/mp3201#talk_omal/23", "es": "Solo espero que no pase nada más por aquí..."}
+{"key": "script/mp3201#talk_omal/25", "es": "*suspiro* Me está dando dolor de cabeza."}
+{"key": "script/mp3201#talk_omal/35", "es": "El veneno no llegó tan río abajo."}
+{"key": "script/mp3201#talk_omal/37", "es": "Por eso, el agua potable de la aldea es segura por ahora, pero no puedo decir con confianza que seguirá así."}
+{"key": "script/mp3201#talk_omal/39", "es": "Si el veneno llegara a nuestra agua potable, esta aldea de verdad estaría acabada."}
+{"key": "script/mp3201#talk_omal/41", "es": "Si de verdad no eres el culpable, apúrate y atrapa al verdadero. Por favor."}
+{"key": "script/mp3201#talk_omal/46", "es": "Si el veneno llegara a nuestra agua potable, esta aldea de verdad estaría acabada."}
+{"key": "script/mp3201#talk_omal/48", "es": "Si de verdad no eres el culpable, apúrate y atrapa al verdadero. Por favor."}
+{"key": "script/mp3201#talk_valery/3", "es": "Han pasado muchas cosas últimamente. Mi mente está en completo desorden."}
+{"key": "script/mp3201#talk_valery/5", "es": "Pero no debo quejarme. ¡Perseveraré!"}
+{"key": "script/mp3201#talk_valery/9", "es": "Vientos inusualmente frescos de tierras exóticas..."}
+{"key": "script/mp3201#talk_valery/11", "es": "Pero los vientos pueden volverse tormentas... y eso, lo temo."}
+{"key": "script/mp3201#talk_valery/15", "es": "Las Tierras Primigenias. Una región de gran misterio, intacta durante cientos de años por quienes no pertenecemos a ella."}
+{"key": "script/mp3201#talk_valery/17", "es": "El camino puede estar abierto... pero no busco recorrerlo."}
+{"key": "script/mp3201#talk_valery/21", "es": "Las Tierras Primigenias se ven con tanta claridad. Mi sorpresa es grande."}
+{"key": "script/mp3201#talk_valery/23", "es": "La causa de este cambio, aún desconocida..."}
+{"key": "script/mp3201#talk_valery/27", "es": "Los hombres de la aldea pescan hoy, para dar de comer a todos."}
+{"key": "script/mp3201#talk_valery/29", "es": "Las mujeres de la aldea esperan su regreso, cuidando a los niños."}
+{"key": "script/mp3201#talk_valery/33", "es": "Los actos del hombre corpulento que envenenó el río, imperdonables..."}
+{"key": "script/mp3201#talk_valery/35", "es": "Su razón para tal acto, insondable..."}
+{"key": "script/mp3201#talk_valery/75", "es": "El río teñido de carmesí, una visión horrible..."}
+{"key": "script/mp3201#talk_valery/78", "es": "¿El río teñido de carmesí? Supongo que no hablas del sol poniente ni nada parecido, ¿verdad?"}
+{"key": "script/mp3201#talk_valery/80", "es": "El color de la sangre es el color de la muerte."}
+{"key": "script/mp3201#talk_valery/82", "es": "Y, sin embargo, nadie resultó herido, nuestra única salvación..."}
+{"key": "script/mp3201#talk_valery/85", "es": "O sea que el veneno era rojo..."}
+{"key": "script/mp3201#talk_valery/87", "es": "¡Aunque no imagino cuánto haría falta para teñir un río entero!"}
+{"key": "script/mp3201#talk_valery/92", "es": "Duró apenas unos instantes, pero el río quedó manchado de rojo hasta donde alcanzaba la vista."}
+{"key": "script/mp3201#talk_valery/94", "es": "El origen estaba río arriba. Solo quedaron los cadáveres de los peces."}
+{"key": "script/mp3201#talk_valery/96", "es": "No sabemos cuándo volverá a estar puro el río. Por eso, los hombres no pueden pescar."}
+{"key": "script/mp3201#talk_valery/101", "es": "Eso suena bastante difícil."}
+{"key": "script/mp3201#talk_valery/103", "es": "¿Los pescadores están bien? ¿Los que estaban en el agua cuando apareció el veneno?"}
+{"key": "script/mp3201#talk_valery/106", "es": "Por suerte, lo notaron rápido. No hubo víctimas mortales."}
+{"key": "script/mp3201#talk_valery/108", "es": "Varios pescadores que entraron en contacto con la sustancia sí enfermaron..."}
+{"key": "script/mp3201#talk_valery/110", "es": "Pero todos se han recuperado por completo desde entonces."}
+{"key": "script/mp3201#talk_valery/114", "es": "Nuestra única salvación. Los spardas tampoco resultaron heridos."}
+{"key": "script/mp3201#talk_valery/117", "es": "Mmm... Una gran cantidad de veneno que viene río arriba..."}
+{"key": "script/mp3201#talk_valery/119", "es": "Puede que enfrentemos un desastre mayor de lo que pensé."}
+{"key": "script/mp3201#talk_valery/154", "es": "El color de la sangre es el color de la muerte."}
+{"key": "script/mp3201#talk_valery/156", "es": "Y, sin embargo, nadie resultó herido, nuestra única salvación..."}
 {"key": "script/mp3201#talk_richel/4", "es": "Hablar"}
+{"key": "script/mp3201#talk_richel/5", "es": "Entregar tres flores"}
 {"key": "script/mp3201#talk_richel/6", "es": "Cancelar"}
+{"key": "script/mp3201#talk_richel/29", "es": "¡Yo también quiero ir a laz Tierraz Primigeniaz!"}
+{"key": "script/mp3201#talk_richel/31", "es": "Pareze interezante."}
+{"key": "script/mp3201#talk_richel/35", "es": "Loz zpardaz tienen un pelaje muy ezpezo."}
+{"key": "script/mp3201#talk_richel/37", "es": "Pero no me guztan zuz caraz."}
+{"key": "script/mp3201#talk_richel/41", "es": "Cuando todoz loz adultoz zalen a pezcar, aquí ze pone muy tranquilo."}
+{"key": "script/mp3201#talk_richel/43", "es": "Ez un poco zolitario."}
+{"key": "script/mp3201#talk_richel/47", "es": "El otro día pazaron muchoz zoldadoz por la aldea."}
+{"key": "script/mp3201#talk_richel/49", "es": "...Dio miedo."}
+{"key": "script/mp3201#talk_richel/53", "es": "Llegó un hombre de cabeza rara y empezó a hazer mucho ruido."}
+{"key": "script/mp3201#talk_richel/55", "es": "Fue muy molezto."}
+{"key": "script/mp3201#talk_richel/60", "es": "Por fin noz dejan jugar en el agua otra vez."}
+{"key": "script/mp3201#talk_richel/62", "es": "¡Llevo tanto ezperando que zerá aún máz dulze que antez!"}
+{"key": "script/mp3201#talk_richel/67", "es": "Ez divertido jugar en el agua."}
+{"key": "script/mp3201#talk_richel/69", "es": "Aunque me deje laz manoz y laz piernaz todaz arrugadaz, zigo zin querer zalir."}
+{"key": "script/mp3201#talk_richel/74", "es": "Todoz loz adultoz dizen que por un rato no podemoz jugar en el agua."}
+{"key": "script/mp3201#talk_richel/76", "es": "...Eztoy muy aburrida..."}
+{"key": "script/mp3201#talk_river/3", "es": "Ahora que la corriente del río se hizo más lenta, pescar es mucho más fácil."}
+{"key": "script/mp3201#talk_river/5", "es": "Pero, para ser sincero, ahora me parece un poco demasiado fácil. Extraño la corriente rápida."}
+{"key": "script/mp3201#talk_river/15", "es": "Fue al amanecer, creo... De repente, la neblina sobre el río simplemente... ¡desapareció!"}
+{"key": "script/mp3201#talk_river/17", "es": "Se suponía que esa neblina llevaba cientos de años ahí, así que verla desaparecer en un instante es... inquietante."}
+{"key": "script/mp3201#talk_river/19", "es": "Lo vi suceder con mis propios ojos y aun así me cuesta creerlo."}
+{"key": "script/mp3201#talk_river/24", "es": "Se suponía que esa neblina llevaba cientos de años ahí, así que verla desaparecer en un instante es... inquietante."}
+{"key": "script/mp3201#talk_river/26", "es": "Lo vi suceder con mis propios ojos y aun así me cuesta creerlo."}
+{"key": "script/mp3201#talk_river/36", "es": "...Efectivamente, el río se los llevó."}
+{"key": "script/mp3201#talk_river/38", "es": "Bueno, eso les pasa por intentar montar a uno de los spardas sin permiso. ¡No es mi culpa!"}
+{"key": "script/mp3201#talk_river/47", "es": "Cuídate, Ozma. El bosque está lleno de peligros de todo tipo."}
+{"key": "script/mp3201#talk_river/49", "es": "Seguro que no necesito advertirte de la ferocidad de las bestias, pero te recomiendo que tampoco le quites los ojos de encima al pelirrojo."}
+{"key": "script/mp3201#talk_river/87", "es": "Ozma, estás perdiendo el tiempo si crees que van a poder demostrar su inocencia."}
+{"key": "script/mp3201#talk_river/89", "es": "Ese pelirrojo de allá es el culpable. Nada va a cambiar eso."}
+{"key": "script/mp3201#talk_river/92", "es": "¿Tienes alguna prueba que respalde esa afirmación, Rivarl?"}
+{"key": "script/mp3201#talk_river/95", "es": "¡Claro! El veneno vino río arriba, ¿no?"}
+{"key": "script/mp3201#talk_river/97", "es": "Y río arriba está la morada de los spardas."}
+{"key": "script/mp3201#talk_river/100", "es": "Ah, ¿así que las bestias sagradas viven río arriba?"}
+{"key": "script/mp3201#talk_river/102", "es": "...Pero ¿cómo prueba eso que Adol es el culpable?"}
+{"key": "script/mp3201#talk_river/107", "es": "Porque nadie de esta aldea se atrevería a ir río arriba y acercarse a la morada de las bestias sagradas."}
+{"key": "script/mp3201#talk_river/109", "es": "A menos que fuera de la tribu de Ozma, claro. ¡Pero solo queda uno, y es el propio Ozma!"}
+{"key": "script/mp3201#talk_river/114", "es": "Así que el único que pudo ir río arriba a envenenar el río desde allá sería un forastero. Y de esos hay muy pocos."}
+{"key": "script/mp3201#talk_river/119", "es": "¿Eso es todo lo que tienes contra mí?"}
+{"key": "script/mp3201#talk_river/120", "es": "Ozma también podría ser el culpable."}
+{"key": "script/mp3201#talk_river/126", "es": "Hmph. Claro, te haces el inocente. Es casi lo único que te queda."}
+{"key": "script/mp3201#talk_river/128", "es": "Naturalmente, hay muchas más pruebas aparte de esa."}
+{"key": "script/mp3201#talk_river/134", "es": "No hablas en serio. ¡Es imposible que Ozma sea el culpable! ¡Qué cosa tan ridícula! ¡La sola idea es... ofensiva!"}
+{"key": "script/mp3201#talk_river/137", "es": "Sin embargo, si se analizan objetivamente las pruebas que hemos reunido, es una teoría perfectamente válida."}
+{"key": "script/mp3201#talk_river/139", "es": "Naturalmente, no fui el responsable, pero no podría aportar pruebas para convencer a un juez imparcial de mi inocencia."}
+{"key": "script/mp3201#talk_river/144", "es": "B-Bueno..."}
+{"key": "script/mp3201#talk_river/146", "es": "¡N-No te preocupes, Ozma, tengo otras pruebas que indican que él es el culpable!"}
+{"key": "script/mp3201#talk_river/154", "es": "¡Si tú mismo estabas preguntando por la morada de las bestias sagradas!"}
+{"key": "script/mp3201#talk_river/157", "es": "...Sí, así es él. Si hay algo nuevo y emocionante que explorar, quiere explorarlo. Está en su naturaleza."}
+{"key": "script/mp3201#talk_river/162", "es": "Hmph. Di lo que quieras, igual lo hizo él."}
+{"key": "script/mp3201#talk_river/164", "es": "¿No tienes nada de vergüenza? Te ahorrarías mucha humillación si simplemente confesaras."}
+{"key": "script/mp3201#talk_river/166", "es": "Ya dije todo lo que tenía que decir. No quiero hablar más contigo."}
+{"key": "script/mp3201#talk_river/168", "es": "¡Vete y no vuelvas jamás!"}
+{"key": "script/mp3201#talk_river/171", "es": "Vaya, Adol, de verdad que no eres muy popular por aquí."}
+{"key": "script/mp3201#talk_river/173", "es": "¡Aunque metes las narices en los asuntos de todos, así que no es ninguna sorpresa!"}
+{"key": "script/mp3201#talk_river/212", "es": "¡Basta! ¡Ya te dije que no quiero hablar más de esto contigo!"}
+{"key": "script/mp3201#talk_river/214", "es": "¡Vete!"}
+{"key": "script/mp3201#talk_gery/4", "es": "Cada vez que trato de formar pensamientos complejos, me empieza a doler el estómago."}
+{"key": "script/mp3201#talk_gery/6", "es": "*suspiro* Últimamente parece que no hace falta mucho para darme dolor de estómago..."}
+{"key": "script/mp3201#talk_gery/8", "es": "¡Mi estómago me revuelve el estómago! Je..."}
+{"key": "script/mp3201#talk_gery/10", "es": "Ja... jajajaja..."}
+{"key": "script/mp3201#talk_gery/12", "es": "Waja... ¡wajajajaja!"}
+{"key": "script/mp3201#talk_gery/14", "es": "...*jadeo* *resoplido*"}
+{"key": "script/mp3201#talk_gery/16", "es": "¡Maldición, ahora me duele aún más el estómago!"}
+{"key": "script/mp3201#talk_gery/21", "es": "Está claro que los chistes malos le hacen daño a mi salud."}
+{"key": "script/mp3201#talk_gery/23", "es": "...Y reírme tanto de un chiste tan malo hace que me preocupe también por mi cerebro. ¡Creo que me estoy muriendo!"}
+{"key": "script/mp3201#talk_gery/28", "es": "Para ser sincero, no entendí ni la mitad de lo que decía..."}
+{"key": "script/mp3201#talk_gery/30", "es": "Supongo que lo que saqué en limpio es que no todos los romunos son malas personas. Pero eso es todo."}
+{"key": "script/mp3201#talk_gery/46", "es": "Escuché que investigas el envenenamiento del río. Bueno... trata de no causar demasiados problemas mientras lo haces."}
+{"key": "script/mp3201#talk_gery/48", "es": "Sobre todo tú, el de pelo rojo. La mayoría de aquí todavía sospecha de ti, yo entre ellos."}
+{"key": "script/mp3201#talk_gery/50", "es": "Así que si miras mal a alguno de nosotros, no tendremos piedad contigo, ¿entendiste?"}
 {"key": "script/mp3201#talk_bony/5", "es": "Hablar"}
+{"key": "script/mp3201#talk_bony/6", "es": "Entregar diez líquidos transparentes"}
 {"key": "script/mp3201#talk_bony/7", "es": "Cancelar"}
+{"key": "script/mp3201#talk_bony/22", "es": "Ah, ¿me trajiste unos líquidos transparentes?"}
+{"key": "script/mp3201#talk_bony/25", "es": "...Entonces, ¿dónde están?"}
+{"key": "script/mp3201#talk_bony/28", "es": "¡Me ilusionaste para nada!"}
+{"key": "script/mp3201#talk_bony/39", "es": "¿Quieres frotarle un poco de líquido a él también?"}
+{"key": "script/mp3201#talk_bony/41", "es": "Se siente todo blandito y viscoso. Tocarlo se siente tan... tan rico... ㈱"}
+{"key": "script/mp3201#talk_bony/45", "es": "Él... no se convertiría en humano si lo besara, ¿verdad?"}
+{"key": "script/mp3201#talk_bony/47", "es": "*suspiro* ...¿Qué estoy pensando?"}
+{"key": "script/mp3201#talk_bony/51", "es": "Esta rana tiene la lengua larguísima."}
+{"key": "script/mp3201#talk_bony/53", "es": "¡Debe de ser genial poder atrapar comida con solo sacar la lengua, sin moverse nada!"}
+{"key": "script/mp3201#talk_bony/57", "es": "Ah, ¿así que usa las patas palmeadas para abrirse paso en el agua?"}
+{"key": "script/mp3201#talk_bony/59", "es": "Je. ¡Qué travieso es!"}
+{"key": "script/mp3201#talk_bony/63", "es": "¡Ooh, también tiene el cuello todo blandito!"}
+{"key": "script/mp3201#talk_bony/65", "es": "Je. ¡Es un flojito! ㈱"}
+{"key": "script/mp3201#talk_bony/69", "es": "Tiene una barriga tan fofa..."}
+{"key": "script/mp3201#talk_bony/71", "es": "Je... ¡pero se siente tan rico cuando se la frotas!"}
+{"key": "script/mp3201#talk_bony/75", "es": "Creo que le caigo bien."}
+{"key": "script/mp3201#talk_bony/77", "es": "Je. ¡Deja de mirarme así! ¡Me hace sonrojar!"}
+{"key": "script/mp3201#talk_bony/81", "es": "Esta rana parece tener miedo de volver al río."}
+{"key": "script/mp3201#talk_bony/83", "es": "No lo culpo. ¡Siempre existe la posibilidad de que alguien lo envenene otra vez!"}
+{"key": "script/mp3201#talk_flog/5", "es": "¡Croaaaac! ㈱"}
+{"key": "script/mp3201#talk_flog/13", "es": "¡Croaaac! ㈱"}
+{"key": "script/mp3201#talk_flog/21", "es": "Croac."}
+{"key": "script/mp3201#talk_flog/29", "es": "¡Crrroac!"}
+{"key": "script/mp3201#talk_flog/37", "es": "¡¡Crrrroac!!"}
+{"key": "script/mp3201#talk_flog/44", "es": "Picarla"}
 {"key": "script/mp3201#talk_flog/45", "es": "Cancelar"}
+{"key": "script/mp3201#talk_flog/49", "es": "Darle un poco de líquido"}
+{"key": "script/mp3201#talk_flog/50", "es": "Picarla"}
 {"key": "script/mp3201#talk_flog/51", "es": "Cancelar"}
+{"key": "script/mp3201#talk_flog/67", "es": "¿No tienes nada? ¿Qué eres, un tacaño?"}
+{"key": "script/mp3201#talk_flog/74", "es": "Darle líquido inmundo"}
+{"key": "script/mp3201#talk_flog/77", "es": "Darle líquido transparente"}
 {"key": "script/mp3201#talk_flog/79", "es": "Cancelar"}
 {"key": "script/mp3201#talk_flog/88", "es": "No parece impresionado."}
 {"key": "script/mp3201#talk_flog/101", "es": "Parece contento."}
@@ -184,4 +755,13 @@
 {"key": "script/mp3201#talk_flog/150", "es": "Parece contento."}
 {"key": "script/mp3201#talk_flog/167", "es": "...Parece ofendido."}
 {"key": "script/mp3201#talk_flog/171", "es": "...Parece que no le caes bien."}
+{"key": "script/mp3201#talk_officer/2", "es": "...Esa es la situación actual dentro de nuestro ejército."}
+{"key": "script/mp3201#talk_officer/4", "es": "Lamentamos que quizá la gente de esta aldea sufra algunas molestias, igual que la de Comodo, pero les pedimos..."}
+{"key": "script/mp3201#talk_soldier/2", "es": "*suspiro* Qué duro es ser mensajero."}
+{"key": "script/mp3201#talk_soldier/4", "es": "¡Ya tuve suficiente de explorar este maldito bosque para toda la vida!"}
+{"key": "script/mp3201#talk_seelus/2", "es": "Parece que esos soldados también decidieron venir aquí."}
+{"key": "script/mp3201#talk_seelus/4", "es": "Nada de lo que dicen es poco razonable, pero aun así no sé si de verdad podemos confiar en ellos..."}
+{"key": "script/mp3201#stop_exit/6", "es": "¿Adónde vas? Tenemos que buscar pistas sobre quién envenenó el río."}
+{"key": "script/mp3201#stop_exit/9", "es": "He indicado a los aldeanos que cooperen con nuestra investigación. Deberíamos escuchar lo que tienen que decir."}
 {"key": "script/mp3201#talk_Mishy/33", "es": "¡Jijijiii! ♪"}
+{"key": "script/mp3201#talk_Mishy/42", "es": "¡Meeejiiii!"}

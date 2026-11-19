@@ -1,8 +1,48 @@
 {"key": "script/mp3101#EV_Camp_Start/22", "es": "Ya no se siente la presencia de bestias en los alrededores. El aire está inmóvil y tranquilo..."}
 {"key": "script/mp3101#EV02_00_Camp_Rest_03/39", "es": "Envuelto en el aire puro del bosque y en la fragancia del árbol espiritual, Adol sintió que su cuerpo se hundía en un sueño profundo y reparador..."}
 {"key": "script/mp3101#EV02_00_Camp_Rest_03/41", "es": "¡Se restauró uno de los recuerdos sellados en lo más profundo de la mente de Adol!"}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/37", "es": "Parece que recordaste algo más. ¿Qué fue esta vez?"}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/42", "es": "Estaba hablando con un joven rubio."}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/43", "es": "Iba montando una bestia sobre el río."}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/51", "es": "Entonces sí hay gente viviendo en este bosque."}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/53", "es": "Parece que es alguien distinto de la voz que describiste en la mina, además."}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/55", "es": "De cualquier manera, es una señal bastante alentadora."}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/57", "es": "Ya deberíamos estar llegando al río que marqué en el mapa. Veamos qué encontramos allí."}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/61", "es": "¿Un hombre rubio? ¿Entonces no es alguien de Comodo?"}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/63", "es": "Me pregunto si será alguien de ese asentamiento junto al río del que nos habló Asad..."}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/65", "es": "Ya debemos de estar por llegar, ¡así que supongo que lo sabremos muy pronto!"}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/70", "es": "¡¿Montando una bestia?! Vaya..."}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/72", "es": "Bueno... si pudiste montarla, significa que estaba domada, ¿no? Entonces alguien tiene que estar allí para haberla domado."}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/74", "es": "Aunque no puedo evitar pensar en todas esas bestias grandes y aterradoras con las que nos seguimos topando."}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/76", "es": "Por cierto, ya deberíamos estar casi allí."}
+{"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/81", "es": "Sigamos avanzando."}
 {"key": "script/mp3101#EV02_00_Camp_Rest_03_MB/90", "es": "Ahora se ven en el mapa los fragmentos de recuerdo de los alrededores."}
 {"key": "script/mp3101#evlookp01/6", "es": "Armar una tienda"}
 {"key": "script/mp3101#evlookp01/7", "es": "Cancelar"}
 {"key": "script/mp3101#evlookp02/7", "es": "Descansar en la tienda"}
 {"key": "script/mp3101#evlookp02/8", "es": "Cancelar"}
+{"key": "script/mp3101#talk_beaver/3", "es": "¡Aaah, este lugar sí que tiene una vista increíble! ♪"}
+{"key": "script/mp3101#talk_beaver/5", "es": "Sería aún más perfecto si pudiera beber, pero emborracharse en el Gran Bosque no parece una buena idea."}
+{"key": "script/mp3101#talk_slash/3", "es": "Así que esas son las Tierras Primigenias al otro lado del río... pero ¿cómo se supone que llegue hasta allá?"}
+{"key": "script/mp3101#talk_slash/5", "es": "¡Aaaah, la sangre de cazatesoros que llevo dentro arde con el calor de mil soles!"}
+{"key": "script/mp3101#talk_swan/3", "es": "Es tan frustrante quedarme atascada aquí con una torre misteriosa justo frente a mis ojos..."}
+{"key": "script/mp3101#talk_swan/5", "es": "Si hasta aquí podemos llegar, quizá debería considerar rendirme con Celceta e irme a otra parte."}
+{"key": "script/mp3101#talk_swan/9", "es": "Llegué hasta Selray, pero no encuentro ninguna forma de cruzar el río."}
+{"key": "script/mp3101#talk_swan/11", "es": "¡Tiene que haber una manera! ¡No voy a rendirme!"}
+{"key": "script/mp3101#talk_swan/15", "es": "Eso parece una especie de asentamiento..."}
+{"key": "script/mp3101#talk_swan/17", "es": "Un asentamiento junto al río... Debería ir a echar un vistazo más de cerca."}
+{"key": "script/mp3101#talk_jackal/4", "es": "Swan parece algo desanimada."}
+{"key": "script/mp3101#talk_jackal/6", "es": "Solo quiero acercarme y abrazarla por detrás... pero no tengo el valor."}
+{"key": "script/mp3101#talk_jackal/8", "es": "...¿Por qué soy tan cobarde?"}
+{"key": "script/mp3101#talk_jackal/13", "es": "Solo quiero acercarme y abrazarla por detrás... pero no tengo el valor."}
+{"key": "script/mp3101#talk_jackal/15", "es": "...¿Por qué soy tan cobarde?"}
+{"key": "script/mp3101#talk_jackal/20", "es": "De verdad quiero encontrar una forma de cruzar el río, tanto por Swan como por mí."}
+{"key": "script/mp3101#talk_jackal/22", "es": "Pero ¿por dónde se supone que empiece a buscar?"}
+{"key": "script/mp3101#talk_jackal/26", "es": "Swan es alguien en quien de verdad se puede confiar. Además, es preciosa..."}
+{"key": "script/mp3101#talk_jackal/28", "es": "...Espera, ¡¿en qué estoy pensando?! ¡Es mi compañera!"}
+{"key": "script/mp3101#talk_owl/3", "es": "¿Qué pasó? ¿Por qué de repente no hay niebla al otro lado del río?"}
+{"key": "script/mp3101#talk_owl/5", "es": "¿Y qué es esa torre? Tantas preguntas..."}
+{"key": "script/mp3101#stop_crif/6", "es": "El hábitat de los spardas salvajes está al sur de Selray. Esta es la dirección equivocada."}
+{"key": "script/mp3101#stop_crif/9", "es": "Uy, parece que nos alejamos demasiado del río. Mejor volvamos a él y procuremos seguirlo más de cerca."}
+{"key": "script/mp3101#stop_exit/6", "es": "Parece que hay un retoño de árbol espiritual en esta zona. Sería mejor armar una tienda y descansar antes de continuar."}
+{"key": "script/mp3101#stop_exit_2/6", "es": "Parece que hay un retoño de árbol espiritual en esta zona. Sería mejor armar una tienda y descansar antes de continuar."}

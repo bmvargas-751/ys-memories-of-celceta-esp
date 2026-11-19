@@ -6,8 +6,10 @@
 {"key": "script/mp4202#QS404_Start/98", "es": "Aceptar"}
 {"key": "script/mp4202#QS404_Start/99", "es": "Rechazar"}
 {"key": "script/mp4202#QS404_Start/111", "es": "Recibes "}
+{"key": "script/mp4202#QS404_End/45", "es": "Aquí tienen."}
 {"key": "script/mp4202#QS404_End/48", "es": "Recibes "}
 {"key": "script/mp4202#talk_gazock/5", "es": "Reforzar/Refinar"}
+{"key": "script/mp4202#talk_gazock/6", "es": "Fabricar accesorio"}
 {"key": "script/mp4202#talk_gazock/7", "es": "Hablar"}
 {"key": "script/mp4202#talk_gazock/8", "es": "Cancelar"}
 {"key": "script/mp4202#talk_timary/6", "es": "Hablar"}
@@ -116,11 +118,14 @@
 {"key": "script/mp4202#talk_camebull/323", "es": "...Parece ofendido."}
 {"key": "script/mp4202#talk_camebull/327", "es": "...Parece que no le caes bien."}
 {"key": "script/mp4202#talk_simon_bety/93", "es": "Hmm... Ya veo."}
+{"key": "script/mp4202#talk_dario/162", "es": "¿D-De verdad?"}
 {"key": "script/mp4202#talk_dario/191", "es": "Hmm..."}
 {"key": "script/mp4202#lp_board/15", "es": "En el tablero hay varias misiones."}
 {"key": "script/mp4202#subev_In_Factory/86", "es": "Ya veo..."}
 {"key": "script/mp4202#subev_In_Factory/164", "es": "Ya veo..."}
 {"key": "script/mp4202#subev_In_Gazock_Shop/95", "es": "En fin..."}
 {"key": "script/mp4202#subev_In_Gazock_Shop/107", "es": "¡¿Qué?!"}
+{"key": "script/mp4202#subev_In_Gazock_Shop/109", "es": "¿D-De qué estás hablando?"}
+{"key": "script/mp4202#subev_In_Gazock_Shop/129", "es": "¿D-De verdad?"}
 {"key": "script/mp4202#subev_In_Gazock_Shop/194", "es": "¿En serio?"}
 {"key": "script/mp4202#subev_In_Riesa_House/78", "es": "Oh..."}

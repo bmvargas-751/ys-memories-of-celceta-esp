@@ -1,7 +1,12 @@
 {"key": "script/mp5201#EV05_01_Arrive_Danan/92", "es": "Entendido."}
 {"key": "script/mp5201#EV05_02_Meet_Frida/133", "es": "¿Quién eres?"}
+{"key": "script/mp5201#EV05_02_Meet_Frida/506", "es": "¿A qué te refieres?"}
 {"key": "script/mp5201#EV05_05_Battle_Solgalva/439", "es": "Voz de hombre"}
+{"key": "script/mp5201#EV05_05_Battle_Solgalva/462", "es": "B-Bueno..."}
 {"key": "script/mp5201#EV05_06_Mask_Steal/144", "es": "¡¿Qué?!"}
+{"key": "script/mp5201#EV05_06_Mask_Steal/150", "es": "Lo siento, a todos."}
+{"key": "script/mp5201#EV05_06_Mask_Steal/505", "es": "¿Qué...?"}
+{"key": "script/mp5201#EV05_06_Mask_Steal/642", "es": "¡E-Espera!"}
 {"key": "script/mp5201#EV05_08_Bye_Riesa/147", "es": "Adol..."}
 {"key": "script/mp5201#QS502_End/45", "es": "Cancelar"}
 {"key": "script/mp5201#QS502_End/59", "es": "Cancelar"}
@@ -17,10 +22,16 @@
 {"key": "script/mp5201#QS502_End/239", "es": "Cancelar"}
 {"key": "script/mp5201#QS502_End/255", "es": "Recibes "}
 {"key": "script/mp5201#QS502_End/258", "es": "Recibes "}
+{"key": "script/mp5201#QS404_Work3/71", "es": "¿Por qué no?"}
 {"key": "script/mp5201#QS404_Work3/82", "es": "Perfecto."}
 {"key": "script/mp5201#talk_micri/4", "es": "Hablar"}
 {"key": "script/mp5201#talk_micri/6", "es": "Cancelar"}
 {"key": "script/mp5201#talk_micri/25", "es": "A ver..."}
+{"key": "script/mp5201#talk_cat/5", "es": "¡Cocoroquiiiii! ㈱"}
+{"key": "script/mp5201#talk_cat/13", "es": "¡Cloc, cloc, cloc! ㈱"}
+{"key": "script/mp5201#talk_cat/21", "es": "Cloc."}
+{"key": "script/mp5201#talk_cat/29", "es": "¡Raaah!"}
+{"key": "script/mp5201#talk_cat/37", "es": "¡Raaaaaaaah!"}
 {"key": "script/mp5201#talk_cat/43", "es": "Darle una hoja"}
 {"key": "script/mp5201#talk_cat/44", "es": "Darle una flor"}
 {"key": "script/mp5201#talk_cat/46", "es": "Cancelar"}
@@ -57,7 +68,12 @@
 {"key": "script/mp5201#talk_cat/299", "es": "Recibes "}
 {"key": "script/mp5201#talk_cat/322", "es": "...Parece ofendido."}
 {"key": "script/mp5201#talk_cat/326", "es": "...Parece que no le caes bien."}
+{"key": "script/mp5201#talk_flog/21", "es": "Croac."}
+{"key": "script/mp5201#talk_flog/43", "es": "Darle un poco de líquido"}
+{"key": "script/mp5201#talk_flog/44", "es": "Picarla"}
 {"key": "script/mp5201#talk_flog/45", "es": "Cancelar"}
+{"key": "script/mp5201#talk_flog/59", "es": "Darle líquido inmundo"}
+{"key": "script/mp5201#talk_flog/62", "es": "Darle líquido transparente"}
 {"key": "script/mp5201#talk_flog/64", "es": "Cancelar"}
 {"key": "script/mp5201#talk_flog/73", "es": "No parece impresionado."}
 {"key": "script/mp5201#talk_flog/86", "es": "Parece contento."}
