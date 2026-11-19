@@ -1,6 +1,29 @@
+{"key": "script/mp2114#EV_Camp_Start/22", "es": "Ya no se siente la presencia de bestias en los alrededores. El aire está inmóvil y tranquilo..."}
 {"key": "script/mp2114#EV01_00_Camp_Rest_02/40", "es": "Envuelto en el aire puro del bosque y en la fragancia del árbol espiritual, Adol sintió que su cuerpo se hundía en un sueño profundo y reparador..."}
 {"key": "script/mp2114#EV01_00_Camp_Rest_02/42", "es": "¡Se restauró uno de los recuerdos sellados en lo más profundo de la mente de Adol!"}
+{"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/36", "es": "Parece que recordaste algo más. ¿Qué pasó?"}
+{"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/41", "es": "Estaba hablando con alguien."}
+{"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/42", "es": "Había un reino en este bosque."}
+{"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/49", "es": "Mmm... Supongo que eso significa que sí hay gente viviendo en el Gran Bosque."}
+{"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/51", "es": "Por cómo lo describes, también suena a una voz distinta de la que oíste en la mina."}
+{"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/53", "es": "¡Sin duda es un dato nuevo e importante!"}
+{"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/58", "es": "Y no tenías idea de quién era esa persona, ¿verdad? Entonces probablemente no era de Selray."}
+{"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/60", "es": "Lo que significa que, después de todo, tiene que haber otras aldeas en el bosque."}
+{"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/66", "es": "...¡¿Un reino?! ¡Sería un hallazgo enorme!"}
+{"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/68", "es": "Espera un momento... ¿Te acuerdas de esas ruinas que los mineros desenterraron en Casnan?"}
+{"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/70", "es": "¡Podrían tener alguna relación!"}
+{"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/76", "es": "De cualquier modo, nos vamos acercando, ¿sabes? Al menos sabemos que estamos avanzando."}
+{"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/78", "es": "¡Vamos!"}
 {"key": "script/mp2114#EV01_00_Camp_Rest_02_MB/87", "es": "Ahora se ven en el mapa los fragmentos de recuerdo de los alrededores."}
+{"key": "script/mp2114#evlookp01/6", "es": "Armar una tienda"}
 {"key": "script/mp2114#evlookp01/7", "es": "Cancelar"}
 {"key": "script/mp2114#evlookp02/7", "es": "Descansar en la tienda"}
 {"key": "script/mp2114#evlookp02/8", "es": "Cancelar"}
+{"key": "script/mp2114#talk_rabit/2", "es": "Ya lo dije antes y lo diré otra vez: dormimos por separado. Muy separados."}
+{"key": "script/mp2114#talk_rabit/4", "es": "Si pones siquiera un pie a menos de 3 melye de mí, estás muerto. ¿Entendido?"}
+{"key": "script/mp2114#talk_pigeon/2", "es": "¡Está bien, está bien! Pase lo que pase, no perturbaré tu sueño."}
+{"key": "script/mp2114#talk_beaver/2", "es": "Sobrevivir en el bosque es bastante difícil, pero al menos no falta comida."}
+{"key": "script/mp2114#talk_beaver/4", "es": "¡Comer carne de bestia fresca, rebosante de jugos naturales, es maravilloso! ♪"}
+{"key": "script/mp2114#talk_slash/2", "es": "Jaja. Beaver de verdad es una hedonista."}
+{"key": "script/mp2114#talk_slash/4", "es": "¡Es muy divertido tenerla cerca!"}
+{"key": "script/mp2114#stop_exit/6", "es": "Parece que hay un retoño de árbol espiritual en esta zona. Lo mejor sería armar una tienda y descansar."}

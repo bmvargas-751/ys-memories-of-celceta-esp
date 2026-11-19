@@ -1,5 +1,6 @@
 {"key": "script/mp3201#Question_04/11", "es": "¡¿Qué?!"}
 {"key": "script/mp3201#QS301_Start/55", "es": "Aceptar"}
+{"key": "script/mp3201#QS301_Start/56", "es": "Rechazar"}
 {"key": "script/mp3201#QS301_Sale/141", "es": "Rechazar"}
 {"key": "script/mp3201#QS301_End/96", "es": "Recibes "}
 {"key": "script/mp3201#QS301_End/99", "es": "Recibes "}
@@ -35,6 +36,7 @@
 {"key": "script/mp3201#talk_ray/13", "es": "Hablar"}
 {"key": "script/mp3201#talk_ray/14", "es": "Cancelar"}
 {"key": "script/mp3201#talk_renard_ana/52", "es": "Hmm..."}
+{"key": "script/mp3201#talk_renard_ana/93", "es": "¿Q-qué?"}
 {"key": "script/mp3201#talk_duckA/43", "es": "Darle una hoja"}
 {"key": "script/mp3201#talk_duckA/44", "es": "Darle una flor"}
 {"key": "script/mp3201#talk_duckA/46", "es": "Cancelar"}
@@ -108,6 +110,7 @@
 {"key": "script/mp3201#talk_duckB/323", "es": "...Parece ofendido."}
 {"key": "script/mp3201#talk_duckB/327", "es": "...Parece que no le caes bien."}
 {"key": "script/mp3201#talk_picardA/21", "es": "Phwee..."}
+{"key": "script/mp3201#talk_picardA/29", "es": "¡Phwee!"}
 {"key": "script/mp3201#talk_picardA/43", "es": "Darle una fruta o nuez"}
 {"key": "script/mp3201#talk_picardA/44", "es": "Pellizcarle la nariz"}
 {"key": "script/mp3201#talk_picardA/45", "es": "Cancelar"}
@@ -134,6 +137,7 @@
 {"key": "script/mp3201#talk_picardA/230", "es": "...Parece ofendido."}
 {"key": "script/mp3201#talk_picardA/234", "es": "...Parece que no le caes bien."}
 {"key": "script/mp3201#talk_picardB/21", "es": "Phwee..."}
+{"key": "script/mp3201#talk_picardB/29", "es": "¡Phwee!"}
 {"key": "script/mp3201#talk_picardB/43", "es": "Darle una fruta o nuez"}
 {"key": "script/mp3201#talk_picardB/44", "es": "Pellizcarle la nariz"}
 {"key": "script/mp3201#talk_picardB/45", "es": "Cancelar"}

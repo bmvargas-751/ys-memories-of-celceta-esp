@@ -1,9 +1,13 @@
+{"key": "script/mp5211#EV05_07_Talk_Riesa/146", "es": "¿En serio?"}
 {"key": "script/mp5211#EV05_07_Talk_Riesa/290", "es": "Hmm..."}
 {"key": "script/mp5211#QS501_End/167", "es": "¡¿Qué?!"}
+{"key": "script/mp5211#QS501_End/243", "es": "Aquí tienes tu recompensa."}
 {"key": "script/mp5211#QS501_End/246", "es": "Recibes "}
 {"key": "script/mp5211#QS501_End/249", "es": "Recibes "}
 {"key": "script/mp5211#QS501_End/252", "es": "Recibes "}
+{"key": "script/mp5211#QS504_End/70", "es": "Aquí tienes tu recompensa."}
 {"key": "script/mp5211#QS504_End/74", "es": "Recibes "}
+{"key": "script/mp5211#QS504_End/78", "es": "¡Gracias!"}
 {"key": "script/mp5211#QS505_Start/56", "es": "Aceptar"}
 {"key": "script/mp5211#QS505_Start/57", "es": "Rechazar"}
 {"key": "script/mp5211#QS505_Start2/0", "es": "Gracias."}
@@ -19,3 +23,6 @@
 {"key": "script/mp5211#talk_sebrina/38", "es": "Cancelar"}
 {"key": "script/mp5211#talk_kenzo/37", "es": "Hablar"}
 {"key": "script/mp5211#talk_kenzo/38", "es": "Cancelar"}
+{"key": "script/mp5211#lp_board/15", "es": "En el tablero hay varias misiones."}
+{"key": "script/mp5211#SUB_In_Tower/123", "es": "Ya veo."}
+{"key": "script/mp5211#SUB_In_Frida_House/128", "es": "Ya veo."}

@@ -1,14 +1,293 @@
+{"key": "script/mp2201#EV01_01_Meet_Carna/45", "es": "Bueno, llegamos. Este es el punto marcado en el mapa."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/50", "es": "¡Vaya, qué lugar increíble!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/83", "es": "Hay casas allá arriba, en los árboles. ¡Creo que de verdad vive gente aquí!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/86", "es": "Te hace valorar lo adaptable que puede ser la humanidad."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/90", "es": "Con Selray pasa lo mismo, pero no me imagino encontrar un lugar como este fuera del Gran Bosque."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/99", "es": "¿Recuerdas haber venido antes?"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/108", "es": "No estoy seguro."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/109", "es": "Me resulta vagamente familiar..."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/117", "es": "Sí... supongo que sería demasiado fácil si pudieras recordarlo todo así como así."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/121", "es": "¿En serio? Todo sería más fácil si conocieras a alguien con quien hablar aquí, pero supongo que es pedir demasiado..."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/124", "es": "De cualquier modo, nunca sabremos qué nos espera si nos quedamos aquí parados. ¡Habrá que entrar y esperar lo mejor!"}
 {"key": "script/mp2201#EV01_01_Meet_Carna/165", "es": "¡¿Q-qué?!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/200", "es": "Tú... ¡tú eres ese forastero pelirrojo que vino antes!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/205", "es": "Parece que al menos ellos te recuerdan."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/207", "es": "Eso sí que facilita las cosas. ¿Creen que podrían dejarnos pasar?"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/234", "es": "¿Dejarlos pasar? ¡Si es una broma, no me da risa!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/237", "es": "No sé si eres valiente o solo un necio, pero de cualquier modo tienes agallas para volver a mostrar la cara aquí."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/241", "es": "¡Has enfurecido al dios del bosque!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/244", "es": "¡Les dije a todos que dejarlo entrar en la aldea era mala idea!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/259", "es": "¿Q-qué?"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/261", "es": "No parecen muy contentos contigo... ¿Qué demonios hiciste?"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/266", "es": "¡¿No acabamos de pasar por esto?! ¡Ya debería haber aprendido que no se llega hasta la puerta a saludar como si nada!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/268", "es": "Confiesa, Adol. ¿En qué lío te metiste esta vez?"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/274", "es": "No tengo ni idea."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/275", "es": "Tal vez tengo una ligera idea..."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/281", "es": "Algo me dice que a estos tipos no les va a convencer la excusa de la amnesia."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/286", "es": "*suspiro* Ay, caramba..."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/291", "es": "Ni vale la pena hacerle perder el tiempo al jefe. ¡Nosotros podemos encargarnos!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/294", "es": "¡Por mi honor de guerrero del bosque, me las pagarán!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/298", "es": "¡E-esperen un momento! ¡Al menos escúchennos!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/300", "es": "¡No recuerda haber venido aquí! ¡Ni siquiera recuerda nada de sí mismo!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/302", "es": "¡Vinimos para ayudarlo a recuperar sus recuerdos!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/311", "es": "¡¿De verdad creen que vamos a creer eso?!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/314", "es": "¡¿Por qué clase de tontos nos toman?!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/319", "es": "M-maldición... Creo que eso acaba de empeorar las cosas."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/324", "es": "Adol, creo que vamos a tener que..."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/329", "es": "¡Alto ahí!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/365", "es": "¡Ah...!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/368", "es": "¿K-Karna?"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/371", "es": "¿C-cuándo llegaste?"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/418", "es": "...¿Perdiste... tus recuerdos?"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/420", "es": "El Adol que conozco jamás inventaría una excusa así para librarse de un problema."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/422", "es": "¿Eso significa que también me olvidaste a mí?"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/427", "es": "Lo siento..."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/428", "es": "No es una excusa. Es la verdad."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/448", "es": "Hmph... Entonces tampoco recuerdas cuando nos conocimos, ¿no?"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/450", "es": "Yo estaba de caza y te ataqué, creyendo que eras una bestia salvaje... ¡pero en vez de enojarte, te disculpaste!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/452", "es": "Fue mi culpa, pero tú dijiste que lamentabas \"estar en el camino\"..."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/470", "es": "*suspiro* No me mires con esos ojitos de cervatillo."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/472", "es": "Eres como un muchacho de corazón puro. Honesto hasta la exageración."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/474", "es": "Aún no puedo creer que seas un guerrero lo bastante fuerte para sobrevivir en ese bosque."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/478", "es": "Karna, ¿de... de verdad piensas confiar en él?"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/483", "es": "...Todavía no lo sé."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/485", "es": "Pero de cualquier modo, deberíamos escuchar a estos dos. Les debemos al menos eso."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/488", "es": "¡¿V-vas a dejarlos entrar en la aldea, justo ahora?!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/493", "es": "...Sé que todos están alterados ahora. Y lo entiendo perfectamente."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/495", "es": "A mi familia también la golpearon, después de todo."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/498", "es": "Oh..."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/501", "es": "T-tienes razón. Lo siento..."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/506", "es": "Es una época difícil para todos aquí, pero por eso mismo debemos mantener la calma y la razón."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/508", "es": "Igual que este gran árbol que vela por todos en Comodo..."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/510", "es": "...Si no, terminaremos tomando decisiones de las que nos arrepentiremos después."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/513", "es": "Perdón. Tienes razón."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/516", "es": "Es tal como dices, Karna."}
+{"key": "script/mp2201#EV01_01_Meet_Carna/606", "es": "Mira allá, Adol. Desde aquí se ve todo el bosque. ¡Todo lo que exploramos está en ese mar de árboles!"}
+{"key": "script/mp2201#EV01_01_Meet_Carna/617", "es": "Sí, sí, es una vista preciosa, pero sigan caminando. ¡Su presencia aquí pone muy nerviosos a los aldeanos, ¿saben?!"}
+{"key": "script/mp2201#EV01_03_Search_Info/25", "es": "...Parece que los aldeanos están patrullando afuera."}
+{"key": "script/mp2201#EV01_03_Search_Info/27", "es": "No podemos andar pidiéndole información a la gente, con la situación como está..."}
+{"key": "script/mp2201#EV01_03_Search_Info/29", "es": "Pero veamos si encontramos algo que te ayude a recuperar algunos de tus recuerdos."}
+{"key": "script/mp2201#EV01_03_Search_Info/36", "es": "Oye, Adol..."}
+{"key": "script/mp2201#EV01_03_Search_Info/38", "es": "¿Qué tal si intentamos merodear un poco por la aldea al salir?"}
+{"key": "script/mp2201#EV01_03_Search_Info/43", "es": "Podríamos, ya sabes..."}
+{"key": "script/mp2201#EV01_03_Search_Info/45", "es": "Podríamos encontrar algo que te ayude a recuperar algunos de tus recuerdos."}
+{"key": "script/mp2201#EV01_06_Return_Now/33", "es": "La FUE base de Adol aumentó en 1."}
+{"key": "script/mp2201#EV01_06_Return_Now/43", "es": "Adol... ¡Oye, Adol!"}
+{"key": "script/mp2201#EV01_06_Return_Now/45", "es": "¿Estás bien? ¿Recordaste algo?"}
+{"key": "script/mp2201#EV01_06_Return_Now/64", "es": "¡Ahí estás, Adol! ¡En serio, te he buscado por todas partes!"}
+{"key": "script/mp2201#EV01_06_Return_Now/68", "es": "Uy, nos encontró..."}
+{"key": "script/mp2201#EV01_06_Return_Now/93", "es": "¿Cómo lograste salir? ¡Ninguna bestia salvaje se ha librado jamás de esas ataduras, y mucho menos un ser humano!"}
+{"key": "script/mp2201#EV01_06_Return_Now/95", "es": "Además, estoy bastante orgullosa de mis habilidades con las trampas... ¡Algún día tienes que enseñarme cómo lo hiciste!"}
+{"key": "script/mp2201#EV01_06_Return_Now/103", "es": "Vamos, ¿cuántas veces tengo que traerte a rastras antes de que te rindas?"}
+{"key": "script/mp2201#EV01_06_Return_Now/105", "es": "No es fácil ser quien te da refugio. ¡Los demás preferirían verte desollado vivo!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/73", "es": "Uy, ¡¿qué está pasando allá?!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/101", "es": "¡¿Qué creen que están haciendo?!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/144", "es": "¡Ugh!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/147", "es": "¡Padre!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/150", "es": "¿Está... a la altura de padre? No puede ser..."}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/154", "es": "¡Haaaaaaaaaaah!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/183", "es": "¡Atrás, Karna! ¡Su fuerza es sumamente anormal!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/199", "es": "¿Y esas máscaras?"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/204", "es": "¿Crees que podrían tener algo que ver con ese hombre enmascarado que vieron tú y Remnos?"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/211", "es": "Eso parece."}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/212", "es": "No lo sé."}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/218", "es": "Sí, es demasiada coincidencia para ignorarla. ¡Aun así, me encantaría saber qué demonios está pasando aquí!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/220", "es": "¿Por qué atacaría la gente de Comodo su propia aldea?"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/225", "es": "Sí, supongo que sí dijiste que no lo habías visto muy bien..."}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/227", "es": "Aun así, ¿por qué atacaría la gente de Comodo su propia aldea?"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/236", "es": "¡Uy, parece que hay más de esos!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/275", "es": "Ustedes... ¿son los que han desaparecido?"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/277", "es": "¿Por qué...?"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/286", "es": "...Así que no pueden responder."}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/288", "es": "De todos modos, ahora que atacaron nuestro hogar..."}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/290", "es": "...No puedo permitir que escapen."}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/326", "es": "(¡...! Imposible... No puede ser...)"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/331", "es": "¿Padre?"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/381", "es": "¡Venimos a ayudar!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/386", "es": "Adol, Duren..."}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/389", "es": "Atrás. No necesito su ayuda."}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/393", "es": "¡¿Seguro que estás bien?!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/396", "es": "¡Dije que se quedaran atrás!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/451", "es": "Ugh..."}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/455", "es": "¡Padre!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/516", "es": "¡Maldición! ¡Se escaparon!"}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/542", "es": "Tras la huida de los atacantes enmascarados, Karna atendió a los aldeanos heridos."}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/544", "es": "Adol y Duren patrullaron los alrededores durante toda la noche, pero los atacantes no volvieron a atacar."}
+{"key": "script/mp2201#EV01_08_Attack_Komodo/546", "es": "Las heridas de Asad eran profundas, pero tras una larga noche de tratamiento, su vida ya no corría peligro."}
+{"key": "script/mp2201#EV01_10_Join_Carna/59", "es": "...Parece que ya descubrieron su escondite."}
+{"key": "script/mp2201#EV01_10_Join_Carna/93", "es": "Oye, Karna. ¿Cómo está tu papá?"}
+{"key": "script/mp2201#EV01_10_Join_Carna/96", "es": "Ya pasó lo peor. Estará bien si descansa un poco más."}
+{"key": "script/mp2201#EV01_10_Join_Carna/98", "es": "Pero basta de eso. Quiero hablar de algo con ustedes dos."}
+{"key": "script/mp2201#EV01_10_Join_Carna/101", "es": "¿Q-qué pasa? Te ves muy seria..."}
+{"key": "script/mp2201#EV01_10_Join_Carna/109", "es": "Decidí ir yo misma a cazar a los hombres enmascarados."}
+{"key": "script/mp2201#EV01_10_Join_Carna/113", "es": "Pero... ¿pero tu papá no dijo...?"}
+{"key": "script/mp2201#EV01_10_Join_Carna/120", "es": "Quedarme aquí en un momento como este no va conmigo."}
+{"key": "script/mp2201#EV01_10_Join_Carna/133", "es": "Mi padre es el guerrero más fuerte de aquí y aun así perdió la pelea."}
+{"key": "script/mp2201#EV01_10_Join_Carna/135", "es": "Y si él no puede vencerlos, ¿qué posibilidades tenemos los demás? Si atacan otra vez, estamos perdidos."}
+{"key": "script/mp2201#EV01_10_Join_Carna/137", "es": "Al menos si encontramos su guarida, estaremos mejor preparados para enfrentarlos."}
+{"key": "script/mp2201#EV01_10_Join_Carna/143", "es": "No soy buena para quedarme sentada sopesando mis opciones. Prefiero mantenerme firme y actuar."}
+{"key": "script/mp2201#EV01_10_Join_Carna/145", "es": "Prefiero hacer algo mal y arrepentirme después. Al menos habré hecho algo."}
+{"key": "script/mp2201#EV01_10_Join_Carna/148", "es": "Eres, eh... ¿cómo lo digo? Toda una señorita bien dura."}
+{"key": "script/mp2201#EV01_10_Join_Carna/152", "es": "Jeje. Gracias."}
+{"key": "script/mp2201#EV01_10_Join_Carna/154", "es": "Por supuesto, los dos me ayudarán, ¿verdad?"}
+{"key": "script/mp2201#EV01_10_Join_Carna/157", "es": "¿Qué? ¡No puede ser! Para empezar, yo no tuve nada que ver con todo esto. ¡Nada!"}
+{"key": "script/mp2201#EV01_10_Join_Carna/159", "es": "Y aun así me trataron como a un criminal, me encerraron, me obligaron a patrullar toda la noche, me comieron vivo los mosquitos..."}
+{"key": "script/mp2201#EV01_10_Join_Carna/166", "es": "Lo veremos hasta el final."}
+{"key": "script/mp2201#EV01_10_Join_Carna/167", "es": "De todos modos tenemos un mapa que hacer..."}
+{"key": "script/mp2201#EV01_10_Join_Carna/176", "es": "¡Todo esto empezó contigo, Adol, así que eres la última persona de quien quiero oír eso!"}
+{"key": "script/mp2201#EV01_10_Join_Carna/181", "es": "...¿El mapa?"}
+{"key": "script/mp2201#EV01_10_Join_Carna/183", "es": "Sí, supongo que es cierto. Tarde o temprano tendremos que ir adonde se escondan si queremos terminar el mapa..."}
+{"key": "script/mp2201#EV01_10_Join_Carna/192", "es": "Bien, BIEN, ayudaré, ¿okey?"}
+{"key": "script/mp2201#EV01_10_Join_Carna/197", "es": "¡Muchas gracias a los dos!"}
+{"key": "script/mp2201#EV01_10_Join_Carna/202", "es": "Ahora, si ya quedó decidido, no hay un momento que perder."}
+{"key": "script/mp2201#EV01_10_Join_Carna/204", "es": "No sabemos cuándo atacarán de nuevo, así que es mejor partir lo antes posible."}
+{"key": "script/mp2201#EV01_10_Join_Carna/206", "es": "¡Juntemos todas las provisiones que necesitemos y pongámonos en marcha!"}
+{"key": "script/mp2201#EV01_10_Join_Carna/212", "es": "Karna se unió al grupo."}
+{"key": "script/mp2201#QS201_Start/31", "es": "Oigan, ¿ustedes no son...?"}
+{"key": "script/mp2201#QS201_Start/34", "es": "¿Vinieron por mi solicitud del tablero?"}
+{"key": "script/mp2201#QS201_Start/37", "es": "Sí. Decía que buscas a alguien que te enseñe a usar la espada, ¿verdad?"}
+{"key": "script/mp2201#QS201_Start/42", "es": "¿Y qué opinas, Adol?"}
+{"key": "script/mp2201#QS201_Start/47", "es": "Adol..."}
+{"key": "script/mp2201#QS201_Start/49", "es": "Eh, ¿estarías dispuesto a enseñarme a usar la espada? ¿Por favor?"}
 {"key": "script/mp2201#QS201_Start/55", "es": "Aceptar"}
+{"key": "script/mp2201#QS201_Start/56", "es": "Rechazar"}
+{"key": "script/mp2201#QS201_Start/63", "es": "Anda, por favor. ¿No lo reconsiderarías?"}
+{"key": "script/mp2201#QS201_Start/68", "es": "Adol tiene otras cosas que hacer."}
+{"key": "script/mp2201#QS201_Start/70", "es": "No seas tan insistente."}
+{"key": "script/mp2201#QS201_Start/75", "es": "...Tienes razón. Pero no pienso rendirme."}
+{"key": "script/mp2201#QS201_Start/77", "es": "Aunque tenga que aprender sola, ¡voy a aprender a usar la espada! ¡Lo juro!"}
+{"key": "script/mp2201#QS201_Start/80", "es": "Lindsay..."}
+{"key": "script/mp2201#QS201_Start/85", "es": "¿De verdad no me enseñarás?"}
+{"key": "script/mp2201#QS201_Start/87", "es": "...¡Pues no voy a rendirme!"}
+{"key": "script/mp2201#QS201_Start/89", "es": "Aunque tenga que aprender sola, ¡voy a aprender a usar la espada! ¡Lo juro!"}
+{"key": "script/mp2201#QS201_Start/92", "es": "Lindsay..."}
+{"key": "script/mp2201#QS201_Start2/0", "es": "¡¿De verdad?! ¡Muchas gracias!"}
+{"key": "script/mp2201#QS201_Start2/3", "es": "*suspiro* Parece que de verdad no hay forma de detenerla."}
+{"key": "script/mp2201#QS201_Start2/8", "es": "Te agradezco que te preocupes por mí, pero quiero volverme más fuerte, cueste lo que cueste."}
+{"key": "script/mp2201#QS201_Start2/10", "es": "Tal vez lo hago solo para satisfacer mi propio ego. Tal vez estoy perdiendo el tiempo y todo esto será en vano."}
+{"key": "script/mp2201#QS201_Start2/12", "es": "Pero desde ese incidente, tengo muchas ganas de aprender defensa personal."}
+{"key": "script/mp2201#QS201_Start2/14", "es": "¡No debería conformarme con quedarme sentada en esta aldea sin hacer nada solo por ser una chica, después de todo!"}
+{"key": "script/mp2201#QS201_Start2/16", "es": "No espero llegar a ser tan buena como Karna, pero quiero poder defenderme sola, ¿sabes?"}
+{"key": "script/mp2201#QS201_Start2/21", "es": "Hablas muy en serio, ¿eh?"}
+{"key": "script/mp2201#QS201_Start2/23", "es": "...Está bien, de acuerdo. Entiendo."}
+{"key": "script/mp2201#QS201_Start2/25", "es": "Si esto es lo que quieres, adelante."}
+{"key": "script/mp2201#QS201_Start2/28", "es": "Gracias."}
+{"key": "script/mp2201#QS201_Start2/31", "es": "Mmm. ¡Bueno, entusiasmo sí que tienes!"}
+{"key": "script/mp2201#QS201_Start2/38", "es": "De hecho... tú también sabes pelear, ¿verdad?"}
+{"key": "script/mp2201#QS201_Start2/44", "es": "¿Mm? Sí, supongo. Aunque no uso espada como Adol."}
+{"key": "script/mp2201#QS201_Start2/46", "es": "¿Tú también quieres aprender a pelear?"}
+{"key": "script/mp2201#QS201_Start2/48", "es": "No me molesta enseñarte el arte del combate cuerpo a cuerpo, si quieres."}
+{"key": "script/mp2201#QS201_Start2/51", "es": "No, no te lo preguntaba por eso."}
+{"key": "script/mp2201#QS201_Start2/53", "es": "En realidad me preguntaba... ¿si podría pedirte un favor?"}
+{"key": "script/mp2201#QS201_Start2/56", "es": "¿Eh?"}
+{"key": "script/mp2201#QS201_Start2/59", "es": "¿Estarían dispuestos a hacer un duelo, solo para mostrarnos cómo se hace?"}
+{"key": "script/mp2201#QS201_Start2/69", "es": "Tú también tienes curiosidad por la fuerza de Adol, ¿verdad?"}
+{"key": "script/mp2201#QS201_Start2/71", "es": "Además, ¿no sería mejor ver lo que puede hacer un verdadero espadachín antes de empezar a aprender?"}
+{"key": "script/mp2201#QS201_Start2/74", "es": "Bueno... supongo que es verdad..."}
+{"key": "script/mp2201#QS201_Start2/77", "es": "Sí, en realidad no es una mala idea."}
+{"key": "script/mp2201#QS201_Start2/79", "es": "Yo desde luego no tengo objeciones."}
+{"key": "script/mp2201#QS201_Start2/84", "es": "¿Y tú, Adol?"}
+{"key": "script/mp2201#QS201_Start2/86", "es": "¿Te animas a medirte con estos nudillos noqueadores?"}
+{"key": "script/mp2201#QS201_Start2/92", "es": "Me encantaría."}
+{"key": "script/mp2201#QS201_Start2/93", "es": "¿Seguro que no te arrepentirás?"}
 {"key": "script/mp2201#QS201_Start2/99", "es": "¡Perfecto!"}
+{"key": "script/mp2201#QS201_Start2/101", "es": "¡Muy bien, que gane el mejor!"}
+{"key": "script/mp2201#QS201_Start2/108", "es": "¡Ja! ¡Hablas como si fuera a perder!"}
+{"key": "script/mp2201#QS201_Start2/110", "es": "¡Eso lo veremos!"}
+{"key": "script/mp2201#QS201_Start2/112", "es": "¡Muy bien, que empiece la fiesta!"}
+{"key": "script/mp2201#QS201_Start2/116", "es": "*glup*"}
+{"key": "script/mp2201#QS201_Start2/119", "es": "Jeje. ¡Parece que será una batalla muy emocionante!"}
+{"key": "script/mp2201#QS201_Work1/42", "es": "¿Ya están listos los dos?"}
+{"key": "script/mp2201#QS201_Work1/45", "es": "Sí. Solo dinos cuándo empezar y arrancamos."}
+{"key": "script/mp2201#QS201_Work1/48", "es": "Bien, prepárense..."}
+{"key": "script/mp2201#QS201_Work1/58", "es": "Yyy... ¡peleen!"}
+{"key": "script/mp2201#QS201_End_Win/64", "es": "Ay, no..."}
+{"key": "script/mp2201#QS201_End_Win/66", "es": "No puedo creer que perdí..."}
+{"key": "script/mp2201#QS201_End_Win/73", "es": "Fue un buen combate."}
+{"key": "script/mp2201#QS201_End_Win/74", "es": "¿Estás bien?"}
+{"key": "script/mp2201#QS201_End_Win/79", "es": "Sí, lo fue."}
+{"key": "script/mp2201#QS201_End_Win/81", "es": "...Espera, ¿solo me estás dando por mi lado? Hmph. Qué mal ganador."}
+{"key": "script/mp2201#QS201_End_Win/83", "es": "Eso sí, no voy a poner excusas. Ganaste limpiamente."}
+{"key": "script/mp2201#QS201_End_Win/88", "es": "¡Ja! Ya es bastante malo perder como para que encima el ganador se preocupe por mí."}
+{"key": "script/mp2201#QS201_End_Win/90", "es": "Pero lo aceptaré como un hombre. Fue un gran combate, Adol."}
+{"key": "script/mp2201#QS201_End_Win/94", "es": "Jeje. Siempre es interesante ver a los hombres hablar entre ellos."}
+{"key": "script/mp2201#QS201_End_Win/96", "es": "Los dos lo hicieron de maravilla."}
+{"key": "script/mp2201#QS201_End_Win/99", "es": "Sí. Aprendí mucho solo con mirarlos."}
+{"key": "script/mp2201#QS201_End_Win/108", "es": "Yo también."}
+{"key": "script/mp2201#QS201_End_Win/110", "es": "Gracias por acceder a mi petición."}
+{"key": "script/mp2201#QS201_End_Win/112", "es": "Aquí hay algo pequeño en señal de mi agradecimiento."}
 {"key": "script/mp2201#QS201_End_Win/116", "es": "Recibes "}
+{"key": "script/mp2201#QS201_End_Win/120", "es": "Gracias por todo lo de hoy."}
+{"key": "script/mp2201#QS201_End_Win/128", "es": "¡Misión completada: \"Clases de espada\"!"}
+{"key": "script/mp2201#QS201_End_Lose/67", "es": "...Uf, ¡parece que te di bien, amigo!"}
+{"key": "script/mp2201#QS201_End_Lose/69", "es": "¿Ves, Adol? ¡Ese era mi verdadero poder!"}
+{"key": "script/mp2201#QS201_End_Lose/76", "es": "Fue un buen combate."}
+{"key": "script/mp2201#QS201_End_Lose/77", "es": "Bajé la guardia."}
+{"key": "script/mp2201#QS201_End_Lose/82", "es": "Sí, lo fue."}
+{"key": "script/mp2201#QS201_End_Lose/84", "es": "...¡Espera, el que ganó soy yo! ¿No se supone que soy yo quien debería decir eso?"}
+{"key": "script/mp2201#QS201_End_Lose/89", "es": "¡Vamos, no me digas que solo estabas calentando o algo así!"}
+{"key": "script/mp2201#QS201_End_Lose/91", "es": "¡Perdiste limpiamente!"}
+{"key": "script/mp2201#QS201_End_Lose/95", "es": "Jeje. De verdad los hombres se acaloran cuando se trata de pelear, ¿no?"}
+{"key": "script/mp2201#QS201_End_Lose/97", "es": "Los dos lo hicieron de maravilla."}
+{"key": "script/mp2201#QS201_End_Lose/100", "es": "Sí. Aprendí mucho solo con mirarlos."}
+{"key": "script/mp2201#QS201_End_Lose/105", "es": "Gracias por todo lo de hoy."}
+{"key": "script/mp2201#QS201_End_Lose/113", "es": "¡Misión completada: \"Clases de espada\"!"}
+{"key": "script/mp2201#QS201_End_Common/10", "es": "Bueno, me alegra oírlo."}
+{"key": "script/mp2201#QS201_End_Common/15", "es": "¡Ah, sí! Nos llamaste para que te entrenáramos, ¿verdad?"}
+{"key": "script/mp2201#QS201_End_Common/17", "es": "Así nos va a faltar el tiempo."}
+{"key": "script/mp2201#QS201_End_Common/22", "es": "¡S-sí!"}
+{"key": "script/mp2201#QS201_End_Common/27", "es": "¡Estoy lista, Adol!"}
 {"key": "script/mp2201#QS201_End_Common/57", "es": "*jadeo* *jadeo*"}
+{"key": "script/mp2201#QS201_End_Common/59", "es": "Muchas gracias, Adol."}
+{"key": "script/mp2201#QS201_End_Common/73", "es": "Tienes potencial, eso sí."}
+{"key": "script/mp2201#QS201_End_Common/80", "es": "Jeje, ¿de verdad?"}
+{"key": "script/mp2201#QS201_End_Common/83", "es": "Debo admitir que me sorprende un poco lo rápido que aprendiste."}
+{"key": "script/mp2201#QS201_End_Common/85", "es": "Estoy segura de que serás una buena guerrera, Lindsay."}
+{"key": "script/mp2201#QS201_End_Common/90", "es": "¡Gracias!"}
+{"key": "script/mp2201#QS201_End_Common/95", "es": "Bueno, Adol..."}
+{"key": "script/mp2201#QS201_End_Common/97", "es": "Gracias otra vez por toda tu ayuda."}
+{"key": "script/mp2201#QS201_End_Common/99", "es": "No es mucho, pero por favor, acéptalo."}
 {"key": "script/mp2201#QS201_End_Common/103", "es": "Recibes "}
+{"key": "script/mp2201#QS202_End/27", "es": "Ah, ¿trajiste las hojas frescas que te pedí?"}
+{"key": "script/mp2201#QS202_End/29", "es": "Sí, son justo lo que quería. Están llenas de humedad."}
 {"key": "script/mp2201#QS202_End/32", "es": "Entregas "}
+{"key": "script/mp2201#QS202_End/36", "es": "*snif* Aaah, este aroma sí que recuerda los cálidos rayos del sol, ¿verdad?"}
+{"key": "script/mp2201#QS202_End/38", "es": "Jeje, gracias. Seguro que los ciervos también se pondrán muy contentos."}
+{"key": "script/mp2201#QS202_End/40", "es": "Aquí tienes tu recompensa."}
 {"key": "script/mp2201#QS202_End/44", "es": "Recibes "}
+{"key": "script/mp2201#QS202_End/53", "es": "¡Misión completada: \"Una comida fresca\"!"}
+{"key": "script/mp2201#QS205_Find/29", "es": "¡Ahí está!"}
+{"key": "script/mp2201#QS205_False/43", "es": "Ups, parece que no tuvimos suficiente cuidado."}
+{"key": "script/mp2201#QS205_False/45", "es": "Tenemos que rodearlo sigilosamente y llegar por detrás."}
+{"key": "script/mp2201#QS205_False/88", "es": "¡Ay, parece que nos vio!"}
+{"key": "script/mp2201#QS205_False/132", "es": "Ay, se escapó..."}
+{"key": "script/mp2201#QS205_Success/37", "es": "Je, ¡te atrapé!"}
+{"key": "script/mp2201#QS205_Success/39", "es": "Vamos a llevarte con Pippi."}
+{"key": "script/mp2201#QS205_Success/64", "es": "Je, ¡te atrapé!"}
+{"key": "script/mp2201#QS205_Success/66", "es": "Vamos a llevarte con Pippi."}
+{"key": "script/mp2201#QS205_Success/91", "es": "Je, ¡te atrapé!"}
+{"key": "script/mp2201#QS205_Success/93", "es": "Vamos a llevarte con Pippi."}
+{"key": "script/mp2201#QS206_False/42", "es": "Nos está mirando directamente. No vamos a poder acercarnos desde aquí."}
+{"key": "script/mp2201#QS206_False/90", "es": "...No creo que podamos atraparlo aquí."}
+{"key": "script/mp2201#QS206_False/137", "es": "¡Ay, parece que nos vio!"}
+{"key": "script/mp2201#QS206_False/182", "es": "Ay, se escapó..."}
+{"key": "script/mp2201#QS206_Success/36", "es": "Je, ¡te atrapé!"}
+{"key": "script/mp2201#QS206_Success/38", "es": "Vamos a llevarte con Pippi."}
+{"key": "script/mp2201#QS206_Success/62", "es": "Je, ¡te atrapé!"}
+{"key": "script/mp2201#QS206_Success/64", "es": "Vamos a llevarte con Pippi."}
+{"key": "script/mp2201#QS206_Success/88", "es": "Je, ¡te atrapé!"}
+{"key": "script/mp2201#QS206_Success/90", "es": "Vamos a llevarte con Pippi."}
+{"key": "script/mp2201#QS206_Success/114", "es": "Je, ¡te atrapé!"}
+{"key": "script/mp2201#QS206_Success/116", "es": "Vamos a llevarte con Pippi."}
+{"key": "script/mp2201#talk_picardA/5", "es": "¡Phweeeeheeeheeee! ㈱"}
+{"key": "script/mp2201#talk_picardA/13", "es": "¡Phweeeheeee! ㈱"}
+{"key": "script/mp2201#talk_picardA/21", "es": "Phwee."}
+{"key": "script/mp2201#talk_picardA/29", "es": "¡Phweeeeee!"}
+{"key": "script/mp2201#talk_picardA/37", "es": "¡¡PHWEEEEEEEEEE!!"}
 {"key": "script/mp2201#talk_picardA/43", "es": "Darle una fruta o nuez"}
 {"key": "script/mp2201#talk_picardA/44", "es": "Pellizcarle la nariz"}
 {"key": "script/mp2201#talk_picardA/45", "es": "Cancelar"}
+{"key": "script/mp2201#talk_picardA/52", "es": "No tienes nada. Qué cruel, ilusionarlo de ese modo."}
 {"key": "script/mp2201#talk_picardA/59", "es": "Darle una fruta podrida"}
 {"key": "script/mp2201#talk_picardA/62", "es": "Darle una nuez de chito"}
 {"key": "script/mp2201#talk_picardA/65", "es": "Darle una fruta de raparo"}
@@ -31,9 +310,15 @@
 {"key": "script/mp2201#talk_picardA/207", "es": "Recibes "}
 {"key": "script/mp2201#talk_picardA/230", "es": "...Parece ofendido."}
 {"key": "script/mp2201#talk_picardA/234", "es": "...Parece que no le caes bien."}
+{"key": "script/mp2201#talk_picardB/5", "es": "¡Phweeeeheeeheeee! ㈱"}
+{"key": "script/mp2201#talk_picardB/13", "es": "¡Phweeeheeee! ㈱"}
+{"key": "script/mp2201#talk_picardB/21", "es": "Phwee."}
+{"key": "script/mp2201#talk_picardB/29", "es": "¡Phweeeeee!"}
+{"key": "script/mp2201#talk_picardB/37", "es": "¡¡PHWEEEEEEEEEE!!"}
 {"key": "script/mp2201#talk_picardB/43", "es": "Darle una fruta o nuez"}
 {"key": "script/mp2201#talk_picardB/44", "es": "Pellizcarle la nariz"}
 {"key": "script/mp2201#talk_picardB/45", "es": "Cancelar"}
+{"key": "script/mp2201#talk_picardB/52", "es": "No tienes ninguna. Seguramente ahora mismo está planeando tu perdición por la treta."}
 {"key": "script/mp2201#talk_picardB/59", "es": "Darle una fruta podrida"}
 {"key": "script/mp2201#talk_picardB/62", "es": "Darle una nuez de chito"}
 {"key": "script/mp2201#talk_picardB/65", "es": "Darle una fruta de raparo"}
@@ -56,12 +341,49 @@
 {"key": "script/mp2201#talk_picardB/207", "es": "Recibes "}
 {"key": "script/mp2201#talk_picardB/230", "es": "...Parece ofendido."}
 {"key": "script/mp2201#talk_picardB/234", "es": "...Parece que no le caes bien."}
+{"key": "script/mp2201#talk_nabal/3", "es": "El bosque parece estar inquieto últimamente."}
+{"key": "script/mp2201#talk_nabal/5", "es": "No es un buen presagio."}
+{"key": "script/mp2201#talk_nabal/9", "es": "Los romunos dicen que no tienen intención de apoderarse de este lugar... pero no hay manera de que confíe en ellos."}
+{"key": "script/mp2201#talk_nabal/11", "es": "Tengo que mantenerme vigilante y montar guardia."}
+{"key": "script/mp2201#talk_nabal/15", "es": "Un mensajero de algún ejército está hablando ahora con el jefe de la aldea."}
+{"key": "script/mp2201#talk_nabal/17", "es": "No sé qué hace aquí, pero me preocupa mucho."}
+{"key": "script/mp2201#talk_nabal/21", "es": "Ahora mismo hay visitantes de Selray y de Casnan en la aldea."}
+{"key": "script/mp2201#talk_nabal/23", "es": "Supongo que los visitantes ya no son nada fuera de lo común, pero aun así no puedo evitar preocuparme por nuestro futuro."}
+{"key": "script/mp2201#talk_nabal/27", "es": "¡Cálmate! Yo no dije que nunca te dejaría entrar."}
+{"key": "script/mp2201#talk_nabal/29", "es": "Pero ahora mismo la mayoría de los hombres está fuera cazando."}
+{"key": "script/mp2201#talk_nabal/31", "es": "Así que vuelve más tarde, ¿de acuerdo?"}
 {"key": "script/mp2201#talk_nabal/36", "es": "¿Quién eres?"}
+{"key": "script/mp2201#talk_nabal/38", "es": "¡¿Y qué es ese peinado tan pretencioso?!"}
+{"key": "script/mp2201#talk_nabal/42", "es": "Remnos todavía no ha regresado, pero al menos el incidente ya se resolvió en su mayor parte."}
+{"key": "script/mp2201#talk_nabal/44", "es": "Sin embargo, nunca se sabe cuándo podría pasar otra cosa así. Tengo que mantenerme vigilante."}
+{"key": "script/mp2201#talk_nabal/49", "es": "¿Qué pasó ayer? ¡No tiene sentido!"}
+{"key": "script/mp2201#talk_fururu/5", "es": "Intercambiar materiales"}
 {"key": "script/mp2201#talk_fururu/6", "es": "Hablar"}
 {"key": "script/mp2201#talk_fururu/7", "es": "Cancelar"}
+{"key": "script/mp2201#talk_fururu/17", "es": "Si los romunos de verdad empiezan a internarse en el bosque, puede que no podamos quedarnos aquí mucho más tiempo."}
+{"key": "script/mp2201#talk_fururu/19", "es": "Ojalá nunca se llegue a eso."}
+{"key": "script/mp2201#talk_fururu/24", "es": "Las frutas de arieda se usan sobre todo como especia para cocinar."}
+{"key": "script/mp2201#talk_fururu/26", "es": "Si las comes crudas, son extremadamente picantes, así que ten mucho cuidado."}
+{"key": "script/mp2201#talk_fururu/31", "es": "Si hierves frutas de raparo con miel, puedes hacer una mermelada realmente deliciosa."}
+{"key": "script/mp2201#talk_fururu/33", "es": "Y con esa mermelada se pueden hacer tartas exquisitas."}
+{"key": "script/mp2201#talk_fururu/38", "es": "Las nueces de chito son conocidas por su textura poco común: blandas por fuera, pero algo más duras por dentro."}
+{"key": "script/mp2201#talk_fururu/40", "es": "Uno de sus mayores atractivos es que se pueden moler para hacer pan."}
+{"key": "script/mp2201#talk_fururu/45", "es": "Comer fruta de verdad hace que uno se sienta nutrido."}
+{"key": "script/mp2201#talk_fururu/47", "es": "La fruta es realmente una bendición del dios del bosque."}
+{"key": "script/mp2201#talk_fururu/52", "es": "Hemos pasado por mucho últimamente, pero me alegra que todos estén bien."}
+{"key": "script/mp2201#talk_fururu/54", "es": "Ahora mi única preocupación es Remnos..."}
+{"key": "script/mp2201#talk_fururu/59", "es": "Todavía no puedo superar lo que pasó ayer."}
+{"key": "script/mp2201#talk_fururu/61", "es": "¿Cómo pudo ocurrir algo así?"}
+{"key": "script/mp2201#talk_sikaA/6", "es": "*bufido* *chillido* ㈱"}
+{"key": "script/mp2201#talk_sikaA/14", "es": "*chillido* ㈱"}
+{"key": "script/mp2201#talk_sikaA/22", "es": "Shree..."}
+{"key": "script/mp2201#talk_sikaA/30", "es": "¡Shreeeee!"}
+{"key": "script/mp2201#talk_sikaA/38", "es": "¡¡SHREEEEEEEEEEE!!"}
 {"key": "script/mp2201#talk_sikaA/44", "es": "Darle una hoja"}
 {"key": "script/mp2201#talk_sikaA/45", "es": "Darle una flor"}
+{"key": "script/mp2201#talk_sikaA/46", "es": "Agarrarle los cuernos"}
 {"key": "script/mp2201#talk_sikaA/47", "es": "Cancelar"}
+{"key": "script/mp2201#talk_sikaA/54", "es": "¿Por qué le ofreces algo que no tienes? Qué mala educación."}
 {"key": "script/mp2201#talk_sikaA/61", "es": "Darle una hoja podrida"}
 {"key": "script/mp2201#talk_sikaA/64", "es": "Darle una hoja fresca"}
 {"key": "script/mp2201#talk_sikaA/67", "es": "Darle una hoja de Roda"}
@@ -73,6 +395,7 @@
 {"key": "script/mp2201#talk_sikaA/112", "es": "Recibes "}
 {"key": "script/mp2201#talk_sikaA/132", "es": "Parece extasiado."}
 {"key": "script/mp2201#talk_sikaA/136", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaA/148", "es": "No tienes ninguna. Eso te convierte en una mala persona."}
 {"key": "script/mp2201#talk_sikaA/155", "es": "Darle una flor marchita"}
 {"key": "script/mp2201#talk_sikaA/158", "es": "Darle una flor de marl"}
 {"key": "script/mp2201#talk_sikaA/161", "es": "Darle una flor de yupel"}
@@ -95,10 +418,16 @@
 {"key": "script/mp2201#talk_sikaA/303", "es": "Recibes "}
 {"key": "script/mp2201#talk_sikaA/326", "es": "...Parece ofendido."}
 {"key": "script/mp2201#talk_sikaA/330", "es": "...Parece que no le caes bien."}
+{"key": "script/mp2201#talk_sikaB/6", "es": "*bufido* *chillido* ㈱"}
+{"key": "script/mp2201#talk_sikaB/14", "es": "*chillido* ㈱"}
+{"key": "script/mp2201#talk_sikaB/22", "es": "Shree..."}
+{"key": "script/mp2201#talk_sikaB/30", "es": "¡Shreeeee!"}
+{"key": "script/mp2201#talk_sikaB/38", "es": "¡¡SHREEEEEEEEEEE!!"}
 {"key": "script/mp2201#talk_sikaB/44", "es": "Darle una hoja"}
 {"key": "script/mp2201#talk_sikaB/45", "es": "Darle una flor"}
 {"key": "script/mp2201#talk_sikaB/46", "es": "Pellizcarle la nariz"}
 {"key": "script/mp2201#talk_sikaB/47", "es": "Cancelar"}
+{"key": "script/mp2201#talk_sikaB/54", "es": "¡La broma es para ti! No tienes ninguna."}
 {"key": "script/mp2201#talk_sikaB/61", "es": "Darle una hoja podrida"}
 {"key": "script/mp2201#talk_sikaB/64", "es": "Darle una hoja fresca"}
 {"key": "script/mp2201#talk_sikaB/67", "es": "Darle una hoja de Roda"}
@@ -110,6 +439,7 @@
 {"key": "script/mp2201#talk_sikaB/109", "es": "Recibes "}
 {"key": "script/mp2201#talk_sikaB/129", "es": "Parece extasiado."}
 {"key": "script/mp2201#talk_sikaB/133", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaB/145", "es": "Tienes los bolsillos tan vacíos como tu dignidad."}
 {"key": "script/mp2201#talk_sikaB/152", "es": "Darle una flor marchita"}
 {"key": "script/mp2201#talk_sikaB/155", "es": "Darle una flor de marl"}
 {"key": "script/mp2201#talk_sikaB/158", "es": "Darle una flor de yupel"}
@@ -132,9 +462,55 @@
 {"key": "script/mp2201#talk_sikaB/300", "es": "Recibes "}
 {"key": "script/mp2201#talk_sikaB/323", "es": "...Parece ofendido."}
 {"key": "script/mp2201#talk_sikaB/327", "es": "...Parece que no le caes bien."}
+{"key": "script/mp2201#talk_magisa/3", "es": "Los guerreros parecen inquietos últimamente."}
+{"key": "script/mp2201#talk_magisa/5", "es": "Espero que no esté pasando nada problemático..."}
+{"key": "script/mp2201#talk_magisa/9", "es": "Nacimos en el bosque y vivimos en el bosque."}
+{"key": "script/mp2201#talk_magisa/11", "es": "Es como una forma de orgullo tribal. No podemos permitir que alguien nos lo arrebate."}
+{"key": "script/mp2201#talk_magisa/15", "es": "Espero que el ejército no cause problemas..."}
+{"key": "script/mp2201#talk_magisa/19", "es": "Mmm... ¿cuántos años habrán pasado desde la última vez que vi a alguien de Selray?"}
+{"key": "script/mp2201#talk_magisa/23", "es": "Esto me hace valorar de verdad lo importantes que son las cosas que damos por sentadas en la vida."}
+{"key": "script/mp2201#talk_magisa/25", "es": "No hay nada más maravilloso en el mundo que la sonrisa de mi nieta."}
+{"key": "script/mp2201#talk_magisa/29", "es": "Supongo que esto significa que aquí las cosas pueden empezar a volver a la normalidad."}
+{"key": "script/mp2201#talk_magisa/31", "es": "Aunque todavía me preocupa Remnos..."}
+{"key": "script/mp2201#talk_magisa/35", "es": "¿Qué está pasando? Nada de lo que ocurre últimamente parece tener sentido."}
+{"key": "script/mp2201#talk_tanya/3", "es": "Alguien dijo que los romunos podrían atacarnos."}
+{"key": "script/mp2201#talk_tanya/5", "es": "¡Pero no puedo permitirlo! ¡Tengo que pelear!"}
+{"key": "script/mp2201#talk_tanya/9", "es": "Hoy también todos salieron a cazar."}
+{"key": "script/mp2201#talk_tanya/11", "es": "Jeje. ¡Ojalá traigan algo rico para la cena!"}
+{"key": "script/mp2201#talk_tanya/15", "es": "Vino un hombre cubierto de hierro."}
+{"key": "script/mp2201#talk_tanya/17", "es": "¿Él también es extranjero?"}
+{"key": "script/mp2201#talk_tanya/21", "es": "Vino un hombre extraño."}
+{"key": "script/mp2201#talk_tanya/23", "es": "¿Él también es extranjero?"}
+{"key": "script/mp2201#talk_tanya/27", "es": "¡Jaja! Hoy hace un día muy lindo. ¡Hay una brisa tan agradable!"}
+{"key": "script/mp2201#talk_tanya/31", "es": "Casi todos los que desaparecieron parecen haber regresado."}
+{"key": "script/mp2201#talk_tanya/33", "es": "...Pero ¿cuándo va a volver Remnos?"}
+{"key": "script/mp2201#talk_tanya/37", "es": "Las personas enmascaradas que vinieron ayer son malas por causar tantos problemas, ¿verdad?"}
+{"key": "script/mp2201#talk_tanya/39", "es": "¡A la gente mala hay que regañarla bien!"}
+{"key": "script/mp2201#talk_emiria/2", "es": "Oye, ¿por qué me regalaste aretes OTRA VEZ?"}
+{"key": "script/mp2201#talk_emiria/4", "es": "¿Crees que tengo seis orejas o algo así?"}
+{"key": "script/mp2201#talk_emiria/8", "es": "Espero que Remio no esté causando problemas..."}
+{"key": "script/mp2201#talk_emiria/12", "es": "Espero que Remio no haya hecho alguna tontería..."}
+{"key": "script/mp2201#talk_emiria/16", "es": "Remio... ¿Me amas?"}
+{"key": "script/mp2201#talk_emiria/20", "es": "Espero que Remio no esté herido..."}
+{"key": "script/mp2201#talk_emiria/24", "es": "¡Estoy muy feliz de que hayas vuelto, Remio! Estoy... tan, tan feliz..."}
+{"key": "script/mp2201#talk_emiria/28", "es": "Remio, oh, Remio... ¿Dónde estás, que no te veo?"}
+{"key": "script/mp2201#talk_emiria/30", "es": "¿De verdad fuiste uno de los que atacaron la aldea ayer, Remio?"}
+{"key": "script/mp2201#talk_emiria/32", "es": "Si hubiera sabido que iba a pasar algo así, habría sido más sincera contigo..."}
+{"key": "script/mp2201#talk_romero/3", "es": "¡P-por supuesto que no!"}
+{"key": "script/mp2201#talk_romero/5", "es": "Yo... yo solo pensé que te gustarían porque son bonitos, e-eso es todo."}
+{"key": "script/mp2201#talk_romero/9", "es": "¡Claro que te amo!"}
+{"key": "script/mp2201#talk_romero/13", "es": "Lamento mucho haberte preocupado, Saria."}
+{"key": "script/mp2201#talk_romero/15", "es": "Nunca más te dejaré sola..."}
+{"key": "script/mp2201#talk_sikaC/6", "es": "*bufido* *chillido* ㈱"}
+{"key": "script/mp2201#talk_sikaC/14", "es": "*chillido* ㈱"}
+{"key": "script/mp2201#talk_sikaC/22", "es": "Shree..."}
+{"key": "script/mp2201#talk_sikaC/30", "es": "¡Shreeeee!"}
+{"key": "script/mp2201#talk_sikaC/38", "es": "¡¡SHREEEEEEEEEEE!!"}
 {"key": "script/mp2201#talk_sikaC/44", "es": "Darle una hoja"}
 {"key": "script/mp2201#talk_sikaC/45", "es": "Darle una flor"}
+{"key": "script/mp2201#talk_sikaC/46", "es": "Agarrarle los cuernos"}
 {"key": "script/mp2201#talk_sikaC/47", "es": "Cancelar"}
+{"key": "script/mp2201#talk_sikaC/54", "es": "No tienes ninguna. Mejor huye antes de que decida arrancarte la mano de un mordisco."}
 {"key": "script/mp2201#talk_sikaC/61", "es": "Darle una hoja podrida"}
 {"key": "script/mp2201#talk_sikaC/64", "es": "Darle una hoja fresca"}
 {"key": "script/mp2201#talk_sikaC/67", "es": "Darle una hoja de Roda"}
@@ -146,6 +522,7 @@
 {"key": "script/mp2201#talk_sikaC/109", "es": "Recibes "}
 {"key": "script/mp2201#talk_sikaC/129", "es": "Parece extasiado."}
 {"key": "script/mp2201#talk_sikaC/133", "es": "Recibes "}
+{"key": "script/mp2201#talk_sikaC/145", "es": "Esto es un haiku. Se burla de ti porque no tienes ni una."}
 {"key": "script/mp2201#talk_sikaC/152", "es": "Darle una flor marchita"}
 {"key": "script/mp2201#talk_sikaC/155", "es": "Darle una flor de marl"}
 {"key": "script/mp2201#talk_sikaC/158", "es": "Darle una flor de yupel"}
@@ -169,6 +546,113 @@
 {"key": "script/mp2201#talk_sikaC/323", "es": "...Parece ofendido."}
 {"key": "script/mp2201#talk_sikaC/327", "es": "...Parece que no le caes bien."}
 {"key": "script/mp2201#talk_jesica/4", "es": "Hablar"}
+{"key": "script/mp2201#talk_jesica/5", "es": "Entregar hoja fresca x10"}
 {"key": "script/mp2201#talk_jesica/6", "es": "Cancelar"}
+{"key": "script/mp2201#talk_jesica/21", "es": "Ah, ¿trajiste las hojas frescas que te pedí?"}
+{"key": "script/mp2201#talk_jesica/23", "es": "...Eh, no, no las trajiste. No tienes suficientes."}
+{"key": "script/mp2201#talk_jesica/25", "es": "¿Puedes volver a avisarme cuando tengas diez de sobra?"}
+{"key": "script/mp2201#talk_jesica/37", "es": "Les daré a los ciervos las hojas que me trajiste antes de que se echen a perder."}
+{"key": "script/mp2201#talk_jesica/39", "es": "Jeje. ¡Gracias por conseguirlas!"}
+{"key": "script/mp2201#talk_jesica/44", "es": "Últimamente todos hablan de cosas muy desagradables."}
+{"key": "script/mp2201#talk_jesica/46", "es": "¿Qué me importan los romunos? ¡No me dan miedo!"}
+{"key": "script/mp2201#talk_jesica/51", "es": "Aaahh... La brisa de la aldea es tan refrescante como siempre."}
+{"key": "script/mp2201#talk_jesica/53", "es": "Parece que hoy será un día hermoso."}
+{"key": "script/mp2201#talk_jesica/58", "es": "La gente de ese ejército volvió a venir. Todavía están hablando con el jefe."}
+{"key": "script/mp2201#talk_jesica/60", "es": "*suspiro* Parece que no se acaban las visitas que recibimos últimamente."}
+{"key": "script/mp2201#talk_jesica/66", "es": "El jefe está recibiendo ahora a alguien de Selray."}
+{"key": "script/mp2201#talk_jesica/68", "es": "Aunque este hombre que lo acompaña parece tener dolor de estómago. Me pregunto si estará bien..."}
+{"key": "script/mp2201#talk_jesica/73", "es": "El acompañante del hombre de Selray parece tener dolor de estómago. Me pregunto si estará bien..."}
+{"key": "script/mp2201#talk_jesica/75", "es": "En varios sentidos, de hecho..."}
+{"key": "script/mp2201#talk_jesica/81", "es": "¡Los ciervos parecen llenos de vida hoy!"}
+{"key": "script/mp2201#talk_jesica/83", "es": "Tienen el pelaje brillante y buen apetito... No tengo nada de qué preocuparme."}
+{"key": "script/mp2201#talk_jesica/88", "es": "De verdad no puedo agradecerles lo suficiente."}
+{"key": "script/mp2201#talk_jesica/90", "es": "¡Ustedes también han hecho muy felices a los ciervos!"}
+{"key": "script/mp2201#talk_jesica/95", "es": "No puedo creer que esas personas enmascaradas lograran herir a Asad. ¡Deben de ser increíblemente fuertes!"}
+{"key": "script/mp2201#talk_jesica/97", "es": "Y dicen que son los aldeanos que fueron raptados... lo cual es todavía más difícil de creer."}
+{"key": "script/mp2201#talk_sven/3", "es": "Las bestias también pueden ser maridos... y viceversa."}
+{"key": "script/mp2201#talk_sven/5", "es": "De hecho, ¡sobre todo viceversa!"}
+{"key": "script/mp2201#talk_sven/9", "es": "Me preocupa el ejército, pero no sirve de nada preocuparse demasiado."}
+{"key": "script/mp2201#talk_sven/11", "es": "Quizá debería olvidar todas mis preocupaciones y jugar con estos chicos."}
+{"key": "script/mp2201#talk_sven/15", "es": "Jaja. De verdad siempre son así."}
+{"key": "script/mp2201#talk_sven/17", "es": "La verdad, creo que se están divirtiendo. Solo que no lo admiten."}
+{"key": "script/mp2201#talk_sven/21", "es": "Parecen completos opuestos, pero tienen exactamente la misma personalidad."}
+{"key": "script/mp2201#talk_sven/23", "es": "Jaja. ¡Es divertido solo verlos!"}
+{"key": "script/mp2201#talk_sven/27", "es": "Jaja. Ver a estos dos de verdad te llena de paz, ¿sabes?"}
+{"key": "script/mp2201#talk_sven/31", "es": "Nunca sé si se llevan muy bien o muy mal..."}
+{"key": "script/mp2201#talk_sven/35", "es": "Jaja. Los niños son tan despreocupados."}
+{"key": "script/mp2201#talk_sven/37", "es": "Todavía me siento algo inquieto después de todo lo que pasó, pero ver a estos dos de verdad ayuda a tranquilizar la mente."}
+{"key": "script/mp2201#talk_land/3", "es": "¡Cállate!"}
+{"key": "script/mp2201#talk_land/5", "es": "¡Soy una bestia! ¡Una bestia!"}
+{"key": "script/mp2201#talk_land/9", "es": "¿Cuántas veces tengo que decírtelo? ¡Se supone que debes huir!"}
+{"key": "script/mp2201#talk_land/11", "es": "¡¿Qué clase de bestia corre directo hacia una flecha?!"}
+{"key": "script/mp2201#talk_land/15", "es": "¿Qué...? ¡¿Por qué te rindes?!"}
+{"key": "script/mp2201#talk_land/17", "es": "¡Las bestias no se rinden así como así! ¡Esfuérzate un poco!"}
+{"key": "script/mp2201#talk_land/21", "es": "¡Deja de quejarte!"}
+{"key": "script/mp2201#talk_land/23", "es": "¡Ahora yo soy el cazador, así que date prisa y huye, bestia!"}
+{"key": "script/mp2201#talk_land/27", "es": "¡Ey, ya llegué! ¡¿Dónde está mi cena?!"}
+{"key": "script/mp2201#talk_land/31", "es": "*ñam* *ñam* Ah. Estaba delicioso."}
+{"key": "script/mp2201#talk_land/35", "es": "¡Arrgh! ¿Qué gracia tiene jugar a la casita?"}
+{"key": "script/mp2201#talk_land/37", "es": "Estoy tan aburriiiiido..."}
+{"key": "script/mp2201#talk_jana/3", "es": "¡Eres tú quien tiene que callarse!"}
+{"key": "script/mp2201#talk_jana/5", "es": "¡Se supone que eres mi esposo!"}
+{"key": "script/mp2201#talk_jana/9", "es": "¡Ay, noooo, me dispararon!"}
+{"key": "script/mp2201#talk_jana/11", "es": "¡Voy a morirrrr!"}
+{"key": "script/mp2201#talk_jana/15", "es": "¡Oh, no, me rindo! ¡Me rindo!"}
+{"key": "script/mp2201#talk_jana/19", "es": "*suspiro* ¿Qué gracia tiene jugar a los cazadores?"}
+{"key": "script/mp2201#talk_jana/21", "es": "Estoy tan aburriiiiido..."}
+{"key": "script/mp2201#talk_jana/25", "es": "¡¿Cuántas veces tengo que decírtelo?! ¡Mi esposo jamás sería tan grosero!"}
+{"key": "script/mp2201#talk_jana/27", "es": "Lo primero que se supone que debes decir al llegar a casa es \"¡Te amo, querida!\""}
+{"key": "script/mp2201#talk_jana/31", "es": "¡¿Q-qué es esa reacción tan desganada?!"}
+{"key": "script/mp2201#talk_jana/33", "es": "¡Se supone que debes decirlo con más cariño!"}
+{"key": "script/mp2201#talk_jana/37", "es": "¡Deja de quejarte!"}
+{"key": "script/mp2201#talk_jana/39", "es": "¡Te preparé la cena, así que date prisa y cómela!"}
+{"key": "script/mp2201#talk_lingy/8", "es": "De verdad fue muy difícil, pero lo logré de todos modos."}
+{"key": "script/mp2201#talk_lingy/10", "es": "Jeje. ¡Esta noche, banquete!"}
+{"key": "script/mp2201#talk_lingy/15", "es": "¡Todavía no termino!"}
+{"key": "script/mp2201#talk_lingy/20", "es": "Jeje, ¿de verdad? ¡Todo es gracias a mi entrenamiento!"}
+{"key": "script/mp2201#talk_lingy/25", "es": "¡Todavía no termino!"}
+{"key": "script/mp2201#talk_lingy/33", "es": "Muchas gracias por tu ayuda de hoy, Adol."}
+{"key": "script/mp2201#talk_lingy/35", "es": "Seguiré esforzándome por mejorar."}
+{"key": "script/mp2201#talk_lingy/39", "es": "Sí, hablo en serio... Quiero ser más fuerte."}
+{"key": "script/mp2201#talk_marchera/8", "es": "Vaya, ¡¿de verdad lograste derribar uno?!"}
+{"key": "script/mp2201#talk_marchera/13", "es": "Lindsay está cazando ahora mismo."}
+{"key": "script/mp2201#talk_marchera/15", "es": "Naturalmente, al principio todos estaban en contra... pero ahora que todos entienden lo seria que es, han llegado a aceptar su decisión."}
+{"key": "script/mp2201#talk_marchera/20", "es": "¿Practicar esgrima también ayuda a adelgazar?"}
+{"key": "script/mp2201#talk_marchera/22", "es": "...Quizá debería probarlo alguna vez, después de todo..."}
+{"key": "script/mp2201#talk_marchera/27", "es": "Te ves mucho más en forma estos días, Lindsay."}
+{"key": "script/mp2201#talk_marchera/32", "es": "Cuando no está ayudando en la aldea, Lindsay siempre practica así con su espada."}
+{"key": "script/mp2201#talk_marchera/34", "es": "Pensé que pronto empezaría a quejarse, ¡pero es muy dedicada!"}
+{"key": "script/mp2201#talk_marchera/40", "es": "Fue un combate bastante intenso de ver."}
+{"key": "script/mp2201#talk_marchera/42", "es": "Los dos pelearon de maravilla."}
+{"key": "script/mp2201#talk_marchera/46", "es": "¿De verdad piensas aprender a usar una espada?"}
+{"key": "script/mp2201#talk_marchera/52", "es": "No puedo creer que los aldeanos desaparecidos siquiera pensaran en atacarnos... ¿Lindsay estaba con ellos?"}
+{"key": "script/mp2201#talk_marchera/54", "es": "Que cualquiera de los nuestros se vuelva contra Comodo es perturbador en el mejor de los casos, pero con ella es especialmente difícil de imaginar..."}
+{"key": "script/mp2201#talk_Leo/4", "es": "¡¿Pretencioso?! ¡Cómo te atreves!"}
+{"key": "script/mp2201#talk_Leo/6", "es": "¡Soy el comandante Leo del Ejército Celcetano, y no te permito que me hables así!"}
+{"key": "script/mp2201#talk_Santyo/2", "es": "El comandante está muy enojado ahora. Otra vez."}
+{"key": "script/mp2201#talk_Santyo/4", "es": "Si no se calma, no vamos a llegar a ningún lado negociando con ellos..."}
+{"key": "script/mp2201#talk_Pansa/2", "es": "Hay una aldea justo frente a nuestros ojos, pero no nos dejan entrar. ¡No es justo!"}
+{"key": "script/mp2201#talk_Pansa/4", "es": "Tengo muuuuuucha hambre..."}
+{"key": "script/mp2201#talk_gery/3", "es": "¿Así que esto es Comodo? Ir a lugares nuevos donde no sabes bien cómo comportarte siempre es complicado."}
+{"key": "script/mp2201#talk_gery/5", "es": "...Me duele el estómago..."}
+{"key": "script/mp2201#talk_gery/10", "es": "Siempre me empieza a doler el estómago cuando me pongo nervioso."}
+{"key": "script/mp2201#talk_gery/12", "es": "¡Me enojo tanto con mi estómago que ya no tengo estómago para aguantarlo! Jaja..."}
+{"key": "script/mp2201#talk_rabit/2", "es": "¿Cómo es posible que no hayas oído hablar de la legendaria exploradora Rabbit Longears?"}
+{"key": "script/mp2201#talk_rabit/4", "es": "¡¿Cómo puedes ser tan ignorante?!"}
+{"key": "script/mp2201#talk_pigeon/2", "es": "...La verdad, creo que es bastante normal no haber oído hablar de ti..."}
+{"key": "script/mp2201#talk_pigeon/4", "es": "Vamos, hagámosle caso y volvamos más tarde, ¿sí?"}
+{"key": "script/mp2201#SUB_take_back/11", "es": "¡¿Qué hacen ustedes dos aquí?!"}
+{"key": "script/mp2201#SUB_take_back/14", "es": "Uy. Nos descubrieron."}
+{"key": "script/mp2201#SUB_take_back/23", "es": "¡¿Qué están haciendo?!"}
+{"key": "script/mp2201#SUB_take_back/26", "es": "¡Maldición! ¡Nos vieron!"}
+{"key": "script/mp2201#SUB_take_back/35", "es": "¡¿Cómo salieron?!"}
+{"key": "script/mp2201#SUB_take_back/38", "es": "¡Rayos, nos vieron!"}
+{"key": "script/mp2201#SUB_take_back/47", "es": "Oigan, ¿ustedes no son...?"}
+{"key": "script/mp2201#SUB_take_back/50", "es": "Uf. Se acabó eso de escabullirnos..."}
+{"key": "script/mp2201#stop_exit/12", "es": "Tenemos que reunir más información sobre esos tipos enmascarados."}
+{"key": "script/mp2201#stop_exit/14", "es": "Vamos a preguntar por la aldea."}
+{"key": "script/mp2201#stop_gate/7", "es": "¡Espera! Tenemos que reunir un poco más de información antes de pensar en escapar."}
+{"key": "script/mp2201#stop_gate/9", "es": "Deberíamos volver a la aldea y tratar de encontrar algo que te devuelva la memoria."}
 {"key": "script/mp2201#talk_Mishy/35", "es": "¡Jijijiii! ♪"}
 {"key": "script/mp2201#talk_Mishy/44", "es": "¡Jiiijijiiiii!"}
+{"key": "script/mp2201#LP_statue/1", "es": "Dentro del santuario hay expuesto un ídolo de madera tallada."}

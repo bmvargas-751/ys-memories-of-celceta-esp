@@ -91,7 +91,7 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Masked Division | División Enmascarada | Decidido (G-2), DECISIONS 2026-11-18 | Unidad militar. |
 | Sparda | sparda | Decidido (G-2), DECISIONS 2026-11-18 | Animal acuático sagrado, en minúscula como especie (como «roo»); plural «spardas». |
 | sacred beasts | bestias sagradas | Decidido (G-2), DECISIONS 2026-11-18 | Así llama el juego a los spardas y otros animales. «Sacred Beast Collar» → «Collar de bestia sagrada»; «Sacred Beasts' Lair» → «Guarida de las Bestias Sagradas». |
-| Fabros | fabros | Decidido (G-2), DECISIONS 2026-11-18 | Animal de granja y enemigo, en minúscula e invariable: «un fabros», «los fabros». «Fabros Milk» → «leche de fabros». Como entrada del bestiario (nombre de monstruo), con mayúscula: «Fabros». |
+| Fabros | fabros | Decidido (G-2), DECISIONS 2026-11-18 | Animal de granja y enemigo, en minúscula e invariable: «un fabros», «los fabros»; con sexo, epiceno: «el fabros hembra», «los fabros hembra» (2026-11-18). «Fabros Milk» → «leche de fabros». Como entrada del bestiario (nombre de monstruo), con mayúscula: «Fabros». |
 | Great Forest | Gran Bosque | Decidido (G-2), DECISIONS 2026-11-18 | Lugar principal. «Great Forest of Celceta» → «Gran Bosque de Celceta». |
 | Primeval Lands | Tierras Primigenias | Decidido (G-2), DECISIONS 2026-11-18 | Región. |
 | Ashen Forest | Bosque de Ceniza | Decidido (G-2), DECISIONS 2026-11-18 | Región. «Forest of Ash» es la misma: se unifica [DECISIONS 2026-11-17]. |
