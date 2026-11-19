@@ -17,7 +17,9 @@
 {"key": "script/mp3202#QS309_Start/71", "es": "Hmm..."}
 {"key": "script/mp3202#QS309_End/36", "es": "Entregas "}
 {"key": "script/mp3202#QS309_End/122", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/212", "es": "¡Gracias!"}
 {"key": "script/mp3202#QS309_End/215", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/278", "es": "¡Gracias!"}
 {"key": "script/mp3202#QS309_End/281", "es": "Recibes "}
 {"key": "script/mp3202#QS309_End/346", "es": "Recibes "}
 {"key": "script/mp3202#QS309_End/410", "es": "Recibes "}
@@ -28,6 +30,7 @@
 {"key": "script/mp3202#QS308_End2/222", "es": "Recibes "}
 {"key": "script/mp3202#QS308_End2/228", "es": "Recibes "}
 {"key": "script/mp3202#QS308_End2/234", "es": "Recibes "}
+{"key": "script/mp3202#QS404_Work2/61", "es": "Muchas gracias."}
 {"key": "script/mp3202#talk_belta/4", "es": "Hablar"}
 {"key": "script/mp3202#talk_belta/13", "es": "Cancelar"}
 {"key": "script/mp3202#talk_belta/22", "es": "Recibes "}

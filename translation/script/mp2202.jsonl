@@ -1,5 +1,6 @@
 {"key": "script/mp2202#EV01_02_Meet_Asad/154", "es": "*bostezo*"}
 {"key": "script/mp2202#EV01_02_Meet_Asad/169", "es": "Voz de hombre"}
+{"key": "script/mp2202#EV01_02_Meet_Asad/373", "es": "Ya veo..."}
 {"key": "script/mp2202#EV01_07_Talk_Asad/104", "es": "¡Sí!"}
 {"key": "script/mp2202#QS204_End/31", "es": "Entregas "}
 {"key": "script/mp2202#QS204_End/54", "es": "Recibes "}
@@ -9,13 +10,18 @@
 {"key": "script/mp2202#QS208_End/56", "es": "Recibes "}
 {"key": "script/mp2202#QS205_Start/50", "es": "Aceptar"}
 {"key": "script/mp2202#QS205_Start/51", "es": "Rechazar"}
+{"key": "script/mp2202#QS205_End/30", "es": "Aquí está la recompensa que prometí."}
 {"key": "script/mp2202#QS205_End/33", "es": "Recibes "}
+{"key": "script/mp2202#QS205_End/37", "es": "¡Gracias!"}
 {"key": "script/mp2202#QS205_End/83", "es": "¡¿Qué?!"}
 {"key": "script/mp2202#QS206_Start/46", "es": "Aceptar"}
 {"key": "script/mp2202#QS206_Start/47", "es": "Rechazar"}
+{"key": "script/mp2202#QS206_End/30", "es": "Aquí está la recompensa que prometí."}
 {"key": "script/mp2202#QS206_End/33", "es": "Recibes "}
+{"key": "script/mp2202#QS206_End/37", "es": "¡Gracias!"}
 {"key": "script/mp2202#QS210_Start/46", "es": "Aceptar"}
 {"key": "script/mp2202#QS210_Start/47", "es": "Rechazar"}
+{"key": "script/mp2202#QS210_End/30", "es": "Aquí está la recompensa que prometí."}
 {"key": "script/mp2202#QS210_End/33", "es": "Recibes "}
 {"key": "script/mp2202#talk_Asad/302", "es": "Recibes "}
 {"key": "script/mp2202#talk_sorio/6", "es": "Hablar"}
@@ -132,5 +138,6 @@
 {"key": "script/mp2202#talk_tereza/14", "es": "Cancelar"}
 {"key": "script/mp2202#talk_tereza/22", "es": "Recibes "}
 {"key": "script/mp2202#talk_tereza/52", "es": "Recibes "}
+{"key": "script/mp2202#talk_ramon_darius/150", "es": "Ya veo..."}
 {"key": "script/mp2202#talk_zaizen/26", "es": "Hablar"}
 {"key": "script/mp2202#talk_zaizen/39", "es": "Cancelar"}

@@ -1,6 +1,7 @@
 {"key": "script/mp1213#EV00_10_Request_Map/92", "es": "Tal vez. Tal vez no."}
 {"key": "script/mp1213#EV03_01_Acc_Griselda/149", "es": "Recibes "}
 {"key": "script/mp1213#EV03_01_Acc_Griselda/195", "es": "Recibes "}
+{"key": "script/mp1213#EV03_01_Acc_Griselda/333", "es": "Ya veo..."}
 {"key": "script/mp1213#Map_Complite_Check/77", "es": "Recibes "}
 {"key": "script/mp1213#Map_Complite_Check/113", "es": "Recibes "}
 {"key": "script/mp1213#Map_Complite_Check/187", "es": "Recibes "}
@@ -18,6 +19,7 @@
 {"key": "script/mp1213#QS102_Start2/13", "es": "Recibes "}
 {"key": "script/mp1213#QS102_End/33", "es": "Entregas "}
 {"key": "script/mp1213#QS102_End/56", "es": "Recibes "}
+{"key": "script/mp1213#QS102_End/64", "es": "*glup* *glup*"}
 {"key": "script/mp1213#talk_Griselda/17", "es": "Hablar"}
 {"key": "script/mp1213#talk_Griselda/18", "es": "Cancelar"}
 {"key": "script/mp1213#talk_wares/9", "es": "Hablar"}

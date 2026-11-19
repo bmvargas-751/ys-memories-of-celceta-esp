@@ -119,21 +119,295 @@
 {"key": "script/mp1211#EV03_04_Meeting_MB/68", "es": "...Adol, ¿qué te parece esto?"}
 {"key": "script/mp1211#EV03_04_Meeting_MB/70", "es": "Mañana, separémonos y veamos qué logramos averiguar."}
 {"key": "script/mp1211#EV03_04_Meeting_MB/75", "es": "¿Qué planeas?"}
+{"key": "script/mp1211#EV03_04_Meeting_MB/76", "es": "¿Estás terminando conmigo?"}
+{"key": "script/mp1211#EV03_04_Meeting_MB/82", "es": "Como dijo Griselda, cuando estás atascado, lo mejor es volver a empezar desde cero."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/84", "es": "Así que pensé en ir a reunir información."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/86", "es": "Ese es mi trabajo, después de todo."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/90", "es": "¡Así es, maldita sea! ¡Se acabó, amigo!"}
+{"key": "script/mp1211#EV03_04_Meeting_MB/92", "es": "...es lo que esperabas que dijera, ¿eh? Pero te equivocas por completo si crees que te abandonaría ahora."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/94", "es": "Admito que al principio ya estaba cansado de tu actitud de niño bueno."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/96", "es": "Pero hemos llegado juntos hasta aquí, así que me quedo hasta el final. ¡O al menos hasta que cobremos toda esa recompensa!"}
+{"key": "script/mp1211#EV03_04_Meeting_MB/99", "es": "Empezaré revisando todas mis fuentes habituales."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/101", "es": "Podría enterarme de algo que nos sirva."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/103", "es": "¿Y tú? ¿Alguna idea?"}
+{"key": "script/mp1211#EV03_04_Meeting_MB/108", "es": "Yo también reuniré información."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/109", "es": "Yo me quedaré holgazaneando en la cama."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/115", "es": "¡Brindo por eso! ¡A ver si me ganas en mi propio terreno, por así decirlo!"}
+{"key": "script/mp1211#EV03_04_Meeting_MB/117", "es": "Casnan ha cambiado desde que empezamos a trabajar en el mapa, así que seguro que hay pistas."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/121", "es": "¡Suena a una gran idea! Todos necesitan un buen descanso de vez en cuando..."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/123", "es": "...¡excepto ahora, holgazán! Vas a salir a la ciudad a reunir información tú mismo, o te juro que..."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/125", "es": "...¡Grr! ¡Tú me metiste en este lío, así que nada de quedarte en la cama mientras yo me rompo el trasero, y punto!"}
+{"key": "script/mp1211#EV03_04_Meeting_MB/127", "es": "¡Entonces está decidido! A partir de mañana, cada uno por su lado a ver qué desenterramos."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/130", "es": "Pero por ahora, es hora de irnos a dormir. Tenemos que estar bien descansados para la \"caza\"..."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/186", "es": "Oye. Te ves bastante despierto y alerta. ¡Eso está bien!"}
+{"key": "script/mp1211#EV03_04_Meeting_MB/188", "es": "Supongo que esto es un adiós por ahora, entonces. Nos reuniremos más tarde para ver qué conseguimos."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/190", "es": "Lo primero es lo primero: iré a ver a un viejo amigo."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/195", "es": "¿Un viejo amigo?"}
+{"key": "script/mp1211#EV03_04_Meeting_MB/196", "es": "Será solitario sin ti."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/202", "es": "S-sí, un viejo amigo del mismo oficio. No es que nos llevemos muy bien, pero ahora no puedo darme el lujo de ser exigente."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/204", "es": "Podría llevarme todo el día, porque saldré de la ciudad."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/209", "es": "¿En serio? No te creía del tipo solitario. Hasta podría imaginarte como ermitaño... De todos modos, no tardaré mucho."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/211", "es": "Nos vemos aquí esta noche."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/217", "es": "Si andas escaso de ideas, ¿qué tal si haces algunas de las misiones del tablón de la posada?"}
+{"key": "script/mp1211#EV03_04_Meeting_MB/219", "es": "Eres como un héroe para la gente de aquí, así que seguro que estarían muy contentos."}
+{"key": "script/mp1211#EV03_04_Meeting_MB/221", "es": "Y si les haces favores a los lugareños, ¡la información fluirá más fácil que el vino saliendo de una botella!"}
+{"key": "script/mp1211#EV03_04_Meeting_MB/226", "es": "Uy, ya me alargué demasiado. ¡Nos vemos esta noche! ¡Cuídate!"}
+{"key": "script/mp1211#EV03_04_Checked_BBS/18", "es": "Parece que hay dos misiones nuevas en el tablón."}
+{"key": "script/mp1211#EV03_04_Checked_BBS/21", "es": "Ambas están marcadas como urgentes. Quizá sea mejor completarlas antes de que acabe el día."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/76", "es": "¡Este lugar es enorme! No podía creerlo cuando llegué."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/78", "es": "Y todas las casas son de piedra..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/88", "es": "No es nada del otro mundo..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/89", "es": "¿Qué hacías allá arriba?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/95", "es": "¡No, de verdad que lo es!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/97", "es": "Sé que me lo contaste en Comodo, pero no pensé que fuera TAN diferente aquí."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/101", "es": "Este pueblo es tan grande que no sabía adónde iba..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/103", "es": "Pensé que lo mejor era ir al edificio más alto y céntrico que encontrara."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/106", "es": "Con tanta gente jamás te vería, así que mi mejor opción para encontrarte era subir lo más alto posible."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/108", "es": "No tenía idea de que no debía estar allá arriba... Perdón, ¿sí?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/113", "es": "No te preocupes."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/114", "es": "Yo no soy quién para hablar."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/122", "es": "Jejeje, gracias."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/124", "es": "Pero terminaste metido en problemas por lo que hice, así que de verdad lo siento."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/126", "es": "Es que no puedo creer lo diferente que es el mundo fuera de Comodo..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/131", "es": "¡Jejeje, supongo que de verdad no puedes!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/133", "es": "Tampoco escuchaste nada de lo que te dijimos cuando llegaste a Comodo."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/135", "es": "Pero no puedo creer lo diferente que es el mundo fuera de Comodo..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/141", "es": "Creo que ahora entiendo cómo debiste sentirte. Al menos... un poquito."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/155", "es": "¿Viniste hasta aquí sola?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/156", "es": "No puedo creer que escaparas del bosque."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/164", "es": "¡Sí! ¿Verdad que soy increíble?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/168", "es": "¡Sabía que te sorprenderías!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/171", "es": "Bueno, lo poco que me contaste del camino que tomaste a Comodo me ayudó muchísimo."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/173", "es": "Si no fuera por eso, seguramente seguiría vagando sin rumbo por ahí."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/175", "es": "Además, ¡nadie es mejor que yo para moverse sin ser vista por el bosque!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/177", "es": "Inventé todo tipo de técnicas de sigilo para que ninguno de los hombres cace mejor que yo."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/182", "es": "¿Por qué viniste hasta aquí?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/183", "es": "¿Qué pasó después de que nos fuimos?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/191", "es": "En realidad, quería pedirte un favor..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/195", "es": "Verás, he... pensado mucho."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/198", "es": "Me sorprendió mucho enterarme de que Remnos me había ocultado su fuerza."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/200", "es": "Pero aún no he oído ni una palabra de eso de parte del propio Remnos."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/202", "es": "Todo lo que sé es lo que me dijeron Padre y esa mujer."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/216", "es": "Así que decidí... que quiero ir a buscarlo yo misma. Y preguntarle qué le pasa."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/221", "es": "¿Qué harás entonces?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/222", "es": "¿Cómo piensas encontrarlo?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/228", "es": "¿No es obvio?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/230", "es": "Primero, lo recuperaré de manos de esa mujer."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/232", "es": "Luego, si todo lo que ella y Padre dijeron es verdad, ¡le daré una bofetada!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/237", "es": "Bueno, para empezar, registraré todo el bosque que pueda."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/239", "es": "Como dije en Comodo, no sirvo para quedarme sentada planeando. Soy de hacer, no de pensar."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/241", "es": "Así que ahora voy a encontrar a Remnos y hablar con él. ¡Y si todo lo que oí es cierto, le voy a dar una bofetada!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/247", "es": "O sea, es bastante grosero si lo piensas..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/249", "es": "No puedes simplemente... decidir que eres mejor que alguien y contenerte por su causa."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/251", "es": "Eso no es nada justo conmigo. ¡De hecho, duele mucho!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/253", "es": "...Pero después de darle unas cuantas bofetadas, lo abrazaré muuuy fuerte."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/255", "es": "Y le daré las gracias por esta experiencia. ¡Así que más le vale estar preparado... o si no!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/260", "es": "Respuesta perfecta."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/261", "es": "Eso es muy tuyo, Karna."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/267", "es": "Je. ¡Ya lo sé!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/271", "es": "Je. ¡Lo tomaré como un cumplido!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/274", "es": "Le pregunté a Padre y dijo que podía ir siempre y cuando viajara contigo."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/279", "es": "Entonces... ¿me llevarás contigo? ¿Por favor?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/284", "es": "Supongo que no me queda otra opción."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/285", "es": "Nos encantaría que vinieras."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/291", "es": "¿E-en serio? Uf... No sabía qué hacer si decías que no."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/293", "es": "Aun así, no quiero estorbarte en lo de recuperar tus recuerdos."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/297", "es": "¿En serio? ¿No lo dices solo para que me sienta mejor?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/299", "es": "No quiero que te preocupes por mí cuando debes concentrarte en recuperar tus recuerdos."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/302", "es": "Solo los acompañaré."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/304", "es": "...Aun así... gracias, Adol."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/308", "es": "Aquí sirven comida y bebida, ¿verdad? ¡Deberíamos hacer un brindis!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/324", "es": "Jeje. Bueno, entonces... ¡por nuestro reencuentro!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/326", "es": "Y por que recuperes tus recuerdos, y por que te reencuentres con Remnos..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/332", "es": "¡Salud!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/349", "es": "*glup* *glup*"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/351", "es": "*slurp* *ñam*"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/356", "es": "¡Aaahh... Estuvo maravilloso! Nunca había probado algo así."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/359", "es": "Ah, sí... ¿adónde... se fue... Duren... en fin..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/361", "es": "...¿Eh? Mi cabeza se siente... toda..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/368", "es": "Zzz... Zzz..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/375", "es": "Karna se quedó dormida casi al instante. ¡Debía de estar agotada!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/393", "es": "¡Da da da daaa, da, da, da, dada! ♪"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/397", "es": "¡Ya volví! Espero que no hayas esperado mucho, Adol."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/402", "es": "...Vaya, no esperaba encontrar a Karna aquí."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/408", "es": "¿Por qué está dormida?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/413", "es": "¿Tú... no habrás...?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/418", "es": "Casi me salgo con la mía."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/419", "es": "¡¿Cómo puedes pensar eso?!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/427", "es": "...A veces tu sentido del humor me da miedo de verdad."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/429", "es": "Lo sabía. Es solo jugo. Debe de estar muerta de cansancio."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/435", "es": "¡Oye, admite que se ve bastante mal!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/437", "es": "Lo sabía. Es solo jugo. Debe de estar muerta de cansancio."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/440", "es": "Bueno, no podemos dejarla aquí así. Échame una mano para llevarla a una de las habitaciones."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/442", "es": "...¿Qué miras al vacío? ¡Vamos, este trabajo es para su príncipe!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/452", "es": "Adol, mira sus piernas."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/454", "es": "¡No, no, así no, pervertido!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/461", "es": "Las piernas de Karna estaban llenas de cortes, y sus zapatos se veían muy gastados."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/464", "es": "Vaya, y mira las suelas de sus zapatos. ¡Están destrozadas!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/466", "es": "Debe de haber pasado por mucho para llegar hasta aquí."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/469", "es": "Mm... mm... Remnos... Espérame..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/471", "es": "Te llevaré... a casa..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/483", "es": "Adol y Duren llevaron a la agotada Karna a una habitación para que descansara."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/521", "es": "...Ya veo. Me imaginaba que iría tras Remnos."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/523", "es": "¡Pero no pensé que atravesaría todo el bosque sola hasta aquí!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/525", "es": "Ahora, manos a la obra."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/530", "es": "¿Averiguaste algo?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/531", "es": "¿Te encontraste con tu amigo?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/537", "es": "Sí, creo que sí."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/539", "es": "Bueno, en realidad... te dejaré responder eso tú mismo después de ver esto."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/546", "es": "¿Eh? Ah, sí. Sí, nos vimos."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/551", "es": "Y gracias a eso, logré hacerme con esto."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/554", "es": "¿Lo reconoces?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook/557", "es": "Duren sacó un cuaderno muy gastado."}
 {"key": "script/mp1211#EV03_07_Get_Notebook/560", "es": "Obtienes "}
+{"key": "script/mp1211#EV03_07_Get_Notebook/567", "es": "Logré hacerme con esto de... bueno, digamos que es un secreto del oficio."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/569", "es": "Está lleno de información sobre el Gran Bosque. Lo cual ya es sorprendente de por sí."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/571", "es": "Pero mira esta parte. Justo aquí."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/584", "es": "Hay una imagen que parece un mapa del Gran Bosque dibujado a mano, con notas garabateadas por todas partes."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/586", "es": "La letra parece algo familiar..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/590", "es": "No tengo idea de qué significa este patrón de rombos en la página izquierda."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/592", "es": "Pero mira el mapa de la página derecha."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/598", "es": "Arriba están escritas las palabras \"Tierras Primigenias\"."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/601", "es": "Y mira esta parte del medio."}
+{"key": "script/mp1211#EV03_07_Get_Notebook/604", "es": "Duren señaló la palabra \"Torre\"."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/31", "es": "¿Esto es...?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/32", "es": "¿De quién es esto?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/38", "es": "No creo que haya ninguna duda."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/40", "es": "Esto era tuyo antes de perder la memoria."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/45", "es": "...¿Te estás haciendo el tonto a propósito?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/47", "es": "Esto era tuyo antes de perder la memoria."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/54", "es": "Nada mal el hallazgo, ¿eh? El negocio de la información no es solo rumores, ¡también son objetos como este!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/56", "es": "Parece bastante probable que lo dejaras caer justo cuando te golpeó... lo que sea que te borró la memoria."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/58", "es": "Y a mí me parece que, después de visitar Comodo y Selray, cruzaste a las Tierras Primigenias..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/60", "es": "Pero lo más importante para nosotros ahora es esto de aquí, justo en el río:"}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/66", "es": "Parece que podría haber un pasaje en unas ruinas subterráneas."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/68", "es": "A un tiro de piedra de Selray."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/70", "es": "Debiste de pasar por ahí y salir al otro lado del río."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/83", "es": "¡Eres increíble, Duren!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/84", "es": "¡Vamos a verlo!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/90", "es": "...B-bueno, ¡sí, supongo que sí! Me costó un infierno de trabajo conseguir esto, después de todo."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/94", "es": "¡Espera un momento! Entiendo que estés emocionado, pero es plena noche..."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/97", "es": "Descansemos primero y salgamos por la mañana."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/99", "es": "Además, Karna viene con nosotros, ¿no? ¡Y ella necesita descansar aún más que nosotros!"}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/158", "es": "¿Entonces vamos primero a Selray?"}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/160", "es": "Mi padre me habló de una aldea cerca del río."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/162", "es": "Pero será la primera vez que vaya de verdad."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/165", "es": "Deberíamos ver también a Ozma, a ver si sabe algo de estas ruinas subterráneas."}
+{"key": "script/mp1211#EV03_07_Get_Notebook_MB/167", "es": "Muy bien, Adol. ¡En cuanto estés listo, nos ponemos en marcha!"}
+{"key": "script/mp1211#QS101_Start/27", "es": "Mmm... Esa cara me dice que tienes algo que decir. ¿Acaso viste mi petición en el tablón?"}
+{"key": "script/mp1211#QS101_Start/30", "es": "Así es. Entonces, ¿qué quieres que hagamos?"}
+{"key": "script/mp1211#QS101_Start/33", "es": "Permítanme explicarles."}
+{"key": "script/mp1211#QS101_Start/35", "es": "En este momento estoy refinando mi mejor producto."}
+{"key": "script/mp1211#QS101_Start/37", "es": "Naturalmente, hablo del todopoderoso Batido Musculoso."}
+{"key": "script/mp1211#QS101_Start/39", "es": "Tras pensarlo, he decidido cuál es el ingrediente perfecto."}
+{"key": "script/mp1211#QS101_Start/41", "es": "La esencia de lo salvaje, imposible de obtener del ganado criado entre comodidades domésticas."}
+{"key": "script/mp1211#QS101_Start/43", "es": "...Eso, caballeros, es leche de fabros."}
+{"key": "script/mp1211#QS101_Start/46", "es": "¿Leche de fabros?"}
+{"key": "script/mp1211#QS101_Start/49", "es": "¡En efecto! El fabros es una bestia fuerte y salvaje, parecida a una vaca, que vive en las llanuras justo antes del Gran Bosque."}
+{"key": "script/mp1211#QS101_Start/51", "es": "Y quisiera que ustedes dos fueran a ordeñar uno para mí."}
+{"key": "script/mp1211#QS101_Start/57", "es": "¿Ordeñar a una bestia salvaje, eh? Suena a que va a ser difícil."}
+{"key": "script/mp1211#QS101_Start/59", "es": "Entonces, ¿hay alguna forma de distinguir a los machos de las hembras?"}
+{"key": "script/mp1211#QS101_Start/61", "es": "Ya que obviamente tendremos que ordeñar a una hembra..."}
+{"key": "script/mp1211#QS101_Start/64", "es": "La forma más fácil de distinguirlos es mirar los cuernos."}
+{"key": "script/mp1211#QS101_Start/66", "es": "Los machos tienen tres cuernos, mientras que las hembras solo tienen uno."}
+{"key": "script/mp1211#QS101_Start/69", "es": "¿Así de fácil, eh? Bien."}
+{"key": "script/mp1211#QS101_Start/72", "es": "También hay otras cosas que deben tener presentes."}
+{"key": "script/mp1211#QS101_Start/74", "es": "La primera es que los fabros hembra son bestias excepcionalmente cautelosas."}
+{"key": "script/mp1211#QS101_Start/76", "es": "Por eso no encontrarán muchas en las llanuras."}
+{"key": "script/mp1211#QS101_Start/78", "es": "Y si una ve una amenaza, huirá de inmediato."}
+{"key": "script/mp1211#QS101_Start/80", "es": "Así que tendrán que acercarse a ella sigilosamente."}
+{"key": "script/mp1211#QS101_Start/83", "es": "Ya veo..."}
+{"key": "script/mp1211#QS101_Start/85", "es": "Sabes bastante de estas cosas, ¿verdad?"}
+{"key": "script/mp1211#QS101_Start/88", "es": "¡Jaja, por supuesto! En mi juventud, a veces ordeñaba un fabros y me lo bebía en el acto."}
+{"key": "script/mp1211#QS101_Start/90", "es": "Pero ahora no puedo abandonar esta tienda el tiempo suficiente para hacerlo."}
+{"key": "script/mp1211#QS101_Start/92", "es": "Lo único que puedo hacer es publicar una petición para que otro lo haga por mí."}
+{"key": "script/mp1211#QS101_Start/95", "es": "Entendido."}
+{"key": "script/mp1211#QS101_Start/97", "es": "Creo que eso cubre todo."}
+{"key": "script/mp1211#QS101_Start/103", "es": "¿Lo entendiste todo, Adol? La próxima vez que estemos en las llanuras, busquemos un fabros hembra."}
+{"key": "script/mp1211#QS101_Start/108", "es": "En realidad, tengo una idea bastante buena de dónde pueden encontrar una. Hay una zona del campo donde se sabe que pastan los fabros."}
+{"key": "script/mp1211#QS101_Start/112", "es": "Permítanme mostrárselo."}
+{"key": "script/mp1211#QS101_Start/115", "es": "Mucho señaló una zona en el mapa del Gran Bosque."}
+{"key": "script/mp1211#QS101_Start/119", "es": "¡Ahora está marcado el lugar donde se sabe que pastan los fabros hembra!"}
+{"key": "script/mp1211#QS101_Start/122", "es": "Bien, ¡mucha suerte!"}
+{"key": "script/mp1211#QS101_Start/127", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#QS101_End/27", "es": "Mmm... Veo que lograron ordeñar un fabros. ¡Excelente!"}
+{"key": "script/mp1211#QS101_End/30", "es": "Sí. Y también está fresca."}
 {"key": "script/mp1211#QS101_End/33", "es": "Entregas "}
+{"key": "script/mp1211#QS101_End/37", "es": "¡Entonces debo probarla de inmediato!"}
+{"key": "script/mp1211#QS101_End/42", "es": "Este sabor único y potente... ¡Cuánto lo extrañaba!"}
+{"key": "script/mp1211#QS101_End/44", "es": "¡Voy a intentar preparar mi nueva bebida enseguida!"}
+{"key": "script/mp1211#QS101_End/52", "es": "Contemplen. El Batido de fabros."}
+{"key": "script/mp1211#QS101_End/54", "es": "Caballeros... ¡un brindis por su exitosa finalización!"}
+{"key": "script/mp1211#QS101_End/57", "es": "Claro, ¿por qué no?"}
+{"key": "script/mp1211#QS101_End/62", "es": "Adol, Duren y Mucho chocaron sus vasos y bebieron el Batido de fabros."}
+{"key": "script/mp1211#QS101_End/70", "es": "Esto es... bueno..."}
+{"key": "script/mp1211#QS101_End/75", "es": "Admitir que sabe asqueroso"}
+{"key": "script/mp1211#QS101_End/76", "es": "Decirle que sabe maravilloso"}
+{"key": "script/mp1211#QS101_End/80", "es": "Tienes razón. Esto no es nada bueno."}
+{"key": "script/mp1211#QS101_End/85", "es": "No hace falta mentir. No herirás mis sentimientos."}
+{"key": "script/mp1211#QS101_End/87", "es": "Esto es, francamente, bastante repugnante."}
+{"key": "script/mp1211#QS101_End/91", "es": "Es sin duda... único, lo reconozco, pero..."}
+{"key": "script/mp1211#QS101_End/93", "es": "Ese regusto a salvaje se te queda pegado en la nariz."}
+{"key": "script/mp1211#QS101_End/96", "es": "Mmm. No lo habría dicho mejor."}
+{"key": "script/mp1211#QS101_End/98", "es": "No sé qué salió mal. ¡La receta parecía perfecta!"}
+{"key": "script/mp1211#QS101_End/100", "es": "...De todos modos, aún debo agradecerles a los dos las molestias que se tomaron para conseguirme la leche."}
+{"key": "script/mp1211#QS101_End/102", "es": "Aquí está la recompensa que prometí."}
 {"key": "script/mp1211#QS101_End/106", "es": "Recibes "}
+{"key": "script/mp1211#QS101_End/110", "es": "¡Gracias!"}
+{"key": "script/mp1211#QS101_End/112", "es": "Y... no te rindas. Ya lo lograrás."}
+{"key": "script/mp1211#QS101_End/115", "es": "¡Jaja, por supuesto!"}
+{"key": "script/mp1211#QS101_End/117", "es": "Esto no es nada. Me recupero de tropiezos como este todo el tiempo, ¡y en tiempo récord!"}
+{"key": "script/mp1211#QS101_End/122", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#QS101_End/133", "es": "¡Misión completada: \"Ordeñar un fabros\"!"}
+{"key": "script/mp1211#QS404_Work1/24", "es": "Perdón."}
+{"key": "script/mp1211#QS404_Work1/30", "es": "¿Mmm? ¿Qué pasa, señorita?"}
+{"key": "script/mp1211#QS404_Work1/32", "es": "¿Puedo ayudarte en algo?"}
+{"key": "script/mp1211#QS404_Work1/35", "es": "En realidad, estamos trabajando en una misión de otra aldea."}
+{"key": "script/mp1211#QS404_Work1/37", "es": "Y me preguntaba si podrías decirme tu nombre."}
+{"key": "script/mp1211#QS404_Work1/40", "es": "Claro, supongo."}
+{"key": "script/mp1211#QS404_Work1/42", "es": "Me llamo Quincy."}
+{"key": "script/mp1211#QS404_Work1/49", "es": "¡Bingo! ¡Encontramos a alguien!"}
+{"key": "script/mp1211#QS404_Work1/53", "es": "¿Podría pedirte que firmes este cuaderno, por favor?"}
+{"key": "script/mp1211#QS404_Work1/58", "es": "¿F-firmar? ¡¿Como un autógrafo?!"}
+{"key": "script/mp1211#QS404_Work1/60", "es": "¡C-claro, será un placer!"}
+{"key": "script/mp1211#QS404_Work1/62", "es": "¡Qué bueno que practiqué por si alguna vez pasaba algo así!"}
+{"key": "script/mp1211#QS404_Work1/67", "es": "¡Completaste la página \"Q\" del Libro de firmas!"}
+{"key": "script/mp1211#QS404_Work1/73", "es": "Perfecto."}
+{"key": "script/mp1211#QS404_Work1/75", "es": "Muchas gracias."}
+{"key": "script/mp1211#QS404_Work1/78", "es": "Oh, no fue nada, ¡es un honor haber podido ayudar!"}
 {"key": "script/mp1211#QS105_Work1/8", "es": "Encuentras "}
+{"key": "script/mp1211#QS108_Start/91", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
 {"key": "script/mp1211#QS108_End/37", "es": "Entregas "}
+{"key": "script/mp1211#QS108_End/382", "es": "Aquí está la recompensa que prometí."}
 {"key": "script/mp1211#QS108_End/386", "es": "Recibes "}
+{"key": "script/mp1211#QS108_End/390", "es": "¡Gracias!"}
+{"key": "script/mp1211#QS108_End/395", "es": "¡Jaja, por supuesto!"}
+{"key": "script/mp1211#QS108_End/402", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
 {"key": "script/mp1211#talk_tomas/6", "es": "Hablar"}
 {"key": "script/mp1211#talk_tomas/7", "es": "Cancelar"}
 {"key": "script/mp1211#talk_billy/6", "es": "Hablar"}
 {"key": "script/mp1211#talk_billy/7", "es": "Cancelar"}
 {"key": "script/mp1211#talk_mucho/11", "es": "Hablar"}
 {"key": "script/mp1211#talk_mucho/13", "es": "Cancelar"}
+{"key": "script/mp1211#talk_mucho/22", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/41", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/66", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/78", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/92", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/103", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/115", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/126", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/137", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/148", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/162", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/174", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/186", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/199", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/209", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
 {"key": "script/mp1211#talk_llca/5", "es": "Hablar"}
 {"key": "script/mp1211#talk_llca/14", "es": "Cancelar"}
 {"key": "script/mp1211#talk_llca/22", "es": "Recibes "}
 {"key": "script/mp1211#talk_llca/54", "es": "Recibes "}
+{"key": "script/mp1211#talk_black/194", "es": "¡Gracias!"}
 {"key": "script/mp1211#talk_black/224", "es": "No tienes suficientes monedas."}
 {"key": "script/mp1211#talk_swan_jackal/21", "es": "...¿Qué?"}
