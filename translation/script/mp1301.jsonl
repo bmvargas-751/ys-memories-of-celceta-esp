@@ -144,8 +144,45 @@
 {"key": "script/mp1301#talk_carlos/55", "es": "Bueno. ¡Hay que dejar todo eso atrás y volver al trabajo!"}
 {"key": "script/mp1301#talk_rid/4", "es": "¡Si es por mi familia, sí!"}
 {"key": "script/mp1301#talk_rid/6", "es": "¡Puedo hacer lo que sea, sí!"}
+{"key": "script/mp1301#talk_rid/8", "es": "¡Natalie! ¡Lyle! ¡Los quiero a los dos!"}
 {"key": "script/mp1301#talk_rid/13", "es": "¡Si es por mi familia, sí!"}
 {"key": "script/mp1301#talk_rid/15", "es": "¡Puedo hacer lo que sea, sí!"}
+{"key": "script/mp1301#talk_rid/20", "es": "¡Vivo por mi familia, sí!"}
+{"key": "script/mp1301#talk_rid/22", "es": "¡Vivo por mi trabajo, sí!"}
+{"key": "script/mp1301#talk_rid/26", "es": "¡El sol brilla fuerte, sí!"}
+{"key": "script/mp1301#talk_rid/28", "es": "¡Mañana, tarde y noche, sí!"}
+{"key": "script/mp1301#talk_rid/32", "es": "¡La vida es un lecho de rosas, sí!"}
+{"key": "script/mp1301#talk_rid/34", "es": "¡Salvo cuando no lo es, sí!"}
+{"key": "script/mp1301#talk_rid/38", "es": "¡Ahora soy feliz, sí!"}
+{"key": "script/mp1301#talk_rid/40", "es": "¡Ahora soy muy feliz, sí!"}
+{"key": "script/mp1301#talk_rid/44", "es": "¡Si es por mi esposa, sí!"}
+{"key": "script/mp1301#talk_rid/46", "es": "¡Si es por mi hijo, sí!"}
 {"key": "script/mp1301#talk_rid/50", "es": "¡Si es por mi familia, sí!"}
+{"key": "script/mp1301#talk_rid/52", "es": "¡Si es para comer, sí!"}
 {"key": "script/mp1301#talk_rid/56", "es": "¡Si es por mi familia, sí!"}
+{"key": "script/mp1301#talk_rid/58", "es": "¡Si es por el dinero, sí!"}
+{"key": "script/mp1301#LP_Stones/1", "es": "Varias rocas bloquean el camino. Parece que el alboroto provocó un derrumbe."}
+{"key": "script/mp1301#LP_Stones/5", "es": "Mm, parece que por aquí no podemos pasar."}
+{"key": "script/mp1301#LP_Stones/7", "es": "Habrá que buscar otro camino."}
 {"key": "script/mp1301#ev_tutorial_retry/24", "es": "Hmm..."}
+{"key": "script/mp1301#ev_tutorial_retry/42", "es": "Este monolito parece bastante antiguo."}
+{"key": "script/mp1301#ev_tutorial_retry/52", "es": "¿Q-qué?"}
+{"key": "script/mp1301#ev_tutorial_retry/61", "es": "¡¿Qué acabas de hacer?!"}
+{"key": "script/mp1301#ev_tutorial_retry/68", "es": "No lo sé."}
+{"key": "script/mp1301#ev_tutorial_retry/69", "es": "Solo lo toqué."}
+{"key": "script/mp1301#ev_tutorial_retry/75", "es": "Oh... Sí, supongo que no lo sabrías."}
+{"key": "script/mp1301#ev_tutorial_retry/77", "es": "Parece que lleva enterrado aquí mucho tiempo."}
+{"key": "script/mp1301#ev_tutorial_retry/79", "es": "Bueno, concentrémonos en salir de aquí. ¡No hay tiempo para preocuparse por estatuas viejas!"}
+{"key": "script/mp1301#ev_tutorial_retry/86", "es": "Sí... Supongo que eso fue todo lo que hiciste."}
+{"key": "script/mp1301#ev_tutorial_retry/88", "es": "Parece que lleva enterrado aquí mucho tiempo."}
+{"key": "script/mp1301#ev_tutorial_retry/90", "es": "Bueno, concentrémonos en salir de aquí. ¡No hay tiempo para preocuparse por estatuas viejas!"}
+{"key": "script/mp1301#stop_exit/12", "es": "Espera. Si nos vamos ahora, los dos vamos a quedar bastante mal."}
+{"key": "script/mp1301#stop_exit/14", "es": "Vamos más adentro."}
+{"key": "script/mp1301#stop_exit2/9", "es": "Lo siento, ahora no se puede pasar."}
+{"key": "script/mp1301#stop_exit2/11", "es": "Voy a tener que pedirles que se retiren."}
+{"key": "script/mp1301#stop_exit3/6", "es": "Sería mejor volver al pueblo."}
+{"key": "script/mp1301#EV00_20_First_Warp/43", "es": "¿Q-qué? ¿Qué acaba de pasar?"}
+{"key": "script/mp1301#EV00_20_First_Warp/45", "es": "Esta es la entrada de la mina, ¿no? ¿Cómo llegamos aquí?"}
+{"key": "script/mp1301#EV00_20_First_Warp/48", "es": "...¡¿Ese monolito nos transportó hasta aquí?!"}
+{"key": "script/mp1301#EV00_20_First_Warp/50", "es": "¡Hoy han pasado tantas cosas raras que me duele la cabeza!"}
+{"key": "script/mp1301#EV00_20_First_Warp/55", "es": "Vamos. Volvamos de una vez al pueblo."}
