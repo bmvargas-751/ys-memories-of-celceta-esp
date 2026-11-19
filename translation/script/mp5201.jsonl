@@ -2,6 +2,7 @@
 {"key": "script/mp5201#EV05_02_Meet_Frida/133", "es": "¿Quién eres?"}
 {"key": "script/mp5201#EV05_02_Meet_Frida/506", "es": "¿A qué te refieres?"}
 {"key": "script/mp5201#EV05_05_Battle_Solgalva/439", "es": "Voz de hombre"}
+{"key": "script/mp5201#EV05_05_Battle_Solgalva/462", "es": "B-Bueno..."}
 {"key": "script/mp5201#EV05_06_Mask_Steal/144", "es": "¡¿Qué?!"}
 {"key": "script/mp5201#EV05_06_Mask_Steal/150", "es": "Lo siento, a todos."}
 {"key": "script/mp5201#EV05_06_Mask_Steal/505", "es": "¿Qué...?"}
@@ -67,7 +68,12 @@
 {"key": "script/mp5201#talk_cat/299", "es": "Recibes "}
 {"key": "script/mp5201#talk_cat/322", "es": "...Parece ofendido."}
 {"key": "script/mp5201#talk_cat/326", "es": "...Parece que no le caes bien."}
+{"key": "script/mp5201#talk_flog/21", "es": "Croac."}
+{"key": "script/mp5201#talk_flog/43", "es": "Darle un poco de líquido"}
+{"key": "script/mp5201#talk_flog/44", "es": "Picarla"}
 {"key": "script/mp5201#talk_flog/45", "es": "Cancelar"}
+{"key": "script/mp5201#talk_flog/59", "es": "Darle líquido inmundo"}
+{"key": "script/mp5201#talk_flog/62", "es": "Darle líquido transparente"}
 {"key": "script/mp5201#talk_flog/64", "es": "Cancelar"}
 {"key": "script/mp5201#talk_flog/73", "es": "No parece impresionado."}
 {"key": "script/mp5201#talk_flog/86", "es": "Parece contento."}
