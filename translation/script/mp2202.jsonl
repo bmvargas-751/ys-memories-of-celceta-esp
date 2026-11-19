@@ -252,42 +252,178 @@
 {"key": "script/mp2202#QS207_Start/30", "es": "En realidad, hay otro material que quisiera que me trajeran."}
 {"key": "script/mp2202#QS207_Start/33", "es": "¿Y cuál sería?"}
 {"key": "script/mp2202#QS207_Start/36", "es": "Bueno, lo leí en un libro antiguo que traje del bosque..."}
+{"key": "script/mp2202#QS207_Start/38", "es": "Se dice que es una piel muy resistente que se obtiene de las bestias de las Tierras Primigenias."}
+{"key": "script/mp2202#QS207_Start/40", "es": "Antes la llamaban simplemente \"piel extraña\"."}
+{"key": "script/mp2202#QS207_Start/42", "es": "Han cruzado el río, así que pensé que quizá encontrarían alguna en sus viajes."}
+{"key": "script/mp2202#QS207_Start/45", "es": "¿Entonces quieres que te traigamos una de esas \"pieles extrañas\"?"}
+{"key": "script/mp2202#QS207_Start/48", "es": "Sí. Si tuviera una, podría hacer todo tipo de artesanías nuevas."}
+{"key": "script/mp2202#QS207_Start/50", "es": "Esta vez con una sola basta."}
+{"key": "script/mp2202#QS207_Start/52", "es": "Si encuentran algo parecido en sus viajes, avísenme, por favor."}
+{"key": "script/mp2202#QS207_Start/55", "es": "De acuerdo. Veremos qué podemos hacer."}
 {"key": "script/mp2202#QS207_Start/62", "es": "Se agregó una misión nueva al tablón de misiones de Comodo."}
 {"key": "script/mp2202#QS207_Start/66", "es": "Se agregó la misión \"Materiales de artesanía 2\" a tu diario."}
+{"key": "script/mp2202#QS207_End/28", "es": "¿Es esto lo que buscabas, Saisen?"}
 {"key": "script/mp2202#QS207_End/31", "es": "Entregas "}
+{"key": "script/mp2202#QS207_End/39", "es": "Tan resistente y a la vez tan flexible... Sí, ¡es justo lo que buscaba!"}
+{"key": "script/mp2202#QS207_End/41", "es": "Muy bien, déjenme intentar hacer algo con esto."}
 {"key": "script/mp2202#QS207_End/43", "es": "¿Pueden esperar un momento?"}
+{"key": "script/mp2202#QS207_End/53", "es": "Mmm... Nada mal, si me permiten decirlo."}
+{"key": "script/mp2202#QS207_End/55", "es": "Aquí tienen."}
 {"key": "script/mp2202#QS207_End/58", "es": "Recibes "}
+{"key": "script/mp2202#QS207_End/62", "es": "Ooh, sí que se ve muy pulido. ¡Gracias!"}
+{"key": "script/mp2202#QS207_End/64", "es": "Nos vemos, Saisen."}
+{"key": "script/mp2202#QS207_End/67", "es": "Vengan cuando quieran. Y si necesitan que fabrique algo, tráiganme los materiales."}
+{"key": "script/mp2202#QS207_End/69", "es": "¡Háganme trabajar todo lo que quieran!"}
+{"key": "script/mp2202#QS207_End/78", "es": "¡Misión completada: \"Materiales de artesanía 2\"!"}
 {"key": "script/mp2202#QS207_End/81", "es": "¡Ya puedes fabricar accesorios adicionales en el taller de Saisen!"}
+{"key": "script/mp2202#QS207_End/89", "es": "¡Misión completada: \"Materiales de artesanía 2\"!"}
 {"key": "script/mp2202#QS207_End/92", "es": "¡Ya puedes fabricar accesorios adicionales en el taller de Saisen!"}
 {"key": "script/mp2202#QS207_End/97", "es": "En realidad, perdonen que se los pida tan pronto después de haberme ayudado, pero..."}
 {"key": "script/mp2202#QS207_End/100", "es": "En realidad, hay otro material que también quisiera que me trajeran."}
 {"key": "script/mp2202#QS207_End/103", "es": "¡Pero no hay prisa! Avísenme cuando puedan ayudarme."}
+{"key": "script/mp2202#QS207_End/106", "es": "De acuerdo. No hay problema."}
 {"key": "script/mp2202#QS207_End/110", "es": "Se agregó una misión nueva al tablón de misiones de Comodo."}
+{"key": "script/mp2202#QS207_End/114", "es": "Se agregó la misión \"Materiales de artesanía 3\" a tu diario."}
 {"key": "script/mp2202#QS208_Start/28", "es": "Hola, qué gusto verlos."}
 {"key": "script/mp2202#QS208_Start/30", "es": "En realidad, hay otro material que quisiera que me trajeran."}
+{"key": "script/mp2202#QS208_Start/33", "es": "Muy bien. ¿Qué es esta vez?"}
+{"key": "script/mp2202#QS208_Start/36", "es": "Este también lo leí en un texto antiguo."}
+{"key": "script/mp2202#QS208_Start/38", "es": "Parece que hace mucho, muchísimo tiempo, había en las Tierras Primigenias una bestia con huesos increíblemente resistentes."}
+{"key": "script/mp2202#QS208_Start/40", "es": "En estos textos antiguos los llaman \"huesos titánicos\"."}
+{"key": "script/mp2202#QS208_Start/43", "es": "¿Entonces quieres que te traigamos un hueso titánico?"}
+{"key": "script/mp2202#QS208_Start/46", "es": "Exacto. A estas alturas todo esto ya debe de ser algo natural para ustedes."}
+{"key": "script/mp2202#QS208_Start/48", "es": "Si tuviera uno, podría fabricar todo tipo de accesorios nuevos."}
+{"key": "script/mp2202#QS208_Start/50", "es": "Y, de nuevo, solo necesito uno."}
+{"key": "script/mp2202#QS208_Start/52", "es": "Si encuentran algo parecido en sus viajes, avísenme, por favor."}
+{"key": "script/mp2202#QS208_Start/55", "es": "Está bien, entendido."}
 {"key": "script/mp2202#QS208_Start/62", "es": "Se agregó una misión nueva al tablón de misiones de Comodo."}
+{"key": "script/mp2202#QS208_Start/66", "es": "Se agregó la misión \"Materiales de artesanía 3\" a tu diario."}
+{"key": "script/mp2202#QS208_End/28", "es": "¡Aquí tienes, Saisen! Creo que trajimos el hueso titánico que buscabas."}
 {"key": "script/mp2202#QS208_End/31", "es": "Entregas "}
+{"key": "script/mp2202#QS208_End/39", "es": "Mmm, sí que es resistente. Sin duda, este es el material que buscaba. Con esto podré hacer cosas increíbles."}
+{"key": "script/mp2202#QS208_End/41", "es": "Por favor, déjenme fabricar algo de inmediato."}
+{"key": "script/mp2202#QS208_End/51", "es": "¡Quizá este sea mi mayor logro hasta la fecha!"}
+{"key": "script/mp2202#QS208_End/53", "es": "Aquí tienen."}
 {"key": "script/mp2202#QS208_End/56", "es": "Recibes "}
+{"key": "script/mp2202#QS208_End/60", "es": "Vaya... Nunca había visto algo tan bien hecho."}
+{"key": "script/mp2202#QS208_End/62", "es": "¡Muchas gracias, Saisen!"}
+{"key": "script/mp2202#QS208_End/65", "es": "Sí, sí. Si alguna vez necesitan que fabrique algo, tráiganme los materiales."}
+{"key": "script/mp2202#QS208_End/67", "es": "¡Háganme trabajar todo lo que quieran!"}
+{"key": "script/mp2202#QS208_End/75", "es": "¡Misión completada: \"Materiales de artesanía 3\"!"}
 {"key": "script/mp2202#QS208_End/78", "es": "¡Ya puedes fabricar accesorios adicionales en el taller de Saisen!"}
+{"key": "script/mp2202#QS205_Start/29", "es": "Hola, Pippi. Veo que uno de tus pollit--"}
+{"key": "script/mp2202#QS205_Start/31", "es": "Eh, quiero decir, que uno de tus preciosos hijos ha desaparecido."}
+{"key": "script/mp2202#QS205_Start/34", "es": "Sí, ¿no es terrible?"}
+{"key": "script/mp2202#QS205_Start/36", "es": "¡Siempre me dan tantos problemas!"}
+{"key": "script/mp2202#QS205_Start/38", "es": "¿Estarían dispuestos a traerlo a casa por mí?"}
+{"key": "script/mp2202#QS205_Start/44", "es": "Oh, ¿decidieron ayudarme a atrapar a mi hijo desaparecido después de todo?"}
 {"key": "script/mp2202#QS205_Start/50", "es": "Aceptar"}
 {"key": "script/mp2202#QS205_Start/51", "es": "Rechazar"}
+{"key": "script/mp2202#QS205_Start/61", "es": "¿De verdad? Qué lástima."}
+{"key": "script/mp2202#QS205_Start/66", "es": "Le pediría ayuda a alguno de los hombres, pero todos están muy ocupados..."}
+{"key": "script/mp2202#QS205_Start2/0", "es": "Muchas gracias. Les agradezco mucho su ayuda."}
+{"key": "script/mp2202#QS205_Start2/3", "es": "Entonces, ¿cuál de tus pequeños se escapó esta vez?"}
+{"key": "script/mp2202#QS205_Start2/6", "es": "Se llama Sasami. Sé que suena más a nombre de gallina que de gallo, pero me gusta pensar que soy moderna. Lo reconocerán por sus plumas blancas."}
+{"key": "script/mp2202#QS205_Start2/8", "es": "Y, como el resto de mis lindos hijitos, es extremadamente cauteloso."}
+{"key": "script/mp2202#QS205_Start2/10", "es": "Así que, cuando intenten atraparlo, asegúrense de acercarse por detrás."}
+{"key": "script/mp2202#QS205_Start2/12", "es": "Si intentan acercarse de frente, seguro que huye."}
+{"key": "script/mp2202#QS205_Start2/15", "es": "Así que hay que cuidar que no nos vea llegar. Entendido."}
+{"key": "script/mp2202#QS205_Start2/17", "es": "¿Tienes idea de dónde podría estar escondido?"}
+{"key": "script/mp2202#QS205_Start2/20", "es": "Al menos, estoy segura de que sigue en la aldea. Es un poco miedoso, así que no se habría ido."}
+{"key": "script/mp2202#QS205_Start2/22", "es": "Creo que también estará afuera, porque no querría acercarse a la casa de nadie."}
+{"key": "script/mp2202#QS205_Start2/25", "es": "¿Así que buscamos al aire libre, pero dentro de la aldea?"}
+{"key": "script/mp2202#QS205_Start2/27", "es": "¡Está bien, entendido! Con eso tenemos bastante para empezar."}
+{"key": "script/mp2202#QS205_Start2/32", "es": "¡Vamos, Adol, vamos por él!"}
+{"key": "script/mp2202#QS205_End/28", "es": "Muchas gracias por traer de vuelta a casa a mi querido Sasami, sano y salvo."}
 {"key": "script/mp2202#QS205_End/30", "es": "Aquí está la recompensa que prometí."}
 {"key": "script/mp2202#QS205_End/33", "es": "Recibes "}
 {"key": "script/mp2202#QS205_End/37", "es": "¡Gracias!"}
+{"key": "script/mp2202#QS205_End/39", "es": "Ahora, trátalos bien, ¿de acuerdo?"}
+{"key": "script/mp2202#QS205_End/42", "es": "*risita* ¡Claro que sí! ㈱"}
+{"key": "script/mp2202#QS205_End/51", "es": "¡Misión completada: \"El pollito fugitivo\"!"}
+{"key": "script/mp2202#QS205_End/59", "es": "¡Misión completada: \"El pollito fugitivo\"!"}
+{"key": "script/mp2202#QS205_End/68", "es": "¿Qué pasa, Pippi?"}
+{"key": "script/mp2202#QS205_End/72", "es": "Yo... Solo les quité los ojos de encima a mis pequeñitos por un momento..."}
+{"key": "script/mp2202#QS205_End/74", "es": "¡Pero parece que otro de ellos se escapó!"}
 {"key": "script/mp2202#QS205_End/83", "es": "¡¿Qué?!"}
+{"key": "script/mp2202#QS205_End/86", "es": "Estaba distraída y... ¡ahora se fue! Es un verdadero travieso..."}
+{"key": "script/mp2202#QS205_End/88", "es": "Supongo que tendré que poner otra solicitud en el tablón."}
+{"key": "script/mp2202#QS205_End/90", "es": "Perdón por pedírselo, pero si encuentran tiempo para traerlo a casa, se lo agradecería mucho."}
+{"key": "script/mp2202#QS205_End/96", "es": "C-claro, está bien."}
 {"key": "script/mp2202#QS205_End/102", "es": "Se agregó una misión nueva al tablón de misiones de Comodo."}
+{"key": "script/mp2202#QS205_End/106", "es": "Se agregó la misión \"El pollito travieso\" a tu diario."}
+{"key": "script/mp2202#QS206_Start/29", "es": "Eh, Pippi..."}
+{"key": "script/mp2202#QS206_Start/32", "es": "Lamento muchísimo molestarlos con esto otra vez."}
+{"key": "script/mp2202#QS206_Start/34", "es": "¿Estarían dispuestos a ir a traer de vuelta a otro de mis queridos pequeños?"}
+{"key": "script/mp2202#QS206_Start/40", "es": "Oh, ¿decidieron ayudarme a atrapar a mi hijo fugitivo después de todo?"}
 {"key": "script/mp2202#QS206_Start/46", "es": "Aceptar"}
 {"key": "script/mp2202#QS206_Start/47", "es": "Rechazar"}
+{"key": "script/mp2202#QS206_Start/57", "es": "¿De verdad? Qué lástima."}
+{"key": "script/mp2202#QS206_Start/62", "es": "Le pediría ayuda a alguno de los hombres, pero todos están muy ocupados..."}
+{"key": "script/mp2202#QS206_Start2/0", "es": "Muchas gracias. Les agradezco mucho su ayuda."}
+{"key": "script/mp2202#QS206_Start2/3", "es": "Entonces, ¿qué buscamos esta vez?"}
+{"key": "script/mp2202#QS206_Start2/6", "es": "Esta vez se escapó el pequeño Teva. Todavía es solo un pollito."}
+{"key": "script/mp2202#QS206_Start2/8", "es": "Así que está lleno de energía y le encanta jugar."}
+{"key": "script/mp2202#QS206_Start2/10", "es": "Y le gusta especialmente esconderse a la sombra."}
+{"key": "script/mp2202#QS206_Start2/16", "es": "¿Un pollito escondido a la sombra? Esta vez va a ser difícil."}
+{"key": "script/mp2202#QS206_Start2/19", "es": "Me temo que sí. ¡Y es igual de cauteloso que Sasami!"}
+{"key": "script/mp2202#QS206_Start2/21", "es": "Así que tendrán que acercarse a él por detrás, como la vez anterior."}
+{"key": "script/mp2202#QS206_Start2/23", "es": "Ah, y no creo que se haya metido en la casa de nadie, así que debería estar en algún lugar al aire libre."}
+{"key": "script/mp2202#QS206_Start2/26", "es": "En la aldea, al aire libre, igual que la vez pasada. Entendido."}
+{"key": "script/mp2202#QS206_Start2/28", "es": "Déjanos todo a nosotros. ¡Lo tendremos de vuelta aquí en un abrir y cerrar de ojos!"}
+{"key": "script/mp2202#QS206_End/28", "es": "Muchas gracias por traer de vuelta a casa a mi querido Teva, sano y salvo."}
 {"key": "script/mp2202#QS206_End/30", "es": "Aquí está la recompensa que prometí."}
 {"key": "script/mp2202#QS206_End/33", "es": "Recibes "}
 {"key": "script/mp2202#QS206_End/37", "es": "¡Gracias!"}
+{"key": "script/mp2202#QS206_End/39", "es": "Ahora, trátalos bien, ¿de acuerdo?"}
+{"key": "script/mp2202#QS206_End/42", "es": "*risita* ¡Claro que sí! ㈱"}
+{"key": "script/mp2202#QS206_End/51", "es": "¡Misión completada: \"El pollito travieso\"!"}
+{"key": "script/mp2202#QS206_End/59", "es": "¡Misión completada: \"El pollito travieso\"!"}
+{"key": "script/mp2202#QS206_End/68", "es": "¿Qué pasa, Pippi?"}
+{"key": "script/mp2202#QS206_End/71", "es": "Bueno, lamento mucho seguir molestándolos, pero..."}
+{"key": "script/mp2202#QS206_End/73", "es": "...Creo que pueden adivinar qué pasó."}
+{"key": "script/mp2202#QS206_End/82", "es": "¡¿OTRA VEZ?!"}
+{"key": "script/mp2202#QS206_End/85", "es": "¡Solo le quité los ojos de encima un momento, lo juro! *suspiro* Sigue siendo tan andariego como siempre..."}
+{"key": "script/mp2202#QS206_End/87", "es": "Supongo que tendré que poner otra solicitud en el tablón."}
+{"key": "script/mp2202#QS206_End/89", "es": "Lamento muchísimo seguir molestándolos, pero si tienen oportunidad, les agradecería mucho su ayuda."}
+{"key": "script/mp2202#QS206_End/95", "es": "B-bueno, lo intentaremos."}
 {"key": "script/mp2202#QS206_End/101", "es": "Se agregó una misión nueva al tablón de misiones de Comodo."}
+{"key": "script/mp2202#QS206_End/105", "es": "Se agregó la misión \"El pollito vagabundo\" a tu diario."}
+{"key": "script/mp2202#QS210_Start/29", "es": "Eh, Pippi..."}
+{"key": "script/mp2202#QS210_Start/32", "es": "Lamento muchísimo molestarlos con esto una vez más."}
+{"key": "script/mp2202#QS210_Start/34", "es": "¿Estarían dispuestos a ir a traer de vuelta a otro de mis pollitos?"}
+{"key": "script/mp2202#QS210_Start/40", "es": "Oh, ¿decidieron ayudarme a atrapar a mi pequeño fugitivo después de todo?"}
 {"key": "script/mp2202#QS210_Start/46", "es": "Aceptar"}
 {"key": "script/mp2202#QS210_Start/47", "es": "Rechazar"}
+{"key": "script/mp2202#QS210_Start/57", "es": "¿De verdad? Qué lástima."}
+{"key": "script/mp2202#QS210_Start/62", "es": "Le pediría ayuda a alguno de los hombres, pero todos están muy ocupados..."}
+{"key": "script/mp2202#QS210_Start2/0", "es": "Muchas gracias. Les agradezco mucho su ayuda."}
+{"key": "script/mp2202#QS210_Start2/3", "es": "Entonces, ¿cuál es ahora?"}
+{"key": "script/mp2202#QS210_Start2/6", "es": "Se llama Tsukune. Lo reconocerán por sus plumas marrones, y probablemente es el más enérgico de todos mis bebés."}
+{"key": "script/mp2202#QS210_Start2/8", "es": "Es cauteloso y hay que acercarse a él por detrás, como siempre, pero..."}
+{"key": "script/mp2202#QS210_Start2/10", "es": "También suele alejarse un poco más que los demás."}
+{"key": "script/mp2202#QS210_Start2/13", "es": "¿Eso significa que podría haberse ido fuera de la aldea?"}
+{"key": "script/mp2202#QS210_Start2/16", "es": "Me temo que es muy probable."}
+{"key": "script/mp2202#QS210_Start2/18", "es": "Pero, aunque lo haya hecho, no habrá ido lejos."}
+{"key": "script/mp2202#QS210_Start2/20", "es": "Creo que lo más probable es que esté en las llanuras, justo afuera de la entrada de la aldea."}
+{"key": "script/mp2202#QS210_Start2/23", "es": "Ah, bueno. ¡Uf! Entonces sí tenemos posibilidades de encontrarlo."}
+{"key": "script/mp2202#QS210_Start2/25", "es": "¡Vamos! ¡A buscar!"}
+{"key": "script/mp2202#QS210_End/28", "es": "Muchas gracias por traer de vuelta sano y salvo a mi querido Tsukune."}
 {"key": "script/mp2202#QS210_End/30", "es": "Aquí está la recompensa que prometí."}
 {"key": "script/mp2202#QS210_End/33", "es": "Recibes "}
 {"key": "script/mp2202#QS210_End/37", "es": "Gracias."}
+{"key": "script/mp2202#QS210_End/39", "es": "Trátalos bien y VIGÍLALOS. ¡No quiero ver en el tablón otra misión de pollito... eh, de hijo desaparecido!"}
+{"key": "script/mp2202#QS210_End/42", "es": "*risita* Nunca más les quitaré los ojos de encima. ¡Serán mis pequeños prisioneros! Ji, ji, ji... ㈱"}
+{"key": "script/mp2202#QS210_End/50", "es": "¡Misión completada: \"El pollito vagabundo\"!"}
 {"key": "script/mp2202#talk_Carna/1", "es": "Voy a vigilar a Padre un rato más y luego los alcanzo."}
+{"key": "script/mp2202#talk_Carna/3", "es": "Mientras tanto, pregunten por ahí todo lo que quieran."}
+{"key": "script/mp2202#talk_Asad/34", "es": "Ah, Karna. Parece que... tienes algo que decirme, si no me equivoco."}
+{"key": "script/mp2202#talk_Asad/37", "es": "Sí. Yo..."}
+{"key": "script/mp2202#talk_Asad/39", "es": "Por fin logré que Remnos recobrara el juicio."}
+{"key": "script/mp2202#talk_Asad/44", "es": "¡¿Lo lograste?!"}
+{"key": "script/mp2202#talk_Asad/47", "es": "...Sí. No fue fácil, pero logramos liberarlo del control del enemigo."}
+{"key": "script/mp2202#talk_Asad/49", "es": "Ahora descansa en un lugar seguro."}
+{"key": "script/mp2202#talk_Asad/52", "es": "Me alegra mucho oírlo... Gracias por avisarme."}
 {"key": "script/mp2202#talk_Asad/302", "es": "Recibes "}
 {"key": "script/mp2202#talk_sorio/5", "es": "Comprar/Vender"}
 {"key": "script/mp2202#talk_sorio/6", "es": "Hablar"}
