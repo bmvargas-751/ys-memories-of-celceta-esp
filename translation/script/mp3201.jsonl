@@ -39,6 +39,7 @@
 {"key": "script/mp3201#talk_renard_ana/93", "es": "¿Q-qué?"}
 {"key": "script/mp3201#talk_duckA/43", "es": "Darle una hoja"}
 {"key": "script/mp3201#talk_duckA/44", "es": "Darle una flor"}
+{"key": "script/mp3201#talk_duckA/45", "es": "Agarrarle el pico"}
 {"key": "script/mp3201#talk_duckA/46", "es": "Cancelar"}
 {"key": "script/mp3201#talk_duckA/60", "es": "Darle una hoja podrida"}
 {"key": "script/mp3201#talk_duckA/63", "es": "Darle una hoja fresca"}
@@ -75,6 +76,7 @@
 {"key": "script/mp3201#talk_duckA/326", "es": "...Parece que no le caes bien."}
 {"key": "script/mp3201#talk_duckB/43", "es": "Darle una hoja"}
 {"key": "script/mp3201#talk_duckB/44", "es": "Darle una flor"}
+{"key": "script/mp3201#talk_duckB/45", "es": "Agarrarle el pico"}
 {"key": "script/mp3201#talk_duckB/46", "es": "Cancelar"}
 {"key": "script/mp3201#talk_duckB/60", "es": "Darle una hoja podrida"}
 {"key": "script/mp3201#talk_duckB/63", "es": "Darle una hoja fresca"}
