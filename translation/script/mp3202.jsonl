@@ -36,6 +36,7 @@
 {"key": "script/mp3202#talk_belta/22", "es": "Recibes "}
 {"key": "script/mp3202#talk_belta/84", "es": "Recibes "}
 {"key": "script/mp3202#talk_momocha/340", "es": "¡Claro que no!"}
+{"key": "script/mp3202#talk_siryu/6", "es": "Reforzar/Refinar"}
 {"key": "script/mp3202#talk_siryu/7", "es": "Hablar"}
 {"key": "script/mp3202#talk_siryu/8", "es": "Cancelar"}
 {"key": "script/mp3202#talk_siryu_sub/2", "es": "Hablar"}
@@ -54,6 +55,8 @@
 {"key": "script/mp3202#talk_siryu_sub/178", "es": "Recibes "}
 {"key": "script/mp3202#talk_siryu_sub/185", "es": "Recibes "}
 {"key": "script/mp3202#talk_siryu_sub/191", "es": "Recibes "}
+{"key": "script/mp3202#talk_hakan/7", "es": "Reforzar/Refinar"}
 {"key": "script/mp3202#talk_hakan/8", "es": "Hablar"}
 {"key": "script/mp3202#talk_hakan/9", "es": "Cancelar"}
 {"key": "script/mp3202#talk_gazock/55", "es": "¡Oh, Adol!"}
+{"key": "script/mp3202#lp_board/15", "es": "En el tablero hay varias misiones."}
