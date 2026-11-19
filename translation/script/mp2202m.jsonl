@@ -40,7 +40,80 @@
 {"key": "script/mp2202m#talk_sadok_ciera_toto/44", "es": "Esta es la casa de Sadoc. Hagamos lo que dice."}
 {"key": "script/mp2202m#talk_sadok_ciera_toto/47", "es": "Sí. Supongo que es... mejor no tentar demasiado a la suerte."}
 {"key": "script/mp2202m#talk_sadok_ciera_toto/49", "es": "Perdón por las molestias, Sadoc."}
+{"key": "script/mp2202m#talk_tereza/3", "es": "Jeje. Bienvenido."}
+{"key": "script/mp2202m#talk_tereza/5", "es": "Este es el centro comunitario de la aldea, donde todos vienen a hacer amigos y a socializar."}
+{"key": "script/mp2202m#talk_tereza/7", "es": "¡Puedes unirte a nosotros cuando quieras!"}
+{"key": "script/mp2202m#talk_tereza/12", "es": "Este es el centro comunitario de la aldea, donde todos vienen a hacer amigos y a socializar."}
+{"key": "script/mp2202m#talk_tereza/14", "es": "¡Puedes unirte a nosotros cuando quieras!"}
+{"key": "script/mp2202m#talk_ramon/7", "es": "Oh, es el forastero pelirrojo."}
+{"key": "script/mp2202m#talk_ramon/9", "es": "No me importa que quieras pasear por la aldea, pero no intentes nada raro."}
+{"key": "script/mp2202m#talk_darius/7", "es": "Hmph. Jamás voy a aceptar en Comodo a un hombre que no caza."}
+{"key": "script/mp2202m#talk_jeil/7", "es": "Hmph. Olvídalo. Ya no me interesa hablar contigo."}
+{"key": "script/mp2202m#talk_jeil/9", "es": "Solo ten esto presente."}
+{"key": "script/mp2202m#talk_jeil/11", "es": "Hasta que no peleemos de verdad... no me has vencido."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/41", "es": "¿No eres...?"}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/44", "es": "El forastero pelirrojo..."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/47", "es": "¡Jah! Parece que, al menos, sabes manejar una espada."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/49", "es": "Pero no pareces particularmente fuerte."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/54", "es": "Hmm... ¿Seguro de eso?"}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/56", "es": "No apostaría a que puedas ganarle una pelea a Adol."}
 {"key": "script/mp2202m#talk_ramon_darius_jeil/65", "es": "¿Qué...?"}
 {"key": "script/mp2202m#talk_ramon_darius_jeil/68", "es": "¿Oh?"}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/71", "es": "Hmm... si Karna lo dice, ¡tiene que ser verdad!"}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/78", "es": "E-Espera un momento..."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/80", "es": "¡Todavía no hemos peleado! Seguro que solo quiere congraciarse con el forastero."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/85", "es": "Vamos, vamos, cálmense."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/92", "es": "¡¿Que me calme?!"}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/94", "es": "Hmph. Debe de ser muy fácil quedarse aquí sentado todo el día, sin molestarse nunca en cazar."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/101", "es": "Escucha, Remnos."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/103", "es": "Hace mucho que quería preguntártelo, pero... ¿por qué nunca sales con nosotros?"}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/112", "es": "Oye, Damlas, espera..."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/115", "es": "...Perdona, Ramon, pero ya me cansé de andar con rodeos. Quiero una respuesta."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/117", "es": "¿Por qué nunca sales a cazar con nosotros?"}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/119", "es": "¡Eres un hombre de Comodo! ¡Se supone que eres un guerrero!"}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/122", "es": "Hmm... Bueno, para bien o para mal, soy artista e historiador, no cazador."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/124", "es": "No voy a negarte tu forma de vida. La respeto por completo. Es solo que... no es para mí."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/126", "es": "Eso es todo, en realidad."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/129", "es": "Grr... No te entiendo en absoluto..."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/132", "es": "En serio, ¿cómo pasamos de hablar de Adol a hablar de mí?"}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/135", "es": "Sí, yo también tengo mucho que decirle a Remnos sobre este tema."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/141", "es": "Pero ¿podemos al menos no discutirlo delante de Adol?"}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/149", "es": "Tienes razón. Lo siento."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/154", "es": "Hmph. Olvídalo. Ya no me interesa."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/159", "es": "Perdona que hayas tenido que ver eso, Adol."}
+{"key": "script/mp2202m#talk_ramon_darius_jeil/161", "es": "En fin, ¿vamos a recorrer otro lado, te parece?"}
+{"key": "script/mp2202m#talk_zaizen/30", "es": "Oye, maestro. ¿Te importa si le muestro un poco el lugar a Adol?"}
+{"key": "script/mp2202m#talk_zaizen/33", "es": "No me importa... ¡Nunca pensé que vería el día en que alguien viniera aquí desde fuera del bosque!"}
+{"key": "script/mp2202m#talk_zaizen/36", "es": "Jaja. Visitantes más singulares que este no se consiguen."}
+{"key": "script/mp2202m#talk_zaizen/41", "es": "Este es mi maestro, Saisen. Es artesano."}
+{"key": "script/mp2202m#talk_zaizen/43", "es": "Tiene un aspecto algo tosco, pero te aseguro que hace un trabajo realmente hermoso."}
+{"key": "script/mp2202m#talk_zaizen/48", "es": "¡Remnos! ¡Esa no es manera de hablar de tu maestro!"}
+{"key": "script/mp2202m#talk_zaizen/53", "es": "Jaja. No te preocupes, Karna. Ya estoy acostumbrado a su lengua afilada."}
+{"key": "script/mp2202m#talk_zaizen/58", "es": "¡Mira que eres! Lo consientes demasiado, Saisen."}
+{"key": "script/mp2202m#talk_zaizen/60", "es": "Pero en una cosa tiene razón. Haces un trabajo hermoso. Remnos también, ¡aunque no sepa respetar a su maestro!"}
+{"key": "script/mp2202m#talk_zaizen/62", "es": "Yo jamás podría hacer algo ni la mitad de bonito que lo que hacen ustedes dos."}
+{"key": "script/mp2202m#talk_zaizen/65", "es": "Bueno, todos tenemos cosas que se nos dan bien y cosas que no."}
+{"key": "script/mp2202m#talk_zaizen/67", "es": "Como yo con la caza, que es de las que no se me dan."}
+{"key": "script/mp2202m#talk_zaizen/72", "es": "Recuerda: que algo no se te dé bien no significa que tengas que dejarlo por completo."}
+{"key": "script/mp2202m#talk_zaizen/78", "es": "¡Exacto! Hazle caso a tu maestro, Remnos. ¡Antes venías a cazar con nosotros, pero un día simplemente dejaste de aparecer!"}
+{"key": "script/mp2202m#talk_zaizen/80", "es": "Seguro que podrías seguirle el ritmo a todos si entrenaras."}
+{"key": "script/mp2202m#talk_zaizen/83", "es": "Bueno, es que no tengo ganas de poner todo mi esfuerzo en algo para lo que no sirvo."}
+{"key": "script/mp2202m#talk_zaizen/89", "es": "Cambiando de tema... Adol, mira este collar."}
+{"key": "script/mp2202m#talk_zaizen/94", "es": "Estoy bastante orgulloso de este. ¿No es hermoso?"}
+{"key": "script/mp2202m#talk_zaizen/99", "es": "Está muy bien hecho."}
+{"key": "script/mp2202m#talk_zaizen/100", "es": "Ehhh..."}
+{"key": "script/mp2202m#talk_zaizen/106", "es": "¿Verdad que sí?"}
+{"key": "script/mp2202m#talk_zaizen/108", "es": "¡Sabía que lo apreciarías!"}
+{"key": "script/mp2202m#talk_zaizen/110", "es": "¡Seguro que vamos a ser grandes amigos! ¡No... si ya lo somos!"}
+{"key": "script/mp2202m#talk_zaizen/113", "es": "*suspiro* Mírenlo, se está dejando llevar."}
 {"key": "script/mp2202m#talk_zaizen/118", "es": "¡¿Q-qué?!"}
+{"key": "script/mp2202m#talk_zaizen/120", "es": "¿No puedes apreciar su belleza? ¡Estaba segurísimo de que podía contar contigo, Adol!"}
+{"key": "script/mp2202m#talk_zaizen/123", "es": "Jeje. Es muy bonito, Remnos. ¡Anímate!"}
+{"key": "script/mp2202m#talk_zaizen/129", "es": "Jaja. Parece que se están divirtiendo mucho."}
+{"key": "script/mp2202m#talk_zaizen/131", "es": "Sepan que siempre son bienvenidos para volver y mirar todo lo que quieran."}
+{"key": "script/mp2202m#talk_zaizen/133", "es": "Siéntete como en tu casa."}
+{"key": "script/mp2202m#talk_zaizen/161", "es": "Sepan que siempre son bienvenidos para volver y mirar todo lo que quieran."}
+{"key": "script/mp2202m#talk_zaizen/163", "es": "Siéntete como en tu casa."}
+{"key": "script/mp2202m#talk_Asad/1", "es": "¿Terminaste tu recorrido?"}
+{"key": "script/mp2202m#talk_Asad/3", "es": "Puede que no tengas otra oportunidad así. Te sugiero que te tomes tu tiempo y disfrutes de lo que ofrece nuestra aldea."}
 {"key": "script/mp2202m#lp_board/5", "es": "En el tablero hay varias misiones."}
