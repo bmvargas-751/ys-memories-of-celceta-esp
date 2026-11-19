@@ -1,4 +1,45 @@
+{"key": "script/mp3201#EV02_10_Search_Info/34", "es": "Como prometí, les he explicado la situación a todos los aldeanos."}
+{"key": "script/mp3201#EV02_10_Search_Info/36", "es": "Y les he pedido que cooperen con su investigación, así que no duden en plantear cualquier pregunta que tengan."}
+{"key": "script/mp3201#EV02_10_Search_Info/39", "es": "Me pone algo nervioso, considerando que aún no hemos probado nuestra inocencia..."}
+{"key": "script/mp3201#EV02_10_Search_Info/41", "es": "Bueno, vamos a ver si encontramos pistas."}
+{"key": "script/mp3201#EV02_11_Order_Info/32", "es": "Creo que ya tenemos suficiente información para empezar, al menos."}
+{"key": "script/mp3201#EV02_11_Order_Info/35", "es": "Repasemos lo que sabemos y veamos si podemos ordenarlo, ¿de acuerdo?"}
+{"key": "script/mp3201#EV02_11_Order_Info/41", "es": "Primero, veamos... ¿Cuándo notaron los aldeanos el veneno por primera vez?"}
+{"key": "script/mp3201#Question_01/2", "es": "Antes de que me fuera."}
+{"key": "script/mp3201#Question_01/3", "es": "Después de que me fui."}
+{"key": "script/mp3201#Question_01/9", "es": "...¿En serio? No recuerdo que nadie dijera algo así. Piénsalo otra vez."}
+{"key": "script/mp3201#Question_01/11", "es": "¿Cuándo notaron los aldeanos el veneno por primera vez?"}
+{"key": "script/mp3201#Question_01/18", "es": "Sí, lo notaron justo después de que te fueras de Selray."}
+{"key": "script/mp3201#Question_01/20", "es": "Y por eso te culpan."}
+{"key": "script/mp3201#Question_01/22", "es": "La siguiente pregunta es: ¿cómo lo notaron?"}
+{"key": "script/mp3201#Question_02/2", "es": "Un olor fétido del río."}
+{"key": "script/mp3201#Question_02/3", "es": "El río se tiñó de rojo."}
+{"key": "script/mp3201#Question_02/10", "es": "¡Vamos, Adol, sé que no soy quien para hablar, pero ponte serio, ¿quieres?!"}
+{"key": "script/mp3201#Question_02/12", "es": "¿Cómo notaron el veneno?"}
+{"key": "script/mp3201#Question_02/18", "es": "Sí, parece que lo que sea que había ahí tiñó el agua de rojo. ¡Debió de ser una verdadera locura verlo!"}
+{"key": "script/mp3201#Question_02/20", "es": "¿Y de dónde se originó el veneno?"}
+{"key": "script/mp3201#Question_03/2", "es": "Cerca de la aldea."}
+{"key": "script/mp3201#Question_03/3", "es": "Río arriba."}
+{"key": "script/mp3201#Question_03/9", "es": "¿En serio? No recuerdo que nadie nos dijera eso..."}
+{"key": "script/mp3201#Question_03/11", "es": "Piénsalo otra vez. ¿De dónde se originó el veneno?"}
+{"key": "script/mp3201#Question_03/18", "es": "Sí, eso es. Y si vino de río arriba, debió venir de algún lugar fuera de Selray."}
+{"key": "script/mp3201#Question_03/20", "es": "...Muy bien, Adol. Si sumas todo eso, ¿quién destaca como el culpable más probable?"}
+{"key": "script/mp3201#Question_04/2", "es": "¡Fui yo! ¡Tenía que ser!"}
+{"key": "script/mp3201#Question_04/3", "es": "Fue alguien de la aldea."}
+{"key": "script/mp3201#Question_04/4", "es": "No fue una persona en absoluto..."}
 {"key": "script/mp3201#Question_04/11", "es": "¡¿Qué?!"}
+{"key": "script/mp3201#Question_04/13", "es": "¡¿Acaso no hacemos todo esto para probar que NO envenenaste las aguas de por aquí?!"}
+{"key": "script/mp3201#Question_04/15", "es": "Te lo pregunto de nuevo: ¿qué tiene más sentido según todo lo que hemos oído?"}
+{"key": "script/mp3201#Question_04/24", "es": "Eso no tendría sentido, ¿verdad? Esta aldea necesita peces para sobrevivir. ¿Quién envenenaría su única fuente de alimento?"}
+{"key": "script/mp3201#Question_04/26", "es": "Los pescadores a quienes preguntamos estaban todos horrorizados."}
+{"key": "script/mp3201#Question_04/28", "es": "No hay manera de que alguien de aquí haga algo así."}
+{"key": "script/mp3201#Question_04/36", "es": "...¿Qué te lleva a esa conclusión?"}
+{"key": "script/mp3201#Question_04/42", "es": "Tiene sentido, si lo piensas."}
+{"key": "script/mp3201#Question_04/44", "es": "Haría falta muchísimo veneno para teñir de rojo todo un río."}
+{"key": "script/mp3201#Question_04/46", "es": "Y si vino de río arriba, eso significaría que alguien lo vertió en el río desde algún lugar fuera de la aldea."}
+{"key": "script/mp3201#Question_04/48", "es": "Nadie puede cargar tanto veneno por un bosque infestado de monstruos. ¡Y menos solo, como habría tenido que hacerlo Adol!"}
+{"key": "script/mp3201#Question_04/50", "es": "Es decir, no digo que sea imposible envenenar el agua desde río arriba, pero ¿teñir todo el río de rojo? ¡Poco probable!"}
+{"key": "script/mp3201#Question_04/54", "es": "...Sí parece bastante inverosímil."}
 {"key": "script/mp3201#QS301_Start/55", "es": "Aceptar"}
 {"key": "script/mp3201#QS301_Start/56", "es": "Rechazar"}
 {"key": "script/mp3201#QS301_Sale/141", "es": "Rechazar"}
