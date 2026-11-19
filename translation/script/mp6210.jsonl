@@ -1,6 +1,7 @@
 {"key": "script/mp6210#EV06_07_Hear_Voice/87", "es": "¿En serio?"}
 {"key": "script/mp6210#EV06_09_Meet_GrandRu/313", "es": "¿Qué es?"}
 {"key": "script/mp6210#EV06_09_Meet_GrandRu/340", "es": "Gracias."}
+{"key": "script/mp6210#EV09_00_Talk_Remnos/69", "es": "¡Ah...!"}
 {"key": "script/mp6210#EV09_00_Talk_Remnos/175", "es": "No te preocupes."}
 {"key": "script/mp6210#EV09_01_Talk_GrandRu/161", "es": "Obtienes "}
 {"key": "script/mp6210#EV09_01_Talk_GrandRu/187", "es": "Gracias."}
@@ -18,6 +19,7 @@
 {"key": "script/mp6210#talk_Gazock/21", "es": "Hablar"}
 {"key": "script/mp6210#talk_Gazock/22", "es": "Cancelar"}
 {"key": "script/mp6210#talk_Pansa/24", "es": "*jadeo* *jadeo*"}
+{"key": "script/mp6210#first_mem_talk_end/29", "es": "La DEF base de Adol aumentó en 1."}
 {"key": "script/mp6210#talk_Mishy/40", "es": "¿Quién eres?"}
 {"key": "script/mp6210#talk_Mishy/65", "es": "Recibes "}
 {"key": "script/mp6210#talk_Mishy/67", "es": "Recibes "}
