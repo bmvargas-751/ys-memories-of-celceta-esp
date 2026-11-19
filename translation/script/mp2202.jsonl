@@ -816,7 +816,97 @@
 {"key": "script/mp2202#talk_ramon_darius/107", "es": "B-Bueno, eso es cierto, pero..."}
 {"key": "script/mp2202#talk_ramon_darius/111", "es": "Hmph. Está bien."}
 {"key": "script/mp2202#talk_ramon_darius/113", "es": "Supongo que no hace daño contarles lo que sé."}
+{"key": "script/mp2202#talk_ramon_darius/122", "es": "¿Así que sí sabes algo?"}
+{"key": "script/mp2202#talk_ramon_darius/128", "es": "Tal vez. No tengo pruebas de que esté relacionado con lo que pasó, pero podría ser."}
+{"key": "script/mp2202#talk_ramon_darius/130", "es": "Estaba oscuro como boca de lobo y no veía bien, pero había alguien corriendo por el bosque a una velocidad nada natural."}
+{"key": "script/mp2202#talk_ramon_darius/132", "es": "Y desde luego no parecía ninguna bestia."}
+{"key": "script/mp2202#talk_ramon_darius/134", "es": "Se dirigía al suroeste de la aldea, a un lugar que llamamos la Madriguera Antigua."}
+{"key": "script/mp2202#talk_ramon_darius/137", "es": "¿La Madriguera Antigua?"}
+{"key": "script/mp2202#talk_ramon_darius/140", "es": "¿Conocen el gran cráter que hay cerca de aquí, verdad?"}
+{"key": "script/mp2202#talk_ramon_darius/142", "es": "Si bajan hasta allí, hay una cueva llena de insectos violentos."}
+{"key": "script/mp2202#talk_ramon_darius/144", "es": "La llamamos la Madriguera Antigua."}
 {"key": "script/mp2202#talk_ramon_darius/150", "es": "Ya veo..."}
+{"key": "script/mp2202#talk_ramon_darius/152", "es": "¡Parece que conseguimos información muy valiosa!"}
+{"key": "script/mp2202#talk_ramon_darius/157", "es": "Vamos, Adol, vayamos a contarle a Karna lo que averiguamos."}
+{"key": "script/mp2202#talk_jeil/4", "es": "El jefe de la aldea ha hablado mucho de los romunos últimamente."}
+{"key": "script/mp2202#talk_jeil/6", "es": "Al parecer son unos salvajes a quienes les encanta invadir otras regiones."}
+{"key": "script/mp2202#talk_jeil/8", "es": "No parece que quieran hacernos daño por ahora, pero nunca está de más ser precavidos."}
+{"key": "script/mp2202#talk_jeil/13", "es": "Al parecer los romunos son unos salvajes a quienes les encanta invadir otras regiones."}
+{"key": "script/mp2202#talk_jeil/15", "es": "No parece que quieran hacernos daño por ahora, pero nunca está de más ser precavidos."}
+{"key": "script/mp2202#talk_jeil/20", "es": "Las máscaras de esos soldados se veían distintas de la que me obligaron a usar, pero su propósito era el mismo. De eso no tengo duda."}
+{"key": "script/mp2202#talk_jeil/22", "es": "Significa que tienen algo que ver con esa maldita maga..."}
+{"key": "script/mp2202#talk_jeil/24", "es": "¡No volverán a tomarme por sorpresa así nunca más!"}
+{"key": "script/mp2202#talk_jeil/29", "es": "Quería salir de caza con Karna y los demás, pero me dijeron que me quedara aquí a descansar."}
+{"key": "script/mp2202#talk_jeil/31", "es": "Usar esa máscara fue la peor sensación de mi vida. ¡Ni siquiera quiero pensarlo!"}
+{"key": "script/mp2202#talk_jeil/33", "es": "Estar consciente todo el tiempo y, aun así, no tener control sobre tu cuerpo mientras atacas a tus amigos... Fue horrible."}
+{"key": "script/mp2202#talk_jeil/38", "es": "Estar consciente todo el tiempo y, aun así, no tener control sobre tu cuerpo mientras atacas a tus amigos... Fue horrible."}
+{"key": "script/mp2202#talk_jeil/40", "es": "Espero no tener que pasar por algo así nunca más."}
+{"key": "script/mp2202#talk_zaizen/25", "es": "Fabricar accesorio"}
 {"key": "script/mp2202#talk_zaizen/26", "es": "Hablar"}
+{"key": "script/mp2202#talk_zaizen/28", "es": "Entregar caparazón indestructible x3"}
+{"key": "script/mp2202#talk_zaizen/32", "es": "Entregar piel extraña"}
+{"key": "script/mp2202#talk_zaizen/36", "es": "Entregar hueso titánico"}
 {"key": "script/mp2202#talk_zaizen/39", "es": "Cancelar"}
+{"key": "script/mp2202#talk_zaizen/64", "es": "Si hay algo que quieras que fabrique, avísame."}
+{"key": "script/mp2202#talk_zaizen/66", "es": "Eso sí, tendrán que traerme ustedes mismos los materiales, por supuesto."}
+{"key": "script/mp2202#talk_zaizen/71", "es": "Si tuviera un hueso titánico, podría fabricar todo tipo de accesorios nuevos."}
+{"key": "script/mp2202#talk_zaizen/73", "es": "Con uno bastaría."}
+{"key": "script/mp2202#talk_zaizen/75", "es": "Si encuentras algo que sirva, tráelo y déjame echarle un vistazo."}
+{"key": "script/mp2202#talk_zaizen/80", "es": "Si hay algo que quieras que fabrique, avísame."}
+{"key": "script/mp2202#talk_zaizen/82", "es": "Eso sí, tendrán que traerme ustedes mismos los materiales, por supuesto."}
+{"key": "script/mp2202#talk_zaizen/87", "es": "Si tuviera una piel extraña, podría fabricar todo tipo de accesorios nuevos."}
+{"key": "script/mp2202#talk_zaizen/89", "es": "Creo que con una sería suficiente."}
+{"key": "script/mp2202#talk_zaizen/91", "es": "Si encuentras algo que sirva, tráelo y déjame echarle un vistazo."}
+{"key": "script/mp2202#talk_zaizen/96", "es": "Si hay algo que quieras que fabrique, avísame."}
+{"key": "script/mp2202#talk_zaizen/98", "es": "Eso sí, tendrán que traerme ustedes mismos los materiales, por supuesto."}
+{"key": "script/mp2202#talk_zaizen/103", "es": "Si tuviera algunos caparazones indestructibles, podría fabricar todo tipo de cosas nuevas."}
+{"key": "script/mp2202#talk_zaizen/105", "es": "Que tengas mucha suerte en encontrarlos."}
+{"key": "script/mp2202#talk_zaizen/110", "es": "El aire que te rodea es distinto de cuando te vi por última vez. Más fuerte, más decidido."}
+{"key": "script/mp2202#talk_zaizen/112", "es": "Si necesitas algo de mí, avísame. Haré el mejor trabajo que pueda."}
+{"key": "script/mp2202#talk_zaizen/117", "es": "Nadie sabe cuánto tiempo más podremos seguir viviendo así aquí."}
+{"key": "script/mp2202#talk_zaizen/119", "es": "Solo podemos vivir cada día al máximo. No sirve preocuparse por lo que podría pasar: nos perderíamos lo que SÍ está pasando."}
+{"key": "script/mp2202#talk_zaizen/124", "es": "Esos soldados romunos... Me pregunto a qué habrán venido."}
+{"key": "script/mp2202#talk_zaizen/126", "es": "¡Con ellos no podemos bajar la guardia, eso es seguro!"}
+{"key": "script/mp2202#talk_zaizen/131", "es": "Nunca pensé que llegaría el día en que tendríamos tantos visitantes de fuera de la aldea..."}
+{"key": "script/mp2202#talk_zaizen/133", "es": "Parece que los tiempos están cambiando."}
+{"key": "script/mp2202#talk_zaizen/138", "es": "Hay un río en lo profundo del bosque, pero no sé qué hay al otro lado."}
+{"key": "script/mp2202#talk_zaizen/140", "es": "Me pregunto qué secretos estará guardando..."}
+{"key": "script/mp2202#talk_zaizen/145", "es": "Escuché que fue esa maga quien se llevó a Remnos."}
+{"key": "script/mp2202#talk_zaizen/147", "es": "Espero que esté a salvo..."}
+{"key": "script/mp2202#talk_zaizen/153", "es": "Dicen que las máscaras representan a otro yo. Ocultan la verdadera forma de quien las lleva, o le permiten cambiar a la apariencia que desea."}
+{"key": "script/mp2202#talk_zaizen/155", "es": "¿De verdad eran nuestros hermanos desaparecidos quienes atacaron la aldea ayer?"}
+{"key": "script/mp2202#talk_zaizen/157", "es": "Y si lo eran, ¿actuaban por voluntad propia? Me atrevería a decir que no."}
+{"key": "script/mp2202#talk_zaizen/163", "es": "¿De verdad eran nuestros hermanos desaparecidos quienes atacaron la aldea ayer?"}
+{"key": "script/mp2202#talk_zaizen/165", "es": "Y si lo eran, ¿actuaban por voluntad propia? Me atrevería a decir que no."}
+{"key": "script/mp2202#talk_zaizen/179", "es": "¿Mmm? Parece que no tienes suficientes."}
+{"key": "script/mp2202#talk_zaizen/181", "es": "Necesito tres caparazones indestructibles. Avísame cuando hayas logrado conseguirlos."}
+{"key": "script/mp2202#talk_zaizen/194", "es": "¿Mmm? Parece que no tienes ninguna."}
+{"key": "script/mp2202#talk_zaizen/196", "es": "Necesito una piel extraña. Avísame cuando hayas encontrado una."}
+{"key": "script/mp2202#talk_zaizen/209", "es": "¿Mmm? Parece que no tienes ninguna."}
+{"key": "script/mp2202#talk_zaizen/211", "es": "Necesito un hueso titánico. Avísame cuando hayas encontrado uno."}
+{"key": "script/mp2202#talk_officer/2", "es": "Esa es la situación actual dentro de nuestro ejército."}
+{"key": "script/mp2202#talk_officer/4", "es": "No podemos negar la posibilidad de que la gente de aquí sufra molestias en el futuro, y pedimos disculpas de corazón."}
+{"key": "script/mp2202#talk_soldier/2", "es": "Nos enviaron aquí por orden de la gobernadora general Griselda para transmitir sus deseos al representante a cargo de la Aldea de Comodo."}
+{"key": "script/mp2202#talk_soldier/4", "es": "Debemos asegurarnos de que nadie nos relacione con la División Enmascarada: no participamos en sus actos ni los aprobamos."}
+{"key": "script/mp2202#talk_beaver/2", "es": "¡Ooh, miren todo esto! ¡Hay tantos accesorios bonitos! ♪"}
+{"key": "script/mp2202#talk_beaver/4", "es": "¡Podría pasarme el día entero aquí sin problema! ♪"}
+{"key": "script/mp2202#talk_slash/2", "es": "Parece que hubo algunos problemas en esta aldea hace poco."}
+{"key": "script/mp2202#talk_slash/4", "es": "Me alegra que hayamos llegado después de que todo se resolviera."}
+{"key": "script/mp2202#SUB_take_back/30", "es": "*Suspiro* ¿Cuántas veces tengo que decirles que se queden quietos antes de que hagan caso?"}
+{"key": "script/mp2202#SUB_take_back/32", "es": "¡¿Cómo salieron, de todos modos?!"}
+{"key": "script/mp2202#SUB_take_back/38", "es": "¿Cómo lograron desatarse? Ninguna bestia salvaje ha logrado soltarse de eso."}
+{"key": "script/mp2202#SUB_take_back/40", "es": "Yo también estoy orgullosa de mis habilidades... ¡Algún día tendrán que mostrarme cómo lo hicieron!"}
+{"key": "script/mp2202#SUB_take_back/46", "es": "*Cof* ¡S-Solo quédense aquí por ahora!"}
+{"key": "script/mp2202#SUB_take_back/48", "es": "¿Entendido? ¡Bien!"}
+{"key": "script/mp2202#SUB_take_back/66", "es": "...¿Y ahora qué hacemos?"}
+{"key": "script/mp2202#SUB_take_back/71", "es": "Tendremos más cuidado esta vez."}
+{"key": "script/mp2202#SUB_take_back/72", "es": "Pensemos en lo que hicimos."}
+{"key": "script/mp2202#SUB_take_back/78", "es": "Jaja. ¡Ese es mi Adol! Sabía que dirías algo así. No tiene ningún sentido seguir aquí, ¿verdad?"}
+{"key": "script/mp2202#SUB_take_back/80", "es": "¡Solo no cometas el mismo error que la última vez!"}
+{"key": "script/mp2202#SUB_take_back/85", "es": "¡¿Ya te rindes?!"}
+{"key": "script/mp2202#SUB_take_back/87", "es": "Las cosas solo empeorarán si nos quedamos aquí esperando."}
+{"key": "script/mp2202#SUB_take_back/89", "es": "¡Vamos, levántate e intentemos escapar otra vez!"}
+{"key": "script/mp2202#SUB_take_back/96", "es": "¡¿Por qué no se quedan quietos?! Sé que son exploradores y todo eso, ¡pero esto ya es ridículo!"}
+{"key": "script/mp2202#SUB_take_back/98", "es": "Escucharemos lo que tengan que decir más tarde. Hasta entonces, quédense aquí y dejen de ponérmelo difícil, ¿de acuerdo?"}
 {"key": "script/mp2202#SUB_take_back/100", "es": "¡De acuerdo!"}
+{"key": "script/mp2202#lp_board/15", "es": "Hay varios anuncios en el tablón de misiones."}
