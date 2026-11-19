@@ -375,39 +375,306 @@
 {"key": "script/mp1211#QS404_Work1/73", "es": "Perfecto."}
 {"key": "script/mp1211#QS404_Work1/75", "es": "Muchas gracias."}
 {"key": "script/mp1211#QS404_Work1/78", "es": "Oh, no fue nada, ¡es un honor haber podido ayudar!"}
+{"key": "script/mp1211#QS404_Work1/80", "es": "¡Si alguna vez necesitas algo más, Quincy siempre está aquí para ayudar! ¡Jajaja!"}
+{"key": "script/mp1211#QS404_Work1/88", "es": "¡Llenaste todas las páginas del cuaderno!"}
 {"key": "script/mp1211#QS105_Work1/8", "es": "Encuentras "}
+{"key": "script/mp1211#QS105_Work1/15", "es": "¡Encontraste toda la mena de oro escondida!"}
+{"key": "script/mp1211#QS108_Start/27", "es": "Ustedes deben ser..."}
+{"key": "script/mp1211#QS108_Start/29", "es": "Los valientes guerreros del Gran Bosque que vinieron de lejos para cumplir mi petición, ¿no?"}
+{"key": "script/mp1211#QS108_Start/35", "es": "No, eso no suena mucho a nosotros..."}
+{"key": "script/mp1211#QS108_Start/38", "es": "Jaja. Lo siento. Quizá exageré un poco."}
+{"key": "script/mp1211#QS108_Start/40", "es": "Vieron mi petición en el tablón, ¿correcto?"}
+{"key": "script/mp1211#QS108_Start/43", "es": "Je. Eso suena bastante a nosotros, sí."}
+{"key": "script/mp1211#QS108_Start/45", "es": "¿Nos puedes dar más detalles?"}
+{"key": "script/mp1211#QS108_Start/48", "es": "Con mucho gusto."}
+{"key": "script/mp1211#QS108_Start/50", "es": "Seguro recuerdan que me ayudaron a conseguir leche de fabros hace un tiempo."}
+{"key": "script/mp1211#QS108_Start/52", "es": "Desde entonces me he preguntado sin cesar cómo convertir el potente sabor salvaje de esa leche en algo más... apetecible."}
+{"key": "script/mp1211#QS108_Start/54", "es": "Y creo que por fin encontré la respuesta."}
+{"key": "script/mp1211#QS108_Start/56", "es": "¡Está en la existencia del árbol Roda!"}
+{"key": "script/mp1211#QS108_Start/59", "es": "B-bueno. No estoy seguro de seguirte, pero... continúa."}
+{"key": "script/mp1211#QS108_Start/62", "es": "Me interesan las capacidades purificadoras del árbol Roda."}
+{"key": "script/mp1211#QS108_Start/64", "es": "Según he oído, el árbol Roda absorbe el veneno con sus hojas y lo convierte en frutos de energía."}
+{"key": "script/mp1211#QS108_Start/66", "es": "Y esa función es la que hace de las hojas de Roda el ingrediente perfecto para complementar la leche de fabros."}
+{"key": "script/mp1211#QS108_Start/68", "es": "Si tuviera una hoja de Roda, podría sacar a la luz el verdadero potencial de la leche de fabros... o eso creo."}
+{"key": "script/mp1211#QS108_Start/71", "es": "Entonces, básicamente, ¿quieres que vayamos a conseguirte una hoja de Roda?"}
+{"key": "script/mp1211#QS108_Start/74", "es": "Precisamente."}
+{"key": "script/mp1211#QS108_Start/76", "es": "¿Estarían dispuestos a hacerlo por mí?"}
+{"key": "script/mp1211#QS108_Start/79", "es": "Bueno... podemos intentarlo."}
+{"key": "script/mp1211#QS108_Start/81", "es": "¡Pero no te hagas ilusiones! Lo que pides no se encuentra cerca de aquí, así que no será fácil."}
+{"key": "script/mp1211#QS108_Start/84", "es": "Mmm... A pesar de su advertencia, siento de algún modo que puedo contar con ustedes para que me traigan lo que busco."}
+{"key": "script/mp1211#QS108_Start/86", "es": "De todos modos, son mi mejor esperanza, así que dejo este asunto en sus manos."}
 {"key": "script/mp1211#QS108_Start/91", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#QS108_End/31", "es": "Veo que trajeron la hoja de Roda que les pedí."}
+{"key": "script/mp1211#QS108_End/34", "es": "¡Sí, aquí está!"}
 {"key": "script/mp1211#QS108_End/37", "es": "Entregas "}
+{"key": "script/mp1211#QS108_End/41", "es": "Mmm... Este verde vívido... Estas venas poderosas..."}
+{"key": "script/mp1211#QS108_End/43", "es": "*snif* *snif*"}
+{"key": "script/mp1211#QS108_End/45", "es": "Y esta fragancia fresca e impactante..."}
+{"key": "script/mp1211#QS108_End/47", "es": "¡Es esto! ¡Este es de verdad el ingrediente definitivo!"}
+{"key": "script/mp1211#QS108_End/49", "es": "¡Y con él, por fin puedo crear la bebida muscular definitiva!"}
+{"key": "script/mp1211#QS108_End/57", "es": "¡Contemplen la obra maestra! ¡Mi mayor creación!"}
+{"key": "script/mp1211#QS108_End/59", "es": "¡La llamaré... el Batido de fabros MAX!"}
+{"key": "script/mp1211#QS108_End/65", "es": "Está muy bien y todo eso, pero..."}
+{"key": "script/mp1211#QS108_End/67", "es": "¿Vamos a tener que beberlo otra vez?"}
+{"key": "script/mp1211#QS108_End/70", "es": "Mmm... Bueno..."}
+{"key": "script/mp1211#QS108_End/72", "es": "Solo alcanzaron los ingredientes para hacer esta única bebida."}
+{"key": "script/mp1211#QS108_End/74", "es": "Y su verdadero valor solo se aprecia por completo cuando se bebe de un solo trago."}
+{"key": "script/mp1211#QS108_End/76", "es": "Entonces... ¿por qué no eligen a uno de sus compañeros para que se la tome de un trago?"}
+{"key": "script/mp1211#QS108_End/81", "es": "Eh..."}
+{"key": "script/mp1211#QS108_End/83", "es": "Bien. ¿A quién le toca apretar el gatillo, Adol?"}
+{"key": "script/mp1211#QS108_End/88", "es": "Lo beberé yo."}
+{"key": "script/mp1211#QS108_End/89", "es": "Puedes beberlo tú, Duren."}
+{"key": "script/mp1211#QS108_End/90", "es": "Que lo beba Karna."}
+{"key": "script/mp1211#QS108_End/91", "es": "Que lo beba Ozma."}
+{"key": "script/mp1211#QS108_End/92", "es": "Que lo beba Calilica."}
+{"key": "script/mp1211#QS108_End/93", "es": "Que lo beba Frieda."}
+{"key": "script/mp1211#QS108_End/101", "es": "Adol tomó el Batido de fabros MAX de manos de Mucho y se lo bebió de un trago."}
+{"key": "script/mp1211#QS108_End/106", "es": "Adol sintió un poder recorrer todo su cuerpo."}
+{"key": "script/mp1211#QS108_End/111", "es": "¡Los PV máximos de Adol aumentaron en 300!"}
+{"key": "script/mp1211#QS108_End/116", "es": "Y bien, ¿qué tal estuvo?"}
+{"key": "script/mp1211#QS108_End/121", "es": "En realidad... ¡estuvo delicioso!"}
+{"key": "script/mp1211#QS108_End/122", "es": "¡Absolutamente divino!"}
+{"key": "script/mp1211#QS108_End/125", "es": "¿De verdad? ¡Qué maravilla!"}
+{"key": "script/mp1211#QS108_End/129", "es": "Vaya, y tampoco parece que estés mintiendo."}
+{"key": "script/mp1211#QS108_End/131", "es": "¿Por qué no pude beberlo esta vez en lugar de la vez pasada? El que no arriesga no gana, supongo..."}
+{"key": "script/mp1211#QS108_End/139", "es": "Duren tomó el Batido de fabros MAX de manos de Mucho y se lo bebió de un trago."}
+{"key": "script/mp1211#QS108_End/144", "es": "Duren sintió un poder recorrer todo su cuerpo."}
+{"key": "script/mp1211#QS108_End/149", "es": "¡Los PV máximos de Duren aumentaron en 300!"}
+{"key": "script/mp1211#QS108_End/154", "es": "Y bien, ¿qué tal estuvo?"}
+{"key": "script/mp1211#QS108_End/157", "es": "¡Vaya, estuvo realmente bueno!"}
+{"key": "script/mp1211#QS108_End/159", "es": "Pagaría buen dinero por beberlo otra vez."}
+{"key": "script/mp1211#QS108_End/162", "es": "¿En serio? ¡Qué maravilla!"}
+{"key": "script/mp1211#QS108_End/169", "es": "Adol llamó a Karna a la barra."}
+{"key": "script/mp1211#QS108_End/171", "es": "Karna tomó el Batido de fabros MAX de manos de Mucho y se lo bebió de un trago."}
+{"key": "script/mp1211#QS108_End/176", "es": "Karna sintió un poder recorrer todo su cuerpo."}
+{"key": "script/mp1211#QS108_End/181", "es": "¡Los PV máximos de Karna aumentaron en 300!"}
+{"key": "script/mp1211#QS108_End/198", "es": "Y bien, ¿qué tal estuvo?"}
+{"key": "script/mp1211#QS108_End/201", "es": "¡Muy bueno, en serio!"}
+{"key": "script/mp1211#QS108_End/203", "es": "Podría beberlo todo el día. ♪"}
+{"key": "script/mp1211#QS108_End/206", "es": "¿En serio? ¡Qué maravilla!"}
+{"key": "script/mp1211#QS108_End/213", "es": "Adol llamó a Ozma a la barra."}
+{"key": "script/mp1211#QS108_End/215", "es": "Ozma tomó el Batido de fabros MAX de manos de Mucho y se lo bebió de un trago."}
+{"key": "script/mp1211#QS108_End/220", "es": "Ozma sintió un poder recorrer todo su cuerpo."}
+{"key": "script/mp1211#QS108_End/225", "es": "¡Los PV máximos de Ozma aumentaron en 300!"}
+{"key": "script/mp1211#QS108_End/242", "es": "Y bien, ¿qué tal estuvo?"}
+{"key": "script/mp1211#QS108_End/245", "es": "Fue... sorprendentemente delicioso."}
+{"key": "script/mp1211#QS108_End/247", "es": "Con gusto lo bebería otra vez."}
+{"key": "script/mp1211#QS108_End/250", "es": "¿En serio? ¡Qué maravilla!"}
+{"key": "script/mp1211#QS108_End/257", "es": "Adol llamó a Calilica a la barra."}
+{"key": "script/mp1211#QS108_End/259", "es": "Calilica tomó el Batido de fabros MAX de manos de Mucho y se lo bebió de un trago."}
+{"key": "script/mp1211#QS108_End/264", "es": "Calilica sintió un poder recorrer todo su cuerpo."}
+{"key": "script/mp1211#QS108_End/269", "es": "¡Los PV máximos de Calilica aumentaron en 300!"}
+{"key": "script/mp1211#QS108_End/286", "es": "Y bien, ¿qué tal estuvo?"}
+{"key": "script/mp1211#QS108_End/289", "es": "Uf, ¿cómo lo explico? Fue... sublime."}
+{"key": "script/mp1211#QS108_End/291", "es": "¡Me encantaría beber otro algún día!"}
+{"key": "script/mp1211#QS108_End/294", "es": "¿En serio? ¡Qué maravilla!"}
+{"key": "script/mp1211#QS108_End/301", "es": "Adol llamó a Frieda a la barra."}
+{"key": "script/mp1211#QS108_End/303", "es": "Frieda tomó el Batido de fabros MAX de manos de Mucho y se lo bebió de un trago."}
+{"key": "script/mp1211#QS108_End/308", "es": "Frieda sintió un poder recorrer todo su cuerpo."}
+{"key": "script/mp1211#QS108_End/313", "es": "¡Los PV máximos de Frieda aumentaron en 300!"}
+{"key": "script/mp1211#QS108_End/330", "es": "Y bien, ¿qué tal estuvo?"}
+{"key": "script/mp1211#QS108_End/333", "es": "Creo que \"delicioso\" es la única palabra que parece apropiada."}
+{"key": "script/mp1211#QS108_End/335", "es": "Si esto fuera parte del menú habitual, lo pediría siempre."}
+{"key": "script/mp1211#QS108_End/338", "es": "¿En serio? ¡Qué maravilla!"}
+{"key": "script/mp1211#QS108_End/344", "es": "Si logro reunir todos los ingredientes otra vez, entonces podré... Ah..."}
+{"key": "script/mp1211#QS108_End/351", "es": "...¡N-NOOOOOO!"}
+{"key": "script/mp1211#QS108_End/363", "es": "¿Q-qué pasa?"}
+{"key": "script/mp1211#QS108_End/366", "es": "¡Yo... yo olvidé anotar la receta!"}
+{"key": "script/mp1211#QS108_End/368", "es": "Esa bebida se creó con un equilibrio armonioso y delicadamente medido, casi milagroso..."}
+{"key": "script/mp1211#QS108_End/370", "es": "Me temo que nunca podré hacer otra."}
+{"key": "script/mp1211#QS108_End/380", "es": "...Aun así, debo agradecerles que me trajeran el ingrediente excepcionalmente raro que les pedí."}
 {"key": "script/mp1211#QS108_End/382", "es": "Aquí está la recompensa que prometí."}
 {"key": "script/mp1211#QS108_End/386", "es": "Recibes "}
 {"key": "script/mp1211#QS108_End/390", "es": "¡Gracias!"}
+{"key": "script/mp1211#QS108_End/392", "es": "Y no te rindas. En serio."}
 {"key": "script/mp1211#QS108_End/395", "es": "¡Jaja, por supuesto!"}
+{"key": "script/mp1211#QS108_End/397", "es": "Esto no es nada frente al poder de la memoria muscular. ¡Mientras tenga estos brazotes, puedo \"recordar\" lo que hice sin problemas!"}
 {"key": "script/mp1211#QS108_End/402", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#QS108_End/417", "es": "¡Misión completada: \"El purificador definitivo\"!"}
+{"key": "script/mp1211#tutorial_BBS/34", "es": "Seguro que ya quieres explorar, pero antes déjame explicarte lo que puedes hacer en Casnan."}
+{"key": "script/mp1211#tutorial_BBS/36", "es": "Primero, ¡las misiones! Así funcionan."}
+{"key": "script/mp1211#tutorial_BBS/38", "es": "Puedes aceptar misiones cuando quieras revisando el tablón de misiones de la posada."}
+{"key": "script/mp1211#tutorial_BBS/40", "es": "Y cada vez que completes una misión, recibirás una recompensa de quien la encargó."}
+{"key": "script/mp1211#tutorial_BBS/45", "es": "¿Ves ese tablón de allá? Es el tablón de misiones de Casnan."}
+{"key": "script/mp1211#tutorial_BBS/56", "es": "Vamos a verlo de cerca."}
+{"key": "script/mp1211#tutorial_checked_BBS/32", "es": "¿Revisaste todo lo que hay publicado ahí?"}
+{"key": "script/mp1211#tutorial_checked_BBS/34", "es": "Oye, parece que alguien de este bar publicó una petición."}
+{"key": "script/mp1211#tutorial_checked_BBS/74", "es": "...Qué conveniente, supongo. Si quieres aceptarla, habla con él. Puede ser buena práctica. Aunque ese tipo es algo... raro..."}
+{"key": "script/mp1211#tutorial_checked_BBS/110", "es": "Por cierto, tienes un diario, ¿verdad?"}
+{"key": "script/mp1211#tutorial_checked_BBS/112", "es": "Puedes anotar tu avance en el Gran Bosque, las misiones aceptadas, los monstruos que viste, los materiales que hallaste..."}
+{"key": "script/mp1211#tutorial_checked_BBS/114", "es": "Si anotas ese tipo de cosas, te servirán más adelante. ¡Siempre es buena idea tomar muchas notas!"}
+{"key": "script/mp1211#tutorial_checked_BBS/139", "es": "Eso es todo lo que tengo que decir sobre las misiones."}
+{"key": "script/mp1211#tutorial_checked_BBS/141", "es": "Ahora te daré un recorrido rápido por la ciudad, así que salgamos."}
+{"key": "script/mp1211#tutorial_checked_BBS/175", "es": "Bien. ¿Revisaste todo en el tablón de misiones?"}
+{"key": "script/mp1211#tutorial_checked_BBS/184", "es": "Vamos, Adol, no te estoy pidiendo la luna, así que no hagas trampa."}
+{"key": "script/mp1211#tutorial_checked_BBS/186", "es": "¡Anda, revísalo!"}
+{"key": "script/mp1211#tutorial_weapon_shop/47", "es": "Buen lugar, ¿verdad? Ese de allá es quien le da nombre, Thomas."}
+{"key": "script/mp1211#tutorial_weapon_shop/49", "es": "Si quieres comprar armas o armaduras, es con él con quien debes hablar."}
+{"key": "script/mp1211#tutorial_weapon_shop/82", "es": "Ahora te mostraré el puesto comercial."}
+{"key": "script/mp1211#tutorial_weapon_shop/101", "es": "Puedes entrar al puesto comercial directamente desde afuera, o ir por la parte de atrás, pasando por la armería."}
+{"key": "script/mp1211#tutorial_weapon_shop/103", "es": "Ya que estamos aquí, es más rápido bajar por las escaleras. Vamos."}
+{"key": "script/mp1211#stop_exit/7", "es": "Conviene revisar las misiones del tablón antes de salir."}
+{"key": "script/mp1211#stop_exit/18", "es": "Vamos, revisa primero el tablón de misiones. Después podemos volver a salir."}
+{"key": "script/mp1211#stop_exit_2/12", "es": "Espera. Llegas más rápido al puesto comercial bajando las escaleras. No hace falta rodear por afuera."}
+{"key": "script/mp1211#stop_exit_2/14", "es": "Las escaleras están al fondo de la tienda."}
+{"key": "script/mp1211#talk_tomas/5", "es": "Comprar/Vender"}
 {"key": "script/mp1211#talk_tomas/6", "es": "Hablar"}
 {"key": "script/mp1211#talk_tomas/7", "es": "Cancelar"}
+{"key": "script/mp1211#talk_tomas/22", "es": "El Ejército Romuno anda muy tenso últimamente."}
+{"key": "script/mp1211#talk_tomas/24", "es": "...Si pasara lo peor, soy el único que puede proteger a mi hija."}
+{"key": "script/mp1211#talk_tomas/29", "es": "Se oye a mucha gente decir que no hay que consentir a los hijos, ¡pero yo no podría estar más en desacuerdo!"}
+{"key": "script/mp1211#talk_tomas/31", "es": "¿Qué tiene de malo consentir a mi hija? ¡Pa' eso están los papás!"}
+{"key": "script/mp1211#talk_tomas/37", "es": "Ayer mi hija me cocinó una comida por primera vez."}
+{"key": "script/mp1211#talk_tomas/39", "es": "No sabía a nada del otro mundo, pero pa' mí fue un banquete."}
+{"key": "script/mp1211#talk_tomas/41", "es": "¡Soy un hombre feliz! ¡Un hombre feliz, te lo digo!"}
+{"key": "script/mp1211#talk_tomas/47", "es": "Con que me haya hecho la comida, es to' lo que necesito saber."}
+{"key": "script/mp1211#talk_tomas/49", "es": "¡Soy un hombre feliz! ¡Un hombre feliz, te lo digo!"}
+{"key": "script/mp1211#talk_tomas/55", "es": "Hola. Gusto en verte. Me llegó un montón de cosas nuevas."}
+{"key": "script/mp1211#talk_tomas/57", "es": "Echa un vistazo. Todo es de calidad."}
+{"key": "script/mp1211#talk_tomas/63", "es": "¿Sabes lo que se siente ser el papá de una señorita tan linda?"}
+{"key": "script/mp1211#talk_tomas/65", "es": "Te alegra verla crecer... pero luego piensas que algún día será la esposa de alguien. Y entonces yo... yo..."}
+{"key": "script/mp1211#talk_tomas/71", "es": "Cada vez que pienso que mi pequeña Meryl va a ser la chica de otro, yo..."}
+{"key": "script/mp1211#talk_tomas/73", "es": "¡No, no lo voy a permitir! ¡De ningún modo!"}
+{"key": "script/mp1211#talk_tomas/80", "es": "Oye, muchacho. Parece que has estado entrando y saliendo del bosque, y me alegra ver que sigues bien."}
+{"key": "script/mp1211#talk_tomas/82", "es": "Pero justo cuando crees que ya te acostumbraste a explorar allá afuera es cuando más probable es que metas la pata y te lastimes."}
+{"key": "script/mp1211#talk_tomas/84", "es": "¡Así que no bajes la guardia!"}
+{"key": "script/mp1211#talk_tomas/90", "es": "Justo cuando crees que ya te acostumbraste a explorar allá afuera es cuando más probable es que metas la pata y te lastimes."}
+{"key": "script/mp1211#talk_tomas/92", "es": "¡Así que no bajes la guardia!"}
+{"key": "script/mp1211#talk_tomas/99", "es": "La niña de afuera es mi hija."}
+{"key": "script/mp1211#talk_tomas/101", "es": "No se lo pedí, pero dijo que quería ayudar con la tienda."}
+{"key": "script/mp1211#talk_tomas/103", "es": "¿No es lo más dulce del mundo?"}
+{"key": "script/mp1211#talk_tomas/109", "es": "¡Nuestra Meryl es la mejor señorita del mundo!"}
+{"key": "script/mp1211#talk_tomas/111", "es": "Tú también lo crees, ¿verdad? ¡Claro que sí!"}
+{"key": "script/mp1211#talk_tomas/117", "es": "Oye, muchacho. Asegúrate de estar bien preparado para enfrentar el Gran Bosque."}
+{"key": "script/mp1211#talk_tomas/119", "es": "Hasta los romunos compran armas y armaduras aquí. ¿Qué tal si tú haces lo mismo?"}
+{"key": "script/mp1211#talk_billy/5", "es": "Comprar/Vender"}
 {"key": "script/mp1211#talk_billy/6", "es": "Hablar"}
 {"key": "script/mp1211#talk_billy/7", "es": "Cancelar"}
+{"key": "script/mp1211#talk_billy/17", "es": "Ojalá los romunos nos dijeran ya qué está pasando en el Gran Bosque. Hace siglos que no sabemos nada."}
+{"key": "script/mp1211#talk_billy/19", "es": "Es muy frustrante. Huelo una oportunidad de negocio, pero no puedo hacer nada."}
+{"key": "script/mp1211#talk_billy/24", "es": "Este pueblo es rentable como siempre por sí solo, pero ¿esos cuentos de que el ejército halló una veta de oro nueva? Patrañas, para mí."}
+{"key": "script/mp1211#talk_billy/26", "es": "Hay muchos rumores, pero nadie sabe nada seguro. Ojalá la gobernadora general aclarara las cosas de un modo u otro."}
+{"key": "script/mp1211#talk_billy/31", "es": "Últimamente el Ejército Celcetano parece entrar y salir del Gran Bosque en expediciones como si no hubiera un mañana."}
+{"key": "script/mp1211#talk_billy/33", "es": "Tengo mucha curiosidad por saber si encontraron algo grande."}
+{"key": "script/mp1211#talk_billy/38", "es": "De vez en cuando veo a la gobernadora general Griselda en el pueblo, pero siempre parece muy ocupada."}
+{"key": "script/mp1211#talk_billy/40", "es": "Apuesto a que es de esas mujeres que dejan pasar su oportunidad de casarse. ¡De hecho, seguro que ya la dejó pasar!"}
+{"key": "script/mp1211#talk_billy/45", "es": "¿Tienes suficientes pociones?"}
+{"key": "script/mp1211#talk_billy/47", "es": "Nunca hay pociones de sobra. Nunca se sabe cuándo las necesitarás."}
+{"key": "script/mp1211#talk_billy/53", "es": "Supongo que la llegada del Ejército Romuno significa que los romunos por fin están listos para darlo todo en la exploración del Gran Bosque."}
+{"key": "script/mp1211#talk_billy/55", "es": "Como residente de Celceta, no me alegra tenerlos merodeando por aquí... pero hay ganancias que sacar, así que no puedo quejarme."}
+{"key": "script/mp1211#talk_billy/57", "es": "Supongo que solo me queda rezar para que encuentren otra veta de oro."}
+{"key": "script/mp1211#talk_billy/63", "es": "Como residente de Celceta, no me alegra tener un ejército extranjero merodeando por aquí... ¡pero hay ganancias que sacar!"}
+{"key": "script/mp1211#talk_billy/65", "es": "Supongo que solo me queda rezar para que encuentren otra veta de oro."}
+{"key": "script/mp1211#talk_billy/72", "es": "Con lo bien que está la economía ahora, me preocupa mucho lo que viene después. Inevitablemente... se va a desplomar."}
+{"key": "script/mp1211#talk_billy/74", "es": "No quiero pensarlo, pero esta fiebre del oro tiene que terminar algún día."}
+{"key": "script/mp1211#talk_billy/76", "es": "¿Has apartado dinero para el futuro?"}
+{"key": "script/mp1211#talk_billy/78", "es": "A menos que quieras meterte en un montón de problemas más adelante, deberías considerarlo."}
+{"key": "script/mp1211#talk_billy/84", "es": "¿Has apartado dinero para el futuro?"}
+{"key": "script/mp1211#talk_billy/86", "es": "A menos que quieras meterte en un montón de problemas más adelante, deberías considerarlo."}
+{"key": "script/mp1211#talk_billy/93", "es": "Por algo le dicen fiebre del oro. Mientras más interesante y raro es algo, mejor se vende."}
+{"key": "script/mp1211#talk_billy/95", "es": "Ojalá la economía se mantuviera así para siempre."}
+{"key": "script/mp1211#talk_billy/97", "es": "O al menos hasta que me muera."}
+{"key": "script/mp1211#talk_billy/103", "es": "Ojalá la economía se mantuviera así para siempre."}
+{"key": "script/mp1211#talk_billy/105", "es": "O al menos hasta que me muera."}
+{"key": "script/mp1211#talk_bonjin/9", "es": "Me llamo Quincy. Soy un hombre común y corriente."}
+{"key": "script/mp1211#talk_bonjin/11", "es": "Pero sé que no puedo seguir siendo común y corriente para siempre."}
+{"key": "script/mp1211#talk_bonjin/13", "es": "Así que voy a intentar cambiar poco a poco, hasta convertirme en... alguien extraordinario."}
+{"key": "script/mp1211#talk_bonjin/15", "es": "...Aunque seguramente me rendiré en unos días."}
+{"key": "script/mp1211#talk_bonjin/20", "es": "No puedo evitar quererme."}
+{"key": "script/mp1211#talk_bonjin/22", "es": "Ese soy yo, Quincy. Solo un hombre sin remedio, estricto con los demás pero blando consigo mismo."}
+{"key": "script/mp1211#talk_bonjin/28", "es": "Los sueños son solo sueños. No se hacen realidad si no trabajas por ellos."}
+{"key": "script/mp1211#talk_bonjin/30", "es": "...¡Llámame Quincy, el pragmático que aplasta almas, supongo!"}
+{"key": "script/mp1211#talk_bonjin/35", "es": "Tengo muchos pasatiempos, pero ninguno que destaque sobre los demás."}
+{"key": "script/mp1211#talk_bonjin/37", "es": "Ese soy yo, Quincy. ¡Aprendiz de todo, maestro de nada!"}
+{"key": "script/mp1211#talk_bonjin/42", "es": "No siempre es tan malo que otros te manejen. A veces hay que dejar que muevan los hilos y ver adónde te llevan, ¿sabes?"}
+{"key": "script/mp1211#talk_bonjin/44", "es": "¡Llámame Quincy, el títere, supongo!"}
+{"key": "script/mp1211#talk_bonjin/50", "es": "Las expectativas suelen traicionarte. Las predicciones, por naturaleza, nunca. Son como las expectativas, pero sin toda la... expectativa."}
+{"key": "script/mp1211#talk_bonjin/52", "es": "¡Llámame Quincy, el evasivo!"}
+{"key": "script/mp1211#talk_bonjin/54", "es": "...No es que me deprima hablar con la gente de los últimos acontecimientos. ¡De verdad! ¡No me deprime! En serio..."}
+{"key": "script/mp1211#talk_bonjin/59", "es": "Tengo un corazón de cristal: me hieren mucho más las cosas que digo yo que lo que dice cualquier otro."}
+{"key": "script/mp1211#talk_bonjin/61", "es": "Ese soy yo, Quincy. Solo un hombre... complicado que a veces se pone demasiado sentimental. *snif*"}
+{"key": "script/mp1211#talk_bonjin/67", "es": "No es que no tenga problemas con los romunos. Pero tampoco sé lo suficiente de ellos como para unirme a todos los que se quejan."}
+{"key": "script/mp1211#talk_bonjin/69", "es": "Ese soy yo, Quincy. Solo un hombre que sale adelante en la vida haciendo lo que le dicen. ¡Y soy perfectamente feliz así! Perfectamente feliz..."}
+{"key": "script/mp1211#talk_bonjin/74", "es": "No es que me falte motivación. Es que, si alguien no me empuja, no logro... encontrarla."}
+{"key": "script/mp1211#talk_bonjin/76", "es": "Llámame Quincy, el impasible, supongo."}
+{"key": "script/mp1211#talk_bonjin/81", "es": "No soy un peso pesado con el alcohol, pero tampoco un peso ligero."}
+{"key": "script/mp1211#talk_bonjin/83", "es": "Solo soy un hombre común y corriente. Solo... el simple Quincy. Nada del otro mundo."}
 {"key": "script/mp1211#talk_mucho/11", "es": "Hablar"}
+{"key": "script/mp1211#talk_mucho/12", "es": "Entregar hoja de Roda"}
 {"key": "script/mp1211#talk_mucho/13", "es": "Cancelar"}
+{"key": "script/mp1211#talk_mucho/17", "es": "Estaré aquí esperando, así que no dejes de venir a verme si logras encontrar esa hoja de Roda que te pedí."}
 {"key": "script/mp1211#talk_mucho/22", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/34", "es": "Mmm... ¿Así que todavía no has podido encontrar una hoja de Roda?"}
+{"key": "script/mp1211#talk_mucho/36", "es": "Bueno, estaré esperando aquí como siempre, así que si encuentras una, ya sabes dónde encontrarme."}
 {"key": "script/mp1211#talk_mucho/41", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/61", "es": "Estaré aquí esperando, así que avísame cuando termines de ordeñar ese fabros, ¿de acuerdo?"}
 {"key": "script/mp1211#talk_mucho/66", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/71", "es": "Parece que la leche de fabros es un adversario más fuerte de lo que había previsto."}
+{"key": "script/mp1211#talk_mucho/73", "es": "Pero esto no es nada. ¡Me recuperaré de este pequeño revés y la desafiaré de nuevo otro día!"}
 {"key": "script/mp1211#talk_mucho/78", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/85", "es": "Necesito algo lo bastante potente para contrarrestar el sabor abrumador de la leche de fabros."}
+{"key": "script/mp1211#talk_mucho/87", "es": "Pero ¿qué podría lograr una tarea tan desalentadora? ¡Debo encontrarlo!"}
 {"key": "script/mp1211#talk_mucho/92", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/96", "es": "Puede que no haya anotado el equilibrio milagroso de ingredientes que me permitió crear el Batido de fabros MAX..."}
+{"key": "script/mp1211#talk_mucho/98", "es": "¡Pero nada que un poco de memoria muscular no pueda resolver!"}
 {"key": "script/mp1211#talk_mucho/103", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/108", "es": "\"Un cuerpo perfecto es el resultado del esfuerzo constante.\""}
+{"key": "script/mp1211#talk_mucho/110", "es": "¿Qué opinas? Palabras sabias, ¿no? Se me acaban de ocurrir."}
 {"key": "script/mp1211#talk_mucho/115", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/119", "es": "¡Come bien, duerme bien, entrena bien!"}
+{"key": "script/mp1211#talk_mucho/121", "es": "Puede sonar simple, pero es la clave para mantener un cuerpo perfecto."}
 {"key": "script/mp1211#talk_mucho/126", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/130", "es": "Joven, si quieres ser como yo, debes ser siempre consciente de cómo te ven los demás."}
+{"key": "script/mp1211#talk_mucho/132", "es": "Esa conciencia constante, y el deseo de complacer a quienes te miran con tu físico perfecto, te guiarán en tu camino hacia la máxima musculatura."}
 {"key": "script/mp1211#talk_mucho/137", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/141", "es": "Buenos días. ¿Dormiste bien?"}
+{"key": "script/mp1211#talk_mucho/143", "es": "¡Si quieres empezar la mañana con un Batido Musculoso, solo avísame!"}
 {"key": "script/mp1211#talk_mucho/148", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/153", "es": "Todos hablan de las aldeas que se descubrieron en el Gran Bosque."}
+{"key": "script/mp1211#talk_mucho/155", "es": "Seguro que tienen físicos increíbles y musculosos para poder vivir en un lugar así."}
+{"key": "script/mp1211#talk_mucho/157", "es": "¡Solo de pensarlo me palpitan los pectorales!"}
 {"key": "script/mp1211#talk_mucho/162", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/167", "es": "Por cierto, ese soldado de allá parece mirar a mi hija Luluca un pooocooo demasiado."}
+{"key": "script/mp1211#talk_mucho/169", "es": "Si sigue así, quizá empiece a preocuparme... pero por ahora supongo que todavía no hay motivo de preocupación."}
 {"key": "script/mp1211#talk_mucho/174", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/179", "es": "Joven, escucha mi consejo: nunca descuides tu entrenamiento diario."}
+{"key": "script/mp1211#talk_mucho/181", "es": "¡Y tampoco olvides tomar antes tu Batido Musculoso!"}
 {"key": "script/mp1211#talk_mucho/186", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/192", "es": "Oh, valiente guerrero que venció al monstruo de las minas, ¿qué dices de uno de los exquisitos Batidos Musculosos de nuestra tienda?"}
+{"key": "script/mp1211#talk_mucho/194", "es": "Repleto de proteínas y energía, tú también puedes tener un cuerpo perfecto... ¡igual que esta fina obra de arte que ves ante ti!"}
 {"key": "script/mp1211#talk_mucho/199", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
+{"key": "script/mp1211#talk_mucho/203", "es": "¿Un monstruo en las minas? ¿Tú también vas a echar un vistazo?"}
+{"key": "script/mp1211#talk_mucho/205", "es": "Entonces asegúrate de no relajar los músculos. ¡Mantenlos encendidos, como un pikkard en el asador!"}
 {"key": "script/mp1211#talk_mucho/209", "es": "Hrnnng... ¡¡SOY UN HOOOMBRE!!"}
 {"key": "script/mp1211#talk_llca/5", "es": "Hablar"}
+{"key": "script/mp1211#talk_llca/8", "es": "Preguntar por Langritz"}
+{"key": "script/mp1211#talk_llca/12", "es": "Preguntar por Olrabadi"}
 {"key": "script/mp1211#talk_llca/14", "es": "Cancelar"}
+{"key": "script/mp1211#talk_llca/16", "es": "¿Qué? ¡¿Derrotaste a Langritz?!"}
+{"key": "script/mp1211#talk_llca/18", "es": "¡Guau, increíble! ㈱ Aquí tienes el dinero de la recompensa."}
 {"key": "script/mp1211#talk_llca/22", "es": "Recibes "}
+{"key": "script/mp1211#talk_llca/26", "es": "¡Buen trabajo! ㈱ Jeje... ¡Sigue así!"}
+{"key": "script/mp1211#talk_llca/32", "es": "¡Misión completada: \"Oso en la llanura\"!"}
+{"key": "script/mp1211#talk_llca/46", "es": "¿Qué? ¡¿Derrotaste a Olrabadi?!"}
+{"key": "script/mp1211#talk_llca/48", "es": "Se suponía que era una criatura de destrucción impía... ¡Realmente eres alguien impresionante!"}
+{"key": "script/mp1211#talk_llca/50", "es": "Bueno, aquí tienes el dinero de la recompensa."}
 {"key": "script/mp1211#talk_llca/54", "es": "Recibes "}
+{"key": "script/mp1211#talk_llca/58", "es": "¡Buen trabajo! ㈱ ¡Y gracias!"}
+{"key": "script/mp1211#talk_llca/64", "es": "¡Misión completada: \"Murciélago frutero en la oscuridad\"!"}
+{"key": "script/mp1211#talk_llca/85", "es": "Oh, ¿vienes por lo de Langritz?"}
+{"key": "script/mp1211#talk_llca/87", "es": "En realidad, esta petición vino del despacho de la gobernadora general."}
+{"key": "script/mp1211#talk_llca/89", "es": "Es muy peligroso dejar a esa cosa mucho tiempo, así que nos enviaron la recompensa por adelantado para quien la derrote."}
+{"key": "script/mp1211#talk_llca/91", "es": "¡Así que avísame si resulta que eres tú!"}
+{"key": "script/mp1211#talk_llca/93", "es": "Este dinero lleva tu nombre."}
+{"key": "script/mp1211#talk_llca/98", "es": "Oh, ¿vienes por lo de Olrabadi?"}
+{"key": "script/mp1211#talk_llca/100", "es": "Dicen los informes que se instaló en la parte de la mina donde apareció por primera vez ese monstruo."}
+{"key": "script/mp1211#talk_llca/102", "es": "Los mineros están muy nerviosos, así que cuanto antes alguien lo derrote, mejor."}
+{"key": "script/mp1211#talk_llca/113", "es": "Intenté hablar con mi papá sobre Brian, pero me dijo que lo dejara en paz."}
+{"key": "script/mp1211#talk_llca/115", "es": "No me corresponde interferir en el camino de un hombre hacia la perfección muscular... al parecer."}
+{"key": "script/mp1211#talk_llca/117", "es": "Pero supongo que ya es un poco tarde para decir algo de todos modos."}
+{"key": "script/mp1211#talk_llca/122", "es": "Y no es que no me guste... un poco esa entrega apasionada. Je."}
+{"key": "script/mp1211#talk_llca/124", "es": "De hecho, ¡si de verdad logra ganarle a papá, hasta podría enamorarme de él!"}
+{"key": "script/mp1211#talk_llca/126", "es": "...No es que de verdad crea que tenga posibilidades de ganar."}
 {"key": "script/mp1211#talk_black/194", "es": "¡Gracias!"}
 {"key": "script/mp1211#talk_black/224", "es": "No tienes suficientes monedas."}
 {"key": "script/mp1211#talk_swan_jackal/21", "es": "...¿Qué?"}
