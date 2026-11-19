@@ -412,7 +412,7 @@
 {"key": "script/mp1201#QS107_End/51", "es": "Entregas "}
 {"key": "script/mp1201#QS107_End/55", "es": "Hmm... ¿De verdad esto sirve para curar la resaca de un pikkard?"}
 {"key": "script/mp1201#QS107_End/57", "es": "Bueno, supongo que probar no hará daño..."}
-{"key": "script/mp1201#QS107_End/63", "es": "Phwee...*hip*...eeeeeoouuuggghh..."}
+{"key": "script/mp1201#QS107_End/63", "es": "Phwee...*hip*... eeeeeoouuuggghh..."}
 {"key": "script/mp1201#QS107_End/67", "es": "Lucir le dio la medicina al pikkard."}
 {"key": "script/mp1201#QS107_End/74", "es": "Phwee..."}
 {"key": "script/mp1201#QS107_End/77", "es": "*glup* ¿Funcionó?"}
@@ -835,9 +835,9 @@
 {"key": "script/mp1201#talk_merile/11", "es": "¡Por favor, compra muchas cosas a Papi!"}
 {"key": "script/mp1201#talk_merile/15", "es": "¡Bienvenido, bienvenido!"}
 {"key": "script/mp1201#talk_merile/17", "es": "Seas niño o niña, ¡siempre eres bienvenido o bienvenida en la tienda de Papi!"}
-{"key": "script/mp1201#talk_merile/22", "es": "Papi tiene un montón de nuevo equipamen...e..."}
+{"key": "script/mp1201#talk_merile/22", "es": "Papi tiene un montón de nuevo equipamen... e..."}
 {"key": "script/mp1201#talk_merile/24", "es": "...¿Quipamento?"}
-{"key": "script/mp1201#talk_merile/26", "es": "...Equipamento...Equimapien...rrrg..."}
+{"key": "script/mp1201#talk_merile/26", "es": "...Equipamento... Equimapien... rrrg..."}
 {"key": "script/mp1201#talk_merile/28", "es": "¡Papi tiene un montón de armas y armaduras nuevas para que compres!"}
 {"key": "script/mp1201#talk_merile/30", "es": "¡Por favor, compra muchas cosas a Papi!"}
 {"key": "script/mp1201#talk_merile/35", "es": "¡Papi tiene armas y armaduras nuevas!"}
@@ -1005,7 +1005,7 @@
 {"key": "script/mp1201#talk_rucile/46", "es": "¡Sí que se ve feliz!"}
 {"key": "script/mp1201#talk_rucile/48", "es": "¡Pero no es justo que él pueda beber y yo todavía no!"}
 {"key": "script/mp1201#talk_rucile/52", "es": "*aprieta*...*aprieta*..."}
-{"key": "script/mp1201#talk_rucile/54", "es": "Oh, la calidad de su carne...digo, su cuerpo se ha ablandado bastante."}
+{"key": "script/mp1201#talk_rucile/54", "es": "Oh, la calidad de su carne... digo, su cuerpo se ha ablandado bastante."}
 {"key": "script/mp1201#talk_rucile/58", "es": "Un pikkard al que le encanta el alcohol... Esto no puede ser normal, ¿verdad?"}
 {"key": "script/mp1201#talk_rucile/60", "es": "Aunque soy yo quien sigue dándoselo, así que supongo que la culpa es mía, en realidad."}
 {"key": "script/mp1201#talk_rucile/64", "es": "¡Cuanto más le doy, más me doy cuenta de lo bien que aguanta el licor!"}
@@ -1153,7 +1153,7 @@
 {"key": "script/mp1201#talk_rorens/9", "es": "Cada gota de alcohol es tan preciosa como una gota de sangre, señor."}
 {"key": "script/mp1201#talk_rorens/11", "es": "Pase lo que pase, nunca debería desperdiciarse."}
 {"key": "script/mp1201#talk_rorens/15", "es": "No puedo beber el Vino Musculoso de la barra, señor."}
-{"key": "script/mp1201#talk_rorens/17", "es": "Yo...simplemente no puedo."}
+{"key": "script/mp1201#talk_rorens/17", "es": "Yo... simplemente no puedo."}
 {"key": "script/mp1201#talk_rorens/21", "es": "Dicen que soy otra persona cuando estoy borracho."}
 {"key": "script/mp1201#talk_rorens/23", "es": "Pero nunca puedo recordar nada de lo que pasó, señor."}
 {"key": "script/mp1201#talk_rorens/27", "es": "El vino y el queso combinan a la perfección, señor."}
@@ -1175,9 +1175,9 @@
 {"key": "script/mp1201#talk_hoover/28", "es": "Claro, un soldado de bajo rango como yo jamás tendría acceso a esa información."}
 {"key": "script/mp1201#talk_hoover/33", "es": "Todos los soldados del Ejército Romuno que entraron en el Gran Bosque llevaban la misma máscara de aspecto sospechoso."}
 {"key": "script/mp1201#talk_hoover/35", "es": "No me informaron de ningún equipo de protección facial, así que me pareció bastante extraño."}
-{"key": "script/mp1201#talk_hoover/37", "es": "Aunque sea algún tipo de equipo de vanguardia, que todo el ejército use máscaras así es...muy, muy inquietante."}
+{"key": "script/mp1201#talk_hoover/37", "es": "Aunque sea algún tipo de equipo de vanguardia, que todo el ejército use máscaras así es... muy, muy inquietante."}
 {"key": "script/mp1201#talk_hoover/42", "es": "Me pregunto por qué todos los soldados del Ejército Imperial llevaban máscaras..."}
-{"key": "script/mp1201#talk_hoover/44", "es": "Aunque sea algún tipo de equipo de vanguardia, que todo el ejército use máscaras así es...muy, muy inquietante."}
+{"key": "script/mp1201#talk_hoover/44", "es": "Aunque sea algún tipo de equipo de vanguardia, que todo el ejército use máscaras así es... muy, muy inquietante."}
 {"key": "script/mp1201#talk_hoover/49", "es": "Cuando no están entrenando, los soldados del Ejército Romuno parecen libres de hacer lo que quieran."}
 {"key": "script/mp1201#talk_hoover/51", "es": "Ya hay varios de ellos en el bar. Ojalá pudiera unirme a ellos..."}
 {"key": "script/mp1201#talk_hoover/55", "es": "Enviar al Ejército Romuno a una región tan remota parece un desperdicio de recursos. Romn debe de estar ansioso por hallar más vetas de oro."}
