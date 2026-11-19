@@ -574,6 +574,7 @@
 {"key": "script/mp2202#talk_chickenA/108", "es": "Recibes "}
 {"key": "script/mp2202#talk_chickenA/128", "es": "Parece extasiado."}
 {"key": "script/mp2202#talk_chickenA/132", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenA/144", "es": "Olvidaste que no tienes ninguna. Primero tus recuerdos y ahora esto. ¿Eres olvidadizo por naturaleza?"}
 {"key": "script/mp2202#talk_chickenA/151", "es": "Darle una flor marchita"}
 {"key": "script/mp2202#talk_chickenA/154", "es": "Darle una flor de marl"}
 {"key": "script/mp2202#talk_chickenA/157", "es": "Darle una flor de yupel"}
@@ -599,10 +600,13 @@
 {"key": "script/mp2202#talk_chickenB/5", "es": "¡Cocoroquiiiii! ㈱"}
 {"key": "script/mp2202#talk_chickenB/13", "es": "¡Cloc, cloc, cloc! ㈱"}
 {"key": "script/mp2202#talk_chickenB/21", "es": "Cloc."}
+{"key": "script/mp2202#talk_chickenB/29", "es": "¡Uaaah!"}
+{"key": "script/mp2202#talk_chickenB/37", "es": "¡Uaaaaaaaahh!"}
 {"key": "script/mp2202#talk_chickenB/43", "es": "Darle una hoja"}
 {"key": "script/mp2202#talk_chickenB/44", "es": "Darle una flor"}
 {"key": "script/mp2202#talk_chickenB/45", "es": "Agarrarle el pico"}
 {"key": "script/mp2202#talk_chickenB/46", "es": "Cancelar"}
+{"key": "script/mp2202#talk_chickenB/53", "es": "Lo haces a propósito, ¿verdad?"}
 {"key": "script/mp2202#talk_chickenB/60", "es": "Darle una hoja podrida"}
 {"key": "script/mp2202#talk_chickenB/63", "es": "Darle una hoja fresca"}
 {"key": "script/mp2202#talk_chickenB/66", "es": "Darle una hoja de Roda"}
@@ -614,6 +618,7 @@
 {"key": "script/mp2202#talk_chickenB/108", "es": "Recibes "}
 {"key": "script/mp2202#talk_chickenB/128", "es": "Parece extasiado."}
 {"key": "script/mp2202#talk_chickenB/132", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenB/144", "es": "Sientes una profunda vergüenza por no tener ninguna. Como debe ser."}
 {"key": "script/mp2202#talk_chickenB/151", "es": "Darle una flor marchita"}
 {"key": "script/mp2202#talk_chickenB/154", "es": "Darle una flor de marl"}
 {"key": "script/mp2202#talk_chickenB/157", "es": "Darle una flor de yupel"}
@@ -639,10 +644,13 @@
 {"key": "script/mp2202#talk_chickenC/5", "es": "¡Cocoroquiiiii! ㈱"}
 {"key": "script/mp2202#talk_chickenC/13", "es": "¡Cloc, cloc, cloc! ㈱"}
 {"key": "script/mp2202#talk_chickenC/21", "es": "Cloc."}
+{"key": "script/mp2202#talk_chickenC/29", "es": "¡Shkraaah!"}
+{"key": "script/mp2202#talk_chickenC/37", "es": "¡Shkraaaaaaaahh!"}
 {"key": "script/mp2202#talk_chickenC/43", "es": "Darle una hoja"}
 {"key": "script/mp2202#talk_chickenC/44", "es": "Darle una flor"}
 {"key": "script/mp2202#talk_chickenC/45", "es": "Agarrarle el pico"}
 {"key": "script/mp2202#talk_chickenC/46", "es": "Cancelar"}
+{"key": "script/mp2202#talk_chickenC/53", "es": "¿Cómo es posible que no tengas ninguna a estas alturas?"}
 {"key": "script/mp2202#talk_chickenC/60", "es": "Darle una hoja podrida"}
 {"key": "script/mp2202#talk_chickenC/63", "es": "Darle una hoja fresca"}
 {"key": "script/mp2202#talk_chickenC/66", "es": "Darle una hoja de Roda"}
@@ -654,6 +662,7 @@
 {"key": "script/mp2202#talk_chickenC/108", "es": "Recibes "}
 {"key": "script/mp2202#talk_chickenC/128", "es": "Parece extasiado."}
 {"key": "script/mp2202#talk_chickenC/132", "es": "Recibes "}
+{"key": "script/mp2202#talk_chickenC/144", "es": "No tienes ninguna. Deberías dar media vuelta, alejarte despacio y fingir que este encuentro nunca ocurrió."}
 {"key": "script/mp2202#talk_chickenC/151", "es": "Darle una flor marchita"}
 {"key": "script/mp2202#talk_chickenC/154", "es": "Darle una flor de marl"}
 {"key": "script/mp2202#talk_chickenC/157", "es": "Darle una flor de yupel"}
@@ -676,10 +685,137 @@
 {"key": "script/mp2202#talk_chickenC/299", "es": "Recibes "}
 {"key": "script/mp2202#talk_chickenC/322", "es": "...Parece ofendido."}
 {"key": "script/mp2202#talk_chickenC/326", "es": "...Parece que no le caes bien."}
+{"key": "script/mp2202#talk_sadok/4", "es": "Parece que algo grave está ocurriendo más adentro del bosque."}
+{"key": "script/mp2202#talk_sadok/6", "es": "Dada la intervención del ejército, no parece probable que podamos evitar vernos envueltos en lo que sea que esté pasando."}
+{"key": "script/mp2202#talk_sadok/8", "es": "Tendré que hablar con Asad sobre qué es lo mejor que podemos hacer."}
+{"key": "script/mp2202#talk_sadok/13", "es": "Dada la intervención del ejército, no parece probable que podamos evitar vernos envueltos en lo que sea que esté pasando."}
+{"key": "script/mp2202#talk_sadok/15", "es": "Tendré que hablar con Asad sobre qué es lo mejor que podemos hacer."}
+{"key": "script/mp2202#talk_sadok/20", "es": "Uf... Realmente no hay lugar como el hogar."}
+{"key": "script/mp2202#talk_sadok/22", "es": "Apenas regreso, el cansancio que acumulé durante el día desaparece en un instante."}
+{"key": "script/mp2202#talk_sadok/27", "es": "...Actué de forma vergonzosa en la Madriguera Antigua. Sé que no era yo mismo, pero aun así asumo toda la responsabilidad de mis actos."}
+{"key": "script/mp2202#talk_sadok/29", "es": "Una parte de mí sigue desconfiando de ti, pero no soy un hombre sin modales."}
+{"key": "script/mp2202#talk_sadok/31", "es": "Gracias por liberarme del control de esa máscara."}
+{"key": "script/mp2202#talk_sadok/36", "es": "Una parte de mí sigue desconfiando de ti, pero no soy un hombre sin modales."}
+{"key": "script/mp2202#talk_sadok/38", "es": "Gracias por liberarme del control de esa máscara."}
+{"key": "script/mp2202#talk_ciera/3", "es": "Pensábamos que la vida aquí volvería a la normalidad cuando regresaran los aldeanos desaparecidos."}
+{"key": "script/mp2202#talk_ciera/5", "es": "Pero parece que la vida nunca es tan sencilla. Aun cuando lo único que pedimos es paz..."}
+{"key": "script/mp2202#talk_ciera/9", "es": "Ayer Thoth estuvo horas hablando con su padre y, aun así, ya lo extraña."}
+{"key": "script/mp2202#talk_ciera/11", "es": "Je. ¡Me da un poco de envidia!"}
+{"key": "script/mp2202#talk_ciera/15", "es": "Thoth siempre se pregunta a qué se dedica su padre."}
+{"key": "script/mp2202#talk_ciera/17", "es": "¡Lo admira tanto! ¿Todos los niños son así?"}
+{"key": "script/mp2202#talk_ciera/21", "es": "Hoy los hombres no salen de caza."}
+{"key": "script/mp2202#talk_ciera/23", "es": "Aquí en Comodo creemos en cazar solo lo que necesitamos, cuando lo necesitamos."}
+{"key": "script/mp2202#talk_ciera/28", "es": "Cuidar la casa y a mi hijo mientras espero que mi esposo regrese de sus expediciones de caza..."}
+{"key": "script/mp2202#talk_ciera/30", "es": "A veces lo doy por sentado, pero, de verdad, estoy muy agradecida de tener una vida tan feliz."}
+{"key": "script/mp2202#talk_ciera/32", "es": "...Ahora, si me disculpas, tengo mucha costura que hacer."}
+{"key": "script/mp2202#talk_ciera/37", "es": "...Ahora, si me disculpas, tengo mucha costura que hacer."}
+{"key": "script/mp2202#talk_ciera/39", "es": "¡Y cuando termine, también tengo que lavar la ropa!"}
+{"key": "script/mp2202#talk_ciera/44", "es": "Muchas gracias por rescatar a mi esposo."}
+{"key": "script/mp2202#talk_ciera/46", "es": "No sé cómo agradecértelo. ¡Estoy tan feliz de tenerlo de vuelta!"}
+{"key": "script/mp2202#talk_ciera/50", "es": "La gente piensa que mi esposo pudo haber sido uno de los hombres que atacaron la aldea."}
+{"key": "script/mp2202#talk_ciera/52", "es": "¡¿Cómo pudo pasar algo así?!"}
+{"key": "script/mp2202#talk_toto/3", "es": "Mami y papá se ven muy serios últimamente."}
+{"key": "script/mp2202#talk_toto/5", "es": "No me gusta cuando están así. Ojalá volvieran a sonreír..."}
+{"key": "script/mp2202#talk_toto/9", "es": "¿Cuándo va a volver papá a casa?"}
+{"key": "script/mp2202#talk_toto/11", "es": "¡Quiero que me cuente de su viaje de caza!"}
+{"key": "script/mp2202#talk_toto/15", "es": "Me pregunto si papá estará peleando ahora con monstruos grandes y aterradores..."}
+{"key": "script/mp2202#talk_toto/17", "es": "¡Quiero crecer e ir de caza yo también! ¡¿No puedo crecer más rápido?!"}
+{"key": "script/mp2202#talk_toto/21", "es": "Papá prometió que hoy me entrenaría."}
+{"key": "script/mp2202#talk_toto/23", "es": "Jeje. ¿Te da envidia, verdad?"}
+{"key": "script/mp2202#talk_toto/27", "es": "¡Mami sonríe mucho últimamente!"}
+{"key": "script/mp2202#talk_toto/29", "es": "Qué bueno. ¡Hace que papá y yo también sonriamos!"}
+{"key": "script/mp2202#talk_toto/33", "es": "¡Papá volvió a casa!"}
+{"key": "script/mp2202#talk_toto/35", "es": "*snif* Estoy tan feliz de verlo..."}
+{"key": "script/mp2202#talk_toto/41", "es": "*snif* Papá todavía no ha vuelto a casa..."}
+{"key": "script/mp2202#talk_toto/43", "es": "¿Por qué? ¡¿Qué lo retiene?!"}
+{"key": "script/mp2202#talk_toto/47", "es": "Thoth..."}
+{"key": "script/mp2202#talk_toto/54", "es": "*snif* Papá todavía no ha vuelto a casa..."}
+{"key": "script/mp2202#talk_toto/56", "es": "¿Por qué? ¡¿Qué lo retiene?!"}
 {"key": "script/mp2202#talk_tereza/5", "es": "Hablar"}
+{"key": "script/mp2202#talk_tereza/8", "es": "Preguntar por Golwonga"}
+{"key": "script/mp2202#talk_tereza/12", "es": "Preguntar por los Ribbi-Magi"}
 {"key": "script/mp2202#talk_tereza/14", "es": "Cancelar"}
+{"key": "script/mp2202#talk_tereza/16", "es": "¿Derrotaste a Golwonga? ¡Muchas gracias!"}
+{"key": "script/mp2202#talk_tereza/18", "es": "Por favor, acepta esto como muestra de mi gratitud."}
 {"key": "script/mp2202#talk_tereza/22", "es": "Recibes "}
+{"key": "script/mp2202#talk_tereza/26", "es": "Has sido de gran ayuda. Si alguna vez volvemos a necesitar algo, espero poder contar con tu apoyo."}
+{"key": "script/mp2202#talk_tereza/32", "es": "¡Misión completada: \"El rey mono\"!"}
+{"key": "script/mp2202#talk_tereza/46", "es": "¿Ahuyentaste a los Ribbi-Magi? ¡Muchas gracias!"}
+{"key": "script/mp2202#talk_tereza/48", "es": "Por favor, acepta esto como muestra de mi gratitud."}
 {"key": "script/mp2202#talk_tereza/52", "es": "Recibes "}
+{"key": "script/mp2202#talk_tereza/56", "es": "Has sido de gran ayuda. Si alguna vez volvemos a necesitar algo, espero poder contar con tu apoyo."}
+{"key": "script/mp2202#talk_tereza/62", "es": "¡Misión completada: \"Las ranas tiranas\"!"}
+{"key": "script/mp2202#talk_tereza/83", "es": "Golwonga parece ser una subespecie del Bozonga."}
+{"key": "script/mp2202#talk_tereza/85", "es": "También he oído que no es menos amenazante que un Bozonga. Si decides enfrentarte a él, ¡por favor, ten mucho cuidado!"}
+{"key": "script/mp2202#talk_tereza/90", "es": "Los Ribbi-Magi son bestias inteligentes y feroces."}
+{"key": "script/mp2202#talk_tereza/92", "es": "Se sabe que aparecen en zonas ricas en recursos naturales y causan todo tipo de problemas."}
+{"key": "script/mp2202#talk_tereza/94", "es": "Derrotarlos podría ser difícil, así que bastaría con ahuyentarlos."}
+{"key": "script/mp2202#talk_tereza/105", "es": "Todos están nerviosos por lo que depare el futuro, pero esa es una razón más para que nos unamos."}
+{"key": "script/mp2202#talk_tereza/107", "es": "Vivir en el bosque siempre ha tenido sus peligros, pero los hemos superado como aldea."}
+{"key": "script/mp2202#talk_tereza/109", "es": "Tengo la certeza de que podremos superar cualquier obstáculo que se nos presente si nos unimos todos."}
+{"key": "script/mp2202#talk_tereza/114", "es": "Vivir en el bosque siempre ha tenido sus peligros, pero los hemos superado juntos."}
+{"key": "script/mp2202#talk_tereza/116", "es": "Y tengo la certeza de que superaremos cualquier obstáculo si lo enfrentamos como aldea."}
+{"key": "script/mp2202#talk_tereza/122", "es": "El jefe de la aldea salió hoy de caza, por primera vez en mucho tiempo."}
+{"key": "script/mp2202#talk_tereza/124", "es": "Últimamente ha tenido muchas cosas en la cabeza."}
+{"key": "script/mp2202#talk_tereza/126", "es": "Así que espero que, al menos, deje sus preocupaciones de lado un rato mientras se concentra en su presa."}
+{"key": "script/mp2202#talk_tereza/131", "es": "El jefe de la aldea ha tenido muchas cosas en la cabeza últimamente."}
+{"key": "script/mp2202#talk_tereza/133", "es": "Así que espero que, al menos, deje sus preocupaciones de lado un rato mientras se concentra en su presa."}
+{"key": "script/mp2202#talk_tereza/139", "es": "Hasta hace poco, nuestra vida casi no había cambiado."}
+{"key": "script/mp2202#talk_tereza/141", "es": "Si cada vez llega más gente de fuera a la aldea, ¿cómo nos afectará? ¿Qué nos... hará?"}
+{"key": "script/mp2202#talk_tereza/143", "es": "Debo admitir que me preocupa..."}
+{"key": "script/mp2202#talk_tereza/148", "es": "Si cada vez llega más gente de fuera a la aldea, ¿cómo nos afectará? ¿Qué nos... hará?"}
+{"key": "script/mp2202#talk_tereza/150", "es": "Debo admitir que me preocupa..."}
+{"key": "script/mp2202#talk_tereza/155", "es": "Yo no los he visto en persona, pero solo de oír que unos hombres con armadura avanzan por el bosque me asusto."}
+{"key": "script/mp2202#talk_tereza/157", "es": "Me pregunto si esos forasteros que ahora están en la aldea... exploradores, ¿verdad?, sabrán algo de lo que está pasando."}
+{"key": "script/mp2202#talk_tereza/161", "es": "Se sentirá solitario sin Karna por aquí. ¡Pero quizá nos haga bien volvernos más autosuficientes!"}
+{"key": "script/mp2202#talk_tereza/163", "es": "Me preocupa lo que traiga el futuro, pero tenemos que seguir adelante. No sirve de nada aferrarse al pasado."}
+{"key": "script/mp2202#talk_tereza/167", "es": "Ahora mismo hay varias misiones distintas en el tablón. Te agradecería mucho que te encargaras de algunas."}
+{"key": "script/mp2202#talk_tereza/169", "es": "Seguro que los demás aldeanos también agradecerían tu ayuda."}
+{"key": "script/mp2202#talk_tereza/173", "es": "Ya es difícil de creer que Asad resultara herido, y mucho más que fuera obra de alguien de la aldea..."}
+{"key": "script/mp2202#talk_tereza/175", "es": "¡¿Cómo pudo pasar algo así?!"}
+{"key": "script/mp2202#talk_ramon/3", "es": "El jefe de la aldea dice que no todos los de Romn son iguales."}
+{"key": "script/mp2202#talk_ramon/5", "es": "Aun así, sean de fiar o no, creo que es mejor que no tengamos nada que ver con ellos."}
+{"key": "script/mp2202#talk_ramon/10", "es": "Y ahora hay un grupo de desconocidos paseándose con aires de superioridad por el bosque..."}
+{"key": "script/mp2202#talk_ramon/12", "es": "No sé qué quieren, pero creo que vamos a cuidarnos las espaldas."}
+{"key": "script/mp2202#talk_ramon/22", "es": "La Madriguera Antigua está al suroeste de la aldea. Sigue el camino por el borde exterior del cráter y encontrarás la entrada."}
+{"key": "script/mp2202#talk_ramon/24", "es": "Está llena de insectos peligrosos, así que, si vas a entrar, ¡mantente alerta!"}
+{"key": "script/mp2202#talk_darius/4", "es": "Hasta hace poco no le había dado mucha importancia al mundo exterior."}
+{"key": "script/mp2202#talk_darius/6", "es": "Parece que es mucho más vasto de lo que jamás imaginé."}
+{"key": "script/mp2202#talk_darius/8", "es": "Nada hará retroceder el tiempo. Debemos aceptar que nuestra forma de vida, tal como la conocemos, quizá esté llegando a su fin."}
+{"key": "script/mp2202#talk_darius/10", "es": "Solo podemos concentrarnos en proteger a quienes nos son queridos y en preservar nuestras tradiciones en la medida de lo posible."}
+{"key": "script/mp2202#talk_darius/15", "es": "Nada hará retroceder el tiempo. Debemos aceptar que nuestra forma de vida, tal como la conocemos, quizá esté llegando a su fin."}
+{"key": "script/mp2202#talk_darius/17", "es": "Solo podemos concentrarnos en proteger a quienes nos son queridos y en preservar nuestras tradiciones en la medida de lo posible."}
+{"key": "script/mp2202#talk_darius/24", "es": "Hace un rato, un gran grupo de personas con armaduras de aspecto resistente pasó junto a la aldea y se adentró en el bosque."}
+{"key": "script/mp2202#talk_darius/26", "es": "...Y la mayoría llevaba máscaras parecidas a las del incidente."}
+{"key": "script/mp2202#talk_darius/28", "es": "No sé qué traman, pero debemos extremar la precaución."}
+{"key": "script/mp2202#talk_darius/33", "es": "No sé qué traman, pero debemos extremar la precaución."}
+{"key": "script/mp2202#talk_darius/35", "es": "¡No voy a permitir que algo así vuelva a ocurrir aquí!"}
+{"key": "script/mp2202#talk_darius/46", "es": "¿Por qué te molestas con todo esto cuando podrías simplemente huir?"}
+{"key": "script/mp2202#talk_darius/48", "es": "Hmph. Bueno, haz lo que quieras. Aun así, no voy a confiar en ti."}
+{"key": "script/mp2202#talk_ramon_darius/27", "es": "Ustedes son..."}
+{"key": "script/mp2202#talk_ramon_darius/30", "es": "¿Estuvieron ustedes con la partida de búsqueda de ayer?"}
+{"key": "script/mp2202#talk_ramon_darius/35", "es": "Sí, ¿pero a ustedes qué les importa?"}
+{"key": "script/mp2202#talk_ramon_darius/41", "es": "Bueno, saben que ayer atacaron la aldea, ¿verdad?"}
+{"key": "script/mp2202#talk_ramon_darius/43", "es": "Estamos tratando de dar con los responsables."}
+{"key": "script/mp2202#talk_ramon_darius/46", "es": "...¿Y qué harán cuando los encuentren?"}
+{"key": "script/mp2202#talk_ramon_darius/48", "es": "Quizá ya no estén presos, pero si creen que ahora confiamos en ustedes, se equivocan por completo."}
+{"key": "script/mp2202#talk_ramon_darius/50", "es": "Después de todo, bien podrían ser ustedes los titiriteros detrás del incidente de ayer."}
+{"key": "script/mp2202#talk_ramon_darius/53", "es": "Esto podría ser más difícil de lo que pensé..."}
+{"key": "script/mp2202#talk_ramon_darius/58", "es": "Seguir tratando de persuadirlo"}
+{"key": "script/mp2202#talk_ramon_darius/59", "es": "Reprenderlo por no cooperar"}
+{"key": "script/mp2202#talk_ramon_darius/67", "es": "No importa cuántas veces pregunten, no les diré nada."}
+{"key": "script/mp2202#talk_ramon_darius/69", "es": "Les sugiero que se vayan mientras aún--"}
+{"key": "script/mp2202#talk_ramon_darius/77", "es": "Eso no va a servir, Adol..."}
+{"key": "script/mp2202#talk_ramon_darius/80", "es": "Hmph. Se acabó la conversación."}
+{"key": "script/mp2202#talk_ramon_darius/82", "es": "Les sugiero que se vayan mientras aún--"}
+{"key": "script/mp2202#talk_ramon_darius/88", "es": "Ya basta, Damlas."}
+{"key": "script/mp2202#talk_ramon_darius/97", "es": "¿R-Ramon?"}
+{"key": "script/mp2202#talk_ramon_darius/100", "es": "Me contaron que patrullaron la aldea toda la noche."}
+{"key": "script/mp2202#talk_ramon_darius/102", "es": "Y si fueran aliados de los enmascarados que nos atacaron..."}
+{"key": "script/mp2202#talk_ramon_darius/104", "es": "¿por qué vendrían a pedirnos información?"}
+{"key": "script/mp2202#talk_ramon_darius/107", "es": "B-Bueno, eso es cierto, pero..."}
+{"key": "script/mp2202#talk_ramon_darius/111", "es": "Hmph. Está bien."}
+{"key": "script/mp2202#talk_ramon_darius/113", "es": "Supongo que no hace daño contarles lo que sé."}
 {"key": "script/mp2202#talk_ramon_darius/150", "es": "Ya veo..."}
 {"key": "script/mp2202#talk_zaizen/26", "es": "Hablar"}
 {"key": "script/mp2202#talk_zaizen/39", "es": "Cancelar"}
