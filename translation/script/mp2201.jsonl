@@ -1,12 +1,14 @@
 {"key": "script/mp2201#EV01_01_Meet_Carna/165", "es": "¡¿Q-qué?!"}
 {"key": "script/mp2201#QS201_Start/55", "es": "Aceptar"}
 {"key": "script/mp2201#QS201_Start/56", "es": "Rechazar"}
+{"key": "script/mp2201#QS201_Start2/28", "es": "Gracias."}
 {"key": "script/mp2201#QS201_Start2/99", "es": "¡Perfecto!"}
 {"key": "script/mp2201#QS201_End_Win/116", "es": "Recibes "}
 {"key": "script/mp2201#QS201_End_Common/57", "es": "*jadeo* *jadeo*"}
 {"key": "script/mp2201#QS201_End_Common/90", "es": "¡Gracias!"}
 {"key": "script/mp2201#QS201_End_Common/103", "es": "Recibes "}
 {"key": "script/mp2201#QS202_End/32", "es": "Entregas "}
+{"key": "script/mp2201#QS202_End/40", "es": "Aquí tienes tu recompensa."}
 {"key": "script/mp2201#QS202_End/44", "es": "Recibes "}
 {"key": "script/mp2201#talk_picardA/43", "es": "Darle una fruta o nuez"}
 {"key": "script/mp2201#talk_picardA/44", "es": "Pellizcarle la nariz"}

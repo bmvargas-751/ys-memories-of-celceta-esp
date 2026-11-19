@@ -1,15 +1,151 @@
+{"key": "script/mp1301#EV00_03_Get_Sword/47", "es": "¡Eh, espera un momento!"}
+{"key": "script/mp1301#EV00_03_Get_Sword/67", "es": "*suspiro* ¿Me alejo de ti unos minutos y te encuentro paseando por aquí solo?"}
+{"key": "script/mp1301#EV00_03_Get_Sword/69", "es": "¡¿Adónde crees que vas?!"}
+{"key": "script/mp1301#EV00_03_Get_Sword/79", "es": "Oí una voz extraña."}
+{"key": "script/mp1301#EV00_03_Get_Sword/80", "es": "C-cálmate y no te acerques..."}
+{"key": "script/mp1301#EV00_03_Get_Sword/86", "es": "¿Seguro que no fueron imaginaciones tuyas? ¡Es obvio que te golpeaste la cabeza si terminaste con amnesia!"}
+{"key": "script/mp1301#EV00_03_Get_Sword/91", "es": "¡Oh, no, no pienso dejarlo pasar! ¡¿Se supone que me haga el desentendido mientras vas y te haces matar?! ¡Ni hablar!"}
+{"key": "script/mp1301#EV00_03_Get_Sword/97", "es": "Adol le explicó a Duren lo que pasó en la entrada de la mina."}
+{"key": "script/mp1301#EV00_03_Get_Sword/103", "es": "Creo que ya entendí. Eres de ESOS, ¿no?"}
+{"key": "script/mp1301#EV00_03_Get_Sword/108", "es": "¡Lo que más odio en este mundo son los entrometidos bienhechores ingenuos como tú!"}
+{"key": "script/mp1301#EV00_03_Get_Sword/110", "es": "¡Siempre tienes que andar resolviendo los problemas de los demás, y de paso arrastras a otros contigo!"}
+{"key": "script/mp1301#EV00_03_Get_Sword/112", "es": "...Bueno, sé que no sirve de nada tratar de disuadir a los de tu clase de estas locuras, pero si insistes en ir, al menos llévate esto."}
 {"key": "script/mp1301#EV00_03_Get_Sword/115", "es": "Obtienes "}
+{"key": "script/mp1301#EV00_03_Get_Sword/119", "es": "¡No quiero tu cadáver en mi conciencia!"}
+{"key": "script/mp1301#EV00_03_Get_Sword/121", "es": "No puedo creer que de verdad pensaras meterte aquí con las manos vacías..."}
+{"key": "script/mp1301#EV00_03_Get_Sword/123", "es": "...Ahora que lo pienso, si perdiste todos tus recuerdos, ¡¿significa que también olvidaste cómo pelear?!"}
+{"key": "script/mp1301#EV00_03_Get_Sword/128", "es": "Creo que puedo arreglármelas."}
+{"key": "script/mp1301#EV00_03_Get_Sword/129", "es": "...Tal vez."}
+{"key": "script/mp1301#EV00_03_Get_Sword/141", "es": "...Eso no deberías decirlo con la cara seria. Y menos en una mina llena de monstruos."}
+{"key": "script/mp1301#EV00_03_Get_Sword/147", "es": "¡BUENO! Iré contigo parte del camino."}
+{"key": "script/mp1301#EV00_03_Get_Sword/149", "es": "Solo parte del camino, ¿entendido?"}
+{"key": "script/mp1301#EV00_03_Get_Sword/154", "es": "Gracias."}
+{"key": "script/mp1301#EV00_03_Get_Sword/155", "es": "¿Y ahora quién es el ingenuo?"}
+{"key": "script/mp1301#EV00_03_Get_Sword/161", "es": "S-seguro... Vamos. Pongámonos en marcha."}
+{"key": "script/mp1301#EV00_03_Get_Sword/166", "es": "¡Cállate! Acabemos con esto de una vez."}
+{"key": "script/mp1301#EV00_03_Get_Sword/173", "es": "Duren se unió al grupo."}
+{"key": "script/mp1301#QS106_Start/29", "es": "¡Hola, Adol!"}
+{"key": "script/mp1301#QS106_Start/31", "es": "Parece que viste mi solicitud en el tablón, ¿no?"}
+{"key": "script/mp1301#QS106_Start/33", "es": "Caramba, te agradezco mucho que tú, precisamente tú, aceptes ayudarnos."}
+{"key": "script/mp1301#QS106_Start/35", "es": "Entonces, ¿qué dices? ¿Listo para echar una mano?"}
+{"key": "script/mp1301#QS106_Start/40", "es": "Oye, Adol, ¿ya puedes echarme una mano?"}
 {"key": "script/mp1301#QS106_Start/46", "es": "Aceptar"}
+{"key": "script/mp1301#QS106_Start/47", "es": "Ahora no"}
+{"key": "script/mp1301#QS106_Start/51", "es": "Gracias, te lo agradezco mucho."}
+{"key": "script/mp1301#QS106_Start/53", "es": "Muy bien, ¡manos a la obra! Te mostraré dónde quiero que trabajes."}
+{"key": "script/mp1301#QS106_Start/65", "es": "¿Ah, tienes otra cosa que hacer?"}
+{"key": "script/mp1301#QS106_Start/67", "es": "No hay problema, entonces. Vuelve cuando puedas."}
+{"key": "script/mp1301#QS106_Start/72", "es": "¿Ah, sí?"}
+{"key": "script/mp1301#QS106_Start/74", "es": "No hay problema, entonces. Vuelve cuando puedas."}
+{"key": "script/mp1301#QS106_End/22", "es": "Buen trabajo, Adol. ¿Hiciste buen ejercicio?"}
+{"key": "script/mp1301#QS106_End/24", "es": "Muy bien, veamos cómo te fue."}
+{"key": "script/mp1301#QS106_End/31", "es": "Parece que sacaste nueve trozos de mena en total."}
+{"key": "script/mp1301#QS106_End/33", "es": "Mmm... ¡Debería ser suficiente!"}
+{"key": "script/mp1301#QS106_End/35", "es": "Y aquí tienes tu recompensa."}
 {"key": "script/mp1301#QS106_End/39", "es": "Recibes "}
+{"key": "script/mp1301#QS106_End/46", "es": "Parece que sacaste ocho trozos de mena en total."}
+{"key": "script/mp1301#QS106_End/48", "es": "Mmm... ¡Debería ser suficiente!"}
+{"key": "script/mp1301#QS106_End/50", "es": "Y aquí tienes tu recompensa."}
 {"key": "script/mp1301#QS106_End/54", "es": "Recibes "}
+{"key": "script/mp1301#QS106_End/61", "es": "Parece que sacaste siete trozos de mena en total."}
+{"key": "script/mp1301#QS106_End/63", "es": "Mmm... ¡Debería ser suficiente!"}
+{"key": "script/mp1301#QS106_End/65", "es": "Y aquí tienes tu recompensa."}
 {"key": "script/mp1301#QS106_End/69", "es": "Recibes "}
+{"key": "script/mp1301#QS106_End/76", "es": "Parece que sacaste seis trozos de mena en total."}
+{"key": "script/mp1301#QS106_End/78", "es": "Nada mal para ser tu primera vez."}
+{"key": "script/mp1301#QS106_End/80", "es": "Aquí tienes tu recompensa."}
 {"key": "script/mp1301#QS106_End/84", "es": "Recibes "}
+{"key": "script/mp1301#QS106_End/91", "es": "Parece que sacaste cinco trozos de mena en total."}
+{"key": "script/mp1301#QS106_End/93", "es": "Nada mal para ser tu primera vez."}
+{"key": "script/mp1301#QS106_End/95", "es": "Aquí tienes tu recompensa."}
 {"key": "script/mp1301#QS106_End/99", "es": "Recibes "}
+{"key": "script/mp1301#QS106_End/106", "es": "Parece que sacaste cuatro trozos de mena en total."}
+{"key": "script/mp1301#QS106_End/108", "es": "Nada mal para ser tu primera vez."}
+{"key": "script/mp1301#QS106_End/110", "es": "Aquí tienes tu recompensa."}
 {"key": "script/mp1301#QS106_End/114", "es": "Recibes "}
+{"key": "script/mp1301#QS106_End/121", "es": "Parece que sacaste tres trozos de mena en total."}
+{"key": "script/mp1301#QS106_End/123", "es": "Esperaba un poco más, para ser sincero. Pero supongo que es tu primera vez."}
+{"key": "script/mp1301#QS106_End/125", "es": "De todos modos, aquí tienes tu recompensa."}
 {"key": "script/mp1301#QS106_End/129", "es": "Recibes "}
+{"key": "script/mp1301#QS106_End/136", "es": "Parece que sacaste dos trozos de mena en total."}
+{"key": "script/mp1301#QS106_End/138", "es": "Esperaba un poco más, para ser sincero. Pero supongo que es tu primera vez."}
+{"key": "script/mp1301#QS106_End/140", "es": "De todos modos, aquí tienes tu recompensa."}
 {"key": "script/mp1301#QS106_End/144", "es": "Recibes "}
+{"key": "script/mp1301#QS106_End/151", "es": "Parece que sacaste un solo trozo de mena."}
+{"key": "script/mp1301#QS106_End/153", "es": "Esperaba más que eso, para ser sincero. Pero supongo que es tu primera vez."}
+{"key": "script/mp1301#QS106_End/155", "es": "De todos modos, aquí tienes tu recompensa."}
 {"key": "script/mp1301#QS106_End/159", "es": "Recibes "}
+{"key": "script/mp1301#QS106_End/166", "es": "Mmm... ¿así que no lograste sacar nada de mena?"}
+{"key": "script/mp1301#QS106_End/168", "es": "Lo siento, no puedo darte ninguna recompensa por eso."}
+{"key": "script/mp1301#QS106_End/174", "es": "Parece que sacaste diez trozos de mena."}
+{"key": "script/mp1301#QS106_End/176", "es": "Francamente, ¡estoy asombrado! No pensé que lograras sacar tantos."}
+{"key": "script/mp1301#QS106_End/178", "es": "Bueno, aquí tienes tu recompensa. ¡Y te agregué un extra!"}
 {"key": "script/mp1301#QS106_End/182", "es": "Recibes "}
+{"key": "script/mp1301#QS106_End/194", "es": "...¿Mmm? ¿Algo más en mente?"}
 {"key": "script/mp1301#QS106_End/199", "es": "Preguntar por las Tierras Primigenias"}
 {"key": "script/mp1301#QS106_End/200", "es": "Preguntar por la torre"}
+{"key": "script/mp1301#QS106_End/204", "es": "¿Tierras Primigenias? ...Perdón, nunca había oído hablar de eso."}
+{"key": "script/mp1301#QS106_End/206", "es": "Sí oí que alguien descubrió hace poco una aldea en el bosque, ¡aunque cueste creerlo!"}
+{"key": "script/mp1301#QS106_End/208", "es": "...Espera, fuiste tú, ¿no?"}
+{"key": "script/mp1301#QS106_End/212", "es": "¿Una torre? ¿Hay una torre en el bosque?"}
+{"key": "script/mp1301#QS106_End/214", "es": "Sé que se puede ver un árbol enorme, pero nunca he oído que alguien viera una torre..."}
+{"key": "script/mp1301#QS106_End/219", "es": "Ah, sí, oí que hace poco alguien descubrió una aldea en el bosque, ¡aunque cueste creerlo!"}
+{"key": "script/mp1301#QS106_End/221", "es": "...Espera, fuiste tú, ¿no?"}
+{"key": "script/mp1301#QS106_End/224", "es": "Nunca dejas de sorprender a la gente."}
+{"key": "script/mp1301#QS106_End/226", "es": "Perdón por no poder ayudarte más, pero buena suerte para encontrar lo que sea que busques."}
+{"key": "script/mp1301#QS106_End/229", "es": "¡Y gracias otra vez por tu ayuda!"}
+{"key": "script/mp1301#QS106_End/237", "es": "¡Misión completada: \"Se buscan mineros\"!"}
+{"key": "script/mp1301#QS106_End/244", "es": "Si vuelvo a necesitar algo, seguro que te llamaré. Gran trabajo hoy."}
+{"key": "script/mp1301#QS106_End/252", "es": "Misión fallida: \"Se buscan mineros\"..."}
+{"key": "script/mp1301#talk_wagner/8", "es": "Cuanto más nos acercamos al bosque, más peligroso se pone. Pero parece que sí hay más vetas de mena, tal como siempre oímos."}
+{"key": "script/mp1301#talk_wagner/10", "es": "De cualquier modo, seguiremos extrayendo aquí hasta que los romunos nos digan que paremos."}
+{"key": "script/mp1301#talk_wagner/14", "es": "Esta mina debería estar segura por un tiempo."}
+{"key": "script/mp1301#talk_wagner/16", "es": "Tenemos que ganar dinero aquí mientras podamos."}
+{"key": "script/mp1301#talk_wagner/20", "es": "Mmm... Hoy parece que no avanzo nada con mi trabajo."}
+{"key": "script/mp1301#talk_wagner/22", "es": "En días así, a veces hay que tirar la toalla y volver a intentarlo mañana."}
+{"key": "script/mp1301#talk_wagner/26", "es": "Muchas de las ruinas que hemos desenterrado tenían estatuas de algún tipo de dios alado."}
+{"key": "script/mp1301#talk_wagner/28", "es": "Aunque no tengo idea de a quién representa."}
+{"key": "script/mp1301#talk_wagner/32", "es": "Minar no es tan simple como creen algunos. Si cavas por todas partes, es poco probable que encuentres mucho."}
+{"key": "script/mp1301#talk_wagner/34", "es": "Claro que la suerte influye, pero la experiencia y el instinto también pesan muchísimo."}
+{"key": "script/mp1301#talk_wagner/38", "es": "Gracias por tu ayuda hoy."}
+{"key": "script/mp1301#talk_wagner/40", "es": "Minar cansa muy rápido si no estás acostumbrado, ¿no?"}
+{"key": "script/mp1301#talk_wagner/42", "es": "Pero descansa en la posada y estarás bien."}
+{"key": "script/mp1301#talk_wagner/47", "es": "Esa gobernadora general ha traído un nuevo reglamento para los mineros."}
+{"key": "script/mp1301#talk_wagner/49", "es": "Al parecer, si desenterramos una ruina, o incluso parte de una, tenemos que detener el trabajo de inmediato."}
+{"key": "script/mp1301#talk_wagner/51", "es": "Luego tenemos que dejar todo exactamente como está e informarle a ella. Una locura, ¿no?"}
+{"key": "script/mp1301#talk_wagner/53", "es": "Esto va a retrasar muchísimo nuestro trabajo. *suspiro*"}
+{"key": "script/mp1301#talk_wagner/55", "es": "Bueno, ¡qué le vamos a hacer! Hay que hacer lo que nos dicen."}
+{"key": "script/mp1301#talk_wagner/60", "es": "En serio, ¿no se da cuenta de cuántas ruinas hay en Celceta? ¡Están por todas partes, malditas sean!"}
+{"key": "script/mp1301#talk_wagner/62", "es": "Esto va a retrasar muchísimo nuestro trabajo."}
+{"key": "script/mp1301#talk_wagner/68", "es": "Hola."}
+{"key": "script/mp1301#talk_wagner/70", "es": "Gracias otra vez por la ayuda de ayer."}
+{"key": "script/mp1301#talk_wagner/72", "es": "La zona más allá es peligrosa, así que la hemos sellado por ahora... pero seguro que te irá bien."}
+{"key": "script/mp1301#talk_wagner/74", "es": "Pero de aquí en adelante estás por tu cuenta."}
+{"key": "script/mp1301#talk_wagner/76", "es": "Me duele decirlo, pero no podemos ir a ayudarte si pasa algo."}
+{"key": "script/mp1301#talk_wagner/81", "es": "No voy a impedirte pasar si quieres, pero asegúrate de ir bien preparado."}
+{"key": "script/mp1301#talk_wagner/83", "es": "Me duele decirlo, pero no podemos ir a ayudarte si pasa algo."}
+{"key": "script/mp1301#talk_carlos/3", "es": "Qué bueno saber que todavía se puede ganar dinero con esta mina."}
+{"key": "script/mp1301#talk_carlos/5", "es": "He trabajado en varias minas antes de terminar aquí, y te digo que hay pocas donde la mena sea tan abundante."}
+{"key": "script/mp1301#talk_carlos/9", "es": "Encontramos otra veta."}
+{"key": "script/mp1301#talk_carlos/11", "es": "Muy bien, ¡a cavar!"}
+{"key": "script/mp1301#talk_carlos/15", "es": "A veces tenemos días así por aquí. Días en que a nadie parece interesarle realmente su trabajo."}
+{"key": "script/mp1301#talk_carlos/19", "es": "Nos topamos con otra ruina, así que paramos todo por el momento."}
+{"key": "script/mp1301#talk_carlos/21", "es": "Bah. ¡No avanzamos nada, y esto no ayuda!"}
+{"key": "script/mp1301#talk_carlos/25", "es": "Todo lo que dice el capataz tiene mucho sentido. ¡Es sabio como el que más! Por eso es el capataz."}
+{"key": "script/mp1301#talk_carlos/27", "es": "Ojalá algún día me enseñe el oficio y me haga tan grande como él."}
+{"key": "script/mp1301#talk_carlos/31", "es": "*suspiro* Ojalá ya saliera del trabajo para ir a tomar algo."}
+{"key": "script/mp1301#talk_carlos/35", "es": "La forma de pensar de la gobernadora Griselda parece totalmente distinta a la de todos los gobernadores generales anteriores."}
+{"key": "script/mp1301#talk_carlos/37", "es": "Todos sus predecesores solo nos decían que caváramos lo más fuerte posible, al diablo con las ruinas."}
+{"key": "script/mp1301#talk_carlos/42", "es": "Siguen apareciendo monstruos en el túnel donde encontramos la ruina."}
+{"key": "script/mp1301#talk_carlos/44", "es": "También nos dijeron que los romunos se harán cargo de la ruina misma, así que no debemos tocarla."}
+{"key": "script/mp1301#talk_carlos/46", "es": "De todos modos, por ahora dejamos toda esa ruta como está."}
+{"key": "script/mp1301#talk_carlos/48", "es": "Bueno. ¡Hay que dejar todo eso atrás y volver al trabajo!"}
+{"key": "script/mp1301#talk_carlos/53", "es": "¿Ese túnel de la ruina? Por ahora dejamos toda esa ruta como está."}
+{"key": "script/mp1301#talk_carlos/55", "es": "Bueno. ¡Hay que dejar todo eso atrás y volver al trabajo!"}
+{"key": "script/mp1301#talk_rid/4", "es": "¡Si es por mi familia, sí!"}
+{"key": "script/mp1301#talk_rid/6", "es": "¡Puedo hacer lo que sea, sí!"}
+{"key": "script/mp1301#talk_rid/13", "es": "¡Si es por mi familia, sí!"}
+{"key": "script/mp1301#talk_rid/15", "es": "¡Puedo hacer lo que sea, sí!"}
+{"key": "script/mp1301#talk_rid/50", "es": "¡Si es por mi familia, sí!"}
+{"key": "script/mp1301#talk_rid/56", "es": "¡Si es por mi familia, sí!"}
 {"key": "script/mp1301#ev_tutorial_retry/24", "es": "Hmm..."}

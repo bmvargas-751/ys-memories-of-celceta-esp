@@ -299,6 +299,146 @@
 {"key": "script/mp1213#talk_Griselda/298", "es": "Estoy segura de que encontrará muchas dificultades en su camino, pero aguardaré con ansias su próximo informe."}
 {"key": "script/mp1213#talk_Griselda/300", "es": "Ahora mismo estoy contando y recontando su recompensa, segura de que será suya a su debido tiempo. ¡Buen viaje!"}
 {"key": "script/mp1213#talk_batoo/3", "es": "Ya sea que nuestro enemigo sea Gruda o incluso el propio Romn, la gobernadora general se mantiene fiel a sus nobles ideales."}
+{"key": "script/mp1213#talk_batoo/5", "es": "...Pienso hacer todo lo que esté en mis manos por apoyarla."}
+{"key": "script/mp1213#talk_batoo/10", "es": "Circulan por la ciudad varios rumores sobre las Tierras Primigenias."}
+{"key": "script/mp1213#talk_batoo/12", "es": "Y algunos son bastante acertados."}
+{"key": "script/mp1213#talk_batoo/14", "es": "Pero son tantos, y todos carecen de pruebas concretas, que dudo que alguien logre separar la verdad de la mentira."}
+{"key": "script/mp1213#talk_batoo/16", "es": "¡Solo espero que al final ganen las mentiras!"}
+{"key": "script/mp1213#talk_batoo/21", "es": "Hay tantas teorías, y todas carecen de pruebas concretas, que dudo que alguien logre separar la verdad de la mentira."}
+{"key": "script/mp1213#talk_batoo/23", "es": "¡Solo espero que al final ganen las mentiras!"}
+{"key": "script/mp1213#talk_batoo/28", "es": "La División Enmascarada suena cada vez más espeluznante cuanto más oigo hablar de ella."}
+{"key": "script/mp1213#talk_batoo/30", "es": "Involucrar a soldados comunes en algo así es verdaderamente inhumano. Gruda no debería salir impune por lo que hizo."}
+{"key": "script/mp1213#talk_batoo/35", "es": "El asalto a Highland fue obra exclusiva de Gruda. Solo puede aspirar a que lo acusen de insubordinación, pero yo apuesto por traición."}
+{"key": "script/mp1213#talk_batoo/37", "es": "Tampoco envió ni un solo informe sobre esas máscaras espeluznantes que el Ejército Romuno se vio obligado a usar."}
+{"key": "script/mp1213#talk_batoo/39", "es": "Ya lo veía sospechoso, pero nunca imaginé que haría algo así. Es una deshonra para Romn."}
+{"key": "script/mp1213#talk_batoo/41", "es": "Al menos Highland quedó bajo la protección de la gobernadora general."}
+{"key": "script/mp1213#talk_batoo/43", "es": "Esto no solo evitará que allí ocurra más violencia, sino que también debería impedir que entren otros intrusos."}
+{"key": "script/mp1213#talk_batoo/48", "es": "Al menos Highland quedó bajo la protección de la gobernadora general."}
+{"key": "script/mp1213#talk_batoo/50", "es": "Esto no solo evitará que allí ocurra más violencia, sino que también debería impedir que entren intrusos."}
+{"key": "script/mp1213#talk_batoo/56", "es": "La gobernadora general Griselda está ahora en la sala de conferencias, reunida con el comandante Gruda."}
+{"key": "script/mp1213#talk_batoo/58", "es": "La exploración del Gran Bosque por parte del Ejército Romuno comenzará de lleno muy pronto."}
+{"key": "script/mp1213#talk_batoo/60", "es": "Será mejor que tengas cuidado, a menos que quieras que te roben toda la gloria."}
+{"key": "script/mp1213#talk_batoo/65", "es": "La exploración del Gran Bosque por parte del Ejército Romuno comenzará de lleno muy pronto."}
+{"key": "script/mp1213#talk_batoo/67", "es": "Será mejor que tengas cuidado, a menos que quieras que te roben toda la gloria."}
+{"key": "script/mp1213#talk_batoo/72", "es": "No puedo evitar preguntarme por Gruda."}
+{"key": "script/mp1213#talk_batoo/74", "es": "Parece que no tiene grandes logros en Romn, y aun así se le ha dado el mando de las fuerzas del Ejército Romuno aquí en Celceta..."}
+{"key": "script/mp1213#talk_batoo/76", "es": "¿Cómo ha logrado alcanzar un puesto tan prestigioso tan rápido?"}
+{"key": "script/mp1213#talk_batoo/80", "es": "Mmm, parece que tu mapa avanza bien."}
+{"key": "script/mp1213#talk_batoo/82", "es": "Estás haciendo un trabajo increíble para alguien de tu edad. De verdad no sabemos cómo agradecértelo."}
+{"key": "script/mp1213#talk_batoo/87", "es": "Las guerras cuestan dinero... y cantidades inimaginablemente enormes, además."}
+{"key": "script/mp1213#talk_batoo/89", "es": "Así que el dinero de hallar y explotar nuevas fuentes de mena de oro en Celceta está ligado directamente a la supervivencia del ejército."}
+{"key": "script/mp1213#talk_batoo/91", "es": "Digan lo que digan los lugareños, no nos queda más remedio que entrar al Gran Bosque si hay alguna posibilidad de encontrar más."}
+{"key": "script/mp1213#talk_batoo/96", "es": "El dinero de hallar y explotar nuevas fuentes de mena de oro en Celceta está directamente ligado a la supervivencia de nuestro ejército."}
+{"key": "script/mp1213#talk_batoo/98", "es": "Digan lo que digan los lugareños, no nos queda más remedio que entrar al Gran Bosque si hay alguna posibilidad de encontrar más."}
+{"key": "script/mp1213#talk_batoo/103", "es": "Si quieres informar de tus avances con el mapa, deberías hablar con la propia gobernadora general."}
+{"key": "script/mp1213#talk_batoo/105", "es": "Normalmente, poder visitar a la gobernadora general cuando quieras sería impensable. Pero esas son sus órdenes."}
+{"key": "script/mp1213#talk_batoo/109", "es": "Así que ustedes son los guerreros que derrotaron al monstruo de las minas, ¿verdad?"}
+{"key": "script/mp1213#talk_batoo/111", "es": "Permítanme agradecerles también sus esfuerzos. Estamos en deuda con ustedes."}
+{"key": "script/mp1213#talk_tedy/2", "es": "Tanto la gobernadora general como su ayudante dan un poco de miedo últimamente."}
+{"key": "script/mp1213#talk_tedy/4", "es": "¡Tengo que asegurarme de no cometer errores!"}
+{"key": "script/mp1213#talk_tedy/9", "es": "Esto es solo un rumor que oí en Romn, pero..."}
+{"key": "script/mp1213#talk_tedy/11", "es": "Al parecer, en los últimos años se formó dentro del Ejército Romuno una organización secreta para investigar los misterios de ruinas antiguas."}
+{"key": "script/mp1213#talk_tedy/13", "es": "Si alguien me dijera que Gruda forma parte de esa organización, lo creería sin duda."}
+{"key": "script/mp1213#talk_tedy/15", "es": "...Pero probablemente dije demasiado, ¿verdad?"}
+{"key": "script/mp1213#talk_tedy/17", "es": "Sobre todo porque este tipo de rumores suele no tener base en la realidad. Así que... por favor, olvida lo que dije."}
+{"key": "script/mp1213#talk_tedy/22", "es": "Bien, ¡basta de hablar y a trabajar!"}
+{"key": "script/mp1213#talk_tedy/24", "es": "En realidad estoy mucho más ocupado de lo que parece, ¿sabes?"}
+{"key": "script/mp1213#talk_tedy/29", "es": "*sorbo*"}
+{"key": "script/mp1213#talk_tedy/31", "es": "Sigo siendo más de café, pero el té tampoco está mal de vez en cuando."}
+{"key": "script/mp1213#talk_tedy/35", "es": "...Incluso en este edificio, solo unos pocos saben de las Tierras Primigenias."}
+{"key": "script/mp1213#talk_tedy/37", "es": "Seguro que ya te lo han dicho una y otra vez, pero ten cuidado al hablar de eso por la ciudad."}
+{"key": "script/mp1213#talk_tedy/41", "es": "*sorbo*"}
+{"key": "script/mp1213#talk_tedy/43", "es": "¡Ah, tomar café en la sala de guardia es lo mejor!"}
+{"key": "script/mp1213#talk_tedy/47", "es": "La guardia es por turnos. Así que cada uno tiene que trabajar en un período determinado."}
+{"key": "script/mp1213#talk_tedy/49", "es": "Y mi turno... empieza demasiado pronto."}
+{"key": "script/mp1213#talk_tedy/53", "es": "¡Al menos ya casi termino por hoy!"}
+{"key": "script/mp1213#talk_tedy/55", "es": "Supongo que debería montar guardia como es debido hasta que termine mi turno."}
+{"key": "script/mp1213#talk_tedy/59", "es": "El trabajo de oficina te deja el cuello rígido después de un rato."}
+{"key": "script/mp1213#talk_tedy/61", "es": "Supongo que debería tomarme un descanso."}
+{"key": "script/mp1213#talk_tedy/66", "es": "Al Ejército Celcetano siempre le faltan soldados."}
+{"key": "script/mp1213#talk_tedy/68", "es": "De vez en cuando, los soldados rasos tenemos que encargarnos del trabajo de oficina que normalmente harían los oficiales del ejército."}
+{"key": "script/mp1213#talk_tedy/70", "es": "Aunque, naturalmente, no podemos dejar tareas delicadas en manos de soldados reclutados en la zona."}
+{"key": "script/mp1213#talk_tedy/72", "es": "Así que adivina quién termina haciéndolas. Así es... yo. *suspiro*"}
+{"key": "script/mp1213#talk_tedy/74", "es": "...No es un trabajo envidiable, eso seguro."}
+{"key": "script/mp1213#talk_tedy/79", "es": "*suspiro* Ojalá hubiera más soldados de Romn aquí."}
+{"key": "script/mp1213#talk_tedy/81", "es": "...Quisiera poder hacer trabajos fáciles como los lugareños."}
+{"key": "script/mp1213#talk_tedy/87", "es": "¿Qué pasa? ¿Esperas unirte al ejército?"}
+{"key": "script/mp1213#talk_tedy/89", "es": "Seguro que se nota con solo mirar, pero esta es nuestra sala de guardia."}
+{"key": "script/mp1213#talk_tedy/91", "es": "Aquí no hay nada que valga la pena ver, así que no me quedaría mucho tiempo. Podrías contagiarte de nuestro mal de encierro."}
+{"key": "script/mp1213#talk_tedy/96", "es": "Seguro que se nota con solo mirar, pero esta es nuestra sala de guardia."}
+{"key": "script/mp1213#talk_tedy/98", "es": "Aquí no hay nada que valga la pena ver, así que no me quedaría mucho tiempo. Podrías contagiarte de nuestro mal de encierro."}
+{"key": "script/mp1213#talk_yahato/4", "es": "Oye, buenas noches... o buenas tardes, ¿no?"}
+{"key": "script/mp1213#talk_yahato/6", "es": "*bostezo* Ahhh, qué más da."}
+{"key": "script/mp1213#talk_yahato/8", "es": "Bueno, buenos días... digo, buenas noches."}
+{"key": "script/mp1213#talk_yahato/13", "es": "Bueno, buenas noches. Nos vemos mañana."}
+{"key": "script/mp1213#talk_yahato/15", "es": "...En realidad, cuando despierte seguirá siendo hoy, así que supongo que debería decir \"nos vemos más tarde hoy\"... No sé. ¡Me rindo!"}
+{"key": "script/mp1213#talk_yahato/20", "es": "¡Hora de ir a la cama! ¡¡CAMACAMACAMACAMACAMACAMACAMA!!"}
+{"key": "script/mp1213#talk_yahato/22", "es": "...Así que, ¿puedes salir de mi cuarto, por favor? No puedo dormir contigo dando vueltas por aquí."}
+{"key": "script/mp1213#talk_yahato/27", "es": "*bostezo* Qué sueño... Buenas noches..."}
+{"key": "script/mp1213#talk_yahato/29", "es": "...Ah, espera, todavía no estoy en la cama."}
+{"key": "script/mp1213#talk_yahato/34", "es": "Jaja. Uy. ¡Casi me duermo de pie!"}
+{"key": "script/mp1213#talk_yahato/39", "es": "Mi enemigo más mortal... es el sol."}
+{"key": "script/mp1213#talk_yahato/41", "es": "...Así que me voy a dormir. ¡Buenas noches!"}
+{"key": "script/mp1213#talk_yahato/45", "es": "Me pregunto qué tiene la oscuridad de la noche que asusta a la gente."}
+{"key": "script/mp1213#talk_yahato/47", "es": "Cada vez que salgo de noche, termino imaginando cosas que no pueden estar ahí."}
+{"key": "script/mp1213#talk_yahato/51", "es": "Cuantas más patrullas nocturnas haces, más se acostumbran tus ojos a la oscuridad."}
+{"key": "script/mp1213#talk_yahato/53", "es": "Me acostumbré tanto que la luz del día me resulta demasiado brillante, y prefiero con mucho estar bajo techo."}
+{"key": "script/mp1213#talk_yahato/57", "es": "Bien, ¡hora de pasarme el día durmiendo!"}
+{"key": "script/mp1213#talk_yahato/59", "es": "Oye, ¿podrías no molestarme? Estoy por irme a dormir."}
+{"key": "script/mp1213#talk_yahato/63", "es": "Estoy por irme a dormir, así que... ¿puedes irte? ¿Por favor?"}
+{"key": "script/mp1213#talk_yahato/65", "es": "*bostezo* Es difícil estar a cargo de la patrulla nocturna."}
 {"key": "script/mp1213#talk_wares/9", "es": "Hablar"}
+{"key": "script/mp1213#talk_wares/10", "es": "Entregar poción de miel x3"}
 {"key": "script/mp1213#talk_wares/11", "es": "Cancelar"}
+{"key": "script/mp1213#talk_wares/15", "es": "Necesito tres pociones de miel. Gracias."}
+{"key": "script/mp1213#talk_wares/17", "es": "Te esperaré aquí cuando termines de comprarlas."}
+{"key": "script/mp1213#talk_wares/27", "es": "Gracias. ¿Dónde están?"}
+{"key": "script/mp1213#talk_wares/29", "es": "¡Vamos, deja de hacer tonterías y tráeme mis pociones de miel!"}
 {"key": "script/mp1213#talk_wares/36", "es": "¡Nada acompaña mejor la comida que una buena poción de miel! ♪"}
+{"key": "script/mp1213#talk_wares/38", "es": "*glup* *glup* ¡Ah, esto es una delicia!"}
+{"key": "script/mp1213#talk_wares/43", "es": "*ñam* *ñam*"}
+{"key": "script/mp1213#talk_wares/45", "es": "Mmm... Esto está bastante delicioso."}
+{"key": "script/mp1213#talk_wares/49", "es": "*ñam* *ñam*"}
+{"key": "script/mp1213#talk_wares/51", "es": "Mmm... Esto está... pasable."}
+{"key": "script/mp1213#talk_wares/55", "es": "*ñam* *ñam*"}
+{"key": "script/mp1213#talk_wares/57", "es": "Mmm... Esto está bastante rico."}
+{"key": "script/mp1213#talk_wares/61", "es": "*ñam* *ñam*"}
+{"key": "script/mp1213#talk_wares/63", "es": "Mmm... Esto está... medio rico."}
+{"key": "script/mp1213#talk_wares/67", "es": "*ñam* *ñam*"}
+{"key": "script/mp1213#talk_wares/69", "es": "Mmm... Esto está levemente delicioso."}
+{"key": "script/mp1213#talk_wares/73", "es": "*ñam* *ñam*"}
+{"key": "script/mp1213#talk_wares/75", "es": "Mmm... Esto está... algo delicioso."}
+{"key": "script/mp1213#talk_wares/79", "es": "*ñam* *ñam*"}
+{"key": "script/mp1213#talk_wares/81", "es": "Mmm... Esto está razonablemente delicioso."}
+{"key": "script/mp1213#talk_wares/85", "es": "*ñam* *ñam*"}
+{"key": "script/mp1213#talk_wares/87", "es": "Mmm... Esto está... moderadamente delicioso."}
+{"key": "script/mp1213#talk_tonio/3", "es": "En la cocina hay más de lo que parece."}
+{"key": "script/mp1213#talk_tonio/5", "es": "¡Creo que eso es lo que la hace una labor tan noble!"}
+{"key": "script/mp1213#talk_tonio/9", "es": "Hoy no logré sazonar la comida tan bien como de costumbre."}
+{"key": "script/mp1213#talk_tonio/11", "es": "Me pregunto si Wallace lo notará."}
+{"key": "script/mp1213#talk_tonio/15", "es": "Siento que la comida de hoy salió mejor que de costumbre."}
+{"key": "script/mp1213#talk_tonio/17", "es": "Me pregunto si Wallace lo notará."}
+{"key": "script/mp1213#talk_tonio/21", "es": "¿Cómo terminé quedándome a cargo de la cocina, de todos modos?"}
+{"key": "script/mp1213#talk_tonio/23", "es": "Se suponía que sería por turnos. ¿No puede alguien al menos echarme una mano?"}
+{"key": "script/mp1213#talk_tonio/27", "es": "Los soldados del Ejército Romuno sí que comen mucho."}
+{"key": "script/mp1213#talk_tonio/29", "es": "Aun así, como quien cocina la comida, lo tomaré como un cumplido."}
+{"key": "script/mp1213#talk_tonio/33", "es": "Desde que llegó el Ejército Romuno, tengo el doble de trabajo que de costumbre últimamente."}
+{"key": "script/mp1213#talk_tonio/35", "es": "*suspiro* ¡Es un fastidio enorme!"}
+{"key": "script/mp1213#talk_tonio/39", "es": "Wallace siempre está ahí sentado devorando, como si hubiera olvidado por completo que hay alguien más en la sala."}
+{"key": "script/mp1213#talk_tonio/41", "es": "¿Nadie le enseñó modales en la mesa?"}
+{"key": "script/mp1213#talk_tonio/45", "es": "Mi cocina parece haber ganado fama de ser \"bastante buena\"."}
+{"key": "script/mp1213#talk_tonio/47", "es": "No es un gran cumplido, pero supongo que es mejor que \"no está mal\"."}
+{"key": "script/mp1213#talk_soldierE/4", "es": "*ñam* *ñam* *ñam*"}
+{"key": "script/mp1213#talk_soldierE/6", "es": "Si vas a comer, tienes que comer hasta quedar lleno."}
+{"key": "script/mp1213#talk_soldierE/8", "es": "¡Tengo que llenarme mientras pueda!"}
+{"key": "script/mp1213#talk_soldierE/13", "es": "*ñam* *ñam* *ñam*"}
+{"key": "script/mp1213#talk_soldierE/15", "es": "¡Voy a comer! ¡Voy a comer hasta que mi estómago no aguante más!"}
+{"key": "script/mp1213#talk_soldierE/21", "es": "*ñam* *ñam* *ñam*"}
+{"key": "script/mp1213#talk_soldierE/23", "es": "En cuanto entremos al bosque, será acampar todo el camino, así que no podré tener una buena comida durante mucho tiempo."}
+{"key": "script/mp1213#talk_soldierE/25", "es": "¡Así que tengo que comer lo más posible mientras pueda!"}
+{"key": "script/mp1213#talk_soldierE/30", "es": "*ñam* *ñam* *ñam*"}
+{"key": "script/mp1213#talk_soldierE/32", "es": "¡Voy a comer! ¡Voy a comer hasta que mi estómago no aguante más!"}
+{"key": "script/mp1213#talk_soldierF/3", "es": "Bien, supongo que debería revisar otra vez la ruta por el bosque."}
+{"key": "script/mp1213#talk_soldierF/5", "es": "Aunque no hay ninguna posibilidad de que ocurra, ¡no quisiera que me ganaran esos soldados del Ejército Celcetano!"}
+{"key": "script/mp1213#talk_soldierF/9", "es": "El Edificio de la Gobernación General celcetano está sorprendentemente bien equipado."}
+{"key": "script/mp1213#talk_soldierF/11", "es": "Me preocupa un poco la falta de moral de los soldados de aquí... pero, aun así, este lugar tendría mi aprobado."}
