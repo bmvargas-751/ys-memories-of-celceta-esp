@@ -1,66 +1,861 @@
 {"key": "script/mp3202#EV02_03_Talk_Fisherman/43", "es": "¡Cuántas veces tengo que decirte que no recuerda nada!"}
 {"key": "script/mp3202#EV02_03_Talk_Fisherman/46", "es": "...¿Puedes demostrarlo?"}
 {"key": "script/mp3202#EV02_03_Talk_Fisherman/49", "es": "Bueno, no, pero..."}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/52", "es": "Entonces esta conversación se acabó."}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/54", "es": "Si siguen parloteando, me meterán en problemas, así que ¡quédense ahí dentro y cállense!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/60", "es": "¡Vamos, Adol! ¡Al parecer, esto es obra tuya!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/62", "es": "¡Di algo, maldición!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/85", "es": "¿Qué hice, exactamente?"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/86", "es": "¡¿No sabes quién soy?!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/92", "es": "...¡D-Deja de hacerte el inocente!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/94", "es": "¡Nadie de esta aldea haría algo así, de modo que tienes que ser tú!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/99", "es": "...¿Qué sería \"algo así\"?"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/104", "es": "Bueno, sé que eres la primera persona que llega aquí atravesando el bosque."}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/106", "es": "Pero pensar que nos pagarías por haberte recibido haciendo algo tan atroz..."}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/111", "es": "¿De qué acusan a Adol? ¡¿Qué es lo que tienes tan claro que hizo?!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/115", "es": "¡No te hagas el tonto! ¡Sabes perfectamente lo que hiciste! ¡Envenenaste el río!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/125", "es": "¡¿Qué...?! ¡Es terrible!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/128", "es": "¡Y no una sola vez, sino muchas, y cada vez morían más y más peces!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/132", "es": "...Ya veo. Claro, Adol es el principal sospechoso, al ser el único forastero que han visto... ¿jamás, supongo?"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/135", "es": "*suspiro* Esto es igual a lo que pasó en Comodo..."}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/137", "es": "Entonces, ¿alguien vio realmente a Adol envenenar el agua?"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/142", "es": "Creo que entiendo tu postura. Sobre todo si Adol es el único forastero que ha visitado tu aldea."}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/144", "es": "Pero ¿alguien lo vio realmente envenenar el agua?"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/148", "es": "La supervivencia de toda esta aldea depende de nuestra habilidad para pescar."}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/150", "es": "¡Todos aquí lo saben! ¡¿Por qué alguno de nosotros haría algo tan horrible?!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/154", "es": "¡Está bien, está bien, cálmate! ¡Cielos!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/156", "es": "Revisaron toda la zona a fondo, ¿verdad?"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/159", "es": "¡Claro que sí! Salimos a bordo de los spardas y revisamos hasta la última curva."}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/162", "es": "¿Qué es un sparda?"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/165", "es": "Son las bestias sagradas que criamos en esta aldea. Sin ellas no podemos pescar."}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/167", "es": "...¡Pero basta de charla! ¡Por última vez, cállense! ¡No tengo por qué explicarles nada de esto!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/169", "es": "Hasta que decidamos qué hacer con ustedes, permanecerán aquí, ¡y en silencio!"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/172", "es": "¿Bestias sagradas, eh? Mmm..."}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/178", "es": "¿Recuerdas algo de ellas, Adol?"}
+{"key": "script/mp3202#EV02_03_Talk_Fisherman/199", "es": "A Adol le dolía un poco la cabeza y se sentía levemente mareado."}
 {"key": "script/mp3202#EV02_08_Return_Now/26", "es": "La DEF base de Adol aumentó en 1."}
+{"key": "script/mp3202#EV02_08_Return_Now/43", "es": "...¿Así que conociste aquí a un tal Ozma? Mmm..."}
+{"key": "script/mp3202#EV02_08_Return_Now/45", "es": "Bueno, la verdad es que no me pareces de los que envenenan ríos..."}
+{"key": "script/mp3202#EV02_08_Return_Now/47", "es": "Pero es totalmente posible que te hayas dejado arrastrar a algo y hayas terminado participando sin saberlo en este lío."}
+{"key": "script/mp3202#EV02_08_Return_Now/52", "es": "De cualquier modo, parece que tenemos que conocer a ese tal Ozma y ver qué tiene que decir."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/40", "es": "Adol llamó a la puerta."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/45", "es": "¿Otra vez? ¿Qué quieren ESTA vez?"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/50", "es": "Tengo hambre."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/51", "es": "Quiero ver a Ozma."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/57", "es": "N-No pueden estar hablando en serio..."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/59", "es": "Ahora ni siquiera tenemos suficiente comida para los aldeanos, ya que no podemos salir a pescar."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/61", "es": "Así que tendrán que aguantarse. ¡Francamente, se lo merecen!"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/91", "es": "¿E-Están hablando en serio? ¡¿De verdad no entienden su situación actual?!"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/93", "es": "Ozma está en medio de una reunión en la que decidirá qué hacer con ustedes."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/95", "es": "E incluso si no fuera así, es una figura esencial en nuestra aldea... un líder brillante, sobre todo considerando su edad."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/97", "es": "¡Jamás permitiríamos que se reuniera con gente como ustedes!"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/101", "es": "...¿Q-Qué?"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/103", "es": "¿Qué estás...?"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/105", "es": "...¡Eso de verdad no es buena idea!"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/111", "es": "¿Qué está pasando allá afuera?"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/152", "es": "...Nos volvemos a ver, Adol."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/178", "es": "Me han informado de la situación."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/183", "es": "O sea que te preocupaste por Adol y viniste a verlo, ¿eh?"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/185", "es": "Eso sería de gran ayuda ahora mismo."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/187", "es": "Entonces vas a convencer a todos de que Adol no recuerda nada y no hizo nada malo, ¿verdad?"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/192", "es": "...Adol, ¿este hombre es tu amigo?"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/197", "es": "Es un gran amigo."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/198", "es": "Es un completo desconocido."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/205", "es": "¿De verdad? Entonces deberías elegir con más cuidado a tus amigos."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/211", "es": "Ya veo. Sospechaba que no elegirías tan mal a tus amigos."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/215", "es": "¡Oye! ¡¿Qué demonios, hombre?! ¡Estoy aquí!"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/218", "es": "¿Dijiste que te llamabas Duren? Tienes que pensar con más cuidado tu posición."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/220", "es": "Supongamos que Adol de verdad perdió la memoria. ¿Cómo prueba ese hecho su inocencia en este asunto?"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/222", "es": "Ese razonamiento no convencerá a nadie. Desde luego, no a mí."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/225", "es": "B-Bueno, sí, la verdad es que no puedo discutir eso..."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/227", "es": "¿Eso significa que tú también sospechas de Adol?"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/231", "es": "Todavía no sé qué creer, así que vine a hablar directamente con Adol."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/237", "es": "Adol, tengo una propuesta para ti."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/243", "es": "Si de verdad eres inocente de este crimen, eso significaría que el verdadero culpable sigue allí afuera."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/245", "es": "Si logras encontrar al verdadero culpable, solo entonces confiaré en tu inocencia. ¿Aceptas este trato?"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/250", "es": "Acepto."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/251", "es": "¿Cómo lo hago?"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/260", "es": "Muy bien. Entonces no hay tiempo que perder. Les diré a los aldeanos que cooperen con tu investigación."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/263", "es": "¿Investigación? ¿Qué se supone que debemos hacer, exactamente?"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/268", "es": "Eso depende totalmente de ustedes, pero cooperaré lo mejor que pueda."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/271", "es": "Bueno, no podemos investigar mucho si estamos encerrados aquí..."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/277", "es": "Naturalmente, se les permitirá recorrer la aldea. Los acompañaré para supervisar sus acciones."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/279", "es": "De ese modo, podrán llevar a cabo su investigación sin inquietar a los aldeanos."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/283", "es": "¡Oye! Me parece bien."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/285", "es": "Pero ¿seguro que está bien pasear a sospechosos de crímenes cuando eres el que manda?"}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/287", "es": "La gente podría pensar que estás de nuestro lado o algo así..."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/292", "es": "No tomo partido."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/294", "es": "Probar la inocencia o culpabilidad de un sospechoso es uno de mis deberes como líder y el primer paso para poner fin a esto."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/296", "es": "Hago lo que es mejor para Selray."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/299", "es": "Veo por qué te admiran aquí."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/304", "es": "Gracias, Ozma."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/305", "es": "Juro que probaré mi inocencia."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/313", "es": "N-No hay de qué."}
+{"key": "script/mp3202#EV02_09_Meet_Ozma/318", "es": "Bien. Tenemos que hacer algo para resolver esta situación. Lo que sea..."}
+{"key": "script/mp3202#EV02_13_Go_Headwaters/30", "es": "Bien. Entonces, ¿puedes recordarnos adónde vamos?"}
+{"key": "script/mp3202#EV02_13_Go_Headwaters/34", "es": "Como quieras."}
+{"key": "script/mp3202#EV02_13_Go_Headwaters/36", "es": "La zona de cría de spardas salvajes está al sur de Selray."}
+{"key": "script/mp3202#EV02_13_Go_Headwaters/47", "es": "En ese dibujo que ustedes llaman \"mapa\", estaría más o menos..."}
+{"key": "script/mp3202#EV02_13_Go_Headwaters/55", "es": "Aquí, creo."}
+{"key": "script/mp3202#EV02_13_Go_Headwaters/58", "es": "Mmm... Así que mientras sigamos el río hacia el sur, llegaremos enseguida."}
+{"key": "script/mp3202#EV02_13_Go_Headwaters/60", "es": "No parece muy lejos de aquí."}
+{"key": "script/mp3202#EV02_13_Go_Headwaters/71", "es": "Así es. La entrada está cerca de la cuenca de una cascada. Es difícil no verla."}
+{"key": "script/mp3202#EV02_13_Go_Headwaters/73", "es": "Les dije a los aldeanos que continuamos con la investigación."}
+{"key": "script/mp3202#EV02_13_Go_Headwaters/75", "es": "Asegúrense de estar bien equipados para los peligros que los esperan antes de salir de la aldea."}
+{"key": "script/mp3202#EV02_13_Go_Headwaters/78", "es": "¡Muy bien, manos a la obra!"}
+{"key": "script/mp3202#EV02_13_Go_Headwaters/84", "es": "Ozma se unió al grupo."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/30", "es": "Bueno, creo que logramos demostrar que Adol no es el culpable..."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/32", "es": "Pero ¿qué vas a hacer ahora?"}
+{"key": "script/mp3202#EV02_19_Return_Serurei/35", "es": "Les contaré a los aldeanos sobre el hombre que conocimos."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/37", "es": "La gente se sorprenderá, pero sin un culpable, los habitantes de Selray no podrán seguir adelante."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/39", "es": "En cuanto al secreto de los spardas..."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/44", "es": "Deberías contárselo a todos."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/45", "es": "No necesitas decir nada."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/52", "es": "Lo más probable es que tengas razón, pero aún no me siento listo para tomar tal medida. Lo lamento de verdad."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/57", "es": "Gracias por tranquilizarme. Pero todavía estoy indeciso sobre cómo proceder."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/60", "es": "...Ojalá pudiera negarlo, pero lo que dijo ese hombre no es del todo incorrecto."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/62", "es": "Por mucho que me avergüence admitirlo..."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/66", "es": "Ozma..."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/69", "es": "Pero siento que mi tribu... mi madre y mi padre eran responsables de proteger algo importante."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/71", "es": "Algo mucho más importante que el simple secreto de la cría de spardas."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/73", "es": "Sin embargo, no tengo idea de cuál pudo ser ese conocimiento. Su muerte llegó demasiado de repente..."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/75", "es": "Aprendí a cuidar de los spardas por las notas que dejaron, y eso era todo lo que habían escrito."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/79", "es": "Entonces ¿crees que te habrían dicho algo más si hubieran sobrevivido?"}
+{"key": "script/mp3202#EV02_19_Return_Serurei/81", "es": "¿Por qué lo piensas?"}
+{"key": "script/mp3202#EV02_19_Return_Serurei/85", "es": "...Mi instinto me lo dice."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/87", "es": "Creo que los spardas guardan un secreto importante. Algo más importante que lo que mencionan las leyes sobre su naturaleza."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/92", "es": "¿Su naturaleza?"}
+{"key": "script/mp3202#EV02_19_Return_Serurei/93", "es": "¿Seguro que no le estás dando demasiadas vueltas?"}
+{"key": "script/mp3202#EV02_19_Return_Serurei/100", "es": "No puedo negar la importancia de las leyes sobre ellos. Pero sé en mi corazón que aún hay más por aprender."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/105", "es": "Adol, ¿no te parece extraño?"}
+{"key": "script/mp3202#EV02_19_Return_Serurei/108", "es": "¿Ves alguna razón para que a los spardas se los llame bestias sagradas?"}
+{"key": "script/mp3202#EV02_19_Return_Serurei/111", "es": "¿Eh? ...¿A qué te refieres?"}
+{"key": "script/mp3202#EV02_19_Return_Serurei/114", "es": "Normalmente, al criar bestias y ganado, la comunidad comparte ese trabajo... y también sus posibles peligros."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/116", "es": "Pero los spardas son diferentes. Se los ha catalogado como \"bestias sagradas\", y todo sobre ellos es un misterio."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/118", "es": "¿Podría ser que, al establecer esta etiqueta, mis ancestros en realidad intentaban ocultar algo?"}
+{"key": "script/mp3202#EV02_19_Return_Serurei/121", "es": "Ahora que lo mencionas..."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/125", "es": "Creo que mis padres y mis ancestros conocían el verdadero secreto y trabajaron para protegerlo."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/128", "es": "Vaya. Definitivamente entiendo tu punto de vista..."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/133", "es": "No fue tanto enojo lo que sentí hacia ese hombre..."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/135", "es": "Me frustraba más conmigo mismo por notar que existía una verdad oculta y no poder descubrirla en todo este tiempo."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/139", "es": "Bueno, pero eso no es tu culpa, ¿no?"}
+{"key": "script/mp3202#EV02_19_Return_Serurei/141", "es": "Y no creo que nadie te culpe por querer darle una paliza a un tipo así."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/144", "es": "Esa es una forma bastante... directa de decirlo."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/146", "es": "De cualquier modo, tengo mucho en qué pensar de ahora en adelante, tanto sobre mí como sobre Selray..."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/151", "es": "Me encantaría ayudar."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/152", "es": "Seguro que estarás bien."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/158", "es": "Agradezco el gesto, Adol, pero deberías concentrarte primero y ante todo en recuperar tus recuerdos."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/165", "es": "En serio. ¡Adol no puede evitar aprovechar cada oportunidad para ayudar a cada alma con cada problema que tenga!"}
+{"key": "script/mp3202#EV02_19_Return_Serurei/170", "es": "...Oírlo de alguien que ha llegado tan lejos por el Gran Bosque lo hace aún más convincente para mí."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/176", "es": "Adol, preocúpate por recuperar tus propios recuerdos antes de andar asegurándoles a los demás que estarán bien."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/181", "es": "Jaja... ¡jajajaja!"}
+{"key": "script/mp3202#EV02_19_Return_Serurei/183", "es": "Adol, Duren, les estoy sinceramente agradecido por todo lo que han hecho."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/185", "es": "Si vuelven a pasar por la zona, sepan que siempre serán bienvenidos aquí."}
+{"key": "script/mp3202#EV02_19_Return_Serurei/190", "es": "Gracias. ¡Seguro que pasaremos de nuevo si alguna vez andamos por el vecindario!"}
+{"key": "script/mp3202#EV03_09_Ozma_Again/36", "es": "Oh, ¿así que esta es la casa de Ozma?"}
+{"key": "script/mp3202#EV03_09_Ozma_Again/39", "es": "Sí. Es muy joven y aun así es el líder de la aldea. Un tipo muy serio."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/42", "es": "...¿Eres tú, Adol?"}
+{"key": "script/mp3202#EV03_09_Ozma_Again/84", "es": "Me alegra verte de nuevo."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/86", "es": "En realidad, hay algo que quiero hablar contigo..."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/96", "es": "Qué coincidencia."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/97", "es": "¿De qué quieres hablar?"}
+{"key": "script/mp3202#EV03_09_Ozma_Again/103", "es": "...Oh, ¿tú también tenías algo que hablar conmigo? Por favor, pónganse cómodos."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/108", "es": "Es un asunto que me ronda la cabeza desde hace bastante tiempo."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/136", "es": "...¿Así que encontraron la manera de cruzar a las Tierras Primigenias?"}
+{"key": "script/mp3202#EV03_09_Ozma_Again/140", "es": "Sí, al parecer Adol ya logró llegar allí una vez, antes de perder la memoria."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/142", "es": "Al menos, eso parece. No podemos asegurar nada hasta que hayamos estado allí nosotros mismos."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/144", "es": "Pero para cruzar el río, tendremos que encontrar la entrada a la ruina que menciona su viejo cuaderno."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/152", "es": "¿Qué pasa?"}
+{"key": "script/mp3202#EV03_09_Ozma_Again/153", "es": "¿Sabes dónde está la entrada?"}
+{"key": "script/mp3202#EV03_09_Ozma_Again/162", "es": "Nada en absoluto. Mis disculpas."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/168", "es": "Lamentablemente, no."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/171", "es": "...Adol, tengo algo en mente desde la última vez que te vi."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/173", "es": "Como sabes, nunca me contaron el verdadero secreto de los spardas."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/176", "es": "¿Te refieres a la razón por la que los tratan como bestias sagradas?"}
+{"key": "script/mp3202#EV03_09_Ozma_Again/180", "es": "Así es."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/182", "es": "Sin embargo, a pesar de que nunca me lo dijeron, siento que es mi deber, y quizá mi destino, conocer la respuesta."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/184", "es": "Pero mi familia ya no está con nosotros, así que es concebible que nunca pueda conocer la verdad."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/186", "es": "Aun así... deseo saberlo."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/188", "es": "Deseo desenterrar el secreto que mi madre y mi padre protegieron durante tanto tiempo."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/191", "es": "Ozma..."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/195", "es": "Se dice que las bestias sagradas provienen de las Tierras Primigenias, como señalé antes."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/197", "es": "Naturalmente, no hay garantía de que encuentre allí las respuestas que busco."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/199", "es": "Y me disculpo por hacer una petición tan egoísta, pero... debo ir a las Tierras Primigenias, sin importar los riesgos."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/203", "es": "Entonces, sin nadie que te dé las respuestas, quieres emprender un viaje y encontrarlas tú mismo, ¿eh?"}
+{"key": "script/mp3202#EV03_09_Ozma_Again/208", "es": "No conozco toda la historia, pero entiendo perfectamente cómo te sientes."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/210", "es": "Es como que, si te quedas en tu aldea y dejas pasar esta oportunidad, sabes que acabarás arrepintiéndote después."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/212", "es": "Así que si este viaje es lo que quieres hacer, hazlo. No querrás pasarte la vida preguntándote qué habría pasado."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/217", "es": "¿Verdad, Adol?"}
+{"key": "script/mp3202#EV03_09_Ozma_Again/222", "es": "Karna tiene razón."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/223", "es": "Nos encantaría tenerte con nosotros."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/231", "es": "Sí, es un consejo muy sensato. ¡Es mejor intentarlo y fracasar que no haberlo intentado nunca!"}
+{"key": "script/mp3202#EV03_09_Ozma_Again/236", "es": "...Aunque en el caso de Adol, en serio creo que lo único que lo motiva es la curiosidad por lo desconocido."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/238", "es": "¡Cuesta creer que sea una persona real! O al menos, una persona real mayor de cinco años más o menos..."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/241", "es": "¡Jaja, qué cierto!"}
+{"key": "script/mp3202#EV03_09_Ozma_Again/247", "es": "Casi me siento culpable por esperar que dijeran algo así."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/249", "es": "Aun así, gracias."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/256", "es": "Da lo mejor de ti, y si no sale bien, no sale bien."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/258", "es": "E incluso entonces, siempre hay algo que aprender de cada fracaso. ¡Así que ánimo! Será un buen viaje."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/260", "es": "¡Me alegra tenerte con nosotros, Ozma!"}
+{"key": "script/mp3202#EV03_09_Ozma_Again/266", "es": "Y yo a ti, Karna."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/272", "es": "Y así Ozma les explicó a los habitantes de Selray, con cierta dificultad, que partía de viaje."}
+{"key": "script/mp3202#EV03_09_Ozma_Again/274", "es": "Al principio parecieron reacios a aceptarlo, pero pronto comprendieron que habían dependido de él durante demasiado tiempo, y le desearon lo mejor."}
+{"key": "script/mp3202#QS304_Start/31", "es": "Hola, Ozma."}
+{"key": "script/mp3202#QS304_Start/33", "es": "¿Necesitas algo?"}
+{"key": "script/mp3202#QS304_Start/36", "es": "Venimos a hablar de tu petición."}
+{"key": "script/mp3202#QS304_Start/43", "es": "Oh, ¿vienen a ayudarme con eso? ¡Qué bien!"}
+{"key": "script/mp3202#QS304_Start/48", "es": "¿Estarías dispuesto a ayudarla, Adol?"}
+{"key": "script/mp3202#QS304_Start/54", "es": "Oh, ¿cambiaste de opinión? Bueno, vuelve cuando quieras. ¡Estoy lista cuando tú lo estés!"}
 {"key": "script/mp3202#QS304_Start/60", "es": "Aceptar"}
 {"key": "script/mp3202#QS304_Start/61", "es": "Rechazar"}
+{"key": "script/mp3202#QS304_Start/69", "es": "Aww, ¿en serio?"}
+{"key": "script/mp3202#QS304_Start/71", "es": "Bueno, qué se le va a hacer. ¡Siempre estoy aquí por si cambias de opinión!"}
 {"key": "script/mp3202#QS304_Start2/0", "es": "¿En serio? ¡Gracias!"}
+{"key": "script/mp3202#QS304_Start2/4", "es": "Entonces, ¿qué quieres que hagamos?"}
+{"key": "script/mp3202#QS304_Start2/6", "es": "Era algo sobre probar un arma, ¿no?"}
+{"key": "script/mp3202#QS304_Start2/12", "es": "¡Esa misma! Y no cualquier arma... ¡un arma SÚPER!"}
+{"key": "script/mp3202#QS304_Start2/14", "es": "¡Esa es la parte importante!"}
+{"key": "script/mp3202#QS304_Start2/21", "es": "B-Bueno..."}
+{"key": "script/mp3202#QS304_Start2/25", "es": "...Seeea como sea..."}
+{"key": "script/mp3202#QS304_Start2/27", "es": "Como pueden ver, ahora mismo soy aprendiz de herrero."}
+{"key": "script/mp3202#QS304_Start2/29", "es": "Así que, como parte de mi formación, decidí forjar tipos de armas completamente nuevos."}
+{"key": "script/mp3202#QS304_Start2/32", "es": "¿Y quieres que probemos esas armas en una situación de combate?"}
+{"key": "script/mp3202#QS304_Start2/38", "es": "Bueno, al menos una de ellas, sí."}
+{"key": "script/mp3202#QS304_Start2/43", "es": "Hay un detalle que quizááá debería mencionar, eso sí..."}
+{"key": "script/mp3202#QS304_Start2/45", "es": "A estas armas les falta un poco más de... \"refinamiento\" antes de estar completas."}
+{"key": "script/mp3202#QS304_Start2/47", "es": "Por eso necesito que las prueben en batallas de verdad, con monstruos de verdad. Hay que ponerlas a prueba para pulir todos los defectos."}
+{"key": "script/mp3202#QS304_Start2/49", "es": "En su estado actual, las dos armas son un poco... poco fiables. ¡No digan que no les advertí!"}
+{"key": "script/mp3202#QS304_Start2/52", "es": "Ahora esto suena bastante sospechoso..."}
+{"key": "script/mp3202#QS304_Start2/55", "es": "Ehh, ¡estarán bien! Tengo dos armas, y me encantaría que probaran una de ellas en el campo."}
+{"key": "script/mp3202#QS304_Start2/57", "es": "Hay una espada y un guantelete. ¿Cuál prefieren?"}
+{"key": "script/mp3202#QS304_Start2/60", "es": "¿Está bien probar solo una? ¿No sería mejor llevarnos las dos?"}
+{"key": "script/mp3202#QS304_Start2/65", "es": "Nah, decidí concentrar toda mi energía en una o en la otra. Básicamente, la que suene más atractiva para posibles clientes."}
+{"key": "script/mp3202#QS304_Start2/67", "es": "Prefiero hacer un arma \"asombrosa\" que dos \"geniales\", ¿saben?"}
+{"key": "script/mp3202#QS304_Start2/72", "es": "¡Y bien! ¿Qué va a ser? ¿Una espada fabulosa o un guantelete soberbio?"}
+{"key": "script/mp3202#QS304_Start2/74", "es": "Elijan. Su camino es... ¡incandescente!"}
+{"key": "script/mp3202#QS304_Start2/77", "es": "Bueno, a mí me da igual."}
+{"key": "script/mp3202#QS304_Start2/79", "es": "Tú decides, Adol."}
+{"key": "script/mp3202#QS304_Start2/84", "es": "Elegir la espada"}
+{"key": "script/mp3202#QS304_Start2/85", "es": "Elegir el guantelete"}
+{"key": "script/mp3202#QS304_Start2/91", "es": "¡Muy bien, aquí tienen!"}
 {"key": "script/mp3202#QS304_Start2/95", "es": "Recibes "}
 {"key": "script/mp3202#QS304_Start2/104", "es": "Recibes "}
+{"key": "script/mp3202#QS304_Start2/114", "es": "Se ve mejor de lo que esperaba."}
+{"key": "script/mp3202#QS304_Start2/115", "es": "¡Se ve y suena genial!"}
+{"key": "script/mp3202#QS304_Start2/121", "es": "¡¿Verdad que sí?!"}
+{"key": "script/mp3202#QS304_Start2/124", "es": "...Espera, ¿qué esperabas? ¡¿Estás insinuando que mi descripción NO te puso la piel de gallina?!"}
+{"key": "script/mp3202#QS304_Start2/126", "es": "Sinceramente, ya es bastante malo que el cal*cof*vo*cof* ese de allá..."}
+{"key": "script/mp3202#QS304_Start2/128", "es": "Eh, quiero decir, ya es bastante malo que mi estimado maestro no aprecie mi increíble sentido para los nombres. ¡Esperaba más de ti!"}
+{"key": "script/mp3202#QS304_Start2/135", "es": "(Bueno, eso escaló rápido...)"}
+{"key": "script/mp3202#QS304_Start2/141", "es": "¡Lo sé! ¿Verdad?"}
+{"key": "script/mp3202#QS304_Start2/143", "es": "¡Sabía que apreciarías mi grandeza!"}
+{"key": "script/mp3202#QS304_Start2/145", "es": "¡Y solo por eso, también puedes quedarte con esto!"}
 {"key": "script/mp3202#QS304_Start2/148", "es": "Recibes "}
+{"key": "script/mp3202#QS304_Start2/153", "es": "Bien, en cuanto a lo que quiero que hagan realmente... Mmmm..."}
+{"key": "script/mp3202#QS304_Start2/155", "es": "¿Qué tal si equipan esta arma y derrotan a cinco \"Rangoa\"?"}
+{"key": "script/mp3202#QS304_Start2/157", "es": "No recuerdo dónde se encuentran exactamente, pero seguro que lo descubren. Cuando hayan derrotado a cinco, avísenme, ¿okey?"}
+{"key": "script/mp3202#QS304_Start2/159", "es": "¡Buena suerte!"}
+{"key": "script/mp3202#QS304_End/30", "es": "¡Oye, parece que terminaron la prueba!"}
+{"key": "script/mp3202#QS304_End/32", "es": "Entonces, ¿qué tal les pareció mi arma? ¿No era... ardiente?"}
+{"key": "script/mp3202#QS304_End/38", "es": "Estuvo que ardía."}
+{"key": "script/mp3202#QS304_End/39", "es": "Magnifique."}
+{"key": "script/mp3202#QS304_End/47", "es": "...No puedo creer que puedas decir eso con la cara tan seria."}
+{"key": "script/mp3202#QS304_End/50", "es": "Jaja. Les habrá dado una bienvenida bien calurosa, ¿eh?"}
+{"key": "script/mp3202#QS304_End/52", "es": "Como seguramente notaron, apenas se puede usar tal como está."}
+{"key": "script/mp3202#QS304_End/54", "es": "Pero ya voy a ponerme a refinar el arma, según su informe. Espérenme un segundito, ¿okey?"}
+{"key": "script/mp3202#QS304_End/59", "es": "...No puedo creer que puedas decir eso con la cara tan seria."}
+{"key": "script/mp3202#QS304_End/62", "es": "Jaja. ¡Qué tipo tan especial eres, si eso te gustó!"}
+{"key": "script/mp3202#QS304_End/64", "es": "Como seguramente notaron, apenas se puede usar tal como está."}
+{"key": "script/mp3202#QS304_End/66", "es": "Pero ya voy a ponerme a refinar el arma, según su informe. Espérenme un segundito, ¿okey?"}
+{"key": "script/mp3202#QS304_End/74", "es": "Dolió tan bien..."}
+{"key": "script/mp3202#QS304_End/75", "es": "Magnifique."}
+{"key": "script/mp3202#QS304_End/83", "es": "...¡Sí que dolió, sabes! ¡Pero mucho!"}
+{"key": "script/mp3202#QS304_End/88", "es": "Jaja. Perdón por eso."}
+{"key": "script/mp3202#QS304_End/90", "es": "Pero ya voy a ponerme a refinar el arma, según su informe. Espérenme un segundito, ¿okey?"}
+{"key": "script/mp3202#QS304_End/95", "es": "Ah, claro, para ti no hay problema... ¡Tú no tuviste que usarla!"}
+{"key": "script/mp3202#QS304_End/100", "es": "Jaja. Perdón por eso."}
+{"key": "script/mp3202#QS304_End/102", "es": "Pero ya voy a ponerme a refinar el arma, según su informe. Espérenme un segundito, ¿okey?"}
+{"key": "script/mp3202#QS304_End/119", "es": "¡Listo, está terminada!"}
+{"key": "script/mp3202#QS304_End/121", "es": "Su nombre es... ¡Impresionante Increíble Mortal Destruc--"}
+{"key": "script/mp3202#QS304_End/135", "es": "¡Syriu! ¡Deja de hacer tonterías frente a los clientes!"}
+{"key": "script/mp3202#QS304_End/138", "es": "Vas a llamarla Espada de fuego, y punto final."}
+{"key": "script/mp3202#QS304_End/143", "es": "Vas a llamarlo Puño venenoso, y punto final."}
+{"key": "script/mp3202#QS304_End/149", "es": "*suspiro* Hoy en día nadie les pone nombres tan aburridos a las armas, ¿sabes? Hay que--"}
 {"key": "script/mp3202#QS304_End/153", "es": "Recibes "}
 {"key": "script/mp3202#QS304_End/160", "es": "Recibes "}
+{"key": "script/mp3202#QS304_End/173", "es": "¡O-Oye! ¡¿Por qué usas su nombre?! ¡Él no fue quien la forjó! ¡Esta es mi obra, maldición!"}
+{"key": "script/mp3202#QS304_End/175", "es": "¡Es una injusticia! ¡No autorizo ese nombre! ¡Sin mi asombroso sentido para los nombres, ni siquiera es obra mía! ¡¿Siquiera me escuchas?!"}
+{"key": "script/mp3202#QS304_End/190", "es": "¡Misión completada: \"Prueba de superarma\"!"}
+{"key": "script/mp3202#QS304_End/206", "es": "¡Misión completada: \"Prueba de superarma\"!"}
+{"key": "script/mp3202#QS304_End/214", "es": "...Ah, sí, en realidad hice un par de armas nuevas más mientras estaban fuera."}
+{"key": "script/mp3202#QS304_End/216", "es": "Voy a poner una misión en el tablón, así que, si tienen oportunidad, échenle un vistazo. ¡Me encantaría contar con más ayuda para probar!"}
+{"key": "script/mp3202#QS304_End/222", "es": "Se agregó una misión nueva al tablón de misiones de Selray."}
+{"key": "script/mp3202#QS304_End/226", "es": "Se agregó la misión \"Prueba de hiperarma\" a tu diario."}
 {"key": "script/mp3202#QS305_Start/31", "es": "Hola."}
+{"key": "script/mp3202#QS305_Start/33", "es": "Hice un par de armas más increíbles y necesito ayuda para probarlas. ¿Te animas a echarme una mano?"}
+{"key": "script/mp3202#QS305_Start/39", "es": "Oh, ¿cambiaste de opinión? Bueno, vuelve cuando quieras. ¡Estoy lista cuando tú lo estés!"}
 {"key": "script/mp3202#QS305_Start/45", "es": "Aceptar"}
 {"key": "script/mp3202#QS305_Start/46", "es": "Rechazar"}
+{"key": "script/mp3202#QS305_Start/51", "es": "Aww, ¿en serio?"}
+{"key": "script/mp3202#QS305_Start/53", "es": "Bueno, qué se le va a hacer. ¡Siempre estoy aquí por si cambias de opinión!"}
 {"key": "script/mp3202#QS305_Start2/0", "es": "¿En serio? ¡Gracias!"}
+{"key": "script/mp3202#QS305_Start2/3", "es": "Después de oír a Duren contar lo que pasó la última vez, debo admitir que estoy un poco nerviosa."}
+{"key": "script/mp3202#QS305_Start2/5", "es": "No nos vas a pedir que probemos algo perjudicial para nuestro bienestar otra vez, ¿verdad?"}
+{"key": "script/mp3202#QS305_Start2/11", "es": "¿Qué? ¡Claro que no! ¡Es una hiperarma!"}
+{"key": "script/mp3202#QS305_Start2/18", "es": "...Tengo un mal presentimiento."}
+{"key": "script/mp3202#QS305_Start2/22", "es": "Jaja. Ya lo verán ustedes mismos. ¡No quiero arruinar la sorpresa!"}
+{"key": "script/mp3202#QS305_Start2/24", "es": "Como ya lo hicieron antes, no creo que necesite explicar mucho más."}
+{"key": "script/mp3202#QS305_Start2/26", "es": "Las dos armas que tengo para ustedes esta vez son un cuchillo asombroso o una lanza peligrosa."}
+{"key": "script/mp3202#QS305_Start2/28", "es": "¿Cuál prefieren probar?"}
+{"key": "script/mp3202#QS305_Start2/31", "es": "...¿Peligrosa?"}
+{"key": "script/mp3202#QS305_Start2/34", "es": "Parece que alguien va a sufrir de todas formas..."}
+{"key": "script/mp3202#QS305_Start2/36", "es": "Tú puedes elegir, Adol. Te prometo que no te odiaremos por eso."}
+{"key": "script/mp3202#QS305_Start2/41", "es": "Elegir el cuchillo"}
+{"key": "script/mp3202#QS305_Start2/42", "es": "Elegir la lanza"}
+{"key": "script/mp3202#QS305_Start2/48", "es": "¡Muy bien, aquí tienen!"}
 {"key": "script/mp3202#QS305_Start2/52", "es": "Recibes "}
 {"key": "script/mp3202#QS305_Start2/61", "es": "Recibes "}
+{"key": "script/mp3202#QS305_Start2/69", "es": "El mismo principio que la vez pasada. Equípenla y derroten con ella a un número determinado de bestias."}
+{"key": "script/mp3202#QS305_Start2/71", "es": "Esta vez quiero que el afortunado sujeto derrote a cinco \"Crocle\"."}
+{"key": "script/mp3202#QS305_Start2/73", "es": "No recuerdo dónde encontrarlos, así que eso lo dejo en sus manos. ¡Solo asegúrense de derrotar a cinco!"}
+{"key": "script/mp3202#QS305_Start2/75", "es": "¡Y mucha suerte!"}
+{"key": "script/mp3202#QS305_End/30", "es": "¡Oye, parece que terminaron la prueba!"}
+{"key": "script/mp3202#QS305_End/32", "es": "Entonces, ¿qué les pareció? ¡¿No fue increíble?!"}
+{"key": "script/mp3202#QS305_End/38", "es": "Fue un arma de peso."}
+{"key": "script/mp3202#QS305_End/39", "es": "Fue soberbio."}
+{"key": "script/mp3202#QS305_End/47", "es": "...Te estás divirtiendo con esto, ¿verdad, Adol?"}
+{"key": "script/mp3202#QS305_End/52", "es": "Jaja. Eso suena a lo que esperaba."}
+{"key": "script/mp3202#QS305_End/54", "es": "Voy a ponerme a refinar el arma. Esperen un segundo."}
+{"key": "script/mp3202#QS305_End/59", "es": "...¿Qué tuvo de \"soberbio\" ese cuchillo?"}
+{"key": "script/mp3202#QS305_End/64", "es": "Jaja. ¡Quizá no debí preguntar!"}
+{"key": "script/mp3202#QS305_End/66", "es": "Voy a ponerme a refinar el arma. Esperen un segundo."}
+{"key": "script/mp3202#QS305_End/74", "es": "Fue electrizante."}
+{"key": "script/mp3202#QS305_End/75", "es": "Fue soberbio."}
+{"key": "script/mp3202#QS305_End/83", "es": "...Sin duda lo fue."}
+{"key": "script/mp3202#QS305_End/86", "es": "Jaja. ¡Parece que causó aún más problemas de los que pensé!"}
+{"key": "script/mp3202#QS305_End/88", "es": "Voy a ponerme a refinar el arma. Esperen un segundo."}
+{"key": "script/mp3202#QS305_End/93", "es": "Yo... no logro comprender por qué dirías eso, a menos que hayas sufrido hace poco un fuerte golpe en la cabeza."}
+{"key": "script/mp3202#QS305_End/98", "es": "Jaja. ¡Quizá no debí preguntar!"}
+{"key": "script/mp3202#QS305_End/100", "es": "Voy a ponerme a refinar el arma. Esperen un segundo."}
+{"key": "script/mp3202#QS305_End/113", "es": "¡Ya está, terminé!"}
+{"key": "script/mp3202#QS305_End/115", "es": "Su nombre es... ¡Increíble Sublime Deslumbrante--"}
+{"key": "script/mp3202#QS305_End/129", "es": "¡Syriu, ríndete ya!"}
+{"key": "script/mp3202#QS305_End/132", "es": "Vas a llamarlo Filo de araña, y punto final."}
+{"key": "script/mp3202#QS305_End/137", "es": "Vas a llamarla Lanza relámpago, y punto final."}
+{"key": "script/mp3202#QS305_End/143", "es": "Oye, viejo, no me interrumpas cuando estoy en medio de--"}
 {"key": "script/mp3202#QS305_End/147", "es": "Recibes "}
 {"key": "script/mp3202#QS305_End/156", "es": "Recibes "}
+{"key": "script/mp3202#QS305_End/169", "es": "E-Espera un segundo, ¿en serio vas a usar ese? ¡Ese no es mi nombre! ¡¿Cómo puedes dejar que él me anule?! ¡Él no tiene nada que ver con esto!"}
+{"key": "script/mp3202#QS305_End/171", "es": "¡Pues ya ni quiero que me asocien con esa arma, si así me vas a tratar! ¡De ahora en adelante, es una obra de Alan Smithee!"}
+{"key": "script/mp3202#QS305_End/186", "es": "¡Misión completada: \"Prueba de hiperarma\"!"}
+{"key": "script/mp3202#QS305_End/202", "es": "¡Misión completada: \"Prueba de hiperarma\"!"}
+{"key": "script/mp3202#QS305_End/210", "es": "...Ah, sí, en realidad hice un par de armas nuevas más mientras estaban fuera."}
+{"key": "script/mp3202#QS305_End/212", "es": "Voy a poner una misión en el tablón, así que, si tienen oportunidad, échenle un vistazo. ¡Me encantaría contar con más ayuda para probar!"}
+{"key": "script/mp3202#QS305_End/218", "es": "Se agregó una misión nueva al tablón de misiones de Selray."}
+{"key": "script/mp3202#QS305_End/222", "es": "Se agregó la misión \"Prueba de megaarma\" a tu diario."}
 {"key": "script/mp3202#QS306_Start/34", "es": "Hola."}
+{"key": "script/mp3202#QS306_Start/36", "es": "Hice un par de armas realmente alucinantes y necesito que alguien las pruebe. ¿Te animas a echarme una mano?"}
+{"key": "script/mp3202#QS306_Start/42", "es": "Oh, ¿cambiaste de opinión? Bueno, vuelve cuando quieras. ¡Estoy lista cuando tú lo estés!"}
 {"key": "script/mp3202#QS306_Start/48", "es": "Aceptar"}
 {"key": "script/mp3202#QS306_Start/49", "es": "Rechazar"}
+{"key": "script/mp3202#QS306_Start/54", "es": "Aww, ¿en serio?"}
+{"key": "script/mp3202#QS306_Start/56", "es": "Bueno, qué se le va a hacer. ¡Siempre estoy aquí por si cambias de opinión!"}
 {"key": "script/mp3202#QS306_Start2/0", "es": "¿En serio? ¡Gracias!"}
+{"key": "script/mp3202#QS306_Start2/3", "es": "*suspiro* Supongo que ahora nos toca..."}
+{"key": "script/mp3202#QS306_Start2/6", "es": "Jiji. He oído que las armas de aquí son bastante... notables."}
+{"key": "script/mp3202#QS306_Start2/9", "es": "¡Excelente! ¡Me honra oírlo!"}
+{"key": "script/mp3202#QS306_Start2/11", "es": "Como esta es la tercera vez que me ayudan, les ahorraré todos los detalles."}
+{"key": "script/mp3202#QS306_Start2/13", "es": "Esta vez pueden elegir entre una maza definitiva o una alabarda increíble."}
+{"key": "script/mp3202#QS306_Start2/15", "es": "¿Cuál prefieren probar?"}
+{"key": "script/mp3202#QS306_Start2/18", "es": "¡Yo ni loca voy a elegir!"}
+{"key": "script/mp3202#QS306_Start2/21", "es": "Dejaremos la decisión en tus manos, Adol."}
+{"key": "script/mp3202#QS306_Start2/26", "es": "Elegir la maza"}
+{"key": "script/mp3202#QS306_Start2/27", "es": "Elegir la alabarda"}
+{"key": "script/mp3202#QS306_Start2/33", "es": "¡Muy bien, aquí tienen!"}
 {"key": "script/mp3202#QS306_Start2/37", "es": "Recibes "}
 {"key": "script/mp3202#QS306_Start2/46", "es": "Recibes "}
+{"key": "script/mp3202#QS306_Start2/54", "es": "Esta vez quiero que quien la equipe derrote a cinco \"Madogra-Slef\". (Nombre poco elegante, ¿no? Si me hubieran consultado, ¿sabes?)"}
+{"key": "script/mp3202#QS306_Start2/56", "es": "¡Parece que también serán duros! He estado leyendo sobre ellos y suenan bastante agresivos."}
+{"key": "script/mp3202#QS306_Start2/58", "es": "Pero no tengo idea de cómo son ni dónde encontrarlos. Solo sé que son feroces y mortales, ¡y quiero su sangre en mi acero!"}
+{"key": "script/mp3202#QS306_Start2/60", "es": "Y bueno, ustedes son los que cruzaron a las Tierras Primigenias, así que seguro que los encuentran en algún lado."}
+{"key": "script/mp3202#QS306_Start2/62", "es": "¡Mucha suerte!"}
+{"key": "script/mp3202#QS306_End/33", "es": "¡Oye, parece que terminaron la prueba!"}
+{"key": "script/mp3202#QS306_End/35", "es": "¡¿No fue increíble mi arma?!"}
+{"key": "script/mp3202#QS306_End/41", "es": "Fue terriblemente buena."}
+{"key": "script/mp3202#QS306_End/42", "es": "Fue una obra de arte."}
+{"key": "script/mp3202#QS306_End/50", "es": "...Con lo de \"terrible\" sí estoy de acuerdo, al menos."}
+{"key": "script/mp3202#QS306_End/55", "es": "Jaja. ¡Me halagas, Adol Christin!"}
+{"key": "script/mp3202#QS306_End/57", "es": "Voy a ponerme a refinar el arma, así que esperen un segundo."}
+{"key": "script/mp3202#QS306_End/62", "es": "No creo que sea una obra de arte que alguna vez pueda apreciar. ¡Fue aterrador!"}
+{"key": "script/mp3202#QS306_End/67", "es": "Jaja. ¡Seguro que te tuvo con el corazón \"en un puño\"!"}
+{"key": "script/mp3202#QS306_End/69", "es": "Voy a ponerme a refinar el arma, así que esperen un segundo."}
+{"key": "script/mp3202#QS306_End/77", "es": "Fue de helar la sangre."}
+{"key": "script/mp3202#QS306_End/78", "es": "Fue una obra de arte."}
+{"key": "script/mp3202#QS306_End/86", "es": "Jiji. ¡Sí que lo fue!"}
+{"key": "script/mp3202#QS306_End/88", "es": "Aun así, fue sin duda una experiencia interesante."}
+{"key": "script/mp3202#QS306_End/91", "es": "¡Vaya, qué mujer tan valiente!"}
+{"key": "script/mp3202#QS306_End/93", "es": "Voy a ponerme a refinar el arma, así que esperen un segundo."}
+{"key": "script/mp3202#QS306_End/98", "es": "Jiji. Tenía cierto encanto."}
+{"key": "script/mp3202#QS306_End/101", "es": "¡Me alegra que a las dos les gustara la experiencia!"}
+{"key": "script/mp3202#QS306_End/103", "es": "Voy a ponerme a refinar el arma, así que esperen un segundo."}
+{"key": "script/mp3202#QS306_End/116", "es": "¡Ya está, terminé!"}
+{"key": "script/mp3202#QS306_End/118", "es": "¡Contemplen la Suprema Divin--"}
+{"key": "script/mp3202#QS306_End/132", "es": "¡Maldición, Syriu, ríndete ya!"}
+{"key": "script/mp3202#QS306_End/135", "es": "Te voy a dar un respiro y te dejo llamarla \"Hiperquebrantador\", ¡pero hasta ahí llego!"}
+{"key": "script/mp3202#QS306_End/140", "es": "Vas a llamarla Hacha cruel, porque fue cruel de tu parte hacerles esto a estas buenas personas, ¡y punto final!"}
+{"key": "script/mp3202#QS306_End/146", "es": "¡¿Por qué?! ¡Al menos déjame terminar!"}
 {"key": "script/mp3202#QS306_End/150", "es": "Recibes "}
 {"key": "script/mp3202#QS306_End/159", "es": "Recibes "}
+{"key": "script/mp3202#QS306_End/170", "es": "*suspiro* ¡Solo déjame terminar de decir el nombre! ¡Pasé horas pensando en ese!"}
+{"key": "script/mp3202#QS306_End/172", "es": "...No me voy a rendir. Ni hablar, todavía no tiro la toalla. ¡Algún día la gente apreciará mi incomparable sentido para los nombres!"}
+{"key": "script/mp3202#QS306_End/187", "es": "¡Misión completada: \"Prueba de megaarma\"!"}
+{"key": "script/mp3202#QS306_End/203", "es": "¡Misión completada: \"Prueba de megaarma\"!"}
+{"key": "script/mp3202#QS306_End/211", "es": "En realidad, hay algo más con lo que me encantaría que me ayudaran, si fueran tan amables."}
+{"key": "script/mp3202#QS306_End/213", "es": "Voy a poner una misión en el tablón, así que, si tienen oportunidad de echarle un vistazo, ¡se los agradecería muchísimo!"}
+{"key": "script/mp3202#QS306_End/219", "es": "Se agregó una misión nueva al tablón de misiones de Selray."}
+{"key": "script/mp3202#QS306_End/223", "es": "Se agregó la misión \"Arma legendaria\" a tu diario."}
 {"key": "script/mp3202#QS309_Start/27", "es": "Hola."}
+{"key": "script/mp3202#QS309_Start/29", "es": "¿Están listos para dar vida a una leyenda conmigo?"}
+{"key": "script/mp3202#QS309_Start/35", "es": "...¿Me atrevo a preguntar?"}
+{"key": "script/mp3202#QS309_Start/38", "es": "Jaja. ¡Sí, por favor! ¡Atrévete!"}
+{"key": "script/mp3202#QS309_Start/40", "es": "Verás, hace un tiempo, Gazock me dio un libro viejo que encontró."}
+{"key": "script/mp3202#QS309_Start/42", "es": "Y dentro hay detalles de cómo fabricar un arma asombrosamente poderosa de alguna civilización antigua."}
+{"key": "script/mp3202#QS309_Start/45", "es": "¿Un arma antigua?"}
+{"key": "script/mp3202#QS309_Start/48", "es": "Sí, ¡¿no suena increíble?!"}
+{"key": "script/mp3202#QS309_Start/50", "es": "Solo con ver los planos me emociono muchísimo. ¡Va a ser muuuy fuerte!"}
+{"key": "script/mp3202#QS309_Start/52", "es": "Pero el proceso de fabricación es bastante complejo, así que ha sido muy difícil preparar los experimentos necesarios para ajustarla."}
+{"key": "script/mp3202#QS309_Start/57", "es": "¿Experimentos? ¿Estás insinuando que las pruebas que hemos completado...?"}
+{"key": "script/mp3202#QS309_Start/60", "es": "Jaja, ¡exacto! Eres muy perspicaz, Ozma."}
+{"key": "script/mp3202#QS309_Start/62", "es": "Todas las pruebas que han estado haciendo para mí conducían a esto."}
+{"key": "script/mp3202#QS309_Start/64", "es": "Bueno, vayamos al grano..."}
+{"key": "script/mp3202#QS309_Start/66", "es": "Como es un arma antigua muy valiosa, el material que necesito para hacerla es rarísimo."}
+{"key": "script/mp3202#QS309_Start/68", "es": "Al parecer se llama \"piedra solar\", y se reconoce porque despide un leve calor cuando te acercas a ella."}
 {"key": "script/mp3202#QS309_Start/71", "es": "Hmm..."}
+{"key": "script/mp3202#QS309_Start/73", "es": "¿Entonces quieres que encontremos una de estas \"piedras solares\" para ti?"}
+{"key": "script/mp3202#QS309_Start/76", "es": "Sí. ¿Qué tal? ¿Les suena factible?"}
+{"key": "script/mp3202#QS309_Start/78", "es": "Les daré el arma que haga con ella, por supuesto."}
+{"key": "script/mp3202#QS309_Start/81", "es": "No podemos prometer nada, pero si te basta con nuestra palabra de que haremos el esfuerzo..."}
+{"key": "script/mp3202#QS309_Start/84", "es": "¡Por mí está perfecto!"}
+{"key": "script/mp3202#QS309_Start/86", "es": "Mucha suerte y buena caza. ¡Cruzaré los dedos para que les vaya bien!"}
+{"key": "script/mp3202#QS309_End/33", "es": "Aquí tienes, Syriu."}
 {"key": "script/mp3202#QS309_End/36", "es": "Entregas "}
+{"key": "script/mp3202#QS309_End/42", "es": "¡Vaya, es esta! ¡De verdad encontraron una!"}
+{"key": "script/mp3202#QS309_End/44", "es": "Con una piedra solar debería bastarme para hacer un arma."}
+{"key": "script/mp3202#QS309_End/46", "es": "La cuestión es: ¿para quién quieren que la haga?"}
+{"key": "script/mp3202#QS309_End/48", "es": "Puedo hacer todas las armas que ustedes usan, así que cualquiera estaría bien."}
+{"key": "script/mp3202#QS309_End/52", "es": "¿Qué opinas que sería mejor, Adol?"}
+{"key": "script/mp3202#QS309_End/57", "es": "Hacer un arma para mí"}
+{"key": "script/mp3202#QS309_End/58", "es": "Hacer un arma para Duren"}
+{"key": "script/mp3202#QS309_End/59", "es": "Hacer un arma para Karna"}
+{"key": "script/mp3202#QS309_End/60", "es": "Hacer un arma para Ozma"}
+{"key": "script/mp3202#QS309_End/61", "es": "Hacer un arma para Calilica"}
+{"key": "script/mp3202#QS309_End/62", "es": "Hacer un arma para Frieda"}
+{"key": "script/mp3202#QS309_End/67", "es": "¡Muy bien! Allá vamos, entonces..."}
+{"key": "script/mp3202#QS309_End/104", "es": "¡Está terminada! ¡Contemplen la legendaria Espada Ajax!"}
+{"key": "script/mp3202#QS309_End/106", "es": "Toma, sostenla y dime qué te parece."}
+{"key": "script/mp3202#QS309_End/114", "es": "¡Se ve bien, Syriu!"}
+{"key": "script/mp3202#QS309_End/117", "es": "¡¿No es genial?!"}
+{"key": "script/mp3202#QS309_End/119", "es": "Llévatela. Ahora es tuya."}
 {"key": "script/mp3202#QS309_End/122", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/134", "es": "Muchas gracias. Aunque debo decir que me sorprende bastante su nombre."}
+{"key": "script/mp3202#QS309_End/139", "es": "Es extrañamente normal."}
+{"key": "script/mp3202#QS309_End/140", "es": "¡Es medio aburrido!"}
+{"key": "script/mp3202#QS309_End/146", "es": "...Tienes toda la razón, maldición."}
+{"key": "script/mp3202#QS309_End/152", "es": "¡Hablas como si todos mis otros nombres hubieran sido raros!"}
+{"key": "script/mp3202#QS309_End/156", "es": "O sea, esta es solo una réplica de un arma antigua. No la diseñé desde cero ni nada."}
+{"key": "script/mp3202#QS309_End/158", "es": "¡Así que no estaría bien cambiarle el nombre así como así!"}
+{"key": "script/mp3202#QS309_End/165", "es": "¡Lo sé! ¿Verdad?"}
+{"key": "script/mp3202#QS309_End/171", "es": "...En eso no puedo darte la razón."}
+{"key": "script/mp3202#QS309_End/174", "es": "Quería ponerle un nombre buenísimo, como TRATÉ DE HACER CON TODAS LAS DEMÁS..."}
+{"key": "script/mp3202#QS309_End/176", "es": "Pero esto es solo una réplica de un arma antigua. No la diseñé desde cero ni nada."}
+{"key": "script/mp3202#QS309_End/178", "es": "Así que no estaría bien andar cambiándole el nombre."}
+{"key": "script/mp3202#QS309_End/194", "es": "¡Está terminado! ¡Contemplen el legendario Guantelete de Baldr!"}
+{"key": "script/mp3202#QS309_End/196", "es": "Toma, sostenla y dime qué te parece."}
+{"key": "script/mp3202#QS309_End/204", "es": "Vaya, esto se ve bastante resistente."}
+{"key": "script/mp3202#QS309_End/207", "es": "¡¿No es súper fantástico?!"}
+{"key": "script/mp3202#QS309_End/209", "es": "Llévatela. Ahora es tuya."}
 {"key": "script/mp3202#QS309_End/212", "es": "¡Gracias!"}
 {"key": "script/mp3202#QS309_End/215", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/228", "es": "Muchas gracias. Aunque debo decir que me sorprende bastante su nombre."}
+{"key": "script/mp3202#QS309_End/231", "es": "¡Sí, nada mal el nombre, tratándose de Syriu!"}
+{"key": "script/mp3202#QS309_End/237", "es": "¡Hablas como si todos mis otros nombres hubieran sido raros!"}
+{"key": "script/mp3202#QS309_End/241", "es": "O sea, esta es solo una réplica de un arma antigua. No la diseñé desde cero ni nada."}
+{"key": "script/mp3202#QS309_End/243", "es": "¡Así que no estaría bien cambiarle el nombre así como así!"}
+{"key": "script/mp3202#QS309_End/260", "es": "¡Están terminados! ¡Contemplen los legendarios Cuchillos de Venus!"}
+{"key": "script/mp3202#QS309_End/262", "es": "Toma, sujétalos y dime qué te parecen."}
+{"key": "script/mp3202#QS309_End/270", "es": "¡Guau, esto es increíble!"}
+{"key": "script/mp3202#QS309_End/273", "es": "¡¿No es súper fantástico?!"}
+{"key": "script/mp3202#QS309_End/275", "es": "Llévatela. Ahora es tuya."}
 {"key": "script/mp3202#QS309_End/278", "es": "¡Gracias!"}
 {"key": "script/mp3202#QS309_End/281", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/294", "es": "Muchas gracias. Aunque debo decir que me sorprende bastante su nombre."}
+{"key": "script/mp3202#QS309_End/297", "es": "¡Sí, nada mal el nombre, tratándose de Syriu!"}
+{"key": "script/mp3202#QS309_End/303", "es": "¡Hablas como si todos mis otros nombres hubieran sido raros!"}
+{"key": "script/mp3202#QS309_End/307", "es": "O sea, esta es solo una réplica de un arma antigua. No la diseñé desde cero ni nada."}
+{"key": "script/mp3202#QS309_End/309", "es": "¡Así que no estaría bien cambiarle el nombre así como así!"}
+{"key": "script/mp3202#QS309_End/324", "es": "¡Está terminada! ¡Contemplen la legendaria Lanza de Júpiter!"}
+{"key": "script/mp3202#QS309_End/326", "es": "Toma, sostenla y dime qué te parece."}
+{"key": "script/mp3202#QS309_End/335", "es": "Esto es... realmente impresionante."}
+{"key": "script/mp3202#QS309_End/338", "es": "¡¿No es súper fantástico?!"}
+{"key": "script/mp3202#QS309_End/340", "es": "Llévatela. Ahora es tuya."}
+{"key": "script/mp3202#QS309_End/343", "es": "Gracias, Syriu."}
 {"key": "script/mp3202#QS309_End/346", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/359", "es": "Muchas gracias. Aunque debo decir que me sorprende bastante su nombre."}
+{"key": "script/mp3202#QS309_End/362", "es": "¡Sí, nada mal el nombre, tratándose de Syriu!"}
+{"key": "script/mp3202#QS309_End/368", "es": "¡Hablas como si todos mis otros nombres hubieran sido raros!"}
+{"key": "script/mp3202#QS309_End/372", "es": "O sea, esta es solo una réplica de un arma antigua. No la diseñé desde cero ni nada."}
+{"key": "script/mp3202#QS309_End/374", "es": "¡Así que no estaría bien cambiarle el nombre así como así!"}
+{"key": "script/mp3202#QS309_End/389", "es": "¡Está terminada! ¡Contemplen la legendaria Maza de Gaia!"}
+{"key": "script/mp3202#QS309_End/391", "es": "Toma, sostenla y dime qué te parece."}
+{"key": "script/mp3202#QS309_End/399", "es": "Vaya... ¡Es maravillosa!"}
+{"key": "script/mp3202#QS309_End/402", "es": "¡¿No es súper fantástico?!"}
+{"key": "script/mp3202#QS309_End/404", "es": "Llévatela. Ahora es tuya."}
+{"key": "script/mp3202#QS309_End/407", "es": "¡Muchas gracias!"}
 {"key": "script/mp3202#QS309_End/410", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/423", "es": "Muchas gracias. Aunque debo decir que me sorprende bastante su nombre."}
+{"key": "script/mp3202#QS309_End/426", "es": "¡Sí, nada mal el nombre, tratándose de Syriu!"}
+{"key": "script/mp3202#QS309_End/432", "es": "¡Hablas como si todos mis otros nombres hubieran sido raros!"}
+{"key": "script/mp3202#QS309_End/436", "es": "O sea, esta es solo una réplica de un arma antigua. No la diseñé desde cero ni nada."}
+{"key": "script/mp3202#QS309_End/438", "es": "¡Así que no estaría bien cambiarle el nombre así como así!"}
+{"key": "script/mp3202#QS309_End/453", "es": "¡Está terminada! ¡Contemplen la legendaria Alabarda de Equidna!"}
+{"key": "script/mp3202#QS309_End/455", "es": "Toma, sostenla y dime qué te parece."}
+{"key": "script/mp3202#QS309_End/464", "es": "Vaya... ¡Es excepcional!"}
+{"key": "script/mp3202#QS309_End/467", "es": "¡¿No es súper fantástico?!"}
+{"key": "script/mp3202#QS309_End/469", "es": "Llévatela. Ahora es tuya."}
+{"key": "script/mp3202#QS309_End/472", "es": "Jiji. Muchas gracias."}
 {"key": "script/mp3202#QS309_End/475", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/489", "es": "Muchas gracias. Aunque debo decir que me sorprende bastante su nombre."}
+{"key": "script/mp3202#QS309_End/492", "es": "¡Sí, nada mal el nombre, tratándose de Syriu!"}
+{"key": "script/mp3202#QS309_End/498", "es": "¡Hablas como si todos mis otros nombres hubieran sido raros!"}
+{"key": "script/mp3202#QS309_End/502", "es": "O sea, esta es solo una réplica de un arma antigua. No la diseñé desde cero ni nada."}
+{"key": "script/mp3202#QS309_End/504", "es": "¡Así que no estaría bien cambiarle el nombre así como así!"}
+{"key": "script/mp3202#QS309_End/509", "es": "¿Oh? Ese es el espíritu de un herrero. ¡Estoy orgulloso de ti!"}
+{"key": "script/mp3202#QS309_End/512", "es": "¡Pero por supuesto!"}
+{"key": "script/mp3202#QS309_End/518", "es": "Por cierto, ¿maestro?"}
+{"key": "script/mp3202#QS309_End/520", "es": "Parecía que estabas trabajando en algo tuyo mientras yo hacía esto."}
+{"key": "script/mp3202#QS309_End/522", "es": "¿Qué tienes ahí?"}
+{"key": "script/mp3202#QS309_End/525", "es": "¿Mm? Ah, estaba trabajando en esto."}
+{"key": "script/mp3202#QS309_End/527", "es": "Llévense esto también."}
 {"key": "script/mp3202#QS309_End/531", "es": "Recibes "}
 {"key": "script/mp3202#QS309_End/537", "es": "Recibes "}
+{"key": "script/mp3202#QS309_End/543", "es": "¿Esto es... una armadura?"}
+{"key": "script/mp3202#QS309_End/548", "es": "Guau..."}
+{"key": "script/mp3202#QS309_End/553", "es": "Guau."}
+{"key": "script/mp3202#QS309_End/558", "es": "Esto es de lo más impresionante."}
+{"key": "script/mp3202#QS309_End/563", "es": "Vaya..."}
+{"key": "script/mp3202#QS309_End/568", "es": "Oh, vaya..."}
+{"key": "script/mp3202#QS309_End/572", "es": "Sobró un poco de piedra solar después de que Syriu terminara de hacer su arma antigua."}
+{"key": "script/mp3202#QS309_End/574", "es": "Así que miré en su libro para ver si podía hacer algo con ella."}
+{"key": "script/mp3202#QS309_End/576", "es": "Es una aleación de varios metales distintos, así que es mucho más resistente que cualquier cosa que encuentren por aquí."}
+{"key": "script/mp3202#QS309_End/581", "es": "¡¿Cómo lograste algo así en tan poco tiempo?!"}
+{"key": "script/mp3202#QS309_End/586", "es": "¡Jaja! ¡Te vi haciendo algo emocionante y no pude evitar unirme a la diversión!"}
+{"key": "script/mp3202#QS309_End/588", "es": "No voy a dejar que te luzcas tú sola."}
+{"key": "script/mp3202#QS309_End/590", "es": "¡Jajajá! ¿Ves, Syriu? ¡Todavía te falta mucho para poder superarme!"}
+{"key": "script/mp3202#QS309_End/593", "es": "Uf, para él todo es una competencia..."}
+{"key": "script/mp3202#QS309_End/616", "es": "Bueno, si encuentran más de esa piedra solar, tráiganla aquí."}
+{"key": "script/mp3202#QS309_End/618", "es": "Voy a preparar otra de mis asombrosas armaduras."}
+{"key": "script/mp3202#QS309_End/623", "es": "¡Oye, esta era mi petición! ¡Consíguete la tuya!"}
+{"key": "script/mp3202#QS309_End/625", "es": "¡¿Por qué tienes que ser tú quien cierre todo esto?!"}
+{"key": "script/mp3202#QS309_End/652", "es": "¡Misión completada: \"Arma legendaria\"!"}
+{"key": "script/mp3202#QS308_End2/43", "es": "...¿Y por qué tenían que venir todos conmigo?"}
+{"key": "script/mp3202#QS308_End2/48", "es": "¿Qué, acaso somos una molestia?"}
+{"key": "script/mp3202#QS308_End2/51", "es": "B-Bueno, no, pero..."}
+{"key": "script/mp3202#QS308_End2/62", "es": "E-Este..."}
+{"key": "script/mp3202#QS308_End2/67", "es": "...¡Oh!"}
+{"key": "script/mp3202#QS308_End2/69", "es": "Creo que ya veo qué está pasando aquí..."}
+{"key": "script/mp3202#QS308_End2/75", "es": "Uy. Ya he visto ese brillo en tus ojos antes. Te estás divirtiendo con esto, ¿verdad?"}
+{"key": "script/mp3202#QS308_End2/81", "es": "Azí que, eh, Zezily..."}
+{"key": "script/mp3202#QS308_End2/83", "es": "¿Me enzeñaz a hazer una guirnalda?"}
+{"key": "script/mp3202#QS308_End2/91", "es": "Oh, por supuesto."}
+{"key": "script/mp3202#QS308_End2/93", "es": "Hagamos una juntas. Te enseñaré cómo se hace."}
+{"key": "script/mp3202#QS308_End2/106", "es": "¡Ya eztá!"}
+{"key": "script/mp3202#QS308_End2/109", "es": "Ji. ¡Se ve muy bien!"}
 {"key": "script/mp3202#QS308_End2/112", "es": "Tomen."}
+{"key": "script/mp3202#QS308_End2/114", "es": "Deberíaz dárzela a Ozma."}
+{"key": "script/mp3202#QS308_End2/119", "es": "¿Qué...?"}
+{"key": "script/mp3202#QS308_End2/122", "es": "¡Ezta guirnalda ez un prezente de tu parte para Ozma!"}
+{"key": "script/mp3202#QS308_End2/124", "es": "Azí que deberíaz zer tú quien ze la dé."}
+{"key": "script/mp3202#QS308_End2/127", "es": "¿Q-Qué quieres decir?"}
+{"key": "script/mp3202#QS308_End2/130", "es": "Ts, ts... ¿Todavía no lo haz dezcubierto?"}
+{"key": "script/mp3202#QS308_End2/132", "es": "¡Lo único que quiero ez que todoz zean felizez!"}
+{"key": "script/mp3202#QS308_End2/134", "es": "Y últimamente Zezily ha eztado muy trizte..."}
+{"key": "script/mp3202#QS308_End2/136", "es": "Azí que deberíaz dárzela a tu amado Ozma."}
+{"key": "script/mp3202#QS308_End2/138", "es": "¡Y entoncez podráz zer zúper feliz otra vez!"}
+{"key": "script/mp3202#QS308_End2/143", "es": "¡¿A-Amado?!"}
+{"key": "script/mp3202#QS308_End2/145", "es": "E-Espera un momento, Rilche--"}
+{"key": "script/mp3202#QS308_End2/150", "es": "Jiji. ¿Cuál es el problema?"}
+{"key": "script/mp3202#QS308_End2/152", "es": "Deberías aceptar su considerado gesto."}
+{"key": "script/mp3202#QS308_End2/157", "es": "Me parece que Rilche solo quiere ayudar a Cecily a superar su timidez y confesar lo que siente. ¡Qué dulce!"}
+{"key": "script/mp3202#QS308_End2/167", "es": "C-Creo que todos lo entendimos, Calilica. ¡No hace falta hacer esto más incómodo de lo que ya es!"}
+{"key": "script/mp3202#QS308_End2/170", "es": "...¡Ah, ahora lo entiendo!"}
+{"key": "script/mp3202#QS308_End2/180", "es": "Espera, ¿te tomó tanto tiempo entenderlo? ¿En serio?"}
+{"key": "script/mp3202#QS308_End2/185", "es": "*sollozo*"}
+{"key": "script/mp3202#QS308_End2/192", "es": "*suspiro* ¿Cómo terminamos en una situación como esta?"}
+{"key": "script/mp3202#QS308_End2/194", "es": "B-Bueno... Cecily, ¿estarías dispuesta a darme las guirnaldas?"}
+{"key": "script/mp3202#QS308_End2/211", "es": "O-Oh... ¡por supuesto!"}
 {"key": "script/mp3202#QS308_End2/216", "es": "Recibes "}
 {"key": "script/mp3202#QS308_End2/222", "es": "Recibes "}
 {"key": "script/mp3202#QS308_End2/228", "es": "Recibes "}
 {"key": "script/mp3202#QS308_End2/234", "es": "Recibes "}
+{"key": "script/mp3202#QS308_End2/240", "es": "Ozma recibió las cuatro guirnaldas de Cecily."}
+{"key": "script/mp3202#QS308_End2/249", "es": "Lamento todas las dificultades que has enfrentado en mi ausencia."}
+{"key": "script/mp3202#QS308_End2/251", "es": "Pero no estaré lejos por mucho más tiempo. Te lo prometo."}
+{"key": "script/mp3202#QS308_End2/253", "es": "Así que, si pudieras seguir cuidando todo por aquí hasta mi regreso, te lo agradecería mucho."}
+{"key": "script/mp3202#QS308_End2/256", "es": "Ozma..."}
+{"key": "script/mp3202#QS308_End2/258", "es": "Lo haré. Gracias."}
+{"key": "script/mp3202#QS308_End2/260", "es": "Por favor... Por favor, cuídate."}
+{"key": "script/mp3202#QS308_End2/263", "es": "Tienes mi palabra."}
+{"key": "script/mp3202#QS308_End2/266", "es": "(Je. ¡De hecho, hacen una pareja bastante linda!)"}
+{"key": "script/mp3202#QS308_End2/269", "es": "(Sí. Es algo conmovedor.)"}
+{"key": "script/mp3202#QS308_End2/272", "es": "(Bueno, al menos todo salió bien.)"}
+{"key": "script/mp3202#QS308_End2/275", "es": "(Jiji. Ozma lo manejó muy bien.)"}
+{"key": "script/mp3202#QS308_End2/283", "es": "¡Misión completada: \"Regalo feliz\"!"}
+{"key": "script/mp3202#QS404_Work2/28", "es": "¿Entonces el nombre de esta chica empieza con Z?"}
+{"key": "script/mp3202#QS404_Work2/32", "es": "¿Quieres hacer los honores, entonces, Ozma?"}
+{"key": "script/mp3202#QS404_Work2/36", "es": "...Como quieras."}
+{"key": "script/mp3202#QS404_Work2/41", "es": "Zara, quisiera pedirte un favor, si me lo permites."}
+{"key": "script/mp3202#QS404_Work2/43", "es": "¿Podrías escribir tu nombre en esta página?"}
+{"key": "script/mp3202#QS404_Work2/46", "es": "¿Aquí?"}
+{"key": "script/mp3202#QS404_Work2/48", "es": "¡Claro, está bien!"}
+{"key": "script/mp3202#QS404_Work2/53", "es": "¡Completaste la página \"Z\" del Libro de firmas!"}
+{"key": "script/mp3202#QS404_Work2/59", "es": "¡Perfecto!"}
 {"key": "script/mp3202#QS404_Work2/61", "es": "Muchas gracias."}
+{"key": "script/mp3202#QS404_Work2/65", "es": "¡Jijiji, de nada!"}
+{"key": "script/mp3202#QS404_Work2/73", "es": "¡Completaste todas las páginas del Libro de firmas!"}
 {"key": "script/mp3202#talk_belta/4", "es": "Hablar"}
+{"key": "script/mp3202#talk_belta/7", "es": "Preguntar por los Vesbiwar"}
+{"key": "script/mp3202#talk_belta/11", "es": "Preguntar por los Vesbilzon"}
 {"key": "script/mp3202#talk_belta/13", "es": "Cancelar"}
+{"key": "script/mp3202#talk_belta/16", "es": "¿Derrotaste a los Vesbiwar?"}
+{"key": "script/mp3202#talk_belta/18", "es": "Gracias. Aquí tienes tu recompensa."}
 {"key": "script/mp3202#talk_belta/22", "es": "Recibes "}
+{"key": "script/mp3202#talk_belta/26", "es": "Te deseo lo mejor en tus nobles empeños."}
+{"key": "script/mp3202#talk_belta/33", "es": "¡Misión completada: \"Un enjambre negro\"!"}
+{"key": "script/mp3202#talk_belta/41", "es": "¡Misión completada: \"Un enjambre negro\"!"}
+{"key": "script/mp3202#talk_belta/46", "es": "Ah, por cierto..."}
+{"key": "script/mp3202#talk_belta/48", "es": "Perdón por decírtelo así de repente, pero se avistó un enjambre de arañas parecidas en esa cueva."}
+{"key": "script/mp3202#talk_belta/50", "es": "Y son aún más fuertes que las que exterminaste la última vez."}
+{"key": "script/mp3202#talk_belta/52", "es": "Te agradecería mucho que te ocuparas de ellas cuando tengas tiempo."}
+{"key": "script/mp3202#talk_belta/56", "es": "Se agregó una misión nueva al tablón de misiones de Selray."}
+{"key": "script/mp3202#talk_belta/60", "es": "Se agregó la misión \"Enjambre escarlata\" a tu diario."}
+{"key": "script/mp3202#talk_belta/78", "es": "¿Derrotaste a los Vesbilzon?"}
+{"key": "script/mp3202#talk_belta/80", "es": "Gracias. Aquí tienes tu recompensa."}
 {"key": "script/mp3202#talk_belta/84", "es": "Recibes "}
+{"key": "script/mp3202#talk_belta/88", "es": "No sé qué habríamos hecho sin ti. Admiro de verdad tu fuerza."}
+{"key": "script/mp3202#talk_belta/94", "es": "¡Misión completada: \"Enjambre escarlata\"!"}
+{"key": "script/mp3202#talk_belta/117", "es": "Ah, ¿quieres saber más sobre los Vesbiwar? ¿Piensas exterminarlos por nosotros?"}
+{"key": "script/mp3202#talk_belta/119", "es": "Parecen ser una subespecie de un tipo de araña gigante llamada \"Vesbinake\"..."}
+{"key": "script/mp3202#talk_belta/121", "es": "Pero lo que de verdad aterra de esta subespecie es su capacidad de reproducirse rápido y su tendencia a moverse en grandes grupos."}
+{"key": "script/mp3202#talk_belta/123", "es": "Y aunque la Cueva de Jade queda lejos de aquí, no hay garantía de que con el tiempo no se acerquen a la aldea."}
+{"key": "script/mp3202#talk_belta/125", "es": "Ya ha pasado antes, así que nunca está de más ser cautelosos. Agradecería mucho que alguien se deshiciera de ellos por nosotros."}
+{"key": "script/mp3202#talk_belta/130", "es": "Lo que más hay que vigilar es su enorme cantidad."}
+{"key": "script/mp3202#talk_belta/132", "es": "Asegúrate de llevar muchas pociones si decides intentar exterminarlos. ¡Me temo que necesitarás hasta la última gota!"}
+{"key": "script/mp3202#talk_belta/140", "es": "Ah, ¿quieres saber más sobre los Vesbilzon?"}
+{"key": "script/mp3202#talk_belta/142", "es": "Parecen ser una mutación de los Vesbiwar. Y también son bastante más poderosos."}
+{"key": "script/mp3202#talk_belta/144", "es": "Ya son bastante fuertes por sí solos, pero, igual que los Vesbiwar, se reproducen rápidamente."}
+{"key": "script/mp3202#talk_belta/146", "es": "Si decides exterminarlos, mantente alerta."}
+{"key": "script/mp3202#talk_belta/151", "es": "Seguro que ya lo sabes después de derrotar a los Vesbinake, pero esta no será una tarea rápida ni fácil. Prepárate para una larga batalla."}
+{"key": "script/mp3202#talk_belta/153", "es": "Asegúrate de llevar suficientes provisiones antes de ir."}
+{"key": "script/mp3202#talk_belta/164", "es": "Nadie puede estar seguro de lo que pasará en el futuro."}
+{"key": "script/mp3202#talk_belta/166", "es": "Pero solo nosotros podemos elegir el camino que queremos tomar."}
+{"key": "script/mp3202#talk_belta/168", "es": "Pase lo que pase como resultado de esa elección, no quiero mirar atrás y arrepentirme de haberla tomado."}
+{"key": "script/mp3202#talk_belta/172", "es": "Los romunos nos dijeron que en las Tierras Primigenias también vive gente."}
+{"key": "script/mp3202#talk_belta/174", "es": "Me pregunto si compartiremos los mismos ancestros... Es fascinante pensar en ello."}
+{"key": "script/mp3202#talk_belta/178", "es": "Últimamente no ha sido fácil aquí, pero nos las arreglamos. Aunque, por lo que parece, nuestros problemas aún no terminan."}
+{"key": "script/mp3202#talk_belta/180", "es": "¿Qué está pasando al otro lado del río? ¡Me dan escalofríos con solo pensarlo!"}
+{"key": "script/mp3202#talk_belta/185", "es": "Si miras al otro lado del río, ahora se ve una torre alta."}
+{"key": "script/mp3202#talk_belta/187", "es": "Pensar que durante todos estos años algo así ha estado oculto justo fuera de nuestra vista..."}
+{"key": "script/mp3202#talk_belta/189", "es": "Me interesan esas \"Tierras Primigenias\", pero me asusta la idea de ir de verdad."}
+{"key": "script/mp3202#talk_belta/194", "es": "Me interesan esas \"Tierras Primigenias\", pero me asusta la idea de ir de verdad."}
+{"key": "script/mp3202#talk_belta/204", "es": "Por favor, cuida a nuestro Ozma. Lo queremos mucho."}
+{"key": "script/mp3202#talk_belta/206", "es": "Seguro que no hace falta que te lo diga, pero no encontrarás a muchos que sean ni la mitad de valientes que él."}
+{"key": "script/mp3202#talk_belta/208", "es": "Con él a tu lado, seguro que nada podrá detenerte."}
+{"key": "script/mp3202#talk_belta/213", "es": "Seguro que no hace falta que te lo diga, pero no encontrarás a muchos que sean ni la mitad de valientes que Ozma."}
+{"key": "script/mp3202#talk_belta/215", "es": "Con él a tu lado, seguro que nada podrá detenerte."}
+{"key": "script/mp3202#talk_belta/221", "es": "¿Así que fue un forastero corpulento quien envenenó el río?"}
+{"key": "script/mp3202#talk_belta/223", "es": "Pensé que ustedes eran los únicos que habían logrado llegar tan adentro del bosque."}
+{"key": "script/mp3202#talk_belta/225", "es": "Pero ¿por qué querría hacer algo así? De verdad es desconcertante..."}
+{"key": "script/mp3202#talk_belta/230", "es": "Pensé que ustedes eran los únicos que habían logrado llegar tan adentro del bosque."}
+{"key": "script/mp3202#talk_belta/232", "es": "Pero ¿por qué querría hacer algo así? De verdad es desconcertante..."}
+{"key": "script/mp3202#talk_belta/240", "es": "Pareces una buena persona, así que de verdad no quiero tener que sospechar de ti."}
+{"key": "script/mp3202#talk_belta/242", "es": "Pero nunca había pasado nada así, y nunca habíamos tenido un visitante de fuera del bosque..."}
+{"key": "script/mp3202#talk_belta/244", "es": "Así que simplemente parece la explicación más plausible. Por favor, intenta comprender nuestra postura."}
+{"key": "script/mp3202#talk_belta/249", "es": "Nunca había pasado nada así, y nunca habíamos tenido un visitante de fuera del bosque."}
+{"key": "script/mp3202#talk_belta/251", "es": "Así que simplemente parece la explicación más plausible. Por favor, intenta comprender nuestra postura."}
+{"key": "script/mp3202#talk_momocha/9", "es": "Jijiji."}
+{"key": "script/mp3202#talk_momocha/11", "es": "¿Quieres ir al cielo de las cosquillas?"}
+{"key": "script/mp3202#talk_momocha/16", "es": "Llévame ahora."}
+{"key": "script/mp3202#talk_momocha/17", "es": "Prefiero quedarme aquí."}
+{"key": "script/mp3202#talk_momocha/23", "es": "¡Yaaay! ¡Vamos!"}
+{"key": "script/mp3202#talk_momocha/31", "es": "¡Tus barras de PH y EXTRA se restauraron por completo!"}
+{"key": "script/mp3202#talk_momocha/37", "es": "¡Jijiji! ¡Se nota que lo disfrutaste mucho!"}
+{"key": "script/mp3202#talk_momocha/39", "es": "Fue muy divertido. ¡Ven a que te haga cosquillas otra vez algún día!"}
+{"key": "script/mp3202#talk_momocha/44", "es": "Ay, ¿por qué no? ¡Será divertido!"}
+{"key": "script/mp3202#talk_momocha/49", "es": "¡Jijiji! ¿Creíste que nunca más te haría cosquillas?"}
+{"key": "script/mp3202#talk_momocha/51", "es": "¡Ahora domino el arte de las cosquillas, así que puedo hacértelas tantas veces como quieras!"}
+{"key": "script/mp3202#talk_momocha/53", "es": "Entonces, ¿qué tal un poquito de cosqui-cosqui?"}
+{"key": "script/mp3202#talk_momocha/58", "es": "¡Obvio que sí!"}
+{"key": "script/mp3202#talk_momocha/59", "es": "¡Obvio que no!"}
+{"key": "script/mp3202#talk_momocha/65", "es": "¡Jijiji! ¡Entendido!"}
+{"key": "script/mp3202#talk_momocha/73", "es": "¡Tus barras de PH y EXTRA se restauraron por completo!"}
+{"key": "script/mp3202#talk_momocha/79", "es": "¡Ayyy, siempre eres tan sensible!"}
+{"key": "script/mp3202#talk_momocha/81", "es": "Fue muy divertido. ¡Ven a que te haga cosquillas otra vez algún día!"}
+{"key": "script/mp3202#talk_momocha/86", "es": "¡Ay, sabes que quieres que lo haga! No tienes gracia..."}
+{"key": "script/mp3202#talk_momocha/91", "es": "Jijiji."}
+{"key": "script/mp3202#talk_momocha/93", "es": "Oye, ¿quieres una buena sesión de cosquillas?"}
+{"key": "script/mp3202#talk_momocha/98", "es": "¿Cómo podría negarme?"}
+{"key": "script/mp3202#talk_momocha/99", "es": "POR DIOS, NO."}
+{"key": "script/mp3202#talk_momocha/105", "es": "¡Jijiji! ¡Entendido!"}
+{"key": "script/mp3202#talk_momocha/113", "es": "¡Tus barras de PH y EXTRA se restauraron por completo!"}
+{"key": "script/mp3202#talk_momocha/119", "es": "¡Ayyy, siempre eres tan sensible!"}
+{"key": "script/mp3202#talk_momocha/121", "es": "Fue muy divertido. ¡Ven a que te haga cosquillas otra vez algún día!"}
+{"key": "script/mp3202#talk_momocha/125", "es": "¡Ay, sabes que quieres que lo haga! No tienes gracia..."}
+{"key": "script/mp3202#talk_momocha/132", "es": "Jijiji."}
+{"key": "script/mp3202#talk_momocha/134", "es": "Oye, ¿quieres caer conmigo en las profundidades ardientes del infierno de las cosquillas?"}
+{"key": "script/mp3202#talk_momocha/139", "es": "¡Que arda Troya!"}
+{"key": "script/mp3202#talk_momocha/140", "es": "Mejor otro día."}
+{"key": "script/mp3202#talk_momocha/146", "es": "¡Uy, qué valentía!"}
+{"key": "script/mp3202#talk_momocha/154", "es": "¡Tus barras de PH y EXTRA se restauraron por completo!"}
+{"key": "script/mp3202#talk_momocha/160", "es": "¡Jiiiiijijiji! ¡¿Sentiste el ardor?!"}
+{"key": "script/mp3202#talk_momocha/162", "es": "Fue muy divertido. ¡Ven a que te haga cosquillas otra vez algún día!"}
+{"key": "script/mp3202#talk_momocha/167", "es": "Ay, qué cobardía. ¡No tienes gracia!"}
+{"key": "script/mp3202#talk_momocha/172", "es": "Ah, no puedo hacerte cosquillas otra vez por un rato, ¿de acuerdo?"}
+{"key": "script/mp3202#talk_momocha/174", "es": "Tendrás que volver en otro momento."}
+{"key": "script/mp3202#talk_momocha/180", "es": "Jijiji."}
+{"key": "script/mp3202#talk_momocha/182", "es": "¿Vienes por lo de siempre?"}
+{"key": "script/mp3202#talk_momocha/187", "es": "Sí, por favor, ¿me das otra?"}
+{"key": "script/mp3202#talk_momocha/188", "es": "*escabullirse*"}
+{"key": "script/mp3202#talk_momocha/194", "es": "Jijiji. ¡Sí, señor!"}
+{"key": "script/mp3202#talk_momocha/202", "es": "¡Tus barras de PH y EXTRA se restauraron por completo!"}
+{"key": "script/mp3202#talk_momocha/208", "es": "Ayyy, todavía no te acostumbras, ¿verdad?"}
+{"key": "script/mp3202#talk_momocha/210", "es": "Fue muy divertido. ¡Ven a que te haga cosquillas otra vez algún día!"}
+{"key": "script/mp3202#talk_momocha/215", "es": "Ay, qué cruel. ¡Haciéndote de rogar, ya veo!"}
+{"key": "script/mp3202#talk_momocha/220", "es": "¿Otra vez?"}
+{"key": "script/mp3202#talk_momocha/222", "es": "Perdón, solo una vez por visita. ¡Aquí mandan las leyes del mercado!"}
+{"key": "script/mp3202#talk_momocha/224", "es": "Tendrás que volver en otro momento."}
+{"key": "script/mp3202#talk_momocha/230", "es": "Jijiji."}
+{"key": "script/mp3202#talk_momocha/232", "es": "Oye, ¿qué puedo hacer por ti hoy?"}
+{"key": "script/mp3202#talk_momocha/237", "es": "Hazme cosquillas con furia."}
+{"key": "script/mp3202#talk_momocha/238", "es": "BAILA LA DANZA DE LA VIDA."}
+{"key": "script/mp3202#talk_momocha/244", "es": "¡Jijiji! ¡Marchando!"}
+{"key": "script/mp3202#talk_momocha/252", "es": "¡Tus barras de PH y EXTRA se restauraron por completo!"}
+{"key": "script/mp3202#talk_momocha/258", "es": "Ayyy, siempre eres tan sensible."}
+{"key": "script/mp3202#talk_momocha/260", "es": "Fue muy divertido. ¡Ven a que te haga cosquillas otra vez algún día!"}
+{"key": "script/mp3202#talk_momocha/265", "es": "¿Quéee? ¡Pero si ni sé qué es eso, tontito!"}
+{"key": "script/mp3202#talk_momocha/267", "es": "Supongo que tendré que envainar estos deditos cosquilleros para otro día."}
+{"key": "script/mp3202#talk_momocha/272", "es": "¿No fue suficiente para ti?"}
+{"key": "script/mp3202#talk_momocha/274", "es": "No hay que abusar. ¡Una cosquilla es un privilegio, no un derecho! Ya tuviste suficiente por hoy."}
+{"key": "script/mp3202#talk_momocha/276", "es": "Vuelve otro día."}
+{"key": "script/mp3202#talk_momocha/282", "es": "Jijiji."}
+{"key": "script/mp3202#talk_momocha/284", "es": "Oye, ¿quieres que te haga cosquillas?"}
+{"key": "script/mp3202#talk_momocha/289", "es": "Sí, por favor."}
+{"key": "script/mp3202#talk_momocha/290", "es": "Para nada."}
+{"key": "script/mp3202#talk_momocha/296", "es": "¡Jijiji, cuánta sinceridad!"}
+{"key": "script/mp3202#talk_momocha/304", "es": "¡Tus barras de PH y EXTRA se restauraron por completo!"}
+{"key": "script/mp3202#talk_momocha/310", "es": "¡Guau, es como si fueras sensible por todas partes!"}
+{"key": "script/mp3202#talk_momocha/312", "es": "Fue muy divertido. ¡Ven a que te haga cosquillas otra vez algún día!"}
+{"key": "script/mp3202#talk_momocha/317", "es": "Ay. Eres cruel."}
+{"key": "script/mp3202#talk_momocha/322", "es": "¿Quieres que lo haga otra vez?"}
+{"key": "script/mp3202#talk_momocha/324", "es": "Perdón, tendrás que esperar tu turno. Tengo la agenda llena."}
+{"key": "script/mp3202#talk_momocha/326", "es": "Vuelve cuando se alineen los planetas. O... algún día. No sé cuánto tardaré en sacar todo lo que tengo pendiente."}
+{"key": "script/mp3202#talk_momocha/332", "es": "Jijiji."}
+{"key": "script/mp3202#talk_momocha/334", "es": "Oye, ¿me dejas hacerte cosquillas?"}
+{"key": "script/mp3202#talk_momocha/339", "es": "¡Por supuesto!"}
 {"key": "script/mp3202#talk_momocha/340", "es": "¡Claro que no!"}
+{"key": "script/mp3202#talk_momocha/346", "es": "¡Jijiji, cómo te encantan las cosquillas!"}
+{"key": "script/mp3202#talk_momocha/354", "es": "¡Tus barras de PH y EXTRA se restauraron por completo!"}
+{"key": "script/mp3202#talk_momocha/360", "es": "Guaaau, qué gran reacción."}
+{"key": "script/mp3202#talk_momocha/362", "es": "Fue muy divertido. ¡Ven a que te haga cosquillas otra vez algún día!"}
+{"key": "script/mp3202#talk_momocha/367", "es": "Ay, no tienes gracia."}
+{"key": "script/mp3202#talk_momocha/372", "es": "¿Quieres que te haga cosquillas otra vez?"}
+{"key": "script/mp3202#talk_momocha/374", "es": "Ya tuviste suficiente por hoy. No hay que abusar. La cosquilla es un arte. Pierde su \"chispa\" si te excedes."}
+{"key": "script/mp3202#talk_momocha/376", "es": "¡Vuelve otro día!"}
+{"key": "script/mp3202#talk_momocha/382", "es": "Jijiji."}
+{"key": "script/mp3202#talk_momocha/384", "es": "Oye, ¿puedo hacerte cosquillas?"}
+{"key": "script/mp3202#talk_momocha/389", "es": "Claro."}
+{"key": "script/mp3202#talk_momocha/390", "es": "Eh, no."}
+{"key": "script/mp3202#talk_momocha/396", "es": "¡Yaaaaay!"}
+{"key": "script/mp3202#talk_momocha/404", "es": "¡Tus barras de PH y EXTRA se restauraron por completo!"}
+{"key": "script/mp3202#talk_momocha/410", "es": "Jijiji. ¡Siempre eres tan sensible!"}
+{"key": "script/mp3202#talk_momocha/412", "es": "Fue muy divertido. ¡Ven a que te haga cosquillas otra vez algún día!"}
+{"key": "script/mp3202#talk_momocha/417", "es": "Ay, qué aburrimiento. AAAABURRIMIIIIENTO."}
+{"key": "script/mp3202#talk_momocha/422", "es": "¿Quieres que te haga cosquillas otra vez?"}
+{"key": "script/mp3202#talk_momocha/424", "es": "...¡¿No crees que ya tuviste suficiente?!"}
+{"key": "script/mp3202#talk_momocha/426", "es": "Además, tengo los brazos cansados. Pero otro día lo repito, ¿de acuerdo?"}
+{"key": "script/mp3202#talk_aran/3", "es": "Parece que los romunos están tramando algo. Mientras no nos arrastren a eso. No queremos tener nada que ver con ellos."}
+{"key": "script/mp3202#talk_aran/5", "es": "Ojalá se fueran ya del bosque, pero no parece probable..."}
+{"key": "script/mp3202#talk_aran/13", "es": "Cuando se disipó la niebla, la corriente del río también se hizo más lenta."}
+{"key": "script/mp3202#talk_aran/15", "es": "Así se pesca más fácil, pero de algún modo parece un mal presagio..."}
+{"key": "script/mp3202#talk_aran/27", "es": "¿Qué sé yo del veneno?"}
+{"key": "script/mp3202#talk_aran/29", "es": "Nada. Simplemente... apareció de repente."}
+{"key": "script/mp3202#talk_aran/31", "es": "No sé qué planeas, pero mejor ríndete y confiesa de una vez."}
+{"key": "script/mp3202#talk_pedoro/3", "es": "Me pregunto qué deberíamos hacer si los romunos atacan."}
+{"key": "script/mp3202#talk_pedoro/5", "es": "...Con la cantidad que son, supongo que lo único que podríamos hacer es correr y esperar lo mejor."}
+{"key": "script/mp3202#talk_pedoro/13", "es": "Forasteros que se meten en la aldea, la corriente del río que cambia, la niebla que desaparece..."}
+{"key": "script/mp3202#talk_pedoro/15", "es": "¡¿Qué está pasando por aquí últimamente?!"}
+{"key": "script/mp3202#talk_pedoro/27", "es": "¿Buscas información sobre el río? Perdón, tendrás que buscar en otra parte."}
+{"key": "script/mp3202#talk_pedoro/29", "es": "No sabemos nada que te sirva."}
 {"key": "script/mp3202#talk_siryu/6", "es": "Reforzar/Refinar"}
 {"key": "script/mp3202#talk_siryu/7", "es": "Hablar"}
 {"key": "script/mp3202#talk_siryu/8", "es": "Cancelar"}
+{"key": "script/mp3202#talk_siryu/28", "es": "Necesito a alguien que equipe el arma que te di y derrote con ella a cinco \"Rangoa\"."}
+{"key": "script/mp3202#talk_siryu/30", "es": "¡Buena suerte!"}
+{"key": "script/mp3202#talk_siryu/43", "es": "*suspiro* ¿Por qué nadie lo entiende?"}
+{"key": "script/mp3202#talk_siryu/56", "es": "Necesito a alguien que equipe el arma que te di y derrote con ella a cinco \"Crocle\"."}
+{"key": "script/mp3202#talk_siryu/58", "es": "¡Buena suerte!"}
+{"key": "script/mp3202#talk_siryu/71", "es": "¡No puedo creerlo de ustedes! ¡¿Cómo es posible que no entiendan mi grandeza?!"}
+{"key": "script/mp3202#talk_siryu/83", "es": "Necesito a alguien que equipe el arma que te di y derrote con ella a cinco \"Madogra-Slef\"."}
+{"key": "script/mp3202#talk_siryu/85", "es": "¡Buena suerte!"}
+{"key": "script/mp3202#talk_siryu/97", "es": "Parece que cada vez se vuelve más cruel."}
+{"key": "script/mp3202#talk_siryu/99", "es": "¡Pero no voy a dejar que me desanime!"}
+{"key": "script/mp3202#talk_siryu/115", "es": "La práctica hace al maestro... Jeje, ¿habías oído ese dicho antes? ¡Es muy cierto!"}
+{"key": "script/mp3202#talk_siryu/119", "es": "El herrero es más poderoso que la espada... Jeje, ¿habías oído ese dicho antes? ¡¿No?! ¡Pues ahora sí! ¡Y es TOTALMENTE cierto!"}
+{"key": "script/mp3202#talk_siryu/123", "es": "Toda espada comienza con un solo herrero... Jeje, ¿habías oído ese dicho antes? ¡¿No?! ¡Pues ahí lo tienes! ¡La verdad absoluta!"}
+{"key": "script/mp3202#talk_siryu/127", "es": "La herrería no se hizo en un día... Jeje, ¿habías oído ese dicho antes? Parafraseé un poquito, ¡pero sigue siendo cierto!"}
+{"key": "script/mp3202#talk_siryu/131", "es": "Al hierro caliente, batir de repente... Jeje, ¿habías oído ese dicho antes? ¡Es un buen consejo!"}
+{"key": "script/mp3202#talk_siryu/136", "es": "Qué alivio que no tuvieras nada que ver."}
+{"key": "script/mp3202#talk_siryu/138", "es": "Perdón por dudar de ti. ¡Lo compensaré trabajando el doble!"}
+{"key": "script/mp3202#talk_siryu/146", "es": "Hmm... De verdad no tienes pinta de ser de los que envenenan un río."}
+{"key": "script/mp3202#talk_siryu/148", "es": "Pero supongo que tendré que esperar a que pruebes tu inocencia."}
+{"key": "script/mp3202#talk_siryu/150", "es": "No nos decepciones, ¿de acuerdo?"}
+{"key": "script/mp3202#talk_siryu/156", "es": "En fin, mientras Ozma esté contigo, puedes comprar aquí."}
+{"key": "script/mp3202#talk_siryu/158", "es": "El jefe no va a hacer un trabajo chapucero ni nada de eso, así que no te preocupes."}
 {"key": "script/mp3202#talk_siryu_sub/2", "es": "Hablar"}
+{"key": "script/mp3202#talk_siryu_sub/3", "es": "Entregar una piedra solar"}
 {"key": "script/mp3202#talk_siryu_sub/4", "es": "Cancelar"}
+{"key": "script/mp3202#talk_siryu_sub/11", "es": "Si encuentras más piedras solares, avísame."}
+{"key": "script/mp3202#talk_siryu_sub/13", "es": "¡Te mostraré lo que puede hacer una maestra herrera!"}
+{"key": "script/mp3202#talk_siryu_sub/18", "es": "Avísame si encuentras una piedra solar."}
+{"key": "script/mp3202#talk_siryu_sub/20", "es": "¡Cuídate por ahí!"}
+{"key": "script/mp3202#talk_siryu_sub/33", "es": "Ooh, ¿me trajiste otra piedra solar?"}
+{"key": "script/mp3202#talk_siryu_sub/35", "es": "¡Muy bien! ¿Para quién quieres que haga un arma?"}
+{"key": "script/mp3202#talk_siryu_sub/41", "es": "Adol (ya forjada)"}
 {"key": "script/mp3202#talk_siryu_sub/44", "es": "Adol"}
+{"key": "script/mp3202#talk_siryu_sub/47", "es": "Duren (ya forjada)"}
 {"key": "script/mp3202#talk_siryu_sub/50", "es": "Duren"}
+{"key": "script/mp3202#talk_siryu_sub/53", "es": "Karna (ya forjada)"}
 {"key": "script/mp3202#talk_siryu_sub/56", "es": "Karna"}
+{"key": "script/mp3202#talk_siryu_sub/59", "es": "Ozma (ya forjada)"}
 {"key": "script/mp3202#talk_siryu_sub/62", "es": "Ozma"}
+{"key": "script/mp3202#talk_siryu_sub/65", "es": "Calilica (ya forjada)"}
 {"key": "script/mp3202#talk_siryu_sub/68", "es": "Calilica"}
+{"key": "script/mp3202#talk_siryu_sub/71", "es": "Frieda (ya forjada)"}
 {"key": "script/mp3202#talk_siryu_sub/74", "es": "Frieda"}
+{"key": "script/mp3202#talk_siryu_sub/82", "es": "¿En serio? Ya te hice una de esas. ¿De verdad necesitas otra? Si lo tienes claro..."}
+{"key": "script/mp3202#talk_siryu_sub/87", "es": "Pedirle otra de todos modos"}
+{"key": "script/mp3202#talk_siryu_sub/88", "es": "Pensarlo un poco más"}
+{"key": "script/mp3202#talk_siryu_sub/96", "es": "Sin problema. Aquí estaré cuando te decidas."}
+{"key": "script/mp3202#talk_siryu_sub/98", "es": "¡Cuídate por ahí!"}
+{"key": "script/mp3202#talk_siryu_sub/105", "es": "Está bien, entonces."}
+{"key": "script/mp3202#talk_siryu_sub/107", "es": "También está la armadura que va a hacer mi maestro."}
+{"key": "script/mp3202#talk_siryu_sub/109", "es": "Dice que puede hacer una para hombres y otra para mujeres... Entonces, ¿cuál quieres?"}
+{"key": "script/mp3202#talk_siryu_sub/114", "es": "La de hombres"}
+{"key": "script/mp3202#talk_siryu_sub/115", "es": "La de mujeres"}
+{"key": "script/mp3202#talk_siryu_sub/116", "es": "Pensarlo un poco más"}
+{"key": "script/mp3202#talk_siryu_sub/122", "es": "Claro. Aquí estaré cuando te decidas."}
+{"key": "script/mp3202#talk_siryu_sub/124", "es": "¡Cuídate por ahí!"}
+{"key": "script/mp3202#talk_siryu_sub/129", "es": "¡Muy bien! Espera, esto no tardará mucho."}
+{"key": "script/mp3202#talk_siryu_sub/138", "es": "¡Ya está! Aquí tienes."}
 {"key": "script/mp3202#talk_siryu_sub/143", "es": "Recibes "}
 {"key": "script/mp3202#talk_siryu_sub/150", "es": "Recibes "}
 {"key": "script/mp3202#talk_siryu_sub/157", "es": "Recibes "}
@@ -69,8 +864,186 @@
 {"key": "script/mp3202#talk_siryu_sub/178", "es": "Recibes "}
 {"key": "script/mp3202#talk_siryu_sub/185", "es": "Recibes "}
 {"key": "script/mp3202#talk_siryu_sub/191", "es": "Recibes "}
+{"key": "script/mp3202#talk_siryu_sub/196", "es": "¡Cuídate por ahí!"}
+{"key": "script/mp3202#talk_siryu_sub/198", "es": "Si encuentras más piedras solares, avísame."}
+{"key": "script/mp3202#talk_siryu_sub/207", "es": "¡Muy bien! Me pongo a trabajar, y-- Espera, ¡¿NO tienes una?! ¡Y yo que ya estaba muy animada!"}
+{"key": "script/mp3202#talk_siryu_sub/209", "es": "Bueno... ¡vuelve cuando encuentres una, supongo!"}
+{"key": "script/mp3202#talk_siryu_sub/214", "es": "Hmm. Parece que no tienes ninguna."}
+{"key": "script/mp3202#talk_siryu_sub/216", "es": "Bueno... ¡vuelve cuando encuentres una, supongo!"}
 {"key": "script/mp3202#talk_hakan/7", "es": "Reforzar/Refinar"}
 {"key": "script/mp3202#talk_hakan/8", "es": "Hablar"}
 {"key": "script/mp3202#talk_hakan/9", "es": "Cancelar"}
+{"key": "script/mp3202#talk_hakan/22", "es": "Jah, no puedo dejar que la pequeña Syriu me gane."}
+{"key": "script/mp3202#talk_hakan/24", "es": "¡Va a tener que esforzarse más que eso si quiere ser mejor que yo!"}
+{"key": "script/mp3202#talk_hakan/29", "es": "Siento que estoy perdiendo un poco el toque desde que le doy tanto trabajo a Syriu."}
+{"key": "script/mp3202#talk_hakan/31", "es": "Quizá yo también debería poner el alma en algo."}
+{"key": "script/mp3202#talk_hakan/36", "es": "Avísame si necesitas algo. Syriu se encarga ahora de todas las tareas menores."}
+{"key": "script/mp3202#talk_hakan/38", "es": "Yo solo me quedo aquí mirándola. ¡Jajaja!"}
+{"key": "script/mp3202#talk_hakan/43", "es": "Syriu está mejorando un montón últimamente."}
+{"key": "script/mp3202#talk_hakan/45", "es": "Todavía le falta ingenio pa' los nombres, pero bah, no importa."}
+{"key": "script/mp3202#talk_hakan/50", "es": "No sé qué le pasa a Syriu últimamente, pero está muy emocionada con algo."}
+{"key": "script/mp3202#talk_hakan/52", "es": "No es nada malo. Me voy a quedar mirando pa' ver qué se le ocurre."}
+{"key": "script/mp3202#talk_hakan/57", "es": "Syriu me pidió usar el área de trabajo, así que la dejo un rato."}
+{"key": "script/mp3202#talk_hakan/59", "es": "No irá a hacer otra cosa rara, ¿o sí?"}
+{"key": "script/mp3202#talk_hakan/65", "es": "¡Oye, me enteré de que lograste probar tu inocencia!"}
+{"key": "script/mp3202#talk_hakan/67", "es": "Y ni siquiera les guardaste rencor a los que sospechaban de ti."}
+{"key": "script/mp3202#talk_hakan/69", "es": "¡Eres un buen muchacho!"}
+{"key": "script/mp3202#talk_hakan/75", "es": "¡Oye, muchacho! Estoy orgulloso de lo que hiciste pa' ayudarnos."}
+{"key": "script/mp3202#talk_hakan/81", "es": "¡Quítate de mi camino, que estoy ocupado!"}
+{"key": "script/mp3202#talk_hakan/83", "es": "¡Si quieres encargar algo, díselo a Syriu!"}
+{"key": "script/mp3202#talk_Ozma/1", "es": "Tengo muchas cosas que considerar, tanto sobre mí como sobre Selray."}
+{"key": "script/mp3202#talk_Ozma/3", "es": "Pero les agradezco de verdad todo lo que ustedes dos hicieron por mí."}
+{"key": "script/mp3202#talk_Ozma/5", "es": "Si alguna vez tienen la oportunidad, vuelvan a pasar por aquí."}
+{"key": "script/mp3202#talk_cecily/4", "es": "¡Muy bien, hora de ponerse a trabajar!"}
+{"key": "script/mp3202#talk_cecily/8", "es": "Rilche me ha estado cuidando todo este tiempo."}
+{"key": "script/mp3202#talk_cecily/10", "es": "Jiji. Bueno... la verdad es que me hizo muy feliz. También me dio vergüenza, claro, pero... agradezco el gesto."}
+{"key": "script/mp3202#talk_cecily/15", "es": "Tendré que detener a esos soldados romunos si intentan montar a los spardas sin permiso otra vez."}
+{"key": "script/mp3202#talk_cecily/17", "es": "...Aunque hoy no está ese hombre del peinado extraño, así que quizá se porten bien."}
+{"key": "script/mp3202#talk_cecily/21", "es": "Todos los spardas adultos están pescando en este momento."}
+{"key": "script/mp3202#talk_cecily/23", "es": "Así que aprovecho para limpiar el lugar."}
+{"key": "script/mp3202#talk_cecily/27", "es": "Creo que los spardas se sorprendieron tanto como nosotros por el cambio repentino de la corriente."}
+{"key": "script/mp3202#talk_cecily/29", "es": "Me pregunto si habrá pasado algo en las Tierras Primigenias que lo causó..."}
+{"key": "script/mp3202#talk_cecily/36", "es": "Ah, Ozma..."}
+{"key": "script/mp3202#talk_cecily/38", "es": "Lamento mucho las molestias, Cecily."}
+{"key": "script/mp3202#talk_cecily/40", "es": "Me siento culpable de dejar el cuidado de los spardas en tus manos durante mi ausencia."}
+{"key": "script/mp3202#talk_cecily/43", "es": "No tienes por qué preocuparte por eso."}
+{"key": "script/mp3202#talk_cecily/45", "es": "Me honra tener el privilegio de cumplir una función tan importante."}
+{"key": "script/mp3202#talk_cecily/47", "es": "Me preocupas más tú. Por favor, cuídate mucho mientras estés fuera."}
+{"key": "script/mp3202#talk_cecily/49", "es": "Todos aquí te quieren mucho."}
+{"key": "script/mp3202#talk_cecily/52", "es": "Lo haré. Lo prometo."}
+{"key": "script/mp3202#talk_cecily/54", "es": "Gracias, Cecily. Te agradezco de verdad tu preocupación."}
+{"key": "script/mp3202#talk_cecily/61", "es": "Ozma, por favor cuídate mucho mientras estés fuera."}
+{"key": "script/mp3202#talk_cecily/63", "es": "Todos aquí te quieren mucho."}
+{"key": "script/mp3202#talk_cecily/67", "es": "A diferencia de Ozma, yo solo puedo darles de comer a los spardas."}
+{"key": "script/mp3202#talk_cecily/69", "es": "Pero los cuidaré con todo mi empeño."}
+{"key": "script/mp3202#talk_cecily/71", "es": "Así que trata de no preocuparte por lo de aquí."}
+{"key": "script/mp3202#talk_cecily/76", "es": "Cuidaré de los spardas hasta que Ozma regrese."}
+{"key": "script/mp3202#talk_cecily/78", "es": "Así que trata de no preocuparte por lo de aquí."}
+{"key": "script/mp3202#talk_cecily/84", "es": "Me enteré de que encontraste al culpable."}
+{"key": "script/mp3202#talk_cecily/86", "es": "Qué alegría haber creído en ti."}
+{"key": "script/mp3202#talk_cecily/88", "es": "Gracias por ahuyentar al culpable de esta aldea."}
+{"key": "script/mp3202#talk_cecily/93", "es": "Qué alegría haber creído en ti."}
+{"key": "script/mp3202#talk_cecily/95", "es": "Gracias por ahuyentar al culpable de esta aldea."}
+{"key": "script/mp3202#talk_cecily/103", "es": "Ten cuidado cuando entres al bosque, Ozma."}
+{"key": "script/mp3202#talk_cecily/105", "es": "Si algo te llegara a pasar, nosotros..."}
+{"key": "script/mp3202#talk_cecily/108", "es": "Entiendo."}
+{"key": "script/mp3202#talk_cecily/110", "es": "No haré nada precipitado. No hay motivo de preocupación."}
+{"key": "script/mp3202#talk_cecily/113", "es": "¿Mmm? ¿Es tu novia?"}
+{"key": "script/mp3202#talk_cecily/116", "es": "...No, es simplemente una amiga de toda la vida, desde que ambos éramos niños pequeños."}
+{"key": "script/mp3202#talk_cecily/118", "es": "Por favor, no te burles de mí con suposiciones falsas."}
+{"key": "script/mp3202#talk_cecily/121", "es": "O-Oh. Claro. Perdón."}
+{"key": "script/mp3202#talk_cecily/126", "es": "...Perdón a ti también, jovencita."}
+{"key": "script/mp3202#talk_cecily/131", "es": "N-No, no pasa nada..."}
+{"key": "script/mp3202#talk_cecily/138", "es": "Si algo te llegara a pasar, nosotros..."}
+{"key": "script/mp3202#talk_cecily/140", "es": "Ten cuidado cuando entres al bosque."}
+{"key": "script/mp3202#talk_cecily/148", "es": "Ah, Adol..."}
+{"key": "script/mp3202#talk_cecily/150", "es": "Eh... Buena suerte con tu investigación..."}
+{"key": "script/mp3202#talk_cecily/152", "es": "Me niego a creer que alguien con quien Ozma desarrolló un vínculo tan estrecho pudiera pensar en envenenar nuestro río."}
+{"key": "script/mp3202#talk_cecily/154", "es": "Así que creo en ti, Adol. Sé que no lo hiciste."}
+{"key": "script/mp3202#talk_cecily/161", "es": "Me niego a creer que alguien con quien Ozma desarrolló un vínculo tan estrecho pudiera pensar en envenenar nuestro río."}
+{"key": "script/mp3202#talk_cecily/163", "es": "Así que creo en ti, Adol. Sé que no lo hiciste."}
+{"key": "script/mp3202#talk_richel/2", "es": "Zezily ha recuperado zu zonriza."}
+{"key": "script/mp3202#talk_richel/4", "es": "Y cuando Zezily zonríe, yo también puedo zonreír."}
+{"key": "script/mp3202#talk_pamera/3", "es": "Últimamente lo único de lo que quiere hablar la gente aquí es de los romunos."}
+{"key": "script/mp3202#talk_pamera/5", "es": "...Lo cual es comprensible, supongo. Nunca habíamos conocido a nadie como ellos."}
+{"key": "script/mp3202#talk_pamera/9", "es": "¿Un mensajero de Romn? Bueno, mientras no esté aquí para traernos desgracias..."}
+{"key": "script/mp3202#talk_pamera/11", "es": "Todavía me inquieta un poco la gente de fuera del bosque, con lo del envenenamiento del río y todo..."}
+{"key": "script/mp3202#talk_pamera/15", "es": "Puede que Cecily tenga mucho que aprender sobre el cuidado de los spardas, pero su dedicación al trabajo es admirable."}
+{"key": "script/mp3202#talk_pamera/17", "es": "Es una buena chica. ¡Estoy tan orgullosa de tenerla como hija!"}
+{"key": "script/mp3202#talk_pamera/21", "es": "Nunca pensé que vería el día en que pudiéramos ver con claridad la orilla opuesta."}
+{"key": "script/mp3202#talk_pamera/23", "es": "He vivido mucho tiempo, pero nunca había visto algo así."}
+{"key": "script/mp3202#talk_pamera/27", "es": "Si buscas a Cecily, está con los spardas."}
+{"key": "script/mp3202#talk_pamera/29", "es": "Siempre ha sido muy trabajadora, así que mientras esté con ellos, no hay de qué preocuparse: estarán bien cuidados."}
+{"key": "script/mp3202#talk_pamera/33", "es": "Me alegra saber que lograste limpiar tu nombre."}
+{"key": "script/mp3202#talk_pamera/35", "es": "Siempre serás bienvenido de vuelta aquí en Selray."}
+{"key": "script/mp3202#talk_pamera/39", "es": "Me enteré de que intentas encontrar a quien envenenó el río."}
+{"key": "script/mp3202#talk_pamera/41", "es": "No quiero creer que lo hiciste tú, y Cecily tampoco."}
+{"key": "script/mp3202#talk_pamera/43", "es": "Así que espero que puedas encontrar al verdadero culpable."}
+{"key": "script/mp3202#talk_hanna/4", "es": "Siempre existe la posibilidad de que los romunos intenten invadir la aldea."}
+{"key": "script/mp3202#talk_hanna/6", "es": "...Pero no hay razón para creer que lo harán."}
+{"key": "script/mp3202#talk_hanna/8", "es": "Evitar el conflicto mediante el entendimiento mutuo es una de las cosas que mejor hacemos los humanos."}
+{"key": "script/mp3202#talk_hanna/13", "es": "Evitar el conflicto mediante el entendimiento mutuo es una de las cosas que mejor hacemos los humanos."}
+{"key": "script/mp3202#talk_hanna/19", "es": "Que los forasteros vengan a la aldea ya no es tan raro como antes."}
+{"key": "script/mp3202#talk_hanna/21", "es": "Hay muchos en la aldea que piensan que eso es malo..."}
+{"key": "script/mp3202#talk_hanna/23", "es": "Pero yo no veo el daño en relacionarse con gente de otros lugares."}
+{"key": "script/mp3202#talk_hanna/28", "es": "Hay muchos en la aldea que ven como algo malo que los forasteros vengan a la aldea..."}
+{"key": "script/mp3202#talk_hanna/30", "es": "Pero yo no veo el daño en relacionarse con gente de otros lugares."}
+{"key": "script/mp3202#talk_hanna/35", "es": "Creo que todos se están acostumbrando a la vida en Selray sin Ozma."}
+{"key": "script/mp3202#talk_hanna/37", "es": "Cambiar de costumbres puede ser difícil, pero si el cambio lleva al crecimiento y la madurez, solo puede ser algo bueno."}
+{"key": "script/mp3202#talk_hanna/41", "es": "No puedo creer que la niebla sobre el río se haya desvanecido..."}
+{"key": "script/mp3202#talk_hanna/43", "es": "La corriente se ha vuelto más lenta y se pesca mejor... pero es un cambio tan drástico que, lo admito, nos tiene a todos algo inquietos."}
+{"key": "script/mp3202#talk_hanna/47", "es": "Cuesta imaginar esta aldea sin Ozma, pero sería egoísta de nuestra parte intentar detenerlo."}
+{"key": "script/mp3202#talk_hanna/49", "es": "Podemos estar sin nuestro líder, pero aún podemos mantener el orden uniendo esfuerzos. Será difícil, pero haremos lo mejor que podamos."}
+{"key": "script/mp3202#talk_hanna/54", "es": "Es bueno que hayas encontrado al verdadero culpable, aunque es una lástima que no hayas podido capturarlo y llevarlo ante la justicia."}
+{"key": "script/mp3202#talk_hanna/56", "es": "Espero que nada como eso vuelva a ocurrir."}
+{"key": "script/mp3202#talk_hanna/58", "es": "...Aun si eso nos diera la oportunidad de capturar al hombre que lo hizo..."}
+{"key": "script/mp3202#talk_hanna/63", "es": "Espero que nada como eso vuelva a ocurrir."}
+{"key": "script/mp3202#talk_hanna/65", "es": "...Aun si eso nos diera la oportunidad de capturar al hombre que lo hizo..."}
+{"key": "script/mp3202#talk_hanna/72", "es": "De verdad no pareces el tipo de persona que envenenaría un río."}
+{"key": "script/mp3202#talk_hanna/74", "es": "Pero supongo que tendré que esperar a ver cómo va tu investigación."}
+{"key": "script/mp3202#talk_seelus/3", "es": "Griselda nos ha asegurado que no nos desea ningún mal."}
+{"key": "script/mp3202#talk_seelus/5", "es": "También dice que le gustaría dejar el Gran Bosque tal como está."}
+{"key": "script/mp3202#talk_seelus/7", "es": "Tendré que visitar Comodo de nuevo en un futuro cercano y hablar del asunto con Asad. Quizá tenga buenas ideas al respecto."}
+{"key": "script/mp3202#talk_seelus/13", "es": "Como le dije a Asad, los romunos parecen ser un grupo muy variado."}
+{"key": "script/mp3202#talk_seelus/15", "es": "Aunque algunos han sido amistosos, hace poco pasó por la aldea un grupo de soldados enmascarados, lo que causó cierta preocupación."}
+{"key": "script/mp3202#talk_seelus/17", "es": "Tendremos que seguir vigilantes."}
+{"key": "script/mp3202#talk_seelus/27", "es": "Quizá hemos dependido demasiado de Ozma todo este tiempo."}
+{"key": "script/mp3202#talk_seelus/29", "es": "Sobre todo desde que murieron sus padres... Debe de haber sido una carga enorme para él."}
+{"key": "script/mp3202#talk_seelus/31", "es": "Sé que no cruzas a las Tierras Primigenias por beneficio egoísta."}
+{"key": "script/mp3202#talk_seelus/33", "es": "Así que no hay motivo para sentir vergüenza. ¡Ve con la frente en alto!"}
+{"key": "script/mp3202#talk_seelus/36", "es": "Gracias por tus amables palabras, Cirrus."}
+{"key": "script/mp3202#talk_seelus/41", "es": "Sé que no cruzas a las Tierras Primigenias por beneficio egoísta."}
+{"key": "script/mp3202#talk_seelus/43", "es": "Así que no hay motivo para sentir vergüenza. ¡Ve con la frente en alto!"}
+{"key": "script/mp3202#talk_seelus/50", "es": "Quizá hemos dependido demasiado de Ozma todo este tiempo."}
+{"key": "script/mp3202#talk_seelus/52", "es": "Sobre todo desde que murieron sus padres... Debe de haber sido duro para él."}
+{"key": "script/mp3202#talk_seelus/54", "es": "Quizá esta sea una buena oportunidad para replantear la forma en que se hacen las cosas aquí."}
+{"key": "script/mp3202#talk_seelus/59", "es": "Quizá esta sea una buena oportunidad para replantear la forma en que se hacen las cosas aquí."}
+{"key": "script/mp3202#talk_seelus/66", "es": "¿Así que el demonio que envenenó el río se llama Gadis? Parece que atraparlo no será nada fácil."}
+{"key": "script/mp3202#talk_seelus/68", "es": "De cualquier modo, está claro que no todos los que vienen de fuera de Selray tienen las mismas intenciones."}
+{"key": "script/mp3202#talk_seelus/70", "es": "Ojalá todos fueran como tú..."}
+{"key": "script/mp3202#talk_seelus/75", "es": "Ah, eres tú otra vez. Gracias por tus esfuerzos recientes."}
+{"key": "script/mp3202#talk_seelus/77", "es": "Ojalá todos los que entraron al bosque fueran como tú..."}
+{"key": "script/mp3202#talk_seelus/83", "es": "¿Piensas encontrar al verdadero culpable?"}
+{"key": "script/mp3202#talk_seelus/85", "es": "Bueno, investiga todo el tiempo que quieras."}
+{"key": "script/mp3202#talk_seelus/87", "es": "Pero si no encuentras a otro culpable, será mejor que te prepares para las consecuencias."}
+{"key": "script/mp3202#talk_seelus/92", "es": "Bueno, investiga todo el tiempo que quieras."}
+{"key": "script/mp3202#talk_seelus/94", "es": "Pero si no encuentras a otro culpable, será mejor que te prepares para las consecuencias."}
+{"key": "script/mp3202#talk_gazock/4", "es": "¡Adol! ¡Me enteré de que demostraste tu inocencia! Me alegro mucho por ti..."}
+{"key": "script/mp3202#talk_gazock/6", "es": "¡Ahora solo te falta recuperar la memoria! Aunque supongo que a esa no se le puede meter prisa."}
+{"key": "script/mp3202#talk_gazock/8", "es": "Tómalo con calma. Deja que todo te vuelva poco a poco."}
+{"key": "script/mp3202#talk_gazock/13", "es": "¡Ahora solo te falta recuperar la memoria! Aunque supongo que a esa no se le puede meter prisa."}
+{"key": "script/mp3202#talk_gazock/15", "es": "Tómalo con calma. Deja que todo te vuelva poco a poco."}
 {"key": "script/mp3202#talk_gazock/55", "es": "¡Oh, Adol!"}
+{"key": "script/mp3202#talk_gazock/57", "es": "¡Qué gusto verte! No pensé que volverías por aquí."}
+{"key": "script/mp3202#talk_gazock/62", "es": "¿Y tú quién eres?"}
+{"key": "script/mp3202#talk_gazock/63", "es": "Mucho gusto."}
+{"key": "script/mp3202#talk_gazock/69", "es": "Me llamo Gazock. Soy--"}
+{"key": "script/mp3202#talk_gazock/72", "es": "...Espera, ¿no hablas en serio, verdad?"}
+{"key": "script/mp3202#talk_gazock/74", "es": "No te olvidaste de mí... ¿o sí?"}
+{"key": "script/mp3202#talk_gazock/79", "es": "Oh, no, el gusto es todo mío. Me llamo Gazock, y..."}
+{"key": "script/mp3202#talk_gazock/87", "es": "...¡¿Espera, por qué me presento si ya nos conocemos?!"}
+{"key": "script/mp3202#talk_gazock/89", "es": "Estás bromeando, ¿verdad?"}
+{"key": "script/mp3202#talk_gazock/91", "es": "No puedes haberte olvidado de mí... ¿o sí?"}
+{"key": "script/mp3202#talk_gazock/95", "es": "En realidad... sí, se olvidó de ti, seguro."}
+{"key": "script/mp3202#talk_gazock/100", "es": "Adol y Duren le explicaron la situación a Gazock."}
+{"key": "script/mp3202#talk_gazock/103", "es": "¿Perdiste tus recuerdos?"}
+{"key": "script/mp3202#talk_gazock/107", "es": "Mmm. Ya veo. Qué terrible..."}
+{"key": "script/mp3202#talk_gazock/110", "es": "Vaya. Eres mucho más comprensivo que los otros aldeanos."}
+{"key": "script/mp3202#talk_gazock/113", "es": "Bueno, Adol y yo nos hicimos buenos amigos la última vez que pasó por aquí."}
+{"key": "script/mp3202#talk_gazock/115", "es": "¡No puedo creer que la gente sospeche que envenenarías el río! Sé que jamás harías algo así."}
+{"key": "script/mp3202#talk_gazock/117", "es": "Ojalá pudiera hacer algo para ayudar."}
+{"key": "script/mp3202#talk_gazock/119", "es": "Pero últimamente he pasado tanto tiempo en el bosque que dudo que alguien crea cualquier defensa que pudiera armar."}
+{"key": "script/mp3202#talk_gazock/122", "es": "¿En el bosque? ¿Qué hacías allí?"}
+{"key": "script/mp3202#talk_gazock/125", "es": "Uno de los intereses de Gazock es explorar ruinas antiguas."}
+{"key": "script/mp3202#talk_gazock/128", "es": "Jaja. Así es."}
+{"key": "script/mp3202#talk_gazock/130", "es": "Viví solo en el bosque hasta hace unas décadas. Me acostumbré bastante, la verdad."}
+{"key": "script/mp3202#talk_gazock/133", "es": "No puede ser... Vaya, debes de ser bastante duro para haber sobrevivido tanto tiempo en un lugar así."}
+{"key": "script/mp3202#talk_gazock/138", "es": "¡Wahaha! ¡Claro que sí!"}
+{"key": "script/mp3202#talk_gazock/140", "es": "¡Por eso la gente me llama \"Gazock el Fuerte\"!"}
+{"key": "script/mp3202#talk_gazock/148", "es": "¡Oh! Pero no dejen que los entretenga."}
+{"key": "script/mp3202#talk_gazock/150", "es": "Parece que tienen cosas más importantes que hacer que quedarse aquí charlando."}
+{"key": "script/mp3202#talk_gazock/153", "es": "Lamentamos también haber ocupado tu tiempo."}
+{"key": "script/mp3202#talk_gazock/158", "es": "Vamos, sigamos preguntando por ahí."}
+{"key": "script/mp3202#talk_gazock/185", "es": "Es terrible enterarme de que perdiste tus recuerdos."}
+{"key": "script/mp3202#talk_gazock/187", "es": "Aun así, trata de no preocuparte demasiado. Preocuparte no te ayudará en nada."}
 {"key": "script/mp3202#lp_board/15", "es": "En el tablero hay varias misiones."}

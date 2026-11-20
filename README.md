@@ -39,6 +39,6 @@ Actualizado: 2026-11-18.
 | Objetos, materiales y habilidades | 1.381 | 1.381 | 100,0 % |
 | Bestiario, nombres y PNJ | 1.267 | 1.267 | 100,0 % |
 | Diario, misiones y recuerdos | 779 | 779 | 100,0 % |
-| Guiones | 14.602 | 7.438 | 50,9 % |
-| **Total** | **19.023** | **11.859** | **62,3 %** |
+| Guiones | 14.602 | 11.027 | 75,5 % |
+| **Total** | **19.023** | **15.448** | **81,2 %** |
 <!-- /loc:progress -->
