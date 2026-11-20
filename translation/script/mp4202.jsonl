@@ -168,12 +168,128 @@
 {"key": "script/mp4202#talk_piremon/87", "es": "Espero que encuentren algo que les ayude a recordar."}
 {"key": "script/mp4202#talk_juriana/3", "es": "¿Qué pasaría si Romn se enterara de la existencia de este pueblo?"}
 {"key": "script/mp4202#talk_juriana/5", "es": "De verdad no quiero que haya una guerra..."}
+{"key": "script/mp4202#talk_juriana/9", "es": "Dicen que esos dos exploradores se fueron a alguna parte."}
+{"key": "script/mp4202#talk_juriana/11", "es": "¡Yo también quería hablar con ellos! Es muy decepcionante."}
+{"key": "script/mp4202#talk_juriana/15", "es": "Esperaba que los romunos fueran arrogantes y engreídos, pero en realidad son bastante educados."}
+{"key": "script/mp4202#talk_juriana/17", "es": "Dan una impresión totalmente distinta a la de aquellos otros soldados, los... enmascarados, como se hayan llamado."}
+{"key": "script/mp4202#talk_juriana/21", "es": "Hasta donde sé, nunca había pasado algo así en Highland."}
+{"key": "script/mp4202#talk_juriana/23", "es": "Todavía me cuesta asimilar los sucesos que hemos visto desarrollarse aquí."}
+{"key": "script/mp4202#talk_juriana/27", "es": "Me sorprendí mucho cuando supe que seguías con vida."}
+{"key": "script/mp4202#talk_juriana/29", "es": "Y no solo eso, ¡lograste volver aquí con tus amigos! Eres una persona realmente especial, Adol Christin."}
 {"key": "script/mp4202#talk_tatiana/3", "es": "¿Qué será de nosotros ahora?"}
+{"key": "script/mp4202#talk_tatiana/5", "es": "¿No nos van a echar, verdad?"}
+{"key": "script/mp4202#talk_tatiana/9", "es": "¡El pueblo está muy animado últimamente, con visitantes de todo tipo llegados de afuera!"}
+{"key": "script/mp4202#talk_tatiana/11", "es": "Es divertido solo mirarlos."}
+{"key": "script/mp4202#talk_tatiana/15", "es": "Todos los soldados con armadura que hay en el pueblo son sorprendentemente amables."}
+{"key": "script/mp4202#talk_tatiana/17", "es": "No se parecen mucho a los romunos de los que nos hablaron en clase."}
+{"key": "script/mp4202#talk_tatiana/21", "es": "Esos de las armaduras vinieron de Romn, ¿verdad?"}
+{"key": "script/mp4202#talk_tatiana/23", "es": "¡Lo sé todo sobre Romn! Allí hay mucha gente violenta, así que mejor me mantengo lejos de ella."}
+{"key": "script/mp4202#talk_tatiana/27", "es": "¿Eres un zombi?"}
+{"key": "script/mp4202#talk_tatiana/29", "es": "¡Lo sé todo sobre los zombis! A veces, cuando la gente muere, sigue moviéndose por ahí y se la llama zombi."}
+{"key": "script/mp4202#talk_velner/2", "es": "¿Así que la gobernadora general pretende mantener este pueblo en secreto ante Romn?"}
+{"key": "script/mp4202#talk_velner/4", "es": "Me pregunto si de verdad lo logrará..."}
+{"key": "script/mp4202#talk_velner/8", "es": "Al parecer, los romunos dejaron escapar a esos dos exploradores."}
+{"key": "script/mp4202#talk_velner/10", "es": "¿Qué estaban haciendo? ¡Se suponía que los vigilaban!"}
+{"key": "script/mp4202#talk_velner/14", "es": "Con todo lo que ha pasado últimamente, ya no tiene mucho sentido vigilar el río."}
+{"key": "script/mp4202#talk_velner/16", "es": "Todos estos exploradores llamando a nuestra puerta... ¡Solo espero que no causen problemas!"}
+{"key": "script/mp4202#talk_velner/20", "es": "Jamás imaginé que llegaría el día en que perderíamos la protección del Santuario de las Tormentas."}
+{"key": "script/mp4202#talk_velner/22", "es": "Me pregunto qué será de este pueblo ahora..."}
+{"key": "script/mp4202#talk_velner/63", "es": "Ah, eres tú, Calilica. Veo que Adol y sus amigos también vienen contigo."}
+{"key": "script/mp4202#talk_velner/65", "es": "¿Vienes a preguntarme algo?"}
+{"key": "script/mp4202#talk_velner/68", "es": "Sí, así es."}
+{"key": "script/mp4202#talk_velner/73", "es": "¡Ah, pero primero debería presentarlos!"}
+{"key": "script/mp4202#talk_velner/75", "es": "Él es Werner. Se encarga de observar el río."}
+{"key": "script/mp4202#talk_velner/80", "es": "¿Observar el río? Me sorprende que haya un trabajo así aquí."}
+{"key": "script/mp4202#talk_velner/82", "es": "Entonces, ¿has visto algo raro por el río últimamente?"}
+{"key": "script/mp4202#talk_velner/89", "es": "Pues sí, de hecho."}
+{"key": "script/mp4202#talk_velner/91", "es": "Hace poco vi a dos individuos vestidos de forma extraña, un hombre y una mujer, en la orilla opuesta."}
+{"key": "script/mp4202#talk_velner/94", "es": "Mmm... ¿Puedes describirlos un poco?"}
+{"key": "script/mp4202#talk_velner/97", "es": "La mujer estaba... digamos que \"ligera de ropa\", y tenía el cabello largo y morado."}
+{"key": "script/mp4202#talk_velner/99", "es": "Y el hombre era enorme, enfundado en una armadura de aspecto indecentemente pesada."}
+{"key": "script/mp4202#talk_velner/101", "es": "Los recuerdo bien porque formaban una combinación muy extraña. ¡Eran como el día y la noche!"}
+{"key": "script/mp4202#talk_velner/107", "es": "Eso suena a..."}
+{"key": "script/mp4202#talk_velner/110", "es": "Ese hombre debe de ser el domador de bestias con quien nos topamos."}
+{"key": "script/mp4202#talk_velner/113", "es": "Sí. Y la mujer debe de ser esa maga."}
+{"key": "script/mp4202#talk_velner/116", "es": "¿Así que esos dos son aliados? No me lo habría imaginado..."}
+{"key": "script/mp4202#talk_velner/119", "es": "¿Ah, ustedes mismos los conocieron?"}
+{"key": "script/mp4202#talk_velner/121", "es": "Lamentablemente, lo único que pude confirmar es que los dos estaban juntos."}
+{"key": "script/mp4202#talk_velner/123", "es": "Estaban en la orilla opuesta, después de todo, así que no pude oír de qué hablaban ni confirmar qué hacían exactamente."}
 {"key": "script/mp4202#talk_velner/126", "es": "Ya veo..."}
+{"key": "script/mp4202#talk_velner/129", "es": "Aun así, al menos ahora sabemos que están conectados de alguna manera."}
+{"key": "script/mp4202#talk_velner/131", "es": "Eso ya es bastante importante por sí solo."}
+{"key": "script/mp4202#talk_velner/133", "es": "¡Gracias por la información!"}
+{"key": "script/mp4202#talk_velner/136", "es": "Ah, no fue nada."}
+{"key": "script/mp4202#talk_velner/138", "es": "Me alegra haber ayudado."}
+{"key": "script/mp4202#talk_velner/141", "es": "¡Mil gracias!"}
+{"key": "script/mp4202#talk_velner/178", "es": "Lo único que pude confirmar es que uno era un hombre y la otra una mujer, y que ambos vestían de manera peculiar. Nada más."}
+{"key": "script/mp4202#talk_velner/180", "es": "Me alegra saber que esa información les sirve."}
+{"key": "script/mp4202#talk_pauel/2", "es": "Si los romunos empezaran a desarrollar las Tierras Primigenias, probablemente no podríamos seguir viviendo aquí."}
+{"key": "script/mp4202#talk_pauel/4", "es": "Pero ¿adónde iríamos?"}
+{"key": "script/mp4202#talk_pauel/8", "es": "Me pregunto si los exploradores que escaparon se dirigen más adentro del bosque en busca de reliquias del Reino de Celceta..."}
+{"key": "script/mp4202#talk_pauel/10", "es": "¡Esos dos parecían tener energía de sobra, eso sí!"}
+{"key": "script/mp4202#talk_pauel/14", "es": "Deben de ser exploradores bastante hábiles para esquivar a los romunos y llegar hasta aquí."}
+{"key": "script/mp4202#talk_pauel/16", "es": "¿O será que los romunos son simplemente... extremadamente estúpidos? De cualquier modo, es la comidilla del pueblo."}
+{"key": "script/mp4202#talk_pauel/20", "es": "Sea cual sea el motivo por el que están aquí, es difícil relajarse con soldados romunos cerca."}
+{"key": "script/mp4202#talk_pauel/22", "es": "Ese ataque al pueblo de ayer... Fue como una pesadilla hecha realidad."}
+{"key": "script/mp4202#talk_soldierA/3", "es": "Cada día hay más gente aquí preocupada por el futuro de este pueblo."}
+{"key": "script/mp4202#talk_soldierA/5", "es": "Me gustaría calmar sus preocupaciones, pero, sinceramente, nosotros tampoco sabemos qué va a pasar."}
+{"key": "script/mp4202#talk_soldierA/9", "es": "Cuando estás bajo techo, es muy fácil olvidar que estás en medio del Gran Bosque."}
+{"key": "script/mp4202#talk_soldierA/11", "es": "¡Pero cuando sales, te cae encima de golpe!"}
+{"key": "script/mp4202#talk_soldierA/15", "es": "Aaah... Este pueblo sí que es relajante."}
+{"key": "script/mp4202#talk_soldierA/17", "es": "Extraño un poco el bullicio de Romn, pero creo que un lugar como este me va mejor."}
+{"key": "script/mp4202#talk_soldierA/21", "es": "¿Parece que estamos holgazaneando? Pues no."}
+{"key": "script/mp4202#talk_soldierA/23", "es": "¡Estamos en nuestro descanso, nada más!"}
+{"key": "script/mp4202#talk_soldierB/3", "es": "Puede que sea soldado, pero sigo siendo una persona. Cuando paso mucho tiempo en un lugar, le agarro bastante cariño."}
+{"key": "script/mp4202#talk_soldierB/5", "es": "No sé qué hará el ejército, pero espero que todo pueda resolverse de forma pacífica."}
+{"key": "script/mp4202#talk_soldierB/9", "es": "¡No puedo creer que dejáramos escapar a esos exploradores! Es una vergüenza."}
+{"key": "script/mp4202#talk_soldierB/11", "es": "No sé cómo podremos compensárselo a la gobernadora general Griselda."}
+{"key": "script/mp4202#talk_soldierB/15", "es": "Hace un rato pasaron por aquí un par de exploradores de aspecto extraño."}
+{"key": "script/mp4202#talk_soldierB/17", "es": "Por ahora están encerrados en la mansión del alcalde."}
+{"key": "script/mp4202#talk_soldierB/21", "es": "¡Vaya, este pueblo sí que es asombroso!"}
+{"key": "script/mp4202#talk_soldierB/23", "es": "Está en lo más profundo del Gran Bosque y aun así cuenta con toda esta tecnología avanzada... ¡Cuesta creer que sea real!"}
+{"key": "script/mp4202#talk_stera/2", "es": "Me pregunto si el señor Eldeel de verdad está bien..."}
+{"key": "script/mp4202#talk_stera/4", "es": "Siento que el alcalde nos oculta algo."}
+{"key": "script/mp4202#talk_stera/9", "es": "Espero que Jill se esté llevando bien con Joel y Amy."}
+{"key": "script/mp4202#talk_stera/11", "es": "Aunque agradezco que piense en heredar el negocio familiar a pesar de su edad..."}
+{"key": "script/mp4202#talk_stera/13", "es": "Ojalá se esforzara un poco más en observarme trabajar. ¡Todavía tiene mucho que aprender!"}
+{"key": "script/mp4202#talk_stera/18", "es": "Agradezco que Jill piense en heredar el negocio familiar a pesar de su edad..."}
+{"key": "script/mp4202#talk_stera/20", "es": "Pero ojalá se esforzara un poco más en observarme trabajar. ¡Todavía tiene mucho que aprender!"}
+{"key": "script/mp4202#talk_stera/25", "es": "Incluso en tiempos como estos, todavía hay trabajo por hacer."}
+{"key": "script/mp4202#talk_stera/27", "es": "*suspiro* Creo que intentaré avanzar un poco más antes de tomar mi descanso."}
+{"key": "script/mp4202#talk_stera/31", "es": "No parece que los romunos pretendan hacernos daño."}
+{"key": "script/mp4202#talk_stera/33", "es": "Aunque por ahora sea así, ¿quién sabe qué traerá el futuro? No podemos bajar la guardia, ni por un instante."}
+{"key": "script/mp4202#talk_stera/38", "es": "Bienvenidos, viajeros."}
+{"key": "script/mp4202#talk_stera/40", "es": "Como pueden ver, este es un lugar donde tejemos telas y confeccionamos ropa."}
+{"key": "script/mp4202#talk_stera/42", "es": "Este oficio se ha transmitido en mi familia por generaciones."}
+{"key": "script/mp4202#talk_stera/47", "es": "Como pueden ver, este es un lugar donde tejemos telas y confeccionamos ropa."}
+{"key": "script/mp4202#talk_stera/49", "es": "Este oficio se ha transmitido en mi familia por generaciones."}
+{"key": "script/mp4202#talk_burton/4", "es": "Este continente de Europa está lleno de criaturas misteriosas y poco estudiadas."}
+{"key": "script/mp4202#talk_burton/6", "es": "Cuanto más investigo el tema, más preguntas nuevas surgen. Cada respuesta lleva a otro par de preguntas."}
+{"key": "script/mp4202#talk_burton/8", "es": "¡Pero eso es lo que hace que esta línea de estudio sea tan... fascinante!"}
+{"key": "script/mp4202#talk_burton/13", "es": "La investigación no tiene fin. Cada respuesta solo lleva a otro par de preguntas."}
+{"key": "script/mp4202#talk_burton/15", "es": "¡Pero eso es lo que hace que esta línea de estudio sea tan... fascinante!"}
+{"key": "script/mp4202#talk_burton/20", "es": "Las ulpacas y los camebulls son ganado que prospera en lugares fríos."}
+{"key": "script/mp4202#talk_burton/22", "es": "Por eso se adaptan bien a la vida en Highland y están creciendo bastante fuertes aquí."}
+{"key": "script/mp4202#talk_burton/26", "es": "Los pikkards resplandecientes tienen la capacidad de almacenar oro en el cuerpo. Eso es lo que les da su brillo."}
+{"key": "script/mp4202#talk_burton/28", "es": "Pero ¿qué factores podrían llevar a un pikkard a hacer algo así? ¿Cómo llegó siquiera a evolucionar de esa manera?"}
+{"key": "script/mp4202#talk_burton/30", "es": "Llevo años tratando de hallar la respuesta, pero sigue tan esquiva como el día en que empecé."}
+{"key": "script/mp4202#talk_burton/34", "es": "El ataque romuno fue verdaderamente aterrador."}
+{"key": "script/mp4202#talk_burton/36", "es": "Hasta el ganado entró en pánico cuando ocurrió. Debieron de percibir lo que pasaba. Igual que yo. ¡Jamás había sentido tanto pavor en el aire!"}
+{"key": "script/mp4202#talk_burton/41", "es": "Hola. Me llamo Barton y estudio los distintos ecosistemas de Highland."}
+{"key": "script/mp4202#talk_burton/43", "es": "Ya nos conocíamos, pero como parece que no lo recuerdas, no veo problema en presentarme de nuevo."}
+{"key": "script/mp4202#talk_burton/45", "es": "Actualmente crío en este edificio ganado raro de todo el continente de Europa."}
+{"key": "script/mp4202#talk_burton/47", "es": "Visítalo cuando quieras si deseas estudiarlo tú mismo."}
+{"key": "script/mp4202#talk_burton/52", "es": "Visítalo cuando quieras si deseas estudiarlo tú mismo."}
+{"key": "script/mp4202#talk_burton/54", "es": "Por favor, siéntanse como en casa."}
+{"key": "script/mp4202#talk_picard/5", "es": "¡Fiuuuiuuuiuuu! ㈱"}
+{"key": "script/mp4202#talk_picard/13", "es": "¡Fiuuuiuuuu! ㈱"}
 {"key": "script/mp4202#talk_picard/21", "es": "Phwee."}
+{"key": "script/mp4202#talk_picard/29", "es": "¡Fiuuuu!"}
+{"key": "script/mp4202#talk_picard/37", "es": "¡¡FIUUUU!!"}
 {"key": "script/mp4202#talk_picard/43", "es": "Darle una fruta o nuez"}
 {"key": "script/mp4202#talk_picard/44", "es": "Pellizcarle la nariz"}
 {"key": "script/mp4202#talk_picard/45", "es": "Cancelar"}
+{"key": "script/mp4202#talk_picard/52", "es": "No tienes nada, así que extiendes la mano para acariciarlo. Te ignora. No tienes el mérito suficiente."}
 {"key": "script/mp4202#talk_picard/59", "es": "Darle una fruta podrida"}
 {"key": "script/mp4202#talk_picard/62", "es": "Darle una nuez de chito"}
 {"key": "script/mp4202#talk_picard/65", "es": "Darle una fruta de raparo"}
@@ -196,10 +312,16 @@
 {"key": "script/mp4202#talk_picard/207", "es": "Recibes "}
 {"key": "script/mp4202#talk_picard/230", "es": "...Parece ofendido."}
 {"key": "script/mp4202#talk_picard/234", "es": "...Parece que no le caes bien."}
+{"key": "script/mp4202#talk_urpaca/6", "es": "¡Beeeeeeeeeeh! ㈱"}
+{"key": "script/mp4202#talk_urpaca/14", "es": "¡Beeeeeh! ㈱"}
+{"key": "script/mp4202#talk_urpaca/22", "es": "Beeeeh..."}
+{"key": "script/mp4202#talk_urpaca/30", "es": "¡Behhh!"}
+{"key": "script/mp4202#talk_urpaca/38", "es": "¡¡BEHHHHH!!"}
 {"key": "script/mp4202#talk_urpaca/44", "es": "Darle una hoja"}
 {"key": "script/mp4202#talk_urpaca/45", "es": "Darle una flor"}
 {"key": "script/mp4202#talk_urpaca/46", "es": "Pellizcarle la nariz"}
 {"key": "script/mp4202#talk_urpaca/47", "es": "Cancelar"}
+{"key": "script/mp4202#talk_urpaca/54", "es": "No tienes nada. Seguro dejaste todas tus cosas en tus otros pantalones de aventurero."}
 {"key": "script/mp4202#talk_urpaca/61", "es": "Darle una hoja podrida"}
 {"key": "script/mp4202#talk_urpaca/64", "es": "Darle una hoja fresca"}
 {"key": "script/mp4202#talk_urpaca/67", "es": "Darle una hoja de Roda"}
@@ -211,6 +333,7 @@
 {"key": "script/mp4202#talk_urpaca/109", "es": "Recibes "}
 {"key": "script/mp4202#talk_urpaca/129", "es": "Parece extasiado."}
 {"key": "script/mp4202#talk_urpaca/133", "es": "Recibes "}
+{"key": "script/mp4202#talk_urpaca/145", "es": "No tienes na... Espera, espera. Quizá tengas algo... quizááá... No, olvídalo. Falsa alarma. No tienes nada."}
 {"key": "script/mp4202#talk_urpaca/152", "es": "Darle una flor marchita"}
 {"key": "script/mp4202#talk_urpaca/155", "es": "Darle una flor de marl"}
 {"key": "script/mp4202#talk_urpaca/158", "es": "Darle una flor de yupel"}
@@ -233,10 +356,16 @@
 {"key": "script/mp4202#talk_urpaca/300", "es": "Recibes "}
 {"key": "script/mp4202#talk_urpaca/323", "es": "...Parece ofendido."}
 {"key": "script/mp4202#talk_urpaca/327", "es": "...Parece que no le caes bien."}
+{"key": "script/mp4202#talk_camebull/6", "es": "*bufbuf* ㈱"}
+{"key": "script/mp4202#talk_camebull/14", "es": "*buf* ㈱"}
+{"key": "script/mp4202#talk_camebull/22", "es": "Hhhpphh..."}
+{"key": "script/mp4202#talk_camebull/30", "es": "*escupitajo*"}
+{"key": "script/mp4202#talk_camebull/38", "es": "¡*escupitajo* *chillido*!"}
 {"key": "script/mp4202#talk_camebull/44", "es": "Darle una hoja"}
 {"key": "script/mp4202#talk_camebull/45", "es": "Darle una flor"}
 {"key": "script/mp4202#talk_camebull/46", "es": "Pellizcarle la nariz"}
 {"key": "script/mp4202#talk_camebull/47", "es": "Cancelar"}
+{"key": "script/mp4202#talk_camebull/54", "es": "No tienes nada, o eso dices. Podrías estar mintiendo. Mintiéndole a una criatura inocente."}
 {"key": "script/mp4202#talk_camebull/61", "es": "Darle una hoja podrida"}
 {"key": "script/mp4202#talk_camebull/64", "es": "Darle una hoja fresca"}
 {"key": "script/mp4202#talk_camebull/67", "es": "Darle una hoja de Roda"}
@@ -248,6 +377,7 @@
 {"key": "script/mp4202#talk_camebull/109", "es": "Recibes "}
 {"key": "script/mp4202#talk_camebull/129", "es": "Parece extasiado."}
 {"key": "script/mp4202#talk_camebull/133", "es": "Recibes "}
+{"key": "script/mp4202#talk_camebull/145", "es": "Creíste tener algo, pero no logras encontrarlo. Quizá Karna se lo comió."}
 {"key": "script/mp4202#talk_camebull/152", "es": "Darle una flor marchita"}
 {"key": "script/mp4202#talk_camebull/155", "es": "Darle una flor de marl"}
 {"key": "script/mp4202#talk_camebull/158", "es": "Darle una flor de yupel"}
@@ -270,11 +400,145 @@
 {"key": "script/mp4202#talk_camebull/300", "es": "Recibes "}
 {"key": "script/mp4202#talk_camebull/323", "es": "...Parece ofendido."}
 {"key": "script/mp4202#talk_camebull/327", "es": "...Parece que no le caes bien."}
+{"key": "script/mp4202#talk_simon/3", "es": "La historia del Imperio Romuno no es más que conquistas y agresión."}
+{"key": "script/mp4202#talk_simon/5", "es": "Si llegaran a enterarse de que parte de la tecnología de Altago proviene de Highland..."}
+{"key": "script/mp4202#talk_simon/7", "es": "De verdad que no logro acostumbrarme a tratar con esos forasteros."}
+{"key": "script/mp4202#talk_simon/12", "es": "Se dice que el rey de Celceta tenía varios vasallos hábiles que le servían."}
+{"key": "script/mp4202#talk_simon/14", "es": "Aunque desde que cayó el reino, nadie sabe quién heredó su linaje."}
+{"key": "script/mp4202#talk_simon/19", "es": "Cuando el Reino de Celceta estaba en su apogeo, al parecer había en el bosque otras aldeas que ya no existen."}
+{"key": "script/mp4202#talk_simon/21", "es": "Aunque el reino estaba bien gobernado en general, hubo numerosos conflictos entre esas aldeas... pero eso es todo lo que sabemos."}
+{"key": "script/mp4202#talk_simon/26", "es": "Jamás imaginé que la Torre de la Providencia pudiera dejar de funcionar..."}
+{"key": "script/mp4202#talk_simon/28", "es": "¿Será posible reactivarla?"}
+{"key": "script/mp4202#talk_simon/38", "es": "Me alegra mucho que estés vivo. Todos temíamos lo peor."}
+{"key": "script/mp4202#talk_simon/40", "es": "Aquí solo hay polvo y viejos sueños, pero, por favor, siéntete como en casa si puedes."}
+{"key": "script/mp4202#talk_bety/3", "es": "La historia del hombre es una historia de guerra. Mientras exista la humanidad, dudo que la guerra llegue a desaparecer del todo."}
+{"key": "script/mp4202#talk_bety/5", "es": "Sin embargo, creo sinceramente que llegará un momento en que ya no haya necesidad de armas."}
+{"key": "script/mp4202#talk_bety/11", "es": "Parece que Amy salió otra vez con Joel y Jill."}
+{"key": "script/mp4202#talk_bety/13", "es": "Seguro que es difícil para Joel tener a dos chicas tras él a su edad..."}
+{"key": "script/mp4202#talk_bety/15", "es": "Pero para alguien que algún día será el cabeza de su familia, nunca es demasiado pronto para aprender a tomar decisiones difíciles."}
+{"key": "script/mp4202#talk_bety/20", "es": "Seguro que es difícil para Joel tener a dos chicas tras él a su edad..."}
+{"key": "script/mp4202#talk_bety/22", "es": "Pero para alguien que algún día será el cabeza de su familia, nunca es demasiado pronto para aprender a tomar decisiones difíciles."}
+{"key": "script/mp4202#talk_bety/28", "es": "El proceso de selección natural se aplica tanto a la naturaleza como a las personas."}
+{"key": "script/mp4202#talk_bety/30", "es": "Pero en las personas engendra odio y resentimiento. En cambio, en la naturaleza no."}
+{"key": "script/mp4202#talk_bety/32", "es": "Por mucho que cambien los tiempos, eso parece ser una verdad eterna."}
+{"key": "script/mp4202#talk_bety/37", "es": "No podía creerlo cuando Mariana me dijo que el señor Eldeel había desaparecido."}
+{"key": "script/mp4202#talk_bety/39", "es": "Si no puede completar el Rito de invocación, ¿qué pasará con el equilibrio del mundo?"}
+{"key": "script/mp4202#talk_bety/49", "es": "Je. Ayer estaba muy emocionado cuando se enteró de que seguías con vida."}
+{"key": "script/mp4202#talk_bety/51", "es": "Es una lástima que no recuerdes haberlo conocido, pero, por favor, intenta ser su amigo si puedes."}
+{"key": "script/mp4202#talk_simon_bety/35", "es": "¡Ah, Adol! Qué gusto verte."}
+{"key": "script/mp4202#talk_simon_bety/40", "es": "Me alegra tanto que estés vivo. Todos aquí temíamos lo peor."}
+{"key": "script/mp4202#talk_simon_bety/45", "es": "Aquí solo hay polvo y viejos sueños, pero, por favor, siéntete como en casa si puedes."}
+{"key": "script/mp4202#talk_simon_bety/54", "es": "¿Nada más que polvo y viejos sueños, eh?"}
+{"key": "script/mp4202#talk_simon_bety/60", "es": "¡Aquí hay demasiados libros como para decir algo así, si me preguntas!"}
+{"key": "script/mp4202#talk_simon_bety/63", "es": "Je. Sí, tengo muchos."}
+{"key": "script/mp4202#talk_simon_bety/66", "es": "Simon y Betty son descendientes de eruditos y las personas más instruidas de todo Highland."}
+{"key": "script/mp4202#talk_simon_bety/68", "es": "Aunque el señor Eldeel toma la decisión final sobre a quién invitar a este pueblo..."}
+{"key": "script/mp4202#talk_simon_bety/70", "es": "...muchas veces pide consejo a Simon y a Betty antes de hacerlo."}
+{"key": "script/mp4202#talk_simon_bety/73", "es": "Vaya... ¿Entonces son como sus consejeros celestiales o algo así?"}
+{"key": "script/mp4202#talk_simon_bety/79", "es": "Ay, no, no somos tan importantes."}
+{"key": "script/mp4202#talk_simon_bety/84", "es": "El señor Eldeel es omnipotente y omnisciente en el sentido más verdadero, como ves."}
+{"key": "script/mp4202#talk_simon_bety/86", "es": "Pero, por eso mismo, no siempre ve las cosas como lo haría un humano."}
+{"key": "script/mp4202#talk_simon_bety/88", "es": "Y ahí es donde entramos nosotros. Le ofrecemos una perspectiva humana de las cosas. Nada más."}
+{"key": "script/mp4202#talk_simon_bety/90", "es": "Francamente, es un honor que nos escuche siquiera."}
 {"key": "script/mp4202#talk_simon_bety/93", "es": "Hmm... Ya veo."}
+{"key": "script/mp4202#talk_simon_bety/95", "es": "¿Cuánto tiempo lleva este Eldeel viviendo en la región?"}
+{"key": "script/mp4202#talk_simon_bety/100", "es": "Bueno, no podría darles una respuesta exacta, pero seguro que son cientos de años."}
+{"key": "script/mp4202#talk_simon_bety/102", "es": "No sé si habrán visto alguna, pero todas las estatuas aladas del Gran Bosque son imágenes del señor Eldeel."}
+{"key": "script/mp4202#talk_simon_bety/105", "es": "¡¿Cientos de años?! Entonces ya debe de ser un viejo muy, muy viejo..."}
+{"key": "script/mp4202#talk_simon_bety/111", "es": "Je. No lo notarían si lo conocieran. Se ve y se comporta como si aún estuviera en la flor de la vida."}
+{"key": "script/mp4202#talk_simon_bety/113", "es": "Tampoco he oído nunca que haya caído enfermo."}
+{"key": "script/mp4202#talk_simon_bety/116", "es": "G-Guau..."}
+{"key": "script/mp4202#talk_simon_bety/121", "es": "Su personalidad es gran parte de por qué todos aquí en Highland lo queremos tanto."}
+{"key": "script/mp4202#talk_simon_bety/123", "es": "Es increíblemente amable y hasta tiene un gran sentido del humor. Conversar con él siempre me tranquiliza."}
+{"key": "script/mp4202#talk_simon_bety/126", "es": "Parece un tipo genial. Digo, un dios."}
+{"key": "script/mp4202#talk_simon_bety/131", "es": "Ah, creo que ya los hemos retenido bastante."}
+{"key": "script/mp4202#talk_simon_bety/136", "es": "Es cierto. Deberíamos dejarlos ir."}
+{"key": "script/mp4202#talk_simon_bety/141", "es": "Pero pueden volver cuando quieran si llegan a necesitar algo."}
+{"key": "script/mp4202#talk_simon_bety/146", "es": "Calilica, seguro que tienes muchos otros lugares que mostrarles, ¿no?"}
+{"key": "script/mp4202#talk_simon_bety/149", "es": "Sí, supongo. Gracias a ambos por su tiempo."}
+{"key": "script/mp4202#talk_dario/2", "es": "Estoy muy preocupado por la salud del señor Eldeel."}
+{"key": "script/mp4202#talk_dario/4", "es": "Ojalá no empeore..."}
+{"key": "script/mp4202#talk_dario/9", "es": "Aunque me pone nervioso entrar en contacto con el mundo exterior, también es bastante emocionante."}
+{"key": "script/mp4202#talk_dario/11", "es": "La vida es más sencilla cuando te quedas en lugares conocidos, ¡pero tiene tan poca emoción!"}
+{"key": "script/mp4202#talk_dario/13", "es": "No puedo evitar pensar que esta podría ser una buena oportunidad para involucrarnos más en los asuntos del mundo exterior."}
+{"key": "script/mp4202#talk_dario/18", "es": "La vida es más sencilla cuando te quedas en lugares conocidos, ¡pero tiene tan poca emoción!"}
+{"key": "script/mp4202#talk_dario/20", "es": "No puedo evitar pensar que esta podría ser una buena oportunidad para involucrarnos más en los asuntos del mundo exterior."}
+{"key": "script/mp4202#talk_dario/26", "es": "Ah, eres tú, Adol. Quitamos tu tumba hace un rato."}
+{"key": "script/mp4202#talk_dario/28", "es": "Parecía de mala suerte tener algo así por aquí, ¿sabes?"}
+{"key": "script/mp4202#talk_dario/30", "es": "La verdad es que es un alivio enorme que ya no esté."}
+{"key": "script/mp4202#talk_dario/35", "es": "Parecía de mala suerte tener una tumba así por aquí, ¿sabes?"}
+{"key": "script/mp4202#talk_dario/37", "es": "La verdad es que es un alivio enorme que ya no esté."}
+{"key": "script/mp4202#talk_dario/43", "es": "Quizá solo fueran disparos de advertencia, pero aun así, ¿qué pretendían lograr al bombardear nuestro pueblo?"}
+{"key": "script/mp4202#talk_dario/45", "es": "Si su objetivo era asustarnos, misión cumplida, sin duda... ¡pero me enoja más de lo que me asusta!"}
+{"key": "script/mp4202#talk_dario/47", "es": "Si hubieran dañado algún edificio, jamás podríamos disculparnos lo bastante con nuestros ancestros por echar a perder su arduo trabajo."}
+{"key": "script/mp4202#talk_dario/52", "es": "Quizá solo fueran disparos de advertencia, pero aun así, ¿qué pretendían lograr al bombardear nuestro pueblo?"}
+{"key": "script/mp4202#talk_dario/54", "es": "Si hubieran dañado algún edificio, jamás podríamos disculparnos lo bastante con nuestros ancestros por echar a perder su arduo trabajo."}
+{"key": "script/mp4202#talk_dario/92", "es": "Disculpa, Dario."}
+{"key": "script/mp4202#talk_dario/99", "es": "¿Mm? ¿Necesitas que yo--?"}
+{"key": "script/mp4202#talk_dario/104", "es": "¡Ah, Adol!"}
+{"key": "script/mp4202#talk_dario/106", "es": "¡J-Justo a tiempo! De hecho, tengo algo que hablar contigo."}
+{"key": "script/mp4202#talk_dario/127", "es": "...Entonces, ¿qué tienes en mente?"}
+{"key": "script/mp4202#talk_dario/130", "es": "E-En realidad, era sobre tu lápida, Adol."}
+{"key": "script/mp4202#talk_dario/132", "es": "Y-Yo fui quien la construyó."}
+{"key": "script/mp4202#talk_dario/137", "es": "Alguien más me pidió que lo hiciera, pero aun así me siento fatal. Espero que su existencia no te haya causado mala suerte."}
+{"key": "script/mp4202#talk_dario/139", "es": "¡Lo siento muchísimo! ¡Por favor, perdóname! ¡Te lo ruego!"}
+{"key": "script/mp4202#talk_dario/153", "es": "Lo que cuenta es la intención."}
+{"key": "script/mp4202#talk_dario/154", "es": "Jamás te perdonaré."}
 {"key": "script/mp4202#talk_dario/162", "es": "¿D-De verdad?"}
+{"key": "script/mp4202#talk_dario/164", "es": "Uf... Me alegra que no estés molesto."}
+{"key": "script/mp4202#talk_dario/167", "es": "¡Ay, qué educado eres!"}
+{"key": "script/mp4202#talk_dario/172", "es": "*gimoteo* ¡Por favor, por favor, perdóname! ¡De verdad no quise hacer daño, te lo juro!"}
+{"key": "script/mp4202#talk_dario/177", "es": "Adol le dijo a Dario que solo bromeaba."}
+{"key": "script/mp4202#talk_dario/185", "es": "*suspiro* Adol, Adol, Adol... ¿Qué vamos a hacer contigo?"}
 {"key": "script/mp4202#talk_dario/191", "es": "Hmm..."}
+{"key": "script/mp4202#talk_dario/199", "es": "¿Pasa algo, Ozma?"}
+{"key": "script/mp4202#talk_dario/204", "es": "Se me vino algo a la mente."}
+{"key": "script/mp4202#talk_dario/206", "es": "¿Había algo enterrado en esa tumba?"}
+{"key": "script/mp4202#talk_dario/219", "es": "Ah, oye, ahora que lo mencionas..."}
+{"key": "script/mp4202#talk_dario/222", "es": "No puede haber un cuerpo ahí dentro, así que... ¿solo hay tierra?"}
+{"key": "script/mp4202#talk_dario/225", "es": "No, nuestra tradición, cuando no hay cuerpo, es enterrar las pertenencias del difun--"}
+{"key": "script/mp4202#talk_dario/237", "es": "Q-Quiero decir, ¡las pertenencias de Adol! Eso es lo que estaba enterrado en su tumba."}
+{"key": "script/mp4202#talk_dario/239", "es": "¡Lo siento muchísimo! Se me escapó, no quise..."}
+{"key": "script/mp4202#talk_dario/248", "es": "¡Está bien, está bien! Lo entendemos perfectamente."}
+{"key": "script/mp4202#talk_dario/251", "es": "Mmm... Las pertenencias de Adol..."}
+{"key": "script/mp4202#talk_dario/254", "es": "De antes de que perdiera la memoria, nada menos."}
+{"key": "script/mp4202#talk_dario/256", "es": "Quizá haya información nueva que descubrir en ellas."}
+{"key": "script/mp4202#talk_dario/259", "es": "E-En serio, voy a decirle al alcalde que retire esa tumba muy pronto."}
+{"key": "script/mp4202#talk_dario/261", "es": "¡Así que, por favor, espera un poquito más! ¡Por favor!"}
+{"key": "script/mp4202#talk_dario/270", "es": "Adol, creo que deberíamos irnos ya... Por el bien de Dario, al menos."}
+{"key": "script/mp4202#talk_dario/273", "es": "Sí, me parece buena idea. No queremos que el pobre sufra un infarto."}
+{"key": "script/mp4202#talk_dario/310", "es": "En cuanto el alcalde dé su visto bueno, haré que quiten esa tumba de inmediato."}
+{"key": "script/mp4202#talk_dario/312", "es": "¡Lo siento muchísimo, pero, por favor, aguanta un poco más!"}
+{"key": "script/mp4202#talk_etan/13", "es": "La gente con nombres que empiezan con \"Q\", \"U\" y \"Z\"... Están por ahí, en alguna parte. Observando. Esperando. ¡Llamándome con voces de ángeles!"}
+{"key": "script/mp4202#talk_etan/19", "es": "El mundo está lleno de personas muy interesantes con nombres muy interesantes."}
+{"key": "script/mp4202#talk_etan/21", "es": "Me encantaría conocer en persona a Quincy, Ursula y Zara algún día. Y quizá, solo quizá, ese día llegue..."}
+{"key": "script/mp4202#talk_etan/27", "es": "El señor Eldeel sigue sin mejorar, ¿verdad?"}
+{"key": "script/mp4202#talk_etan/29", "es": "Espero de verdad que mejore pronto."}
+{"key": "script/mp4202#talk_etan/34", "es": "Me pregunto cómo será el mundo fuera de Highland. He leído sobre él en libros, pero me encantaría verlo con mis propios ojos."}
+{"key": "script/mp4202#talk_etan/36", "es": "...Aunque de verdad no quiero que me arrastren a ninguna disputa."}
+{"key": "script/mp4202#talk_etan/42", "es": "Todos los que llegan a Highland siempre quedan especialmente asombrados con este edificio."}
+{"key": "script/mp4202#talk_etan/44", "es": "¡Debe de ser una gran sensación que tu trabajo cause asombro y admiración en tanta gente!"}
+{"key": "script/mp4202#talk_etan/46", "es": "Me enorgullece mucho tener unos ancestros tan increíbles."}
+{"key": "script/mp4202#talk_etan/51", "es": "¡Debe de ser una gran sensación que tu trabajo cause asombro y admiración en tanta gente!"}
+{"key": "script/mp4202#talk_etan/53", "es": "Me enorgullece mucho tener unos ancestros tan increíbles."}
+{"key": "script/mp4202#talk_etan/59", "es": "Si hubiéramos tenido muchos apóstoles, seguro que habrían podido usar su magia para superar a esos soldados y someterlos al instante."}
+{"key": "script/mp4202#talk_etan/61", "es": "¡La victoria es de quien tiene mayor cantidad, después de todo!"}
+{"key": "script/mp4202#talk_etan/66", "es": "Cuando crezca, quiero dedicarme a la arquitectura."}
+{"key": "script/mp4202#talk_etan/68", "es": "Mi padre, mi abuelo y mi bisabuelo fueron todos arquitectos, y me encantaría seguir sus pasos."}
 {"key": "script/mp4202#lp_board/15", "es": "En el tablero hay varias misiones."}
+{"key": "script/mp4202#subev_In_Factory/62", "es": "¿Esto es... algún tipo de tienda?"}
+{"key": "script/mp4202#subev_In_Factory/65", "es": "Bueno, técnicamente, sí."}
+{"key": "script/mp4202#subev_In_Factory/67", "es": "Este es el Taller de Philemon, y el personal de aquí se encarga de toda la maquinaria de Highland."}
+{"key": "script/mp4202#subev_In_Factory/70", "es": "¿Ma...qui...naria?"}
+{"key": "script/mp4202#subev_In_Factory/73", "es": "Ah, ¿no están familiarizados con las máquinas?"}
+{"key": "script/mp4202#subev_In_Factory/76", "es": "Bueno, Karna y Ozma son del bosque y viven de la tierra, así que nunca han visto máquinas como las de aquí."}
+{"key": "script/mp4202#subev_In_Factory/78", "es": "¿Entonces tú sí las has visto, supongo?"}
+{"key": "script/mp4202#subev_In_Factory/81", "es": "Sí. Las máquinas son, eh..."}
+{"key": "script/mp4202#subev_In_Factory/83", "es": "Unos aparatitos complicados que hacen cosas. En pocas palabras."}
 {"key": "script/mp4202#subev_In_Factory/86", "es": "Ya veo..."}
+{"key": "script/mp4202#subev_In_Factory/88", "es": "...que tu explicación no sirvió de nada."}
+{"key": "script/mp4202#subev_In_Factory/94", "es": "Y ahí lo tienen."}
+{"key": "script/mp4202#subev_In_Factory/96", "es": "¡Es una lástima que tu cerebro no sea tan grande como tu cuerpo, porque serías todo un genio!"}
 {"key": "script/mp4202#subev_In_Factory/164", "es": "Ya veo..."}
 {"key": "script/mp4202#subev_In_Gazock_Shop/95", "es": "En fin..."}
 {"key": "script/mp4202#subev_In_Gazock_Shop/107", "es": "¡¿Qué?!"}
