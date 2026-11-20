@@ -249,3 +249,5 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Gllia | Gllia | Decidido (G-2), DECISIONS 2026-11-20 | Región; nombre sin traducir. Gentilicio «Gllian» → «glliano/glliana». |
 | Garmanic | garmánico | Decidido (G-2), DECISIONS 2026-11-20 | Gentilicio; concuerda («madre garmánica»). |
 | Anti-Aging Elixir | elixir antienvejecimiento | Decidido, DECISIONS 2026-11-20 | Objeto de misión en guiones; en minúscula dentro de la frase. |
+| Black Key | Llave Negra | Decidido (G-2), DECISIONS 2026-11-20 | Objeto de la historia; como «Archivos Negros». |
+| minions | secuaces | Decidido, DECISIONS 2026-11-20 | Como en `text/monslib#E0114/descripcion`. |

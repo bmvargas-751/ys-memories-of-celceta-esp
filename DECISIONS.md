@@ -51,3 +51,4 @@ Lo que el usuario decidió, con fecha, para no volver a discutirlo. Una regla de
 - **2026-11-20** Lote guiones-036 (orquestador, por delegación): «Devil's Tower» → «Torre del Diablo» (solo sale en guiones). Cuando el inglés no aclara si «you» es uno o varios, decide el japonés (皆さん, お前たち → ustedes).
 - **2026-11-20** Lote guiones-037 (orquestador, por delegación): Adol trata de *usted* a Eldeel, como el resto del grupo (Ozma, Calilica, Frieda, Leeza) y como Adol con Griselda; Eldeel tutea a todos.
 - **2026-11-20** Lote guiones-040 (orquestador, por delegación): «Gllia» se mantiene (gentilicio «glliano/glliana»), «Garmanic» → «garmánico/garmánica», «Anti-Aging Elixir» → «elixir antienvejecimiento». «Save her!» → «¡Rescátenla!» (el «Guardar» de G-3 es solo el del menú).
+- **2026-11-20** Lote guiones-041 (orquestador, por delegación): «Black Key» → «Llave Negra»; «minions» → «secuaces» (como en el bestiario).

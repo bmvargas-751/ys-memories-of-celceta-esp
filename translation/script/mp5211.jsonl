@@ -436,11 +436,219 @@
 {"key": "script/mp5211#talk_yami_sebrina/95", "es": "...¿Por qué me lo preguntas a mí?"}
 {"key": "script/mp5211#talk_yami_sebrina/98", "es": "*suspiro* Creo que ya terminamos aquí."}
 {"key": "script/mp5211#talk_yami_sebrina/101", "es": "Sí. Probablemente deberíamos irnos ya."}
+{"key": "script/mp5211#talk_kenzo/5", "es": "¡Duren! ¡Volviste!"}
+{"key": "script/mp5211#talk_kenzo/7", "es": "Veo que también trajiste visitas."}
+{"key": "script/mp5211#talk_kenzo/9", "es": "¿Vinieron a comprar algo?"}
+{"key": "script/mp5211#talk_kenzo/12", "es": "Nah, por ahora solo les estamos mostrando el lugar."}
+{"key": "script/mp5211#talk_kenzo/14", "es": "Pero seguro volveremos pronto."}
+{"key": "script/mp5211#talk_kenzo/17", "es": "Está bien. Avísame cuando quieras."}
+{"key": "script/mp5211#talk_kenzo/19", "es": "Armas, armaduras, objetos... Si lo necesitas, es probable que lo vendamos. Solo avísame si necesitas algo."}
+{"key": "script/mp5211#talk_kenzo/25", "es": "Armas, armaduras, objetos... Si alguna vez necesitas comprar algo, solo dilo."}
+{"key": "script/mp5211#talk_kenzo/27", "es": "Haré todo lo que pueda para ayudar."}
 {"key": "script/mp5211#talk_kenzo/36", "es": "Comprar/Intercambiar"}
 {"key": "script/mp5211#talk_kenzo/37", "es": "Hablar"}
 {"key": "script/mp5211#talk_kenzo/38", "es": "Cancelar"}
+{"key": "script/mp5211#talk_kenzo/48", "es": "Lo único que puedo hacer es venderles objetos, ¡pero lo haré con ganas! ¡Apoyarlos es mi prioridad número uno!"}
+{"key": "script/mp5211#talk_kenzo/50", "es": "No se puede permitir que usen el nombre de \"lóbregos\". ¡Es simplemente... asqueroso!"}
+{"key": "script/mp5211#talk_kenzo/55", "es": "Parece que esos dos exploradores llegaron hasta aquí desde Casnan."}
+{"key": "script/mp5211#talk_kenzo/57", "es": "No parecen especialmente fuertes, pero si llegaron tan lejos, no hay que subestimarlos."}
+{"key": "script/mp5211#talk_kenzo/62", "es": "No quería creerlo, pero parece que Gruda de verdad iba tras los Registros Akáshicos."}
+{"key": "script/mp5211#talk_kenzo/64", "es": "Hay gente capaz de las cosas más impactantes. Hace poco alguien también se llevó la Llave Negra de aquí."}
+{"key": "script/mp5211#talk_yunyu/3", "es": "Qué alegría ver que esos dos exploradores se han reencontrado."}
+{"key": "script/mp5211#talk_yunyu/5", "es": "¡Final feliz para todos!"}
+{"key": "script/mp5211#talk_yunyu/9", "es": "Cuando mi hermano mayor se emociona, a mí también se me enciende el ánimo. ¡Es mi mejor amigo!"}
+{"key": "script/mp5211#talk_yunyu/11", "es": "Ese explorador también se separó de su mejor amigo. Eso me pondría triste."}
+{"key": "script/mp5211#talk_yunyu/13", "es": "Ojalá alguien les eche una mano."}
+{"key": "script/mp5211#talk_yunyu/17", "es": "Esos dos exploradores parecían algo faltos de inteligencia, pero hacen un buen equipo."}
+{"key": "script/mp5211#talk_yunyu/19", "es": "¡Ojalá yo tuviera un compañero medio tonto!"}
+{"key": "script/mp5211#talk_yunyu/24", "es": "Ese Gruda es un verdadero necio."}
+{"key": "script/mp5211#talk_yunyu/26", "es": "Se fue de la aldea antes de que yo naciera, así que sé poco de los detalles, pero... bueno, sé lo suficiente para saber que solo trae problemas."}
+{"key": "script/mp5211#talk_yunyu/28", "es": "No hay excusa para causar problemas así. ¡Es un completo disparate!"}
+{"key": "script/mp5211#talk_yunyu/33", "es": "Ese Gruda es un verdadero necio."}
+{"key": "script/mp5211#talk_yunyu/35", "es": "No hay excusa para causar problemas así. ¡Es un completo disparate!"}
+{"key": "script/mp5211#talk_yunyu/41", "es": "¡Qué rareza! Nunca había visto a nadie de cabello rojo por aquí."}
+{"key": "script/mp5211#talk_yunyu/43", "es": "¿Mm? ¿Será tu primera vez en Danan?"}
+{"key": "script/mp5211#talk_yunyu/45", "es": "Bueno, no te emociones demasiado con todas las cosas raras de aquí. No queremos problemas."}
+{"key": "script/mp5211#talk_yunyu/50", "es": "Parece que es tu primera vez en Danan."}
+{"key": "script/mp5211#talk_yunyu/52", "es": "Bueno, no te emociones demasiado con todas las cosas raras de aquí. No queremos problemas."}
+{"key": "script/mp5211#talk_dante/3", "es": "No se puede permitir que Gruda haga lo que quiera con los Registros Akáshicos."}
+{"key": "script/mp5211#talk_dante/5", "es": "Por favor, asegúrense de que no escape sin castigo."}
+{"key": "script/mp5211#talk_dante/9", "es": "El poder de la División Enmascarada es una mera imitación de la verdadera fuerza."}
+{"key": "script/mp5211#talk_dante/11", "es": "Cuando uno perfecciona sus habilidades, también perfecciona su espíritu. Y la fuerza bruta, sin el espíritu que la acompañe, es algo frágil."}
+{"key": "script/mp5211#talk_dante/15", "es": "No puedo creer que alguien quiera llamarse lóbrego en estos tiempos. ¡Nunca había oído algo tan ridículo!"}
+{"key": "script/mp5211#talk_dante/17", "es": "Seguro que no ignoran las implicaciones de lo que están haciendo..."}
+{"key": "script/mp5211#talk_dante/24", "es": "Ah, eres tú, Duren."}
+{"key": "script/mp5211#talk_dante/26", "es": "Veo que has perfeccionado tus habilidades desde la última vez que nos vimos."}
+{"key": "script/mp5211#talk_dante/29", "es": "¿Se nota a simple vista, eh? ¡El bueno de Dante!"}
+{"key": "script/mp5211#talk_dante/32", "es": "Bueno, soy un guerrero, después de todo."}
+{"key": "script/mp5211#talk_dante/34", "es": "Frieda también ha perfeccionado sus habilidades mientras estabas fuera, ¿sabes?"}
+{"key": "script/mp5211#talk_dante/36", "es": "Me pregunto quién ganaría en una pelea..."}
+{"key": "script/mp5211#talk_dante/41", "es": "Seguro que Duren ganaría."}
+{"key": "script/mp5211#talk_dante/42", "es": "Seguro que Frieda ganaría."}
+{"key": "script/mp5211#talk_dante/48", "es": "¿Ah, sí? ¡Me hieres, Adol!"}
+{"key": "script/mp5211#talk_dante/50", "es": "¿Qué tal si salimos y lo comprobamos de una vez?"}
+{"key": "script/mp5211#talk_dante/55", "es": "Pues ya lo ves, Duren."}
+{"key": "script/mp5211#talk_dante/58", "es": "¡Oye, creía que éramos compañeros! ¡¿De pronto soy el segundón de la señorita de Danan?!"}
+{"key": "script/mp5211#talk_dante/61", "es": "Jijiji. Bueno, ¿qué tal si salimos y lo comprobamos de una vez?"}
+{"key": "script/mp5211#talk_dante/67", "es": "Y-Yo creo que paso..."}
+{"key": "script/mp5211#talk_dante/69", "es": "¡Además, no podría pelear en serio contra una mujer!"}
+{"key": "script/mp5211#talk_dante/72", "es": "¿Ah, no podrías? Jijiji... ¡Qué aburrido!"}
+{"key": "script/mp5211#talk_dante/78", "es": "Me pregunto quién ganaría si Duren y Frieda pelearan entre sí..."}
+{"key": "script/mp5211#talk_dante/80", "es": "Considerando que usan armas completamente distintas, es prácticamente imposible comparar su fuerza directamente. ¡Así que es difícil de decir!"}
+{"key": "script/mp5211#talk_yuno/3", "es": "Este es el comienzo de la batalla final y decisiva, de la que todo depende. Den lo mejor de ustedes."}
+{"key": "script/mp5211#talk_yuno/5", "es": "Pueden lograrlo. Si piensan en positivo, los resultados positivos llegarán sin falta."}
+{"key": "script/mp5211#talk_yuno/9", "es": "Aunque sea una copia, Gruda es una especie de genio loco por poder fabricar una máscara que saca a la luz la fuerza latente de una persona."}
+{"key": "script/mp5211#talk_yuno/11", "es": "Aunque dudo que me guste mucho la FORMA en que se extrae esa fuerza..."}
+{"key": "script/mp5211#talk_yuno/15", "es": "Gruda es un verdadero necio, al adoptar el nombre de los lóbregos y repetir exactamente los mismos errores que cometieron nuestros ancestros."}
+{"key": "script/mp5211#talk_yuno/17", "es": "Intentar justificar sus pecados pecando aún más es... inconcebible para mí."}
+{"key": "script/mp5211#talk_yuno/22", "es": "Oh, hola. No estamos acostumbrados a recibir visitas aquí."}
+{"key": "script/mp5211#talk_yuno/24", "es": "Parece que sabes manejar la espada, y bastante bien."}
+{"key": "script/mp5211#talk_yuno/26", "es": "Quizá ya lo sepas, pero lo que se aprende en las artes marciales sirve en todos los ámbitos de la vida. ¡Así que nunca olvides entrenar!"}
+{"key": "script/mp5211#talk_yuno/31", "es": "Parece que sabes manejar la espada, y bastante bien."}
+{"key": "script/mp5211#talk_yuno/33", "es": "Quizá ya lo sepas, pero lo que se aprende en las artes marciales sirve en todos los ámbitos de la vida. ¡Así que nunca olvides entrenar!"}
+{"key": "script/mp5211#talk_sheril/3", "es": "Esa Espada Artefacto está hecha del mismo material que las herramientas que usamos para la magia."}
+{"key": "script/mp5211#talk_sheril/5", "es": "Creo que el material en sí no se encuentra en ningún lugar de este continente, así que es único."}
+{"key": "script/mp5211#talk_sheril/7", "es": "Asegúrate de cuidarla bien."}
+{"key": "script/mp5211#talk_sheril/11", "es": "Parece que cerca de Elduke viven monstruos llamados roos. ¿Has visto alguno antes?"}
+{"key": "script/mp5211#talk_sheril/13", "es": "Dicen que son muy tiernos. ¡Me gustaría ver uno con mis propios ojos!"}
+{"key": "script/mp5211#talk_sheril/17", "es": "Fue la primera vez en mucho tiempo que veía a Gruda. De verdad ha cambiado..."}
+{"key": "script/mp5211#talk_sheril/19", "es": "Naturalmente su aspecto es distinto, pero su expresión es más... penetrante, como si te atravesara con la mirada. ¡Da miedo!"}
+{"key": "script/mp5211#talk_sheril/26", "es": "¿Así que tú eres Adol?"}
+{"key": "script/mp5211#talk_sheril/28", "es": "De verdad tienes un cabello rojo tan brillante como me habían contado."}
+{"key": "script/mp5211#talk_sheril/30", "es": "Me llamo Rien. Es un placer conocerte."}
+{"key": "script/mp5211#talk_sheril/32", "es": "Vivo aquí con mi hermano menor. Puedes venir a visitarnos cuando quieras."}
+{"key": "script/mp5211#talk_sheril/39", "es": "Vivo aquí con mi hermano menor. Puedes venir a visitarnos cuando quieras."}
+{"key": "script/mp5211#talk_sheril/41", "es": "...Aunque la verdad es que no tengo mucho que ofrecerte."}
+{"key": "script/mp5211#talk_mero/3", "es": "¿Conociste a un roo grande? ¿Y te dio un tesoro? ¡¿En serio?!"}
+{"key": "script/mp5211#talk_mero/5", "es": "¡Qué envidia!"}
+{"key": "script/mp5211#talk_mero/9", "es": "Alguien dijo que hay un artefacto que permite hablar con los roos de Elduke."}
+{"key": "script/mp5211#talk_mero/11", "es": "¡Lo quiero, lo quiero, lo quiero!"}
+{"key": "script/mp5211#talk_mero/15", "es": "La gente decía que Gruda era un \"prodigio\"..."}
+{"key": "script/mp5211#talk_mero/17", "es": "...¿Qué es un prodigio?"}
+{"key": "script/mp5211#talk_mero/21", "es": "Mi mamá y mi papá tuvieron que irse muy lejos a trabajar."}
+{"key": "script/mp5211#talk_mero/23", "es": "Jeje. ¿A que es genial?"}
+{"key": "script/mp5211#talk_iraiza/3", "es": "Cuando derroten a Gruda, tienen que volver aquí y cenar con todos nosotros."}
+{"key": "script/mp5211#talk_iraiza/5", "es": "¡Que la promesa de una comida deliciosa guíe su mano y los lleve a la victoria!"}
+{"key": "script/mp5211#talk_iraiza/9", "es": "Gruda era adorable de niño. Sabía perfectamente distinguir el bien del mal, y todos lo querían."}
+{"key": "script/mp5211#talk_iraiza/11", "es": "Entonces, ¿cómo terminó así? Por más que pase el tiempo, no puedo dejar de preguntarme qué se rompió dentro de él..."}
+{"key": "script/mp5211#talk_iraiza/16", "es": "Me dicen que van a Elduke."}
+{"key": "script/mp5211#talk_iraiza/18", "es": "El Bosque de Ceniza ya está lleno de peligros, pero la zona de Elduke en particular está plagada de monstruos."}
+{"key": "script/mp5211#talk_iraiza/20", "es": "Normalmente ni se nos pasaría por la cabeza acercarnos allí, pero si de verdad tienen que ir, al menos tomen todas las precauciones posibles."}
+{"key": "script/mp5211#talk_iraiza/25", "es": "El Bosque de Ceniza ya está lleno de peligros, pero la zona de Elduke en particular está plagada de monstruos."}
+{"key": "script/mp5211#talk_iraiza/27", "es": "Normalmente ni se nos pasaría por la cabeza acercarnos allí, pero si de verdad tienen que ir, al menos tomen todas las precauciones posibles."}
+{"key": "script/mp5211#talk_iraiza/32", "es": "Siéntanse como en casa."}
+{"key": "script/mp5211#talk_iraiza/34", "es": "¡Con tantos jóvenes por aquí, me siento más enérgica que nunca! ㈱"}
+{"key": "script/mp5211#talk_vanjo/4", "es": "Ah, ya volvieron. ¿Cómo va la situación?"}
+{"key": "script/mp5211#talk_vanjo/7", "es": "El grupo le explicó todo lo que había sucedido."}
+{"key": "script/mp5211#talk_vanjo/12", "es": "Entonces solo falta que vayan al Templo del Sol..."}
+{"key": "script/mp5211#talk_vanjo/14", "es": "¿De verdad tienen tiempo para hablar conmigo, entonces? ¡Parece que tienen asuntos más importantes que atender!"}
+{"key": "script/mp5211#talk_vanjo/16", "es": "Que la fortuna les sonría en el enfrentamiento final."}
+{"key": "script/mp5211#talk_vanjo/22", "es": "Entonces solo falta que vayan al Templo del Sol..."}
+{"key": "script/mp5211#talk_vanjo/24", "es": "¿De verdad tienen tiempo para hablar conmigo, entonces? ¡Parece que tienen asuntos más importantes que atender!"}
+{"key": "script/mp5211#talk_vanjo/26", "es": "Que la fortuna les sonría en el enfrentamiento final."}
+{"key": "script/mp5211#talk_vanjo/32", "es": "Ah, ya volvieron. ¿Cómo va la situación?"}
+{"key": "script/mp5211#talk_vanjo/35", "es": "El grupo le explicó todo lo que había sucedido."}
+{"key": "script/mp5211#talk_vanjo/38", "es": "¿Así que necesitan esta \"Máscara de la Luna\" para entrar al Templo del Sol?"}
+{"key": "script/mp5211#talk_vanjo/40", "es": "Debo admitir que no sabía de la conexión del otro señor Eldeel con Gruda. Ahora que lo pienso, tiene sentido."}
+{"key": "script/mp5211#talk_vanjo/42", "es": "De todos modos, ya saben lo que hay que hacer. Ahora solo queda hacerlo."}
+{"key": "script/mp5211#talk_vanjo/44", "es": "No duden de ustedes mismos. Hagan lo que deben. Pongamos fin a esta prueba de una vez por todas."}
+{"key": "script/mp5211#talk_vanjo/50", "es": "Debo admitir que no sabía de la conexión del otro señor Eldeel con Gruda. Ahora que lo pienso, tiene sentido."}
+{"key": "script/mp5211#talk_vanjo/52", "es": "De todos modos, ya saben lo que hay que hacer. Ahora solo queda hacerlo."}
+{"key": "script/mp5211#talk_vanjo/54", "es": "No duden de ustedes mismos. Hagan lo que deben. Pongamos fin a esta prueba de una vez por todas."}
+{"key": "script/mp5211#talk_vanjo/60", "es": "Al otro lado del Bosque de Ceniza se encuentra la antigua capital del Reino de Celceta, Elduke."}
+{"key": "script/mp5211#talk_vanjo/62", "es": "En el centro se alza el \"Templo del Sol\", donde residía el señor Eldeel."}
+{"key": "script/mp5211#talk_vanjo/64", "es": "El viaje hasta allí no será fácil, pero sé que pueden lograrlo."}
+{"key": "script/mp5211#talk_vanjo/66", "es": "Cuídense todos."}
+{"key": "script/mp5211#talk_vanjo/71", "es": "El viaje de Danan a Elduke no será fácil, pero sé que pueden lograrlo."}
+{"key": "script/mp5211#talk_vanjo/73", "es": "Cuídense todos."}
+{"key": "script/mp5211#talk_rabit/3", "es": "¡Jijiji, llegó la hora de tu castigo! ㈱"}
+{"key": "script/mp5211#talk_rabit/8", "es": "*silbido* ¡No importa dónde se haga, ir de compras siempre es muy divertido! ♪"}
+{"key": "script/mp5211#talk_pigeon/14", "es": "Por favor, hagan lo que puedan para encontrar a mi compañera."}
+{"key": "script/mp5211#talk_pigeon/16", "es": "¡Son su única esperanza!"}
+{"key": "script/mp5211#talk_pigeon/21", "es": "Lamento que mi compañera te cause tantos problemas, pero por favor no dejes de perseguirla."}
+{"key": "script/mp5211#talk_pigeon/27", "es": "No quiero soportar... su castigo..."}
+{"key": "script/mp5211#talk_pigeon/32", "es": "Me pregunto si alguien responderá a mi petición..."}
+{"key": "script/mp5211#talk_pigeon/38", "es": "Jajaja... Nunca he conocido a nadie más despreocupado que Rabbit."}
+{"key": "script/mp5211#talk_pigeon/40", "es": "Hemos pasado por mucho juntos, y la verdad es una bendición tenerla a mi lado."}
 {"key": "script/mp5211#lp_board/15", "es": "En el tablero hay varias misiones."}
+{"key": "script/mp5211#SUB_In_Tower/61", "es": "¡Guau! ¡¿Qué es este lugar?!"}
+{"key": "script/mp5211#SUB_In_Tower/64", "es": "Se parece muchísimo a la habitación del señor Eldeel."}
+{"key": "script/mp5211#SUB_In_Tower/66", "es": "¡Pero aquí parece haber una colección de libros aún más grande!"}
+{"key": "script/mp5211#SUB_In_Tower/69", "es": "Ji. ¿Sorprendidos? A este edificio lo llamamos los \"Archivos Negros\"."}
+{"key": "script/mp5211#SUB_In_Tower/72", "es": "¿Los Archivos Negros?"}
+{"key": "script/mp5211#SUB_In_Tower/75", "es": "Sí. Este lugar es como una colección de toda la historia y el conocimiento de Danan."}
+{"key": "script/mp5211#SUB_In_Tower/78", "es": "¿También recopilan aquí información sobre el mundo exterior?"}
+{"key": "script/mp5211#SUB_In_Tower/81", "es": "Sí. Aunque dejaré que el anciano les dé más detalles."}
+{"key": "script/mp5211#SUB_In_Tower/83", "es": "Los Archivos Negros y lo que contienen están estrechamente ligados a nuestro propósito en esta aldea."}
+{"key": "script/mp5211#SUB_In_Tower/92", "es": "Saben... esto me ha estado molestando desde que llegamos..."}
+{"key": "script/mp5211#SUB_In_Tower/94", "es": "Necesito saberlo. ¿Cómo llegaste de aquí a Casnan?"}
+{"key": "script/mp5211#SUB_In_Tower/101", "es": "Ahora que lo mencionas... debiste de cruzar el Santuario de las Tormentas, ¿verdad?"}
+{"key": "script/mp5211#SUB_In_Tower/109", "es": "O-Oh, ¿eso? Este..."}
+{"key": "script/mp5211#SUB_In_Tower/114", "es": "Usó las \"costuras\"."}
+{"key": "script/mp5211#SUB_In_Tower/117", "es": "E-Espera un momento, Frieda, no podemos simplemente..."}
+{"key": "script/mp5211#SUB_In_Tower/122", "es": "¿Costuras?"}
 {"key": "script/mp5211#SUB_In_Tower/123", "es": "Ya veo."}
+{"key": "script/mp5211#SUB_In_Tower/131", "es": "¡Yo también quiero saber más!"}
+{"key": "script/mp5211#SUB_In_Tower/133", "es": "¡Exijo una explicación como pago por tus despreciables actos de engaño, Duren!"}
+{"key": "script/mp5211#SUB_In_Tower/144", "es": "...¿Eso es toda la explicación que necesitabas, Adol?"}
+{"key": "script/mp5211#SUB_In_Tower/184", "es": "Es algo muy raro, viniendo de alguien que suele ser tan curioso."}
+{"key": "script/mp5211#SUB_In_Tower/189", "es": "Sí, normalmente ya estaría bombardeando a Frieda con preguntas."}
+{"key": "script/mp5211#SUB_In_Tower/194", "es": "...Entonces, ¿qué son esas \"costuras\"?"}
+{"key": "script/mp5211#SUB_In_Tower/210", "es": "Con un mecanismo tan enorme como el del Santuario de las Tormentas, tiene que haber \"huecos en el campo\", por así decirlo."}
+{"key": "script/mp5211#SUB_In_Tower/212", "es": "Las llamamos costuras. En el Santuario de las Tormentas son lugares donde los rayos caen con menos frecuencia."}
+{"key": "script/mp5211#SUB_In_Tower/214", "es": "Me las sé de memoria, y entré y salí de las Tierras Primigenias aprovechándolas."}
+{"key": "script/mp5211#SUB_In_Tower/216", "es": "Usamos el mismo principio básico para no perder la memoria cuando salimos de la zona de Highland."}
+{"key": "script/mp5211#SUB_In_Tower/221", "es": "...Entiendo el concepto, pero ¿de verdad es posible algo así? Sobre todo considerando lo poderoso que es Eldeel..."}
+{"key": "script/mp5211#SUB_In_Tower/224", "es": "Hasta cierto punto, sí. Pero hay algo más."}
+{"key": "script/mp5211#SUB_In_Tower/229", "es": "...¿Magia, supongo?"}
+{"key": "script/mp5211#SUB_In_Tower/232", "es": "¿Magia? Ese es el poder que usas tú, Calilica, ¿no?"}
+{"key": "script/mp5211#SUB_In_Tower/235", "es": "Más o menos. Uso armas y objetos cargados de magia, pero no puedo usar magia por mí misma."}
+{"key": "script/mp5211#SUB_In_Tower/238", "es": "Para usar magia, tienes que poder controlar su energía por tu cuenta."}
+{"key": "script/mp5211#SUB_In_Tower/240", "es": "Parte del conocimiento para lograrlo se ha transmitido aquí, en Danan."}
+{"key": "script/mp5211#SUB_In_Tower/245", "es": "Los métodos que se transmiten aquí son los mismos que se usaban en el antiguo Reino de Celceta."}
 {"key": "script/mp5211#SUB_In_Tower/248", "es": "E-Entiendo..."}
+{"key": "script/mp5211#SUB_In_Tower/251", "es": "...Aunque Duren no los usa muy seguido."}
+{"key": "script/mp5211#SUB_In_Tower/254", "es": "Bueno, no se me da muy bien... y tampoco quiero depender del mismo poder que usaba él, la verdad."}
+{"key": "script/mp5211#SUB_In_Tower/256", "es": "Espera, ¡¿por qué estamos hablando de esto?!"}
+{"key": "script/mp5211#SUB_In_Tower/263", "es": "Jijiji. ¡Siempre es muy divertido hacerte enojar!"}
+{"key": "script/mp5211#SUB_In_Tower/276", "es": "¡Jajaja! ¡Sí que lo es! ¡Y es tan tonto que cae cada vez!"}
 {"key": "script/mp5211#SUB_In_Tower/281", "es": "*suspiro*"}
+{"key": "script/mp5211#SUB_In_Tower/288", "es": "(¿El mismo poder que \"él\"? ¿Quién es \"él\"?)"}
+{"key": "script/mp5211#SUB_In_Frida_House/51", "es": "Espera, esta casa es..."}
+{"key": "script/mp5211#SUB_In_Frida_House/71", "es": "Vaya, pero si es el pequeño Duren."}
+{"key": "script/mp5211#SUB_In_Frida_House/74", "es": "Creo que ya estoy un poco grande para que me llamen \"pequeño\"..."}
+{"key": "script/mp5211#SUB_In_Frida_House/77", "es": "¿Quién es ella?"}
+{"key": "script/mp5211#SUB_In_Frida_House/82", "es": "¿Es tu madre?"}
+{"key": "script/mp5211#SUB_In_Frida_House/83", "es": "¿Es tu novia?"}
+{"key": "script/mp5211#SUB_In_Frida_House/89", "es": "...¿Mi madre?"}
+{"key": "script/mp5211#SUB_In_Frida_House/92", "es": "¡Vamos, Duren! ¿De verdad es una idea tan horrible?"}
+{"key": "script/mp5211#SUB_In_Frida_House/94", "es": "Je. Aunque me temo que tu suposición es incorrecta."}
+{"key": "script/mp5211#SUB_In_Frida_House/100", "es": "En realidad soy la madre de Frieda."}
+{"key": "script/mp5211#SUB_In_Frida_House/107", "es": "¡Por favor! ¡¿De dónde sacaste esa idea?!"}
+{"key": "script/mp5211#SUB_In_Frida_House/110", "es": "Je. ¡No hace falta que te avergüences! De verdad, deberías considerarte afortunado. ㈱"}
+{"key": "script/mp5211#SUB_In_Frida_House/112", "es": "Aun así, supongo que me ves muy joven si parezco material de novia para un joven tan fornido como Duren. Así que gracias."}
+{"key": "script/mp5211#SUB_In_Frida_House/118", "es": "Pero en realidad soy la madre de Frieda."}
 {"key": "script/mp5211#SUB_In_Frida_House/128", "es": "Ya veo."}
+{"key": "script/mp5211#SUB_In_Frida_House/131", "es": "Ahora que lo dices, sí se nota el parecido."}
+{"key": "script/mp5211#SUB_In_Frida_House/134", "es": "Tú y Duren parecen llevarse muy bien."}
+{"key": "script/mp5211#SUB_In_Frida_House/139", "es": "Bueno, Duren y Frieda son amigos desde que prácticamente usaban pañales."}
+{"key": "script/mp5211#SUB_In_Frida_House/144", "es": "Aunque nunca han logrado ir más allá. Una pensaría que ya habrían pasado de ser amigos hace mucho..."}
+{"key": "script/mp5211#SUB_In_Frida_House/146", "es": "¡Todavía eres muy joven, Frieda! ¿Hasta cuándo vas a seguir aferrada al pas--"}
+{"key": "script/mp5211#SUB_In_Frida_House/151", "es": "¡¡M-MADRE!!"}
+{"key": "script/mp5211#SUB_In_Frida_House/157", "es": "¿Q-Qué? ¿Qué pasa?"}
+{"key": "script/mp5211#SUB_In_Frida_House/160", "es": "(Me pregunto de qué se trataba todo eso.)"}
+{"key": "script/mp5211#SUB_In_Frida_House/163", "es": "(No sé, pero de repente el ambiente se puso bastante incómodo aquí...)"}
+{"key": "script/mp5211#SUB_In_Frida_House/168", "es": "N-No importa eso. Siéntanse como en casa."}
+{"key": "script/mp5211#SUB_In_Frida_House/170", "es": "¡Con tantos jóvenes por aquí, me siento más enérgica que nunca! ㈱"}
+{"key": "script/mp5211#SUB_In_Gruhda_House/65", "es": "¡Hola! ¿Hay alguien en casa?"}
+{"key": "script/mp5211#SUB_In_Gruhda_House/67", "es": "...Parece que no."}
+{"key": "script/mp5211#SUB_In_Gruhda_House/70", "es": "Mm, parece que nadie vive aquí desde hace bastante tiempo."}
+{"key": "script/mp5211#SUB_In_Gruhda_House/73", "es": "Sí, esta casa lleva mucho tiempo sin usarse."}
+{"key": "script/mp5211#SUB_In_Gruhda_House/78", "es": "¿De quién es la casa?"}
+{"key": "script/mp5211#SUB_In_Gruhda_House/79", "es": "¿No vive nadie aquí?"}
+{"key": "script/mp5211#SUB_In_Gruhda_House/87", "es": "Perteneció a alguien a quien Duren y yo conocimos hace muchos años."}
+{"key": "script/mp5211#SUB_In_Gruhda_House/90", "es": "Como ven, ahora está vacía."}
+{"key": "script/mp5211#SUB_In_Gruhda_House/95", "es": "Ya no, no."}
+{"key": "script/mp5211#SUB_In_Gruhda_House/98", "es": "¿De quién era la casa?"}
+{"key": "script/mp5211#SUB_In_Gruhda_House/101", "es": "Perteneció a alguien a quien Frieda y yo conocimos hace muchos años."}
+{"key": "script/mp5211#SUB_In_Gruhda_House/105", "es": "...¿Mm?"}
