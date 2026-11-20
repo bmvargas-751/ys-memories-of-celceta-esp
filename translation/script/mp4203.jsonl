@@ -421,11 +421,212 @@
 {"key": "script/mp4203#QS403_End/37", "es": "¡Sin duda!"}
 {"key": "script/mp4203#QS403_End/39", "es": "Te has vuelto mucho más fuerte últimamente. ¡Y en tan poco tiempo, además!"}
 {"key": "script/mp4203#QS403_End/44", "es": "¿D-De verdad?"}
+{"key": "script/mp4203#QS403_End/47", "es": "Por supuesto. Claro que no debes dejar que se te suba a la cabeza."}
+{"key": "script/mp4203#QS403_End/49", "es": "Todavía tienes mucho por crecer. Seguro que puedes volverte aún más fuerte siguiendo el ejemplo de Adol y sus amigos."}
+{"key": "script/mp4203#QS403_End/52", "es": "Gracias. ¡Lo haré!"}
+{"key": "script/mp4203#QS403_End/58", "es": "¡Misión completada: \"Guardianes perdidos\"!"}
+{"key": "script/mp4203#talk_Riesa/3", "es": "Jiji, ¿qué tal estuvo el recorrido de Calilica por el pueblo?"}
+{"key": "script/mp4203#talk_Riesa/5", "es": "En un rato daré una pequeña clase a los niños."}
+{"key": "script/mp4203#talk_Riesa/7", "es": "Calilica también me ayudará. No es gran cosa, pero espero que les sirva en su vida diaria."}
+{"key": "script/mp4203#talk_Riesa/17", "es": "Por favor, no se preocupen por mí."}
+{"key": "script/mp4203#talk_Riesa/19", "es": "Tómense su tiempo y disfruten de todos los servicios y lugares de interés que ofrece este pueblo."}
+{"key": "script/mp4203#talk_Riesa/21", "es": "Si pasa algo, no dejaré de avisarles."}
+{"key": "script/mp4203#talk_Riesa_mariana/34", "es": "Oh, deben de ser..."}
+{"key": "script/mp4203#talk_Riesa_mariana/37", "es": "Buenos días, Adol."}
+{"key": "script/mp4203#talk_Riesa_mariana/39", "es": "¿Lograste dormir algo después de que hablamos anoche?"}
+{"key": "script/mp4203#talk_Riesa_mariana/46", "es": "Sí, gracias."}
+{"key": "script/mp4203#talk_Riesa_mariana/47", "es": "No pegué ojo."}
+{"key": "script/mp4203#talk_Riesa_mariana/53", "es": "Jiji. Me alegra oírlo."}
+{"key": "script/mp4203#talk_Riesa_mariana/56", "es": "Eh... ¿Entonces eres Leeza?"}
+{"key": "script/mp4203#talk_Riesa_mariana/60", "es": "Oh, cielos, ¡eso es un poco preocupante!"}
+{"key": "script/mp4203#talk_Riesa_mariana/63", "es": "Eso pasa cuando uno anda dando vueltas por el pueblo a medianoche, Adol."}
+{"key": "script/mp4203#talk_Riesa_mariana/66", "es": "Jiji."}
+{"key": "script/mp4203#talk_Riesa_mariana/69", "es": "Entonces... ¿eres Leeza?"}
+{"key": "script/mp4203#talk_Riesa_mariana/72", "es": "Eres muy bonita."}
+{"key": "script/mp4203#talk_Riesa_mariana/88", "es": "Je. ¿Verdad que sí?"}
+{"key": "script/mp4203#talk_Riesa_mariana/90", "es": "Leeza es la doncella más popular de todo Highland. ¡Y con razón!"}
+{"key": "script/mp4203#talk_Riesa_mariana/97", "es": "¡¿M-Más popular?!"}
+{"key": "script/mp4203#talk_Riesa_mariana/102", "es": "¿Por qué presumes de ella? ¿No deberías sentir, no sé, celos o algo así?"}
+{"key": "script/mp4203#talk_Riesa_mariana/107", "es": "Jaja. Estas dos siempre han sido muy unidas."}
+{"key": "script/mp4203#talk_Riesa_mariana/109", "es": "Se criaron juntas como si fueran hermanas."}
 {"key": "script/mp4203#talk_Riesa_mariana/112", "es": "Ya veo..."}
+{"key": "script/mp4203#talk_Riesa_mariana/114", "es": "¿Y quién eres?"}
+{"key": "script/mp4203#talk_Riesa_mariana/121", "es": "¡Oh, lo siento, todavía no me presenté!"}
+{"key": "script/mp4203#talk_Riesa_mariana/123", "es": "Mi nombre es Mariana. Soy parte de los apóstoles de Highland."}
+{"key": "script/mp4203#talk_Riesa_mariana/135", "es": "¿Apóstoles?"}
+{"key": "script/mp4203#talk_Riesa_mariana/139", "es": "Ah, es verdad, todavía no lo expliqué, ¿verdad?"}
+{"key": "script/mp4203#talk_Riesa_mariana/141", "es": "A quienes sirven directamente al señor Eldeel los llaman sus \"apóstoles\"."}
+{"key": "script/mp4203#talk_Riesa_mariana/143", "es": "Y solo los apóstoles pueden entrar en la torre donde vive."}
+{"key": "script/mp4203#talk_Riesa_mariana/145", "es": "...Claro que hay más que eso, pero esa es la idea general. Basta decir que es un puesto muy importante."}
+{"key": "script/mp4203#talk_Riesa_mariana/147", "es": "Leeza también es apóstol, y... yo también, pero solo soy aprendiz."}
 {"key": "script/mp4203#talk_Riesa_mariana/150", "es": "¿Ah, sí?"}
+{"key": "script/mp4203#talk_Riesa_mariana/153", "es": "Un puesto importante, ¿eh?"}
+{"key": "script/mp4203#talk_Riesa_mariana/157", "es": "Entonces... ¿cómo sirven exactamente estos apóstoles a su señor Eldeel?"}
+{"key": "script/mp4203#talk_Riesa_mariana/160", "es": "Bueno, cada apóstol tiene asignada una tarea distinta."}
+{"key": "script/mp4203#talk_Riesa_mariana/162", "es": "La mía, por ejemplo, es el Rito de profecía, en el que transmito las palabras del señor Eldeel a la gente de Highland."}
+{"key": "script/mp4203#talk_Riesa_mariana/167", "es": "La función de Leeza, entonces..."}
+{"key": "script/mp4203#talk_Riesa_mariana/170", "es": "Mi función se llama Rito de invocación."}
+{"key": "script/mp4203#talk_Riesa_mariana/174", "es": "¿El Rito de invocación? Si mal no recuerdo, el alcalde habló de eso ayer."}
+{"key": "script/mp4203#talk_Riesa_mariana/179", "es": "Adol dijo algo de que el señor Eldeel les da conocimiento a las personas que elige."}
+{"key": "script/mp4203#talk_Riesa_mariana/181", "es": "¿Eso significa que tu función es traer a esas personas aquí?"}
 {"key": "script/mp4203#talk_Riesa_mariana/188", "es": "Exacto."}
+{"key": "script/mp4203#talk_Riesa_mariana/191", "es": "Seguro que ya lo dedujeron, pero..."}
+{"key": "script/mp4203#talk_Riesa_mariana/193", "es": "Quien trajo a Adol a este pueblo antes de que perdiera la memoria fue Leeza."}
 {"key": "script/mp4203#talk_Riesa_mariana/196", "es": "¿D-De verdad?"}
+{"key": "script/mp4203#talk_Riesa_mariana/204", "es": "Ahora que lo pienso, ¿qué pasó con la persona que debías traer aquí esta vez?"}
+{"key": "script/mp4203#talk_Riesa_mariana/206", "es": "¿Estaba... él contigo cuando volviste anoche?"}
+{"key": "script/mp4203#talk_Riesa_mariana/211", "es": "No, en realidad no."}
+{"key": "script/mp4203#talk_Riesa_mariana/213", "es": "El señor Eldeel indicó que el momento ya no era conveniente, así que me pidieron cancelar la invocación para más adelante."}
+{"key": "script/mp4203#talk_Riesa_mariana/216", "es": "¿En serio? Qué lástima. Pero si el señor Eldeel no pudo conceder una audiencia, supongo que ahí termina todo."}
+{"key": "script/mp4203#talk_Riesa_mariana/218", "es": "Debe de estar muy ocupado ahora."}
+{"key": "script/mp4203#talk_Riesa_mariana/221", "es": "Sí..."}
+{"key": "script/mp4203#talk_Riesa_mariana/226", "es": "...¿Te sientes bien, Leeza? Pareces cansada."}
+{"key": "script/mp4203#talk_Riesa_mariana/230", "es": "Quizá deberías evitar hacer más viajes largos por el momento."}
+{"key": "script/mp4203#talk_Riesa_mariana/233", "es": "No, estoy bien."}
+{"key": "script/mp4203#talk_Riesa_mariana/236", "es": "Bueno, si estás segura..."}
+{"key": "script/mp4203#talk_Riesa_mariana/247", "es": "Muy bien, todos, creo que deberíamos pasar al siguiente lugar."}
+{"key": "script/mp4203#talk_Riesa_mariana/250", "es": "De verdad estoy bien, Calilica. No tienes por qué preocuparte tanto."}
+{"key": "script/mp4203#talk_Riesa_mariana/255", "es": "¡Todos necesitamos descansar a veces! No hay nada de qué avergonzarse."}
+{"key": "script/mp4203#talk_Riesa_mariana/259", "es": "Así es. Por ahora hemos oído suficiente. Cualquier otra pregunta puede esperar. Muchas gracias por su tiempo."}
+{"key": "script/mp4203#talk_Riesa_mariana/262", "es": "Cuídense. Mucho gusto."}
+{"key": "script/mp4203#talk_Riesa_mariana/267", "es": "¡Muy bien, señorita guía, abre el camino!"}
+{"key": "script/mp4203#talk_Riesa_mariana/272", "es": "Hmph. No me trates con condescendencia, cuello de toro."}
+{"key": "script/mp4203#talk_Riesa_mariana/274", "es": "¡Vamos, todos, sigamos adelante!"}
+{"key": "script/mp4203#talk_Canlilica/3", "es": "Oh, hola. ¿Todavía andan explorando el pueblo?"}
+{"key": "script/mp4203#talk_Canlilica/5", "es": "Sé que ya les advirtieron, pero asegúrense de no salir por la salida norte. Es casi la única regla."}
+{"key": "script/mp4203#talk_mariana/13", "es": "Los guardianes en cuestión se parecen mucho a los inslapes, pero probablemente tengan diferencias visibles."}
+{"key": "script/mp4203#talk_mariana/15", "es": "También es probable que sean mucho más fuertes que los inslapes que han encontrado antes en la torre."}
+{"key": "script/mp4203#talk_mariana/17", "es": "Confirmé cinco en total. Prefieren atacar en grupo, así que, si logran derrotarlos a todos, el problema quedará resuelto."}
 {"key": "script/mp4203#talk_mariana/19", "es": "Gracias de nuevo, y cuídense."}
+{"key": "script/mp4203#talk_mariana/25", "es": "Gracias de nuevo por ayudarme."}
+{"key": "script/mp4203#talk_mariana/27", "es": "Por favor, cuídense en su viaje."}
+{"key": "script/mp4203#talk_mariana/33", "es": "Por ahora, seguimos ocultando la verdad sobre el señor Eldeel diciendo que simplemente cayó enfermo."}
+{"key": "script/mp4203#talk_mariana/35", "es": "Pero no sé cuánto tiempo más podremos mantenerlo antes de que la gente empiece a sospechar. Algunos ya lo hacen."}
+{"key": "script/mp4203#talk_mariana/37", "es": "Me gustaría esperar un poco más y ver cómo evoluciona la situación, pero no sé si podremos..."}
+{"key": "script/mp4203#talk_mariana/43", "es": "Me enteré de que los dos exploradores que llegaron hace poco se dirigen más adentro del bosque."}
+{"key": "script/mp4203#talk_mariana/45", "es": "Si el Santuario de las Tormentas funcionara como debe, se verían obligados a regresar aquí... pero ahora que está desactivado..."}
+{"key": "script/mp4203#talk_mariana/47", "es": "...Solo espero que no les pase nada."}
+{"key": "script/mp4203#talk_mariana/52", "es": "Si el Santuario de las Tormentas funcionara como debe, esos dos exploradores se verían obligados a regresar aquí... pero ahora que está desactivado..."}
+{"key": "script/mp4203#talk_mariana/54", "es": "...Solo espero que no les pase nada."}
+{"key": "script/mp4203#talk_mariana/60", "es": "Las fuerzas romunas apostadas aquí parecen ser gente genuina y bienintencionada."}
+{"key": "script/mp4203#talk_mariana/62", "es": "Supongo que es resultado de la naturaleza virtuosa de la gobernadora general Griselda."}
+{"key": "script/mp4203#talk_mariana/67", "es": "Aun así, me siento culpable de ocultarle la verdad sobre el señor Eldeel a la gente de aquí."}
+{"key": "script/mp4203#talk_mariana/69", "es": "El alcalde tiene razón al decir que no sería buena idea contárselo, pero eso no alivia mi conciencia."}
+{"key": "script/mp4203#talk_mariana/79", "es": "Aun así, me da una gran alegría verte sano y salvo, Adol."}
+{"key": "script/mp4203#talk_mariana/81", "es": "Tu pérdida de memoria es algo preocupante, pero por ahora trata de cuidarte mucho."}
+{"key": "script/mp4203#talk_filip/3", "es": "Desde que llegó el ejército romuno, no hemos sabido nada del señor Eldeel."}
+{"key": "script/mp4203#talk_filip/5", "es": "...¿De verdad se encuentra bien?"}
+{"key": "script/mp4203#talk_filip/7", "es": "El alcalde dijo que pronto podrá darnos un informe más detallado, pero tanto secreto solo me hace temer lo peor."}
+{"key": "script/mp4203#talk_filip/12", "es": "¿De verdad el señor Eldeel está bien?"}
+{"key": "script/mp4203#talk_filip/14", "es": "El alcalde dijo que pronto podrá darnos un informe más detallado, pero tanto secreto solo me hace temer lo peor."}
+{"key": "script/mp4203#talk_filip/19", "es": "La apóstol Leeza hace bastante tiempo que no regresa al pueblo."}
+{"key": "script/mp4203#talk_filip/21", "es": "¿Será que la enfermedad del señor Eldeel se agravó tanto que necesita su atención constante?"}
+{"key": "script/mp4203#talk_filip/23", "es": "Rezo para que no sea así."}
+{"key": "script/mp4203#talk_filip/27", "es": "*suspiro* Este pueblo de verdad ha cambiado últimamente."}
+{"key": "script/mp4203#talk_filip/29", "es": "Todavía casi espero despertar y descubrir que todo fue un sueño."}
+{"key": "script/mp4203#talk_filip/34", "es": "Violar el Santuario y atacar el pueblo... ¡Todo eso es una blasfemia contra el señor Eldeel!"}
+{"key": "script/mp4203#talk_filip/36", "es": "No tengo ninguna duda de que sus actos son la causa de la mala salud del señor Eldeel."}
+{"key": "script/mp4203#talk_filip/38", "es": "¡¿Acaso no tienen moral alguna?!"}
+{"key": "script/mp4203#talk_filip/43", "es": "No tengo ninguna duda de que los actos de esos soldados son la causa de la mala salud del señor Eldeel."}
+{"key": "script/mp4203#talk_filip/45", "es": "¡¿Acaso no tienen moral alguna?!"}
+{"key": "script/mp4203#talk_filip/51", "es": "Oh, ¿así que ustedes son el explorador pelirrojo y sus compañeros de los que habla la gente?"}
+{"key": "script/mp4203#talk_filip/53", "es": "Bueno, ya que están aquí..."}
+{"key": "script/mp4203#talk_filip/55", "es": "También deberían rezarle al señor Eldeel."}
+{"key": "script/mp4203#talk_filip/60", "es": "Bueno, ya que están aquí..."}
+{"key": "script/mp4203#talk_filip/62", "es": "También deberían rezarle al señor Eldeel."}
+{"key": "script/mp4203#talk_doris/3", "es": "Señor Eldeel... por favor, concédanos su guía divina..."}
+{"key": "script/mp4203#talk_doris/7", "es": "Señor Eldeel... Rezo para que se recupere lo antes posible..."}
+{"key": "script/mp4203#talk_doris/11", "es": "Señor Eldeel... Rezo para que hoy pueda descansar en paz..."}
+{"key": "script/mp4203#talk_doris/15", "es": "Señor Eldeel... Rezo para que su regreso a la buena salud llegue lo antes posible..."}
+{"key": "script/mp4203#talk_doris/19", "es": "Señor Eldeel... Por favor, vele por mí hoy, como siempre lo ha hecho..."}
+{"key": "script/mp4203#talk_Duren/2", "es": "...Pero... ¿por qué...?"}
+{"key": "script/mp4203#talk_Duren/5", "es": "Duren murmura en sueños."}
+{"key": "script/mp4203#talk_Carna/2", "es": "...Oh, ¿ya está lista la cena...?"}
+{"key": "script/mp4203#talk_Carna/4", "es": "Mmmmm... cuánta carne... ㈱ *murmullo murmullo*"}
+{"key": "script/mp4203#talk_Carna/7", "es": "Karna duerme contenta."}
+{"key": "script/mp4203#talk_Ozma/5", "es": "Ozma duerme tranquilamente."}
+{"key": "script/mp4203#talk_Alon/4", "es": "La gente del pueblo está empezando a darse cuenta poco a poco de la verdad sobre el señor Eldeel."}
+{"key": "script/mp4203#talk_Alon/6", "es": "No podré retrasar mucho más la revelación completa. Pero ahora no es el momento."}
+{"key": "script/mp4203#talk_Alon/8", "es": "Seguiré observando cómo se desarrollan los acontecimientos, esperando lo mejor de ti. Te deseo un buen viaje, Adol Christin."}
+{"key": "script/mp4203#talk_Alon/10", "es": "Dejo al señor Eldeel y a Leeza en tus manos. Por favor, haz lo que puedas."}
+{"key": "script/mp4203#talk_Alon/15", "es": "Seguiré observando cómo se desarrollan los acontecimientos, esperando lo mejor de ti. Te deseo un buen viaje, Adol Christin."}
+{"key": "script/mp4203#talk_Alon/17", "es": "Dejo al señor Eldeel y a Leeza en tus manos. Por favor, haz lo que puedas."}
+{"key": "script/mp4203#talk_Alon/23", "es": "Los soldados del Ejército Celcetano de aquí actúan con sensatez. Cumplen su deber y nos tratan con toda consideración."}
+{"key": "script/mp4203#talk_Alon/25", "es": "Parece que la gobernadora general Griselda es de verdad una persona digna de nuestra confianza."}
+{"key": "script/mp4203#talk_Alon/27", "es": "...Sin embargo, aún hay muchos en el Ejército Romuno que no son tan bienintencionados como ella."}
+{"key": "script/mp4203#talk_Alon/29", "es": "Como alcalde de este pueblo, mi deber es estar preparado para cualquier posibilidad."}
+{"key": "script/mp4203#talk_Alon/34", "es": "Haré todo lo que pueda, igual que ustedes hacen todo lo que pueden por nosotros."}
+{"key": "script/mp4203#talk_Alon/36", "es": "Es mi deber como alcalde pensar en la mejor manera de guiar a este pueblo."}
+{"key": "script/mp4203#talk_Alon/72", "es": "Saludos, Calilica. Adol."}
+{"key": "script/mp4203#talk_Alon/74", "es": "¿Tienen algo que informar?"}
+{"key": "script/mp4203#talk_Alon/77", "es": "Me temo que sí."}
+{"key": "script/mp4203#talk_Alon/80", "es": "Calilica le contó a Aaron todo lo que había sucedido en Danan."}
+{"key": "script/mp4203#talk_Alon/85", "es": "...Ya veo. Así que eso le pasó al señor Eldeel..."}
+{"key": "script/mp4203#talk_Alon/87", "es": "En cuanto a Leeza..."}
+{"key": "script/mp4203#talk_Alon/90", "es": "Este... ¿Abuelo? ¿Sabías algo de Leeza?"}
+{"key": "script/mp4203#talk_Alon/95", "es": "¿Que es descendiente del rey Lefance? Sí, lo sabía."}
+{"key": "script/mp4203#talk_Alon/97", "es": "Pero eso era todo lo que sabía."}
+{"key": "script/mp4203#talk_Alon/102", "es": "...No parece que tengan tiempo para estar aquí hablando conmigo."}
+{"key": "script/mp4203#talk_Alon/104", "es": "Por favor, sigue apoyando a Leeza lo mejor que puedas, Adol. Y a Calilica también."}
+{"key": "script/mp4203#talk_Alon/106", "es": "Me avergüenza tener que depender de ti para esto, pero de verdad eres nuestra única esperanza."}
 {"key": "script/mp4203#talk_Alon/109", "es": "Abuelo..."}
+{"key": "script/mp4203#talk_Alon/111", "es": "No te preocupes. ¡Déjanoslo a nosotros!"}
+{"key": "script/mp4203#talk_Alon/139", "es": "...La situación parece volverse más grave cada día."}
+{"key": "script/mp4203#talk_Alon/141", "es": "Cuídense, todos."}
+{"key": "script/mp4203#talk_Alon/151", "es": "Y por favor, sigue cuidando de Calilica, Adol."}
+{"key": "script/mp4203#talk_Alon/153", "es": "En cuanto a la desaparición del señor Eldeel... te agradecería que lo mantuvieras en secreto frente a la gente del pueblo."}
+{"key": "script/mp4203#talk_Alon/155", "es": "Por ahora, les he informado a todos que el señor Eldeel cayó enfermo y descansará hasta recuperarse."}
+{"key": "script/mp4203#talk_Alon/157", "es": "Si revelara toda la verdad ahora mismo, causaría confusión y pánico generalizados."}
+{"key": "script/mp4203#talk_Alon/159", "es": "...Cuídense. Rezaré por su seguridad."}
+{"key": "script/mp4203#talk_Alon/164", "es": "Por favor, cuida de Calilica."}
+{"key": "script/mp4203#talk_Alon/166", "es": "...Cuídense. Rezaré por su seguridad."}
+{"key": "script/mp4203#talk_Alon/171", "es": "Creo que Calilica está ahora en la capilla."}
+{"key": "script/mp4203#talk_Alon/173", "es": "Pueden recorrer el pueblo, pero traten de no llamar demasiado la atención."}
+{"key": "script/mp4203#talk_Alon/177", "es": "Caminar libremente en un entorno sin monstruos debería ser un cambio de ritmo agradable para ustedes. O eso espero."}
+{"key": "script/mp4203#talk_Alon/179", "es": "Así que procuren aprovechar bien el tiempo."}
+{"key": "script/mp4203#talk_officer/3", "es": "Parece que la gobernadora general Griselda se esfuerza mucho por mantener la existencia de este pueblo en secreto ante Romn."}
+{"key": "script/mp4203#talk_officer/5", "es": "Nosotros también debemos hacer todo lo posible por evitar que se filtre información."}
+{"key": "script/mp4203#talk_officer/9", "es": "¡No solo salieron de la habitación, sino que lograron escapar del pueblo por completo! No puedo creer que lo hayan conseguido."}
+{"key": "script/mp4203#talk_officer/11", "es": "Grrr... Cuando les ponga las manos encima..."}
+{"key": "script/mp4203#talk_officer/15", "es": "Detuvieron a dos exploradores que lograron llegar aquí por las Ruinas Subterráneas y los tienen en una habitación del segundo piso."}
+{"key": "script/mp4203#talk_officer/17", "es": "Tengan cuidado de no dejarlos salir."}
+{"key": "script/mp4203#talk_officer/21", "es": "No se preocupen. Déjennos el pueblo a nosotros. Mantendremos a todos a salvo aquí."}
+{"key": "script/mp4203#talk_officer/23", "es": "Las órdenes de la gobernadora general eran comportarnos de forma respetable y con toda cortesía hacia la gente de este pueblo."}
+{"key": "script/mp4203#talk_soldier/4", "es": "Si lo piensas, el nivel de tecnología de aquí les permitiría a estas personas fabricar armas muy poderosas si quisieran."}
+{"key": "script/mp4203#talk_soldier/6", "es": "No es que nadie de aquí QUISIERA hacerlo..."}
+{"key": "script/mp4203#talk_soldier/8", "es": "Si Romn llegara a enterarse de este pueblo, seguro que el gobierno querría tomar el control por la fuerza."}
+{"key": "script/mp4203#talk_soldier/10", "es": "Es nuestro deber asegurarnos de que eso no pase."}
+{"key": "script/mp4203#talk_soldier/15", "es": "Si Romn llegara a enterarse de este pueblo, seguro que el gobierno querría tomar el control por la fuerza."}
+{"key": "script/mp4203#talk_soldier/17", "es": "Es nuestro deber asegurarnos de que eso no pase."}
+{"key": "script/mp4203#talk_soldier/22", "es": "Solo iba a darles su comida cuando salieron a toda velocidad de la habitación y se abrieron paso por la puerta trasera."}
+{"key": "script/mp4203#talk_soldier/24", "es": "La fuerza con la que escaparon fue impresionante. ¡Me dejó sin palabras!"}
+{"key": "script/mp4203#talk_soldier/28", "es": "Me pregunto qué debemos hacer con esos dos exploradores..."}
+{"key": "script/mp4203#talk_soldier/30", "es": "Ahora que conocen la existencia de este pueblo, no podemos simplemente dejarlos ir."}
+{"key": "script/mp4203#talk_soldier/34", "es": "Jamás imaginé que encontraríamos un pueblo de aspecto moderno como este en los confines del Gran Bosque."}
+{"key": "script/mp4203#talk_soldier/36", "es": "La verdad, incluso estando aquí, me cuesta creer que sea real."}
+{"key": "script/mp4203#talk_rabit/3", "es": "La puerta está cerrada con llave, pero se oyen voces dentro de la habitación."}
+{"key": "script/mp4203#talk_rabit/6", "es": "Voz de mujer"}
+{"key": "script/mp4203#talk_rabit/7", "es": "¡Vamos! ¡¿Por qué nos encerraron aquí?!"}
+{"key": "script/mp4203#talk_rabit/9", "es": "¡Los romunos no tienen derecho a tratarnos así!"}
+{"key": "script/mp4203#talk_rabit/13", "es": "Voz de hombre"}
+{"key": "script/mp4203#talk_rabit/14", "es": "Cálmate, Rabbit..."}
+{"key": "script/mp4203#talk_rabit/18", "es": "Voz de mujer"}
 {"key": "script/mp4203#talk_rabit/19", "es": "¡¿Que me calme?!"}
+{"key": "script/mp4203#talk_rabit/21", "es": "¡¿Y si mejor te alteras tú?!"}
+{"key": "script/mp4203#talk_rabit/23", "es": "¡Deja de perder el tiempo intentando calmarme y empieza a pensar en una forma de sacarnos de aquí!"}
+{"key": "script/mp4203#talk_rabit/27", "es": "Voz de hombre"}
 {"key": "script/mp4203#talk_rabit/28", "es": "P-Pero..."}
+{"key": "script/mp4203#talk_rabit/32", "es": "Voz de mujer"}
+{"key": "script/mp4203#talk_rabit/33", "es": "¿Qué? Si tienes algún problema, ¡podemos seguir cada uno por su lado aquí mismo y ahora mismo!"}
+{"key": "script/mp4203#talk_rabit/37", "es": "Voz de hombre"}
+{"key": "script/mp4203#talk_rabit/38", "es": "...Bien, bien. ¡Estoy pensando, estoy pensando!"}
+{"key": "script/mp4203#talk_rabit/50", "es": "La puerta está cerrada con llave, pero se oyen voces dentro de la habitación."}
+{"key": "script/mp4203#talk_rabit/52", "es": "Parece que están hablando de formas de escapar."}
+{"key": "script/mp4203#stop_exit/6", "es": "Parece que esta puerta es de un tipo extraño que no se puede abrir desde adentro."}
+{"key": "script/mp4203#stop_alon/5", "es": "Esta es la habitación de Aaron. Sería de mala educación entrar sin permiso."}
+{"key": "script/mp4203#stop_canlilica/5", "es": "Esta es la habitación de Calilica. Sería de mala educación entrar sin permiso."}
+{"key": "script/mp4203#subev_In_Chapel/58", "es": "Qué edificio tan impresionante..."}
+{"key": "script/mp4203#subev_In_Chapel/61", "es": "Sí que es bonito..."}
+{"key": "script/mp4203#subev_In_Chapel/64", "es": "Esta es la capilla, donde la gente ofrece oraciones al señor Eldeel."}
+{"key": "script/mp4203#subev_In_Chapel/66", "es": "¡Miren, son Mariana y Leeza, hablando junto al altar!"}
+{"key": "script/mp4203#subev_In_Chapel/68", "es": "¿Qué tal si vamos a saludar?"}
