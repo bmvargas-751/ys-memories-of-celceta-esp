@@ -1,8 +1,21 @@
 {"key": "script/mp6124#EV_Camp_Start/22", "es": "Ya no se siente la presencia de bestias en los alrededores. El aire está inmóvil y tranquilo..."}
 {"key": "script/mp6124#EV05_00_Camp_Rest_05/37", "es": "Envuelto en el aire puro del bosque y en la fragancia del árbol espiritual, Adol sintió que su cuerpo se hundía en un sueño profundo y reparador..."}
 {"key": "script/mp6124#EV05_00_Camp_Rest_05/39", "es": "¡Se restauró uno de los recuerdos sellados en lo más profundo de la mente de Adol!"}
+{"key": "script/mp6124#EV05_00_Camp_Rest_05_MB/55", "es": "...¿Estás bien, Adol? Estabas gimiendo mientras dormías."}
+{"key": "script/mp6124#EV05_00_Camp_Rest_05_MB/60", "es": "No es nada de qué preocuparse."}
+{"key": "script/mp6124#EV05_00_Camp_Rest_05_MB/61", "es": "Soñé con Eldeel."}
+{"key": "script/mp6124#EV05_00_Camp_Rest_05_MB/67", "es": "Tus recuerdos son nuestra mayor fuente de información en este momento."}
+{"key": "script/mp6124#EV05_00_Camp_Rest_05_MB/69", "es": "Así que asegúrate de contarnos si recuerdas algo interesante, ¿de acuerdo?"}
+{"key": "script/mp6124#EV05_00_Camp_Rest_05_MB/74", "es": "Tenía la sospecha de que pudo haber sido Eldeel quien te atacó en esta zona."}
+{"key": "script/mp6124#EV05_00_Camp_Rest_05_MB/76", "es": "Aunque surge la pregunta: ¿por qué no acabó contigo?"}
+{"key": "script/mp6124#EV05_00_Camp_Rest_05_MB/79", "es": "Quizás fue la misma situación que cuando lo conocimos en la torre."}
+{"key": "script/mp6124#EV05_00_Camp_Rest_05_MB/81", "es": "No parece que su otra personalidad haya despertado del todo todavía, así que seguramente volvió en sí o algo así."}
+{"key": "script/mp6124#EV05_00_Camp_Rest_05_MB/84", "es": "Sí, pero ¿cuánto tiempo podrá resistirse a convertirse para siempre en esa... otra persona? Eso es lo que me preocupa."}
+{"key": "script/mp6124#EV05_00_Camp_Rest_05_MB/87", "es": "Definitivamente tenemos que darnos prisa. ¡Vamos, busquemos esa aldea!"}
 {"key": "script/mp6124#EV05_00_Camp_Rest_05_MB/97", "es": "Ahora se ven en el mapa los fragmentos de recuerdo de los alrededores."}
 {"key": "script/mp6124#evlookp01/6", "es": "Armar una tienda"}
 {"key": "script/mp6124#evlookp01/7", "es": "Cancelar"}
 {"key": "script/mp6124#evlookp02/7", "es": "Descansar en la tienda"}
 {"key": "script/mp6124#evlookp02/8", "es": "Cancelar"}
+{"key": "script/mp6124#stop_exit1/6", "es": "Hay un retoño de árbol espiritual en esta zona. Sería sensato armar una tienda y descansar."}
+{"key": "script/mp6124#stop_exit2/6", "es": "Hay un retoño de árbol espiritual en esta zona. Sería sensato armar una tienda y descansar."}
