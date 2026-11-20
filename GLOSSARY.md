@@ -251,3 +251,4 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Anti-Aging Elixir | elixir antienvejecimiento | Decidido, DECISIONS 2026-11-20 | Objeto de misión en guiones; en minúscula dentro de la frase. |
 | Black Key | Llave Negra | Decidido (G-2), DECISIONS 2026-11-20 | Objeto de la historia; como «Archivos Negros». |
 | minions | secuaces | Decidido, DECISIONS 2026-11-20 | Como en `text/monslib#E0114/descripcion`. |
+| Santyo / Pansa | Sancho / Panza | Decidido (G-2), DECISIONS 2026-11-20 | Secuaces de Leo (ya usado así en el diario). |
