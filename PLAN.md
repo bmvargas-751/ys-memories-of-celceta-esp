@@ -83,4 +83,4 @@ Obligatorio: sin él, `loc.py prepare` no arma lotes.
 
 ### Fase 8. Entrega
 
-- [ ] Instalador, registro de cambios y publicación.
+- [ ] Instalador, registro de cambios y publicación. (2026-11-20: instalador `tools/installer.py` y paquetes `tools/make_release.py` para Windows y Linux, probados; versión de prueba v0.9.0 antes de la fase 7.)
