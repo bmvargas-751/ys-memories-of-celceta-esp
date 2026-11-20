@@ -246,3 +246,6 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Asad | Asad | Decidido (G-2), DECISIONS 2026-11-18 | Personaje; nombre sin traducir («Espada de Asad»). (Fila para que el chequeo de *vosotros* no lo tome por un imperativo.) |
 | Celcetan Army Soldier | soldado celcetano | Decidido (G-2), DECISIONS 2026-11-18 | Rótulo de PNJ (ver «Celcetan Army»). |
 | Glucarius, the Great Squilla of Extermination | Glucarius, la Gran Squilla del Exterminio | Decidido (G-2, G-4), DECISIONS 2026-11-18 | Jefe; título completo, igual en recuerdos y bestiario. Alternativa en PENDING.md. |
+| Gllia | Gllia | Decidido (G-2), DECISIONS 2026-11-20 | Región; nombre sin traducir. Gentilicio «Gllian» → «glliano/glliana». |
+| Garmanic | garmánico | Decidido (G-2), DECISIONS 2026-11-20 | Gentilicio; concuerda («madre garmánica»). |
+| Anti-Aging Elixir | elixir antienvejecimiento | Decidido, DECISIONS 2026-11-20 | Objeto de misión en guiones; en minúscula dentro de la frase. |

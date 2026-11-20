@@ -9,7 +9,7 @@
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/173", "es": "¡Ja! Bueno..."}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/175", "es": "Somos una tribu de gente que le dio la espalda a los dioses y destruyó una civilización antigua entera."}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/191", "es": "¿Qué...?"}
-{"key": "script/mp5211#EV05_04_Meet_Vanjo/194", "es": "N-no entiendo muy bien..."}
+{"key": "script/mp5211#EV05_04_Meet_Vanjo/194", "es": "N-No entiendo muy bien..."}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/201", "es": "Ocurrió hace mucho tiempo, muy lejos, al otro lado del mar."}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/203", "es": "Nuestros ancestros robaron un poder inmenso a los dioses y hundieron su tierra en el fondo del océano."}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/205", "es": "Pero uno de esos dioses, un tal señor Eldeel, perdonó sus pecados y los trajo en secreto aquí, a Celceta."}
@@ -34,11 +34,11 @@
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/261", "es": "Pensamos que quizá podríamos serle de ayuda, si la situación lo requería."}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/266", "es": "Entonces llamaron a Adol a la torre y... ¡bajó y listo!"}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/273", "es": "Ya veo. ¿Entonces eras tú quien tenía la misión de vigilar a Adol?"}
-{"key": "script/mp5211#EV05_04_Meet_Vanjo/288", "es": "S-sí. Escucha, Adol, yo... lamento no habértelo dicho."}
+{"key": "script/mp5211#EV05_04_Meet_Vanjo/288", "es": "S-Sí. Escucha, Adol, yo... lamento no habértelo dicho."}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/290", "es": "Había mucho en juego y todo era tan... Si ganaba tu confianza, podría estar a tu lado. Pensé que sería más fácil."}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/294", "es": "Es difícil culparlo, ahora que sabemos todo eso."}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/298", "es": "Sí. Es una lástima, la verdad."}
-{"key": "script/mp5211#EV05_04_Meet_Vanjo/301", "es": "¡E-eh!"}
+{"key": "script/mp5211#EV05_04_Meet_Vanjo/301", "es": "¡E-Eh!"}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/304", "es": "Bueno, solo hacía lo que yo le ordené. ¡Así que no sean muy duros con él!"}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/309", "es": "Supongo que lo dejaremos pasar."}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/310", "es": "Tenerte con nosotros fue de gran ayuda."}
@@ -46,7 +46,7 @@
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/318", "es": "Pero al menos no eres mal actor. Pensé que de verdad eras tonto, ¡pero solo estabas haciendo el papel!"}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/321", "es": "Tiene algo de talento natural, pero si hubieras sabido que era una actuación, lo habrías notado. ¡No es taaan bueno!"}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/324", "es": "Jijí. No me imagino lo incómodo que debió de ser."}
-{"key": "script/mp5211#EV05_04_Meet_Vanjo/329", "es": "V-vamos, ya basta..."}
+{"key": "script/mp5211#EV05_04_Meet_Vanjo/329", "es": "V-Vamos, ya basta..."}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/334", "es": "Ha sido de gran ayuda tenerte con nosotros, Duren."}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/337", "es": "Tu comportamiento ha sido sospechoso en ocasiones."}
 {"key": "script/mp5211#EV05_04_Meet_Vanjo/339", "es": "Pero ahora que conocemos la verdad detrás de tus actos, creo hablar por todos al decir que estamos agradecidos de contar contigo."}
@@ -64,7 +64,7 @@
 {"key": "script/mp5211#EV05_07_Talk_Riesa/77", "es": "¡Ese miserable!"}
 {"key": "script/mp5211#EV05_07_Talk_Riesa/80", "es": "Bueno, lo hecho, hecho está."}
 {"key": "script/mp5211#EV05_07_Talk_Riesa/82", "es": "Me interesa más saber que eres descendiente de la Familia Real celcetana...¿no es así?"}
-{"key": "script/mp5211#EV05_07_Talk_Riesa/87", "es": "¿C-cómo lo...?"}
+{"key": "script/mp5211#EV05_07_Talk_Riesa/87", "es": "¿C-Cómo lo...?"}
 {"key": "script/mp5211#EV05_07_Talk_Riesa/90", "es": "¡¿Leeza lo es?!"}
 {"key": "script/mp5211#EV05_07_Talk_Riesa/93", "es": "Vaya. ¡Eso sí que es una novedad!"}
 {"key": "script/mp5211#EV05_07_Talk_Riesa/96", "es": "Ese Galbalan blanco tuyo te delató por completo."}
@@ -144,33 +144,298 @@
 {"key": "script/mp5211#QS501_Start/100", "es": "Eh, bueno, en realidad..."}
 {"key": "script/mp5211#QS501_Start/102", "es": "Puedo prometerte en su nombre que no se usará para nada peligroso."}
 {"key": "script/mp5211#QS501_Start/113", "es": "Yo también."}
+{"key": "script/mp5211#QS501_Start/115", "es": "De hecho, tengo una buena idea de qué es este elixir, y si no me equivoco, no hay de qué preocuparse en absoluto."}
+{"key": "script/mp5211#QS501_Start/118", "es": "¿Entonces la confidencialidad del cliente es la única razón por la que no puedes decirlo? ¿No es un asunto de... seguridad pública?"}
+{"key": "script/mp5211#QS501_Start/121", "es": "Bueno, si Duren y Frieda lo dicen, creo que podemos confiar en él."}
+{"key": "script/mp5211#QS501_Start/124", "es": "Supongamos que es algo muy personal y dejémoslo así."}
+{"key": "script/mp5211#QS501_Start/127", "es": "...Sí, eso suena bastante bien."}
+{"key": "script/mp5211#QS501_Start/147", "es": "*risita* Bueno, dejo en sus manos decidir si aceptan este encargo o no."}
+{"key": "script/mp5211#QS501_Start/149", "es": "Los ingredientes que necesito son los siguientes."}
+{"key": "script/mp5211#QS501_Start/151", "es": "Una flor de yupel, una flor de libra, una fruta de raparo, una fruta de arieda..."}
+{"key": "script/mp5211#QS501_Start/153", "es": "Luego necesito un órgano venenoso y un poco de extracto de rana... ¡Ah, y un poco de líquido ácido y un moho viscoso también!"}
+{"key": "script/mp5211#QS501_Start/155", "es": "Necesito uno de cada uno de estos ocho ingredientes."}
+{"key": "script/mp5211#QS501_Start/157", "es": "Si están dispuestos a ayudar, se los agradeceré mucho."}
+{"key": "script/mp5211#QS501_End/47", "es": "Parece que trajeron todo lo que pedí."}
 {"key": "script/mp5211#QS501_End/49", "es": "¡Muchas gracias!"}
+{"key": "script/mp5211#QS501_End/53", "es": "Entregas todos los ingredientes."}
+{"key": "script/mp5211#QS501_End/69", "es": "...Me pregunto qué clase de elixir sale de unos ingredientes tan extraños..."}
+{"key": "script/mp5211#QS501_End/72", "es": "Yo tampoco puedo dejar de pensar en eso."}
+{"key": "script/mp5211#QS501_End/79", "es": "*risita* Bueno, yo no puedo decírselos, pero ¿qué tal esto?"}
+{"key": "script/mp5211#QS501_End/81", "es": "Me pondré a prepararlo de inmediato, y cuando termine, ustedes mismos pueden entregárselo a mi cliente."}
+{"key": "script/mp5211#QS501_End/84", "es": "Ah. Eso sirve."}
+{"key": "script/mp5211#QS501_End/87", "es": "Es cierto. No tienes que preocuparte por la privacidad de tu cliente si la respuesta viene directamente de él."}
+{"key": "script/mp5211#QS501_End/90", "es": "Sin duda, parece un compromiso aceptable."}
+{"key": "script/mp5211#QS501_End/141", "es": "...¿Y por eso vinieron hasta aquí a traerme el elixir?"}
+{"key": "script/mp5211#QS501_End/143", "es": "*suspiro* No sé por qué les interesa tanto..."}
+{"key": "script/mp5211#QS501_End/146", "es": "¡Oye, es parte de nuestra naturaleza ser curiosos! Entonces, ¿para qué es?"}
+{"key": "script/mp5211#QS501_End/149", "es": "Bueno, si quieren saberlo..."}
+{"key": "script/mp5211#QS501_End/152", "es": "Es un elixir antienvejecimiento."}
 {"key": "script/mp5211#QS501_End/166", "es": "Karna y Calilica"}
 {"key": "script/mp5211#QS501_End/167", "es": "¡¿Qué?!"}
+{"key": "script/mp5211#QS501_End/171", "es": "¿Hay algún problema con eso?"}
+{"key": "script/mp5211#QS501_End/173", "es": "¡No veo qué tiene de raro querer mantenerse joven!"}
+{"key": "script/mp5211#QS501_End/178", "es": "B-Bueno, eso es cierto, pero..."}
+{"key": "script/mp5211#QS501_End/181", "es": "Eh, perdona que pregunte, pero... ¿cuántos años tienes?"}
+{"key": "script/mp5211#QS501_End/184", "es": "Hace tiempo que no lo pienso, pero debe de ser algo así como... ¿noventa y dos?"}
 {"key": "script/mp5211#QS501_End/196", "es": "Karna y Calilica"}
+{"key": "script/mp5211#QS501_End/197", "es": "¡¿QUÉ?!"}
+{"key": "script/mp5211#QS501_End/202", "es": "¡Ay, silencio, con tanto grito me está dando dolor de cabeza!"}
+{"key": "script/mp5211#QS501_End/206", "es": "Je. Valió la pena reunir los ingredientes solo para ver sus reacciones."}
+{"key": "script/mp5211#QS501_End/209", "es": "Creo que lo estás disfrutando demasiado, Frieda..."}
+{"key": "script/mp5211#QS501_End/241", "es": "*risita* No se esperaban esa respuesta, ¿verdad?"}
 {"key": "script/mp5211#QS501_End/243", "es": "Aquí tienes tu recompensa."}
 {"key": "script/mp5211#QS501_End/246", "es": "Recibes "}
 {"key": "script/mp5211#QS501_End/249", "es": "Recibes "}
 {"key": "script/mp5211#QS501_End/252", "es": "Recibes "}
+{"key": "script/mp5211#QS501_End/256", "es": "*suspiro* Me siento exhausta."}
+{"key": "script/mp5211#QS501_End/259", "es": "Sí. Es como si todo este lío me hubiera quitado unos cuantos años de vida..."}
+{"key": "script/mp5211#QS501_End/268", "es": "¡Misión completada: \"Síntesis secreta\"!"}
+{"key": "script/mp5211#QS504_Start/27", "es": "Ah, ¿ustedes no son...?"}
+{"key": "script/mp5211#QS504_Start/30", "es": "Tú también me suenas."}
+{"key": "script/mp5211#QS504_Start/32", "es": "¿Eres Pigeon? ¿El que puso una misión en el tablón?"}
+{"key": "script/mp5211#QS504_Start/35", "es": "Sí, soy yo."}
+{"key": "script/mp5211#QS504_Start/38", "es": "Entonces, ¿podrías darnos más detalles?"}
+{"key": "script/mp5211#QS504_Start/41", "es": "Bueno, ¿empiezo presentándome?"}
+{"key": "script/mp5211#QS504_Start/44", "es": "Mi nombre es Pigeon Peacesymbol."}
+{"key": "script/mp5211#QS504_Start/46", "es": "Nací en Gllia, de padre glliano y madre garmánica. El padre de mi padre es..."}
+{"key": "script/mp5211#QS504_Start/53", "es": "Eh, yo no te pedí que describieras tu árbol genealógico."}
+{"key": "script/mp5211#QS504_Start/55", "es": "¡Solo dinos en qué consiste la misión! No necesitamos todos esos detalles extra."}
+{"key": "script/mp5211#QS504_Start/60", "es": "B-Bueno. Necesito que me ayuden a buscar a Rabbit."}
+{"key": "script/mp5211#QS504_Start/67", "es": "...¿Eso es todo? ¡Creo que vamos a necesitar algo más que eso!"}
+{"key": "script/mp5211#QS504_Start/70", "es": "P-Perdón, no estoy acostumbrado a esto..."}
+{"key": "script/mp5211#QS504_Start/72", "es": "Rabbit es el nombre de mi compañera. Otra exploradora."}
+{"key": "script/mp5211#QS504_Start/74", "es": "Nos separamos mientras atravesábamos el bosque, y quisiera que me ayudaran a buscarla."}
+{"key": "script/mp5211#QS504_Start/77", "es": "¿Por qué no pudiste decir eso desde el principio?"}
+{"key": "script/mp5211#QS504_Start/79", "es": "...Entonces, ¿dónde estaba cuando la perdiste de vista?"}
+{"key": "script/mp5211#QS504_Start/82", "es": "No puedo estar del todo seguro. ¡Me volteé a decirle algo en el Bosque de Ceniza y ya no estaba!"}
+{"key": "script/mp5211#QS504_Start/84", "es": "Pero la última vez que la vi antes de eso también fue en el Bosque de Ceniza, así que estoy bastante seguro de que ahí nos separamos."}
+{"key": "script/mp5211#QS504_Start/86", "es": "Habíamos acordado reunirnos en esta aldea si nos separábamos, así que esperaba que me estuviera esperando aquí... pero no está."}
+{"key": "script/mp5211#QS504_Start/88", "es": "¡Maldición, si hubiera estado más pendiente de ella, esto nunca habría pasado!"}
+{"key": "script/mp5211#QS504_Start/91", "es": "Entiendo tu frustración, pero culparte no nos ayudará a encontrarla más rápido."}
+{"key": "script/mp5211#QS504_Start/93", "es": "Tenemos que idear un plan de acción y concentrarnos en rastrear dónde está."}
+{"key": "script/mp5211#QS504_Start/96", "es": "Está bien. Si nos separamos para buscarla, entonces..."}
+{"key": "script/mp5211#QS504_Start/101", "es": "Rechazar su ayuda"}
+{"key": "script/mp5211#QS504_Start/102", "es": "Asentir"}
+{"key": "script/mp5211#QS504_Start/108", "es": "¿Q-Qué quieres decir...?"}
+{"key": "script/mp5211#QS504_Start/111", "es": "Sí, estoy de acuerdo con Adol."}
+{"key": "script/mp5211#QS504_Start/113", "es": "El Bosque de Ceniza es muy peligroso, y además es bastante fácil perderse ahí."}
+{"key": "script/mp5211#QS504_Start/115", "es": "Tenemos que encontrar a tu compañera, pero lo último que queremos es acabar perdiéndote a ti también."}
+{"key": "script/mp5211#QS504_Start/122", "es": "No creo que sea una buena idea."}
+{"key": "script/mp5211#QS504_Start/126", "es": "El Bosque de Ceniza es muy peligroso, y además es bastante fácil perderse ahí."}
+{"key": "script/mp5211#QS504_Start/128", "es": "Tenemos que encontrar a tu compañera, pero lo último que queremos es acabar perdiéndote a ti también."}
+{"key": "script/mp5211#QS504_Start/134", "es": "P-Pero, ¡no puedo quedarme de brazos cruzados mientras ella está en peligro! ¡Tengo que hacer algo!"}
+{"key": "script/mp5211#QS504_Start/137", "es": "Sabremos que estás sano y salvo. Eso nos ayudará a concentrarnos en averiguar dónde está."}
+{"key": "script/mp5211#QS504_Start/139", "es": "Así que de verdad sería mejor que te quedaras aquí."}
+{"key": "script/mp5211#QS504_Start/144", "es": "...Está bien. Si eso les facilita encontrarla, haré lo que dicen."}
+{"key": "script/mp5211#QS504_Start/147", "es": "Solo, por favor... hagan todo lo que puedan."}
+{"key": "script/mp5211#QS504_Start/149", "es": "¡Seguramente ahora mismo anda sola y asustada por el Bosque de Ceniza!"}
+{"key": "script/mp5211#QS504_Start/151", "es": "¡Rescátenla! ¡Se los ruego!"}
+{"key": "script/mp5211#QS504_Start/154", "es": "La encontraremos, no te preocupes."}
+{"key": "script/mp5211#QS504_Start/157", "es": "Vamos. Pongámonos en marcha."}
+{"key": "script/mp5211#QS504_Work2/27", "es": "¿Lograron encontrar a Rabbit?"}
+{"key": "script/mp5211#QS504_Work2/30", "es": "Sí. La encontramos en una cueva del Bosque de Ceniza, pero..."}
+{"key": "script/mp5211#QS504_Work2/33", "es": "Bueno, insistió en que podría encontrar sola el camino de vuelta si le indicábamos la dirección."}
+{"key": "script/mp5211#QS504_Work2/35", "es": "Debería haber llegado antes que nosotros, pero... supongo que no ha llegado, ¿verdad?"}
+{"key": "script/mp5211#QS504_Work2/40", "es": "*suspiro* Sabía que esto iba a pasar..."}
+{"key": "script/mp5211#QS504_Work2/43", "es": "Probablemente debí explicárselos antes, pero Rabbit tiene un sentido de la orientación sencillamente pésimo."}
+{"key": "script/mp5211#QS504_Work2/45", "es": "Se pierde con mucha facilidad cuando está sola, y tampoco sabe leer un mapa. Pero, aun así, tiene demasiado orgullo como para pedir ayuda."}
+{"key": "script/mp5211#QS504_Work2/54", "es": "Uf... Básicamente, volvimos al punto de partida."}
+{"key": "script/mp5211#QS504_Work2/56", "es": "Me pregunto dónde terminará esta vez..."}
+{"key": "script/mp5211#QS504_Work2/59", "es": "Mmm... Bueno, su sentido de la orientación es terrible, pero su intuición puede ser sorprendentemente buena."}
+{"key": "script/mp5211#QS504_Work2/61", "es": "Probablemente no pase mucho tiempo vagando sin rumbo, sino que buscará refugio en algún lugar. Como esa cueva donde la encontraron."}
+{"key": "script/mp5211#QS504_Work2/63", "es": "...Aunque no puedo asegurarlo."}
+{"key": "script/mp5211#QS504_Work2/66", "es": "Aun así, como su compañero, conoces sus costumbres mejor que nosotros. Nos concentraremos en posibles refugios."}
+{"key": "script/mp5211#QS504_Work2/69", "es": "¿Como un campamento, quizás?"}
+{"key": "script/mp5211#QS504_Work2/71", "es": "Una cosa te digo. Registrar campamentos y cuevas es mucho mejor que andar vagando por el bosque esperando tener suerte."}
+{"key": "script/mp5211#QS504_Work2/73", "es": "*suspiro* En fin. ¡Supongo que tendremos que llegar hasta el final!"}
+{"key": "script/mp5211#QS504_Work2/75", "es": "Vamos."}
+{"key": "script/mp5211#QS504_End/31", "es": "Muchas gracias por su ayuda, a todos. No sé qué habría hecho sin ustedes."}
+{"key": "script/mp5211#QS504_End/35", "es": "Vamos, Rabbit. ¡Tú también dales las gracias!"}
+{"key": "script/mp5211#QS504_End/38", "es": "...Bueno, supongo que les estoy algo agradecida por sus esfuerzos."}
+{"key": "script/mp5211#QS504_End/43", "es": "¡Pero tú eres un completo inútil, Pigeon!"}
+{"key": "script/mp5211#QS504_End/45", "es": "¡No puedo creer que dejaras mi búsqueda en manos de unos desconocidos, y que te quedaras aquí sin hacer nada!"}
+{"key": "script/mp5211#QS504_End/48", "es": "...Espero que estés listo para tu castigo."}
+{"key": "script/mp5211#QS504_End/50", "es": "¿Cuál va a ser? ¿El castigo A o el castigo B?"}
+{"key": "script/mp5211#QS504_End/53", "es": "No creo que quiera ninguno de los dos..."}
+{"key": "script/mp5211#QS504_End/56", "es": "¿Qué dices, que quieres los dos? ¡Pues sí que eres valiente! ♪"}
+{"key": "script/mp5211#QS504_End/68", "es": "*tos* En fin, de verdad les agradezco su ayuda."}
 {"key": "script/mp5211#QS504_End/70", "es": "Aquí tienes tu recompensa."}
 {"key": "script/mp5211#QS504_End/74", "es": "Recibes "}
 {"key": "script/mp5211#QS504_End/78", "es": "¡Gracias!"}
+{"key": "script/mp5211#QS504_End/81", "es": "Traten de llevarse bien, ustedes dos."}
+{"key": "script/mp5211#QS504_End/83", "es": "(Aunque no parece muy probable...)"}
+{"key": "script/mp5211#QS504_End/91", "es": "¡Misión completada: \"A la caza de Rabbit\"!"}
 {"key": "script/mp5211#QS505_Start/33", "es": "¿Vieron mi misión en el tablero?"}
+{"key": "script/mp5211#QS505_Start/36", "es": "Así es. ¿Y qué quieres que hagamos?"}
+{"key": "script/mp5211#QS505_Start/39", "es": "Es algo así como un ritual."}
+{"key": "script/mp5211#QS505_Start/41", "es": "No es un encargo especialmente urgente, así que si están ocupados, puede esperar... pero si les interesa ayudar, se los agradecería mucho."}
+{"key": "script/mp5211#QS505_Start/44", "es": "Dejemos que Adol decida. ¿Qué opinas, Adol?"}
+{"key": "script/mp5211#QS505_Start/49", "es": "Ah, ¿tienen tiempo para ayudarme ahora con mi encargo?"}
 {"key": "script/mp5211#QS505_Start/56", "es": "Aceptar"}
 {"key": "script/mp5211#QS505_Start/57", "es": "Rechazar"}
+{"key": "script/mp5211#QS505_Start/65", "es": "¿En serio? Es muy comprensible."}
+{"key": "script/mp5211#QS505_Start/67", "es": "Bueno, si en algún momento pueden hacerse un tiempo, avísenme, por favor."}
 {"key": "script/mp5211#QS505_Start2/0", "es": "Gracias."}
+{"key": "script/mp5211#QS505_Start2/2", "es": "Primero, necesitarán esto."}
 {"key": "script/mp5211#QS505_Start2/5", "es": "Obtienes "}
+{"key": "script/mp5211#QS505_Start2/9", "es": "¿Es algún tipo de artefacto maldito?"}
+{"key": "script/mp5211#QS505_Start2/12", "es": "Así es. Es un amuleto extranjero conocido como \"magatama\" que perteneció a un caballero sin nombre que perdió la vida en el Bosque de Ceniza."}
+{"key": "script/mp5211#QS505_Start2/14", "es": "Cientos de años después de su muerte, su resentimiento sigue encerrado en él."}
+{"key": "script/mp5211#QS505_Start2/16", "es": "Quiero que lo purifiquen y lo liberen."}
+{"key": "script/mp5211#QS505_Start2/19", "es": "¿Purificar un artefacto maldito, eh?"}
+{"key": "script/mp5211#QS505_Start2/21", "es": "¿Y qué es exactamente lo que tenemos que hacer?"}
+{"key": "script/mp5211#QS505_Start2/24", "es": "Primero, tendrán que permitir que el dueño del magatama tome forma física en el mundo."}
+{"key": "script/mp5211#QS505_Start2/26", "es": "El alma perdida del caballero que lo portaba todavía vaga por el Bosque de Ceniza."}
+{"key": "script/mp5211#QS505_Start2/29", "es": "Para que recupere su cuerpo, tendrán que hacer que su alma posea la armadura que vestía cuando estaba vivo."}
+{"key": "script/mp5211#QS505_Start2/32", "es": "¿Hacer que su alma posea su armadura? ¿Cómo se supone que vamos a hacer algo así?"}
+{"key": "script/mp5211#QS505_Start2/35", "es": "Primero, tendrán que equiparse el magatama."}
+{"key": "script/mp5211#QS505_Start2/37", "es": "Si lo llevan puesto, el alma del caballero empezará a perseguirlos."}
+{"key": "script/mp5211#QS505_Start2/39", "es": "Luego deben guiar su alma hasta la armadura, que está en algún lugar del Bosque de Ceniza."}
+{"key": "script/mp5211#QS505_Start2/42", "es": "¿Y si hacemos eso, poseerá la armadura y tomará forma, eh?"}
+{"key": "script/mp5211#QS505_Start2/44", "es": "¿Y qué hacemos después de eso?"}
+{"key": "script/mp5211#QS505_Start2/47", "es": "Después de eso... bueno, tendrán que derrotarlo en combate."}
+{"key": "script/mp5211#QS505_Start2/49", "es": "Como caballero, lo que más anhela es un último duelo. Si lo derrotan en uno, debería poder descansar en paz."}
+{"key": "script/mp5211#QS505_Start2/52", "es": "Muy bien. Parece claro, aunque algo poco convencional."}
+{"key": "script/mp5211#QS505_Start2/55", "es": "Aunque me preocupa un poco el duelo. ¿Quién sabe qué tan fuerte será este tipo?"}
+{"key": "script/mp5211#QS505_Start2/59", "es": "Pero aceptamos la misión, así que hay que hacerla. ¡En cuanto estemos listos, vamos a buscar esa alma perdida!"}
+{"key": "script/mp5211#QS505_End/28", "es": "Veo que lograron derrotar al caballero."}
+{"key": "script/mp5211#QS505_End/30", "es": "¿Trajeron el magatama?"}
+{"key": "script/mp5211#QS505_End/33", "es": "Sí. Aquí tienes."}
+{"key": "script/mp5211#QS505_End/37", "es": "Le entregas a Sydow "}
+{"key": "script/mp5211#QS505_End/41", "es": "Pensé que veríamos algún cambio en él después de derrotarlo, ya que dijiste que lo estábamos purificando..."}
+{"key": "script/mp5211#QS505_End/43", "es": "Pero no pasó nada. ¿Eso es normal?"}
+{"key": "script/mp5211#QS505_End/46", "es": "Lo es. Vencer al caballero en un duelo era solo una de las preparaciones necesarias para purificar el amuleto."}
+{"key": "script/mp5211#QS505_End/48", "es": "Del resto puedo encargarme ahora mismo."}
+{"key": "script/mp5211#QS505_End/61", "es": "...¡Listo!"}
+{"key": "script/mp5211#QS505_End/67", "es": "Las marcas color sangre desaparecieron del magatama."}
 {"key": "script/mp5211#QS505_End/70", "es": "Oh, vaya..."}
+{"key": "script/mp5211#QS505_End/80", "es": "La purificación está completa."}
+{"key": "script/mp5211#QS505_End/82", "es": "Por favor, llévense esto."}
 {"key": "script/mp5211#QS505_End/86", "es": "Obtienes "}
+{"key": "script/mp5211#QS505_End/90", "es": "¡Vaya, ahora está como nuevo!"}
+{"key": "script/mp5211#QS505_End/92", "es": "¿Seguro que podemos quedárnoslo?"}
+{"key": "script/mp5211#QS505_End/95", "es": "Por supuesto. Dárselo a ustedes fue el motivo por el que les pedí cumplir esta misión."}
+{"key": "script/mp5211#QS505_End/97", "es": "Espero que les resulte útil de alguna manera."}
+{"key": "script/mp5211#QS505_End/100", "es": "Muchas gracias, Sydow."}
+{"key": "script/mp5211#QS505_End/103", "es": "Llévense esto también."}
 {"key": "script/mp5211#QS505_End/107", "es": "Recibes "}
+{"key": "script/mp5211#QS505_End/111", "es": "Y gracias por su ayuda. Rezaré por su éxito."}
+{"key": "script/mp5211#QS505_End/119", "es": "¡Misión completada: \"Espíritu rencoroso\"!"}
+{"key": "script/mp5211#talk_greta/3", "es": "¿Así que lograron derrotar a las Anderaulas?"}
+{"key": "script/mp5211#talk_greta/5", "es": "¡Maravilloso! Aquí tienen su recompensa."}
 {"key": "script/mp5211#talk_greta/9", "es": "Recibes "}
+{"key": "script/mp5211#talk_greta/16", "es": "¡Misión completada: \"Flores del crepúsculo\"!"}
 {"key": "script/mp5211#talk_greta/31", "es": "Hablar"}
+{"key": "script/mp5211#talk_greta/32", "es": "Preguntar por las Anderaulas"}
 {"key": "script/mp5211#talk_greta/33", "es": "Cancelar"}
+{"key": "script/mp5211#talk_greta/39", "es": "Parece que la \"Anderaula\" es una subespecie de otro tipo de bestia llamada \"Floura\"."}
+{"key": "script/mp5211#talk_greta/41", "es": "Si se las deja solas el tiempo suficiente, existe la posibilidad de que empiecen a multiplicarse, así que les agradecería que las erradiquen pronto."}
+{"key": "script/mp5211#talk_greta/51", "es": "El último acto de su viaje se acerca."}
+{"key": "script/mp5211#talk_greta/53", "es": "Por favor, cuídense. Rezaré por su seguridad."}
+{"key": "script/mp5211#talk_greta/58", "es": "Presiento que los sucesos que ocurren ahora aquí en Celceta se contarán durante miles de años."}
+{"key": "script/mp5211#talk_greta/60", "es": "El desenlace de nuestra situación actual probablemente no solo afectará a Celceta, sino al mundo entero."}
+{"key": "script/mp5211#talk_greta/62", "es": "Me invade el miedo solo de pensarlo, pero preocuparse no cambiará nada. Todos debemos hacer lo que podamos."}
+{"key": "script/mp5211#talk_greta/67", "es": "El desenlace de nuestra situación actual probablemente no solo afectará a Celceta, sino al mundo entero."}
+{"key": "script/mp5211#talk_greta/69", "es": "Me invade el miedo solo de pensarlo, pero preocuparse no cambiará nada. Todos debemos hacer lo que podamos."}
+{"key": "script/mp5211#talk_greta/74", "es": "Por favor, cuídense en su viaje a Elduke."}
+{"key": "script/mp5211#talk_greta/76", "es": "Si tienen oportunidad, les agradecería que echaran un vistazo al tablón de misiones."}
+{"key": "script/mp5211#talk_greta/83", "es": "Oh, ¿vienes de visita? Bienvenido a los Archivos Negros."}
+{"key": "script/mp5211#talk_greta/85", "es": "Ajá, ¿te parece inusual este lugar?"}
+{"key": "script/mp5211#talk_greta/87", "es": "Siéntete libre de echar un vistazo."}
+{"key": "script/mp5211#talk_greta/94", "es": "Ajá. ¿Te parece inusual este lugar?"}
+{"key": "script/mp5211#talk_greta/96", "es": "Siéntete libre de echar un vistazo."}
+{"key": "script/mp5211#talk_sido/13", "es": "Primero que nada, tienes que equiparte el magatama que te di."}
+{"key": "script/mp5211#talk_sido/15", "es": "Si lo llevan puesto, el alma del caballero empezará a perseguirlos."}
+{"key": "script/mp5211#talk_sido/17", "es": "Luego debes guiar su alma hasta su armadura, que está en algún lugar del Bosque de Ceniza. Hazlo, y tomará forma física."}
+{"key": "script/mp5211#talk_sido/19", "es": "Rezo por tu éxito."}
+{"key": "script/mp5211#talk_sido/25", "es": "Ese magatama es un tipo de amuleto que el viejo caballero llevaba en batalla."}
+{"key": "script/mp5211#talk_sido/27", "es": "Espero que les resulte útil."}
+{"key": "script/mp5211#talk_sido/33", "es": "¿Así que por fin conseguiste la Máscara de la Luna? Parece que, al fin, el final se acerca."}
+{"key": "script/mp5211#talk_sido/35", "es": "¡Pero no bajes la guardia todavía!"}
+{"key": "script/mp5211#talk_sido/41", "es": "Así que Gruda por fin hizo su jugada e invadió Elduke..."}
+{"key": "script/mp5211#talk_sido/43", "es": "Nunca se es demasiado cauteloso con él. Podría haber puesto trampas en cualquier parte."}
+{"key": "script/mp5211#talk_sido/45", "es": "Ten cuidado cuando estés en los alrededores de Elduke."}
+{"key": "script/mp5211#talk_sido/50", "es": "Nunca se es demasiado cauteloso con Gruda. Podría haber puesto trampas en cualquier parte."}
+{"key": "script/mp5211#talk_sido/52", "es": "Ten cuidado cuando estés en los alrededores de Elduke."}
+{"key": "script/mp5211#talk_sido/59", "es": "Hay que detener a Gruda, cueste lo que cueste."}
+{"key": "script/mp5211#talk_sido/61", "es": "Seguiremos observando sus movimientos lo mejor que podamos."}
+{"key": "script/mp5211#talk_sido/63", "es": "No les será fácil, pero contamos con ustedes."}
+{"key": "script/mp5211#talk_sido/68", "es": "Seguiremos observando sus movimientos lo mejor que podamos."}
+{"key": "script/mp5211#talk_sido/70", "es": "No les será fácil, pero confiamos en sus capacidades."}
+{"key": "script/mp5211#talk_sido/79", "es": "Así que tú eres el Adol del que he oído hablar."}
+{"key": "script/mp5211#talk_sido/81", "es": "Tienes unos ojos muy valientes..."}
+{"key": "script/mp5211#talk_sido/83", "es": "Pero no puedo entretenerte aquí. Lo primero y principal es que vayas a ver al anciano."}
+{"key": "script/mp5211#talk_sido/88", "es": "Así que tú eres Adol. Tienes unos ojos muy valientes..."}
+{"key": "script/mp5211#talk_sido/90", "es": "Pero no puedo entretenerte aquí. Lo primero y principal es que vayas a ver al anciano."}
+{"key": "script/mp5211#talk_fate/4", "es": "Me dicen que lograste acabar con Bami y Gadis para siempre."}
+{"key": "script/mp5211#talk_fate/6", "es": "Ahora solo queda Gruda. Pero no será un enemigo fácil. Es un hombre increíblemente poderoso."}
+{"key": "script/mp5211#talk_fate/8", "es": "Mantente alerta."}
+{"key": "script/mp5211#talk_fate/13", "es": "Ahora solo queda Gruda. Pero no será un enemigo fácil. Es un hombre increíblemente poderoso."}
+{"key": "script/mp5211#talk_fate/15", "es": "Mantente alerta."}
+{"key": "script/mp5211#talk_fate/20", "es": "Gruda siempre fue un genio. La mayoría esperaba que fuera el próximo jefe de la aldea."}
+{"key": "script/mp5211#talk_fate/22", "es": "¿Por qué, entonces, las cosas terminaron como terminaron?"}
+{"key": "script/mp5211#talk_fate/26", "es": "Gruda se pasó de la raya."}
+{"key": "script/mp5211#talk_fate/28", "es": "Me pregunto qué estarán haciendo ahora los demás que huyeron de esta aldea..."}
+{"key": "script/mp5211#talk_fate/35", "es": "Aquí en Danan conocemos bien la historia, y nos dedicamos a observar su curso."}
+{"key": "script/mp5211#talk_fate/37", "es": "Pero me temo que no puedo decir más que eso. Solo confía en que este es un lugar donde se ven, se guardan y se ordenan muchas cosas."}
+{"key": "script/mp5211#talk_fate/39", "es": "Pero, por favor, no hagas mucho ruido aquí. No nos gusta el ruido."}
+{"key": "script/mp5211#talk_fate/44", "es": "Aquí en Danan conocemos bien la historia, y nos dedicamos a observar su curso."}
+{"key": "script/mp5211#talk_fate/46", "es": "Pero somos observadores silenciosos. Así que, por favor, procura guardar silencio si puedes."}
+{"key": "script/mp5211#talk_kai/3", "es": "No hace falta decir que el camino para convertirse en mago está lleno de peligros."}
+{"key": "script/mp5211#talk_kai/5", "es": "Pero no voy a rendirme. Algún día seré un mago poderoso como Sydow y el anciano Vanjo."}
+{"key": "script/mp5211#talk_kai/9", "es": "\"La mayor meta de un mago no debe ser la capacidad mágica, sino la generosidad de espíritu\"."}
+{"key": "script/mp5211#talk_kai/11", "es": "Es un proverbio que me enseñó el anciano. Es uno de mis favoritos."}
+{"key": "script/mp5211#talk_kai/15", "es": "\"La magia no debe usarse para cumplir tus deseos, sino para controlarlos\"."}
+{"key": "script/mp5211#talk_kai/17", "es": "Es un proverbio que me enseñó Sydow. Es uno de mis favoritos."}
+{"key": "script/mp5211#talk_kai/21", "es": "Si quiero convertirme en un gran mago, necesitaré una gran cantidad de conocimiento."}
+{"key": "script/mp5211#talk_kai/23", "es": "Siempre paso los días leyendo, y hoy no será distinto."}
 {"key": "script/mp5211#talk_yami/9", "es": "Hablar"}
+{"key": "script/mp5211#talk_yami/10", "es": "Entregar ingredientes"}
 {"key": "script/mp5211#talk_yami/11", "es": "Cancelar"}
+{"key": "script/mp5211#talk_yami/18", "es": "Una flor de yupel, una flor de libra, una fruta de raparo, una fruta de arieda..."}
+{"key": "script/mp5211#talk_yami/20", "es": "Luego necesito un órgano venenoso y un poco de extracto de rana... ¡Ah, y un poco de líquido ácido y un moho viscoso también!"}
+{"key": "script/mp5211#talk_yami/22", "es": "Necesito uno de cada uno de estos ocho ingredientes."}
+{"key": "script/mp5211#talk_yami/24", "es": "Si están dispuestos a ayudar, se los agradeceré mucho."}
+{"key": "script/mp5211#talk_yami/36", "es": "*risita* Parece que no tienen todos los ingredientes que pedí."}
+{"key": "script/mp5211#talk_yami/38", "es": "¡Vuelvan cuando los tengan todos, por favor!"}
+{"key": "script/mp5211#talk_yami/47", "es": "*risita* Vanjo se verá rudo, pero le importa mucho la apariencia."}
+{"key": "script/mp5211#talk_yami/49", "es": "Al final, supongo que eso les dejó un misterio divertido que resolver. Así que todo salió bien, ¿no?"}
+{"key": "script/mp5211#talk_yami/55", "es": "Cuando el cansancio les pegue, llenen su mente de mujeres. O de hombres, si son chicas."}
+{"key": "script/mp5211#talk_yami/57", "es": "Los pensamientos lujuriosos le dan energía a todo el mundo."}
+{"key": "script/mp5211#talk_yami/62", "es": "Lo único que puedo hacer es amar a las mujeres y preparar medicinas."}
+{"key": "script/mp5211#talk_yami/64", "es": "Eso es todo. Y para mí es suficiente."}
+{"key": "script/mp5211#talk_yami/69", "es": "¿Quieren algo? Entonces tráiganme algunos ingredientes."}
+{"key": "script/mp5211#talk_yami/71", "es": "¡Sin ingredientes, lo único que puedo recetarles es paciencia!"}
+{"key": "script/mp5211#talk_yami/81", "es": "Hay demasiados hombres introvertidos hoy en día. Es lamentable."}
+{"key": "script/mp5211#talk_yami/83", "es": "Los hombres deberían ser más honestos con sus deseos. Al fin y al cabo, todos queremos lo mismo."}
+{"key": "script/mp5211#talk_sebrina/9", "es": "E-Este... ¿quieres usar nuestros servicios?"}
+{"key": "script/mp5211#talk_sebrina/12", "es": "Ahora no. Solo les estoy mostrando la aldea."}
+{"key": "script/mp5211#talk_sebrina/14", "es": "Pero vendremos otra vez en otro momento, seguro."}
 {"key": "script/mp5211#talk_sebrina/17", "es": "B-Bueno..."}
+{"key": "script/mp5211#talk_sebrina/23", "es": "*suspiro* Ojalá Yami ya empezara a comportarse como alguien de su edad."}
+{"key": "script/mp5211#talk_sebrina/25", "es": "Es un pervertido sin remedio."}
+{"key": "script/mp5211#talk_sebrina/36", "es": "Sintetizar"}
 {"key": "script/mp5211#talk_sebrina/37", "es": "Hablar"}
 {"key": "script/mp5211#talk_sebrina/38", "es": "Cancelar"}
+{"key": "script/mp5211#talk_sebrina/48", "es": "De alguna manera Yami se vuelve más enérgico con cada año que pasa."}
+{"key": "script/mp5211#talk_sebrina/50", "es": "Estar animado está muy bien, pero ojalá dejara de insinuárseme."}
+{"key": "script/mp5211#talk_sebrina/55", "es": "No lo parece, pero Yami de verdad se dedica a su trabajo."}
+{"key": "script/mp5211#talk_sebrina/57", "es": "...Por desgracia, toda esa dedicación queda eclipsada por su naturaleza tremendamente lujuriosa."}
+{"key": "script/mp5211#talk_sebrina/62", "es": "Si necesitas usar nuestros servicios, no dudes en avisarme."}
+{"key": "script/mp5211#talk_sebrina/64", "es": "Será un viejo pervertido, pero las habilidades de síntesis de Yami son excepcionales."}
+{"key": "script/mp5211#talk_yami_sebrina/45", "es": "¡Vaya, pero si es Duren!"}
+{"key": "script/mp5211#talk_yami_sebrina/48", "es": "*risita* Hacía tiempo que no te veíamos por aquí."}
+{"key": "script/mp5211#talk_yami_sebrina/57", "es": "¿Esto es algún tipo de centro de investigación?"}
+{"key": "script/mp5211#talk_yami_sebrina/63", "es": "Se podría decir que sí. Nuestra especialidad es sintetizar elixires y objetos medicinales."}
+{"key": "script/mp5211#talk_yami_sebrina/68", "es": "*risita* Si tienen el dinero y los ingredientes, podemos fabricar casi cualquier cosa que se les ocurra."}
+{"key": "script/mp5211#talk_yami_sebrina/70", "es": "Entonces, ¿qué es lo que quieren? ¿Una poción de amor? ¿Algo para volverse invisibles con... fines turbios?"}
+{"key": "script/mp5211#talk_yami_sebrina/72", "es": "¡Vamos, pidan su deseo!"}
+{"key": "script/mp5211#talk_yami_sebrina/82", "es": "...Creo que por ahora estamos bien."}
+{"key": "script/mp5211#talk_yami_sebrina/85", "es": "*risita* Vamos, no hay vergüenza en ser honestos. ¡Todos los humanos son bestias en el fondo!"}
+{"key": "script/mp5211#talk_yami_sebrina/90", "es": "¿Verdad, rubito?"}
+{"key": "script/mp5211#talk_yami_sebrina/95", "es": "...¿Por qué me lo preguntas a mí?"}
+{"key": "script/mp5211#talk_yami_sebrina/98", "es": "*suspiro* Creo que ya terminamos aquí."}
+{"key": "script/mp5211#talk_yami_sebrina/101", "es": "Sí. Probablemente deberíamos irnos ya."}
 {"key": "script/mp5211#talk_kenzo/36", "es": "Comprar/Intercambiar"}
 {"key": "script/mp5211#talk_kenzo/37", "es": "Hablar"}
 {"key": "script/mp5211#talk_kenzo/38", "es": "Cancelar"}
