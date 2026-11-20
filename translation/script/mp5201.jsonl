@@ -314,6 +314,7 @@
 {"key": "script/mp5201#QS502_End/105", "es": "¡Suena perfecto!"}
 {"key": "script/mp5201#QS502_End/107", "es": "En cierto modo, probablemente sea lo que más feliz me haría recibir."}
 {"key": "script/mp5201#QS502_End/109", "es": "¿Seguro que puedo quedarme con este amuleto de dragón dorado?"}
+{"key": "script/mp5201#QS502_End/114", "es": "Entregar el amuleto de dragón dorado"}
 {"key": "script/mp5201#QS502_End/115", "es": "Cancelar"}
 {"key": "script/mp5201#QS502_End/119", "es": "Jeje. Muchas gracias."}
 {"key": "script/mp5201#QS502_End/121", "es": "Aquí tienes algo mío a cambio."}
@@ -321,10 +322,15 @@
 {"key": "script/mp5201#QS502_End/134", "es": "Recibes "}
 {"key": "script/mp5201#QS502_End/137", "es": "Recibes "}
 {"key": "script/mp5201#QS502_End/140", "es": "Recibes "}
+{"key": "script/mp5201#QS502_End/144", "es": "Y aquí tienes algo extra por las molestias."}
 {"key": "script/mp5201#QS502_End/147", "es": "Recibes "}
 {"key": "script/mp5201#QS502_End/151", "es": "Adiós, entonces. Que ambos encontremos la felicidad."}
 {"key": "script/mp5201#QS502_End/159", "es": "¡Misión completada: \"Amuleto de la suerte\"!"}
 {"key": "script/mp5201#QS502_End/169", "es": "¿En serio? Entonces, ¿podrías traerme otro accesorio?"}
+{"key": "script/mp5201#QS502_End/175", "es": "Es un accesorio que facilita conseguir objetos raros, ¿verdad?"}
+{"key": "script/mp5201#QS502_End/177", "es": "Mmm... Parece interesante. Creo que me gusta."}
+{"key": "script/mp5201#QS502_End/179", "es": "¿Seguro que puedo quedarme con esta hacha de plata?"}
+{"key": "script/mp5201#QS502_End/184", "es": "Entregar el hacha de plata"}
 {"key": "script/mp5201#QS502_End/185", "es": "Cancelar"}
 {"key": "script/mp5201#QS502_End/189", "es": "Jeje. Muchas gracias."}
 {"key": "script/mp5201#QS502_End/191", "es": "Aquí tienes algo mío a cambio."}
@@ -332,6 +338,10 @@
 {"key": "script/mp5201#QS502_End/205", "es": "Adiós, entonces. Que ambos encontremos la felicidad."}
 {"key": "script/mp5201#QS502_End/213", "es": "¡Misión completada: \"Amuleto de la suerte\"!"}
 {"key": "script/mp5201#QS502_End/223", "es": "¿En serio? Entonces, ¿podrías traerme otro accesorio?"}
+{"key": "script/mp5201#QS502_End/229", "es": "Es un accesorio que permite conseguir mucho dinero, ¿verdad?"}
+{"key": "script/mp5201#QS502_End/231", "es": "Bueno, el dinero hace falta para casi todo, así que supongo que tener mucho sería una forma de hacer feliz a alguien."}
+{"key": "script/mp5201#QS502_End/233", "es": "¿Seguro que puedo quedarme con esta hacha de oro?"}
+{"key": "script/mp5201#QS502_End/238", "es": "Entregar el hacha de oro"}
 {"key": "script/mp5201#QS502_End/239", "es": "Cancelar"}
 {"key": "script/mp5201#QS502_End/243", "es": "Jeje. Muchas gracias."}
 {"key": "script/mp5201#QS502_End/245", "es": "Aquí tienes algo mío a cambio."}
@@ -340,14 +350,97 @@
 {"key": "script/mp5201#QS502_End/262", "es": "Adiós, entonces. Que ambos encontremos la felicidad."}
 {"key": "script/mp5201#QS502_End/270", "es": "¡Misión completada: \"Amuleto de la suerte\"!"}
 {"key": "script/mp5201#QS502_End/280", "es": "¿En serio? Entonces, ¿podrías traerme otro accesorio?"}
+{"key": "script/mp5201#QS502_End/286", "es": "¿Qué? ¿No me vas a dejar verlo?"}
+{"key": "script/mp5201#QS502_End/288", "es": "¿Te gusta atormentar a la gente con cosas que no puede tener? Eso es muy cruel, ¿sabes?"}
+{"key": "script/mp5201#QS404_Work3/33", "es": "Mmm... El nombre de esta persona sí empieza con la letra \"U\"."}
+{"key": "script/mp5201#QS404_Work3/37", "es": "Frieda, ¿te encargas tú?"}
+{"key": "script/mp5201#QS404_Work3/41", "es": "Con gusto."}
+{"key": "script/mp5201#QS404_Work3/46", "es": "Ursula, ¿tienes un momento?"}
+{"key": "script/mp5201#QS404_Work3/48", "es": "¿Podría pedirte que firmes este cuaderno?"}
+{"key": "script/mp5201#QS404_Work3/51", "es": "¿Firmar? ¿Por qué?"}
+{"key": "script/mp5201#QS404_Work3/53", "es": "No será algún contrato mágico o algo así, ¿verdad?"}
+{"key": "script/mp5201#QS404_Work3/58", "es": "...Supongo que entiendo por qué lo sospechas."}
 {"key": "script/mp5201#QS404_Work3/61", "es": "En realidad..."}
+{"key": "script/mp5201#QS404_Work3/65", "es": "Calilica le explicó a Ursula lo del Libro de firmas."}
+{"key": "script/mp5201#QS404_Work3/68", "es": "Mmm. Está bien."}
 {"key": "script/mp5201#QS404_Work3/71", "es": "¿Por qué no?"}
+{"key": "script/mp5201#QS404_Work3/76", "es": "¡Completaste la página \"U\" del Libro de firmas!"}
 {"key": "script/mp5201#QS404_Work3/82", "es": "Perfecto."}
 {"key": "script/mp5201#QS404_Work3/84", "es": "¡Muchas gracias!"}
+{"key": "script/mp5201#QS404_Work3/87", "es": "¡Claro, sin problema!"}
 {"key": "script/mp5201#QS404_Work3/95", "es": "¡Completaste todas las páginas del Libro de firmas!"}
+{"key": "script/mp5201#talk_adan/3", "es": "Al final, creo que lo mejor es que la gente piense de forma positiva."}
+{"key": "script/mp5201#talk_adan/5", "es": "¡Lánzate de cabeza y confía en que todo saldrá bien! ...Bueno, no te lances de cabeza de verdad, por supuesto..."}
+{"key": "script/mp5201#talk_adan/9", "es": "¿Un par de exploradores? Me impresiona que hayan llegado tan adentro del bosque."}
+{"key": "script/mp5201#talk_adan/13", "es": "Ese Galbalan era muy intimidante."}
+{"key": "script/mp5201#talk_adan/15", "es": "Aunque no parecía malvado..."}
+{"key": "script/mp5201#talk_adan/24", "es": "Duren nunca ha sabido decir que no a un pedido."}
+{"key": "script/mp5201#talk_adan/26", "es": "Yo no querría ser así, pero lo respeto muchísimo por su generosidad."}
+{"key": "script/mp5201#talk_maderin/3", "es": "Entiendo lo que dice Adan."}
+{"key": "script/mp5201#talk_maderin/5", "es": "Hay que ser cauteloso. Pero si lo eres demasiado, nunca llegarás a ninguna parte. Encontrar el equilibrio justo es... difícil."}
+{"key": "script/mp5201#talk_maderin/9", "es": "Desde luego, no parecen tener lo necesario. Es asombroso, la verdad."}
+{"key": "script/mp5201#talk_maderin/13", "es": "Así que ese era uno de los Galbalan que crearon nuestros ancestros..."}
+{"key": "script/mp5201#talk_maderin/15", "es": "Dicen que ese era muy especial. Pero su poder es realmente asombroso."}
+{"key": "script/mp5201#talk_maderin/24", "es": "Jajaja. Duren nunca cambia."}
+{"key": "script/mp5201#talk_maderin/26", "es": "Entiendo por qué al anciano le cae tan bien."}
+{"key": "script/mp5201#talk_adan_maderin/0", "es": "¡Vaya, pero si es Duren!"}
+{"key": "script/mp5201#talk_adan_maderin/3", "es": "¡Oye, oye! ¡¿Qué nos trajiste?!"}
+{"key": "script/mp5201#talk_adan_maderin/5", "es": "Esta vez fuiste a Comodo y a Selray, ¿nooo?"}
+{"key": "script/mp5201#talk_adan_maderin/10", "es": "¡Fui por trabajo! No tuve tiempo de pensar en recuerditos."}
+{"key": "script/mp5201#talk_adan_maderin/13", "es": "¿Quéee? ¡Pero siempre nos traías algo!"}
+{"key": "script/mp5201#talk_adan_maderin/15", "es": "¿Cuándo te volviste tan frío e insensible?"}
+{"key": "script/mp5201#talk_adan_maderin/20", "es": "¡Ay, cállense!"}
+{"key": "script/mp5201#talk_adan_maderin/22", "es": "Lo recordaré la próxima vez, ¿sí?"}
+{"key": "script/mp5201#talk_adan_maderin/24", "es": "Además, ¡este no es el momento para preocuparse por cosas así!"}
 {"key": "script/mp5201#talk_micri/4", "es": "Hablar"}
+{"key": "script/mp5201#talk_micri/5", "es": "Entregar un accesorio de la buena suerte"}
 {"key": "script/mp5201#talk_micri/6", "es": "Cancelar"}
+{"key": "script/mp5201#talk_micri/23", "es": "¿Me trajiste un accesorio? ¡Vaya, muchas gracias!"}
 {"key": "script/mp5201#talk_micri/25", "es": "A ver..."}
+{"key": "script/mp5201#talk_micri/27", "es": "...No parece que tengas nada con lo que yo pueda trabajar."}
+{"key": "script/mp5201#talk_micri/29", "es": "Quiero encontrar la felicidad. Si encuentras algún accesorio que tenga ese efecto, por favor, tráemelo."}
+{"key": "script/mp5201#talk_micri/41", "es": "No sé qué está escrito en los Registros Akáshicos... pero creo que es mejor así."}
+{"key": "script/mp5201#talk_micri/43", "es": "No tendrías ánimos para hacer nada si ya supieras cómo va a terminar."}
+{"key": "script/mp5201#talk_micri/47", "es": "Highland está en apuros ahora que la barrera del santuario desapareció... pero Danan también."}
+{"key": "script/mp5201#talk_micri/49", "es": "Me pregunto qué será de nosotros..."}
+{"key": "script/mp5201#talk_micri/53", "es": "Gruda es tan astuto como siempre: hace que otros hagan su trabajo sucio."}
+{"key": "script/mp5201#talk_micri/55", "es": "Sus habilidades mágicas y tácticas son brillantes, pero el conocimiento sin los medios para aplicarlo no es mejor que la estupidez."}
+{"key": "script/mp5201#talk_micri/60", "es": "Bienvenidos a Danan, viajeros."}
+{"key": "script/mp5201#talk_micri/62", "es": "Y Duren y Frieda... Gracias por todo su esfuerzo."}
+{"key": "script/mp5201#talk_micri/64", "es": "Aunque no se queden mucho tiempo, espero que disfruten de su estadía con nosotros."}
+{"key": "script/mp5201#talk_micri/69", "es": "Aunque no se queden mucho tiempo, espero que disfruten de su estadía con nosotros."}
+{"key": "script/mp5201#talk_micri/71", "es": "Si tienen hambre, les recomiendo la salamandra asada. Mmmmm, salamandra asaaaada..."}
+{"key": "script/mp5201#talk_kisera/8", "es": "Una rana y una gallina como familiares..."}
+{"key": "script/mp5201#talk_kisera/10", "es": "Eso... no suena muy fuerte."}
+{"key": "script/mp5201#talk_kisera/15", "es": "Es un motivo muy particular para querer aprender magia de viento..."}
+{"key": "script/mp5201#talk_kisera/17", "es": "Aun así, supongo que todo lo que despierte el deseo de saber es bueno."}
+{"key": "script/mp5201#talk_kisera/22", "es": "Y Verde en realidad no está tan gordo..."}
+{"key": "script/mp5201#talk_kisera/24", "es": "Pero magia para adelgazar... ¡Qué idea tan original!"}
+{"key": "script/mp5201#talk_kisera/29", "es": "¡Pensar que Gruda se rebajaría a usar como rehenes a la gente de su propia aldea!"}
+{"key": "script/mp5201#talk_kisera/31", "es": "Me alegra que nadie haya salido herido. Al final, eso es lo único que importa."}
+{"key": "script/mp5201#talk_kisera/36", "es": "*suspiro* Mi hija siempre está causando problemas."}
+{"key": "script/mp5201#talk_kisera/38", "es": "Me recuerda a Duren cuando era más joven."}
+{"key": "script/mp5201#talk_kisera/41", "es": "¡¿Yo?! Espera un momento, yo..."}
+{"key": "script/mp5201#talk_kisera/44", "es": "¿Duren de joven, eh? ...Tendrás que vigilarla de cerca."}
+{"key": "script/mp5201#talk_kisera/47", "es": "¡¿Qué se supone que significa eso?!"}
+{"key": "script/mp5201#talk_kisera/50", "es": "Jijí. Significa exactamente lo que piensas."}
+{"key": "script/mp5201#talk_kisera/52", "es": "De joven eras travieso, imprudente, simplón, ingenuo..."}
+{"key": "script/mp5201#talk_kisera/57", "es": "¡No recuerdo haber sido imprudente ni travieso!"}
+{"key": "script/mp5201#talk_kisera/60", "es": "¿Ah, sí? ¿Pero no vas a negar que eras simplón e ingenuo?"}
+{"key": "script/mp5201#talk_kisera/63", "es": "G-grrr..."}
+{"key": "script/mp5201#talk_kisera/72", "es": "Perdón, Duren. ¡En realidad no quería burlarme de ti!"}
+{"key": "script/mp5201#talk_kisera/74", "es": "Pensándolo bien, tu amigo probablemente daba más problemas que tú."}
+{"key": "script/mp5201#talk_kisera/76", "es": "Me pregunto qué estará haciendo ahora..."}
+{"key": "script/mp5201#talk_rinet/3", "es": "¡Cuando sea grande, voy a ser maga y haré que Verde y Bianco sean mis familiares!"}
+{"key": "script/mp5201#talk_rinet/5", "es": "Me pregunto qué dirían si pudieran hablar..."}
+{"key": "script/mp5201#talk_rinet/10", "es": "¿Por qué Bianco no puede volar mucho tiempo? ¡Tiene alas!"}
+{"key": "script/mp5201#talk_rinet/12", "es": "Bueno. ¡Algún día tendré que aprender magia de viento y darle una mano!"}
+{"key": "script/mp5201#talk_rinet/17", "es": "Y Verde está un poco gordito, así que no salta muy bien."}
+{"key": "script/mp5201#talk_rinet/19", "es": "Bueno. ¡Algún día tendré que inventar magia para adelgazar y dejarlo bien flaquito!"}
+{"key": "script/mp5201#talk_rinet/24", "es": "Mami y los demás aldeanos son muy fuertes cuando pelean. ¡No es justo!"}
+{"key": "script/mp5201#talk_rinet/26", "es": "¡Atacar en grupo es de cobardes!"}
+{"key": "script/mp5201#talk_rinet/30", "es": "¡Corre, corre!"}
+{"key": "script/mp5201#talk_rinet/32", "es": "¡O te como de postre!"}
 {"key": "script/mp5201#talk_cat/5", "es": "¡Cocoroquiiiii! ㈱"}
 {"key": "script/mp5201#talk_cat/13", "es": "¡Cloc, cloc, cloc! ㈱"}
 {"key": "script/mp5201#talk_cat/21", "es": "Cloc."}
@@ -355,7 +448,9 @@
 {"key": "script/mp5201#talk_cat/37", "es": "¡Raaaaaaaah!"}
 {"key": "script/mp5201#talk_cat/43", "es": "Darle una hoja"}
 {"key": "script/mp5201#talk_cat/44", "es": "Darle una flor"}
+{"key": "script/mp5201#talk_cat/45", "es": "Pellizcarle el pico"}
 {"key": "script/mp5201#talk_cat/46", "es": "Cancelar"}
+{"key": "script/mp5201#talk_cat/53", "es": "No tienes ninguna. Se enojaría contigo por ofrecérsela, si no le dieras tanta lástima."}
 {"key": "script/mp5201#talk_cat/60", "es": "Darle una hoja podrida"}
 {"key": "script/mp5201#talk_cat/63", "es": "Darle una hoja fresca"}
 {"key": "script/mp5201#talk_cat/66", "es": "Darle una hoja de Roda"}
@@ -367,6 +462,7 @@
 {"key": "script/mp5201#talk_cat/108", "es": "Recibes "}
 {"key": "script/mp5201#talk_cat/128", "es": "Parece extasiado."}
 {"key": "script/mp5201#talk_cat/132", "es": "Recibes "}
+{"key": "script/mp5201#talk_cat/144", "es": "¡¿Qué?! ¿No tienes ninguna? ¡Sal a buscar algo! No querrás enojar a este pequeñín."}
 {"key": "script/mp5201#talk_cat/151", "es": "Darle una flor marchita"}
 {"key": "script/mp5201#talk_cat/154", "es": "Darle una flor de marl"}
 {"key": "script/mp5201#talk_cat/157", "es": "Darle una flor de yupel"}
@@ -389,10 +485,15 @@
 {"key": "script/mp5201#talk_cat/299", "es": "Recibes "}
 {"key": "script/mp5201#talk_cat/322", "es": "...Parece ofendido."}
 {"key": "script/mp5201#talk_cat/326", "es": "...Parece que no le caes bien."}
+{"key": "script/mp5201#talk_flog/5", "es": "¡Croac croac croac! ㈱"}
+{"key": "script/mp5201#talk_flog/13", "es": "¡Croac croac! ㈱"}
 {"key": "script/mp5201#talk_flog/21", "es": "Croac."}
+{"key": "script/mp5201#talk_flog/29", "es": "¡Crrrroac!"}
+{"key": "script/mp5201#talk_flog/37", "es": "¡¡CRRRRRRROAC!!"}
 {"key": "script/mp5201#talk_flog/43", "es": "Darle un poco de líquido"}
 {"key": "script/mp5201#talk_flog/44", "es": "Picarla"}
 {"key": "script/mp5201#talk_flog/45", "es": "Cancelar"}
+{"key": "script/mp5201#talk_flog/52", "es": "En realidad no tienes ninguno. Te regaña con sus ojos fríos e inexpresivos."}
 {"key": "script/mp5201#talk_flog/59", "es": "Darle líquido inmundo"}
 {"key": "script/mp5201#talk_flog/62", "es": "Darle líquido transparente"}
 {"key": "script/mp5201#talk_flog/64", "es": "Cancelar"}
@@ -403,5 +504,14 @@
 {"key": "script/mp5201#talk_flog/104", "es": "Recibes "}
 {"key": "script/mp5201#talk_flog/128", "es": "...Parece ofendido."}
 {"key": "script/mp5201#talk_flog/132", "es": "...Parece que no le caes bien."}
+{"key": "script/mp5201#stop_exit/6", "es": "La casa del anciano está frente a la torre central. Vamos."}
+{"key": "script/mp5201#stop_exit/9", "es": "Jijí. Pero si quieres visitar otro lugar primero, ¡adelante!"}
+{"key": "script/mp5201#stop_shrine/36", "es": "Eh... ¿A dónde lleva este camino?"}
+{"key": "script/mp5201#stop_shrine/39", "es": "Ah, bueno... Lleva a un pequeño santuario."}
+{"key": "script/mp5201#stop_shrine/42", "es": "Se construyó para sellar algo bastante importante."}
+{"key": "script/mp5201#stop_shrine/44", "es": "Pero lo que debía sellar se perdió, así que... ahora es solo un santuario."}
+{"key": "script/mp5201#stop_shrine/49", "es": "De todos modos, lo lamento, pero se necesita el permiso del anciano para ir más lejos por aquí."}
+{"key": "script/mp5201#stop_shrine/51", "es": "Volvamos a la aldea, Adol."}
+{"key": "script/mp5201#stop_shrine/91", "es": "Parece que se necesita el permiso del anciano para ir más lejos. Lo mejor es respetar su voluntad."}
 {"key": "script/mp5201#talk_Mishy/34", "es": "¡Jijijiii! ♪"}
 {"key": "script/mp5201#talk_Mishy/43", "es": "¡Jiiijijiiiii!"}
