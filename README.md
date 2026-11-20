@@ -10,9 +10,49 @@ Traducción fan al español neutro de *Ys: Memories of Celceta* (versión de Ste
 - Pendientes: [PENDING.md](PENDING.md)
 - Licencias: [LICENSE.md](LICENSE.md)
 
+## Instalar
+
+La traducción reemplaza el texto en **inglés** del juego. Se arma con *tus* archivos del juego, y se puede quitar cuando quieras. Funciona en **Windows** y en **Linux / Steam Deck**.
+
+1. Hace falta **Python 3.8 o superior**:
+   - Windows: descárgalo de [python.org](https://www.python.org/downloads/) y, al instalarlo, marca *Add python.exe to PATH*.
+   - Linux y Steam Deck: ya viene instalado.
+2. Descarga el paquete de tu sistema desde la [última versión](https://github.com/bmvargas-751/ys-memories-of-celceta-esp/releases/latest):
+   - Windows: `Celceta-ESP-…-windows.zip`
+   - Linux y Steam Deck: `Celceta-ESP-…-linux.tar.gz`
+3. Descomprímelo, mejor **dentro de la carpeta del juego** (junto a `lang` y `Ysc_dx11.exe`). Te queda una carpeta `Celceta-ESP`.
+   Para abrir la carpeta del juego: en Steam, clic derecho en el juego > *Administrar* > *Explorar archivos locales*.
+   Si lo descomprimes en otro lugar, el instalador busca el juego en tus bibliotecas de Steam.
+4. Ejecuta el instalador de esa carpeta:
+   - Windows: doble clic en **`install.bat`**.
+   - Linux: **`install.sh`**. En Steam Deck, en modo escritorio: clic derecho en `install.sh` > *Ejecutar en terminal* (o `./install.sh` desde una terminal).
+5. Abre el juego con el idioma en inglés: el texto aparece en español.
+
+El instalador guarda antes los archivos originales en `Celceta-ESP/backup/`. Si descomprimes una versión nueva en otra carpeta junto al juego, reutiliza ese respaldo.
+
+### Desinstalar
+
+Ejecuta **`uninstall.bat`** (Windows) o **`uninstall.sh`** (Linux): devuelve los archivos originales. No borres la carpeta `Celceta-ESP` antes de desinstalar, porque ahí está el respaldo.
+Si algo quedó mal, en Steam: *Propiedades > Archivos instalados > Verificar integridad de los archivos del juego*.
+
+### Si el juego se actualiza
+
+Steam reemplaza los archivos y la traducción se pierde: vuelve a ejecutar el instalador. Si los archivos del juego cambiaron, el instalador te avisa antes de seguir.
+
+### Problemas frecuentes
+
+- **"No encuentro el juego"**: indica la ruta a mano desde una terminal en la carpeta `Celceta-ESP`: `install.bat --game "RUTA"` (Windows) o `./install.sh --game "RUTA"` (Linux).
+- **"Hace falta Python"**: instálalo como en el paso 1 y vuelve a ejecutar el instalador.
+- **Windows muestra un aviso de seguridad** al ejecutar el `.bat`: es normal con archivos descargados; el código está en este repositorio.
+- **Un texto raro, cortado o con un error**: dinos dónde pasó, sin spoilers, en [Issues](https://github.com/bmvargas-751/ys-memories-of-celceta-esp/issues).
+
+### Armar los paquetes
+
+`python3 tools/make_release.py vX.Y.Z` deja en `dist/release/` los dos paquetes. Necesita la copia local del juego y PIL (solo para dibujar las letras españolas de la fuente), y comprueba antes que el instalador arma lo mismo que `tools/celceta.py import`.
+
 ## Avance
 
-Actualizado: 2026-11-18.
+Actualizado: 2026-11-20.
 
 ### Fases
 
@@ -24,9 +64,9 @@ Actualizado: 2026-11-18.
 | 3. Glosario y fichas | ✅ 159 términos y 7 personajes |
 | 4. Set de oro | ✅ 17 de 17 (oro-007) |
 | 5. Piloto | ✅ 5 lotes de 40 líneas, uno por sección |
-| 6. Traducción | ⏳ Interfaz y Objetos al 100 %; avisos de caja para revisar en el juego |
+| 6. Traducción | ✅ 19 023 líneas en todas las secciones; delicadas y pendientes decididos |
 | 7. Prueba en el juego | ⬜ |
-| 8. Entrega (instalador para Windows y Steam Deck) | ⬜ |
+| 8. Entrega (instalador para Windows y Steam Deck) | ⏳ instalador listo; versión de prueba v0.9.0 |
 
 ### Secciones
 
