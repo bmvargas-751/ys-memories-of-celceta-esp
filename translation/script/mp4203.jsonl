@@ -153,27 +153,279 @@
 {"key": "script/mp4203#EV04_14_Meet_Riesa/478", "es": "¿Mmm? ¿Pasa algo?"}
 {"key": "script/mp4203#EV04_14_Meet_Riesa/481", "es": "Ah, nada. Es que... a veces no pareces estar del todo presente, y luego dices justo lo perfecto. ¡Qué raro!"}
 {"key": "script/mp4203#EV04_14_Meet_Riesa/484", "es": "¿E-En serio? O sea, soy un reconocido informante y todo eso. Absorbo todo lo que me rodea, y... ¡Oye!"}
+{"key": "script/mp4203#EV04_14_Meet_Riesa/489", "es": "Calilica, quisiera encomendarte que seas su guía. Por favor, muéstrales todo lo que este pueblo tiene para ofrecer."}
 {"key": "script/mp4203#EV04_14_Meet_Riesa/492", "es": "¡De acuerdo!"}
+{"key": "script/mp4203#EV04_14_Meet_Riesa/497", "es": "Sin embargo, Adol, debo advertirles de una cosa."}
+{"key": "script/mp4203#EV04_14_Meet_Riesa/499", "es": "Bajo ninguna circunstancia salgan del pueblo por la salida norte por su cuenta."}
+{"key": "script/mp4203#EV04_14_Meet_Riesa/505", "es": "¿La salida norte? ¿En dirección a esa enorme torre?"}
+{"key": "script/mp4203#EV04_14_Meet_Riesa/510", "es": "Esa torre es donde vive el señor Eldeel. También es donde Adol lo conoció la última vez que vino."}
+{"key": "script/mp4203#EV04_14_Meet_Riesa/512", "es": "Sin embargo, la rodea una zona llamada Santuario de las Tormentas."}
+{"key": "script/mp4203#EV04_14_Meet_Riesa/514", "es": "Y si entran ahí sin permiso, ¡los fulminará un rayo antes de que se den cuenta! Así que no digan que no les avisamos."}
+{"key": "script/mp4203#EV04_14_Meet_Riesa/517", "es": "...D-De acuerdo. ¡Eso me parece un muy buen incentivo para mantenernos a distancia!"}
+{"key": "script/mp4203#EV04_14_Meet_Riesa/522", "es": "¡Esa es nuestra señal, Adol! ¡Vamos a explorar este lugar!"}
+{"key": "script/mp4203#EV04_17_Order_Info/36", "es": "Muy bien, entonces, Adol."}
+{"key": "script/mp4203#EV04_17_Order_Info/38", "es": "Al menos reunimos una buena cantidad de información. ¿Hay algo en particular que te llame la atención?"}
+{"key": "script/mp4203#EV04_17_Order_Info/43", "es": "Sobre Eldeel..."}
+{"key": "script/mp4203#EV04_17_Order_Info/44", "es": "Sobre los apóstoles..."}
+{"key": "script/mp4203#EV04_17_Order_Info/50", "es": "¿El dios alado que se supone que conociste antes de perder la memoria?"}
+{"key": "script/mp4203#EV04_17_Order_Info/52", "es": "Seguro que todos por aquí lo quieren mucho."}
+{"key": "script/mp4203#EV04_17_Order_Info/55", "es": "Bueno, si de verdad lleva cientos de años viviendo en esa torre, no es un humano común, eso seguro."}
+{"key": "script/mp4203#EV04_17_Order_Info/57", "es": "Y se supone que goza de perfecta salud, no como un anciano ni nada por el estilo."}
+{"key": "script/mp4203#EV04_17_Order_Info/60", "es": "Se dice que las estatuas del bosque se fundieron a su imagen."}
+{"key": "script/mp4203#EV04_17_Order_Info/62", "es": "Lo que significa que es muy probable que tenga alguna conexión con el antiguo Reino de Celceta."}
+{"key": "script/mp4203#EV04_17_Order_Info/64", "es": "Aunque no podremos estar seguros hasta conocerlo en persona, sí parece encajar con la definición misma de un dios..."}
+{"key": "script/mp4203#EV04_17_Order_Info/67", "es": "Sí, todo este asunto de Eldeel es sin duda un giro interesante."}
+{"key": "script/mp4203#EV04_17_Order_Info/69", "es": "Pero yo estaba pensando en otra cosa. Algo que podría ayudarnos a averiguar qué te pasó aquí, Adol."}
+{"key": "script/mp4203#EV04_17_Order_Info/74", "es": "¿Los apóstoles? ¿Esa gente que sirve a Eldeel?"}
+{"key": "script/mp4203#EV04_17_Order_Info/76", "es": "...Ahora que lo mencionas, supongo que Leeza también es una de ellos..."}
+{"key": "script/mp4203#EV04_17_Order_Info/79", "es": "Nos dijeron que cada apóstol tiene una función distinta."}
+{"key": "script/mp4203#EV04_17_Order_Info/82", "es": "Y la función de Leeza es llevar a los beneficiarios elegidos de Eldeel hasta la torre para que se reúnan con él, ¿no?"}
+{"key": "script/mp4203#EV04_17_Order_Info/84", "es": "Entonces, ¿cómo atraviesa ella el bosque?"}
+{"key": "script/mp4203#EV04_17_Order_Info/87", "es": "Dijiste que no había señales de que Adol hubiera pasado por esas Ruinas Subterráneas..."}
+{"key": "script/mp4203#EV04_17_Order_Info/89", "es": "Quizá la forma en que lo hace también explique eso. De todos modos, no parece que use ningún método corriente."}
+{"key": "script/mp4203#EV04_17_Order_Info/92", "es": "Siento que aquí todavía hay más por aprender..."}
+{"key": "script/mp4203#EV04_17_Order_Info/94", "es": "Pero creo que obtuvimos información que podría resultarnos más útil de inmediato."}
+{"key": "script/mp4203#EV04_17_Order_Info/100", "es": "Sobre ese hombre y esa mujer sospechosos..."}
+{"key": "script/mp4203#EV04_17_Order_Info/101", "es": "Sobre mis pertenencias..."}
+{"key": "script/mp4203#EV04_17_Order_Info/113", "es": "Todavía queda mucho por averiguar sobre esos dos, seguro."}
+{"key": "script/mp4203#EV04_17_Order_Info/115", "es": "Pero ahora tenemos que rastrear tu paradero de cuando estuviste aquí antes y descubrir qué te pasó."}
+{"key": "script/mp4203#EV04_17_Order_Info/117", "es": "Así que, personalmente, me interesan mucho más tus pertenencias. O sea, las de antes de que perdieras la memoria."}
+{"key": "script/mp4203#EV04_17_Order_Info/123", "es": "Sí, yo también estaba pensando en eso."}
+{"key": "script/mp4203#EV04_17_Order_Info/125", "es": "Si de verdad caíste a esa cascada, tus pertenencias podrían ser la clave de todo este misterio."}
+{"key": "script/mp4203#EV04_17_Order_Info/129", "es": "¡Esta podría ser nuestra oportunidad de ver qué llevaba Adol consigo antes de desaparecer!"}
+{"key": "script/mp4203#EV04_17_Order_Info/131", "es": "Suponiendo que siquiera podamos llegar a ellas, ya que están..."}
+{"key": "script/mp4203#EV04_17_Order_Info/136", "es": "Perdidas"}
+{"key": "script/mp4203#EV04_17_Order_Info/137", "es": "Enterradas"}
+{"key": "script/mp4203#EV04_17_Order_Info/143", "es": "¿Eh, en serio?"}
+{"key": "script/mp4203#EV04_17_Order_Info/145", "es": "Sé que las perdiste, pero me suena a que la gente del pueblo las encontró poco tiempo después."}
+{"key": "script/mp4203#EV04_17_Order_Info/150", "es": "Y como todos pensaban que habías muerto..."}
+{"key": "script/mp4203#EV04_17_Order_Info/155", "es": "...¡Las enterraron en tu tumba!"}
 {"key": "script/mp4203#EV04_17_Order_Info/159", "es": "Hmm..."}
+{"key": "script/mp4203#EV04_17_Order_Info/164", "es": "¡Hora de profanar una tumba!"}
+{"key": "script/mp4203#EV04_17_Order_Info/165", "es": "Deberíamos consultar con Aaron."}
+{"key": "script/mp4203#EV04_17_Order_Info/172", "es": "¡Entonces está decidido!"}
+{"key": "script/mp4203#EV04_17_Order_Info/174", "es": "El permiso del propio muerto significa que no hay maldición ni problema... solo jugar un poco en la tierra, ¡y listo! Respuestas."}
+{"key": "script/mp4203#EV04_17_Order_Info/177", "es": "No hay un momento que perder."}
+{"key": "script/mp4203#EV04_17_Order_Info/182", "es": "¿Quieres pedirle permiso al alcalde... para desenterrar tu tumba? ¿O para que él la desentierre por nosotros?"}
+{"key": "script/mp4203#EV04_17_Order_Info/184", "es": "De todos modos, ¿qué haremos si dice que no? Entonces será medio incómodo cuando de todas formas vayamos a desenterrarla."}
+{"key": "script/mp4203#EV04_17_Order_Info/186", "es": "Creo que lo mejor es hacerlo en secreto. ¡Es tu tumba, después de todo!"}
+{"key": "script/mp4203#EV04_17_Order_Info/189", "es": "Estoy de acuerdo. Es mucho más sencillo así. Vamos, no hay un momento que perder."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/67", "es": "¿Les gustaría hablar con el señor Eldeel?"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/70", "es": "Sí. No creo que lleguemos al fondo de lo que le pasó a Adol sin hablar con él al menos una vez."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/73", "es": "Estoy de acuerdo, consultar con el señor Eldeel parece lo más prudente."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/75", "es": "Después de todo, es responsabilidad mía que uno de sus estimados invitados haya desaparecido."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/77", "es": "Yo mismo quisiera tratar el asunto con él cuanto antes."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/82", "es": "...¿Sucede algo, Leeza?"}
 {"key": "script/mp4203#EV04_19_Talk_Riesa/85", "es": "E-Esto..."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/93", "es": "...¿Leeza?"}
 {"key": "script/mp4203#EV04_19_Talk_Riesa/98", "es": "En realidad..."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/100", "es": "En realidad, hay algo que debo decirle sobre el señor Eldeel."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/105", "es": "¿Oh? Pareces dudar. Por favor, no seas tímida. ¿Qué es lo que tienes que decirme?"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/108", "es": "El señor Eldeel..."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/110", "es": "...El señor Eldeel está bastante indispuesto en este momento."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/112", "es": "Dice que tiene una especie de... enfermedad crónica."}
 {"key": "script/mp4203#EV04_19_Talk_Riesa/115", "es": "¡¿Qué?!"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/117", "es": "¿El señor Eldeel está enfermo? No sabía que eso siquiera fuera posible... Que yo sepa, ¡jamás ha enfermado, ni una sola vez!"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/120", "es": "Estoy segura de que se alegraría mucho al saber que Adol está vivo y bien, pero..."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/122", "es": "Si al menos pudieran esperar hasta que su estado mejore..."}
 {"key": "script/mp4203#EV04_19_Talk_Riesa/125", "es": "Ya veo."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/127", "es": "Bueno, supongo que no tenemos mucha opción en el asunto. ¡Si está enfermo, está enfermo!"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/132", "es": "...¿Duren?"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/137", "es": "Lo lamento muchísimo."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/139", "es": "Me aseguraré de informar al señor Eldeel de su llegada en la primera oportunidad que tenga."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/174", "es": "¡Esto es increíble! ¡¿De verdad tenemos que esperar a que DIOS se sienta mejor para poder hablar con él?!"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/176", "es": "Y tampoco podemos hacer nada hasta entonces, ya que les dijimos que no nos alejaríamos demasiado del pueblo..."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/179", "es": "Primero los recuerdos de Adol y ahora la inédita enfermedad de Eldeel... Últimamente pasan cosas muy inusuales aquí."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/184", "es": "Es como si dondequiera que va Adol, lo siguieran los problemas."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/191", "es": "¡Sobre todo últimamente!"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/192", "es": "¡Oye! No es mi culpa..."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/198", "es": "No sé si lo creo. Apuesto a que siempre has sido así. ¡Seguro que simplemente no lo recuerdas!"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/202", "es": "...Perdón. Creo que eso pudo sonar un poco cruel."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/205", "es": "Aun así, los cuatro nunca nos habríamos conocido si no fuera por ti, ¡así que no es que siempre causes problemas!"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/207", "es": "No tengo idea de qué horrores inimaginables nos esperan en el futuro..."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/209", "es": "Pero sé que no me arrepiento de haber venido contigo."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/213", "es": "...Yo tampoco."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/223", "es": "¿Qué tienes en mente, Duren?"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/224", "es": "Estás actuando algo raro, Duren."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/235", "es": "¿Eh? Ah, ¿me hablas a mí?"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/237", "es": "Es solo una sugerencia, Adol, pero..."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/241", "es": "O-Oh, perdón, solo estaba... pensando."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/243", "es": "Es solo una sugerencia, Adol, pero..."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/246", "es": "¿Y si salimos del pueblo a escondidas esta noche y vamos nosotros mismos a la torre de Eldeel?"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/253", "es": "¿Qué? ¡¿No nos acaban de decir que no hagamos justo eso?!"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/257", "es": "Bueno, yo... tengo un presentimiento. O sea, no puedo probarlo ni nada, pero aun así..."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/259", "es": "Esa chica, Leeza, parece estar ocultando algo. Tengo la sensación de que es muy importante."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/261", "es": "Y lo más raro es que no tengo la impresión de que nos lo oculte a nosotros."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/263", "es": "En todo caso, parece que se lo oculta a la gente de Highland."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/267", "es": "¿Te refieres a lo que contó sobre la enfermedad de Eldeel?"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/269", "es": "Sí pareció excesivamente reacia a mencionarlo, sin una explicación evidente para su reticencia."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/272", "es": "No me malinterpretes, parece buena chica, pero... siento que hay más en todo esto de lo que parece."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/277", "es": "Creo que se nos ha dejado bastante claro que este pueblo es singular en muchos aspectos."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/279", "es": "Y con personas actuando para complicar aún más la situación..."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/281", "es": "...es muy probable que, por mucho que esperemos, no haya solución para este dilema."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/288", "es": "¡Eso era justo lo que iba a decir! Solo que... con palabras más simples..."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/291", "es": "Pero me sorprende un poco. Estaba segura de que estarías en contra."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/295", "es": "Todos tenemos nuestras razones para estar aquí."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/301", "es": "Estoy cansado de esperar a que las cosas sucedan. Ha llegado el momento de ser los árbitros de nuestro destino."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/304", "es": "¡Ese es el espíritu!"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/309", "es": "¿Y tú, Adol? ¿Qué opinas de esto?"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/318", "es": "¡Hagámoslo!"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/319", "es": "No estoy del todo en contra de la idea."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/325", "es": "Ni sé para qué pregunté. Se te iluminaron los ojos como fuegos artificiales apenas mencioné escaparnos. Qué caso perdido."}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/330", "es": "Ay, no finjas timidez ahora, Adol. Te leo como un libro. ¡Tu emoción está escrita en toda tu cara!"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/335", "es": "...Bueno, supongo que eso es todo. ¡Hay que empezar a prepararnos, porque algo me dice que no será un viaje fácil!"}
+{"key": "script/mp4203#EV04_19_Talk_Riesa/337", "es": "Sería mejor llegar a la torre antes del amanecer."}
+{"key": "script/mp4203#EV04_20_Out_Window2/34", "es": "La ventana no tiene seguro. ¿Quieres salir?"}
 {"key": "script/mp4203#EV04_20_Out_Window2/40", "es": "Sí"}
 {"key": "script/mp4203#EV04_20_Out_Window2/41", "es": "No"}
+{"key": "script/mp4203#EV04_20_Out_Window2/47", "es": "¿Así que así es como has estado saliendo?"}
+{"key": "script/mp4203#EV04_20_Out_Window2/50", "es": "¡Esto es muy emocionante!"}
+{"key": "script/mp4203#EV04_20_Out_Window2/53", "es": "¡Shhh! Tenemos que irnos antes de que alguien nos note."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/49", "es": "Los habitantes siguen confundidos."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/52", "es": "Considerando que este pueblo no ha conocido más que paz durante cientos de años, no es de extrañar."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/54", "es": "Han pasado demasiadas cosas en muy poco tiempo."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/59", "es": "Debemos pensar qué hacer a continuación, Adol."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/73", "es": "Los romunos sí que no se quedaron mucho tiempo."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/75", "es": "Creo que de verdad se están adentrando más en el bosque."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/78", "es": "...¿Qué crees que busca Gruda?"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/85", "es": "La Máscara del Sol"}
 {"key": "script/mp4203#EV04_35_Come_Griselda/86", "es": "Eldeel"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/93", "es": "Estoy de acuerdo. Esa parece la posibilidad más probable."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/98", "es": "Parece parte de su plan, pero como se adentran más en el bosque, da la impresión de que no es su objetivo final."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/100", "es": "Creo que su verdadero objetivo es la Máscara del Sol."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/104", "es": "Sí. Cuando Eldeel empezó a cambiar, le exigía a Adol que se la devolviera."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/107", "es": "¿Recuerdas el trozo de papel que encontramos en tu tumba, Adol?"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/112", "es": "Decía \"Torre\"..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/113", "es": "Decía \"Recibí la Máscara de\"..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/119", "es": "No, esa era una nota de tu cuaderno. El que menciona Ozma es el trozo que decía \"Recibí la Máscara de\"..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/124", "es": "Correcto."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/127", "es": "Antes de perder la memoria, Adol debió de recibir la Máscara del Sol de manos de Eldeel."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/129", "es": "Luego, cuando Eldeel cambió de personalidad en nuestra charla, le dijo a Adol que devolviera lo entregado."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/131", "es": "Esa es la secuencia de acontecimientos más plausible."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/134", "es": "Mientras tanto, Gruda usaba a Gadis y a Bami para estudiar la Máscara del Sol, e incluso hacer copias de ella."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/136", "es": "Y ahora llegaron a las Tierras Primigenias para conseguir la verdadera."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/139", "es": "E-Entiendo..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/142", "es": "Sin embargo, todavía no sabemos exactamente qué es siquiera la \"Máscara del Sol\"."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/148", "es": "¿Tiene alguna información que pueda compartir con nosotros, alcalde?"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/151", "es": "El Reino de Celceta..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/156", "es": "¿El Reino... de Celceta?"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/159", "es": "...En tiempos antiguos existió en esta región un reino con ese nombre."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/161", "es": "Se dice que el señor Eldeel colaboró en su gobierno hace muchos cientos de años."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/163", "es": "También se dice que el reino floreció gracias al poder que otorgaba la Máscara del Sol."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/165", "es": "Sin embargo, ocurrió algo que provocó la destrucción del reino, antes próspero. Hoy quedan poquísimos vestigios."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/170", "es": "¿Qué pasó?"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/171", "es": "¿Cuándo fue eso?"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/177", "es": "Me temo que no puedo decirlo. Se dice que los habitantes de Highland son descendientes del Reino de Celceta."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/179", "es": "Pero no existen registros que describan exactamente cómo cayó el reino."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/183", "es": "Tengo entendido que fue hace unos ochocientos años."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/185", "es": "Sin embargo, me temo que desconozco qué causó su caída."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/188", "es": "El señor Eldeel tampoco ha hablado nunca de ello."}
 {"key": "script/mp4203#EV04_35_Come_Griselda/191", "es": "Ya veo..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/193", "es": "Parece que nuestra mejor opción sería reunirnos con él de nuevo y pedirle que nos cuente todo lo que sabe. Sin embargo..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/233", "es": "¡Ya volvimos!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/236", "es": "Excelente momento. ¿Cómo les fue?"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/240", "es": "B-Bueno... eeeh..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/273", "es": "¡¿El señor Eldeel ha desaparecido?!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/277", "es": "Registramos toda la zona alrededor de la torre, pero no había ni rastro de él por ninguna parte."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/280", "es": "Normalmente, solo sale de su habitación para visitar el pueblo, y aun eso ocurre muy rara vez."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/283", "es": "Y por desgracia, las malas noticias no terminan ahí."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/285", "es": "Me temo que tampoco encontramos a Leeza por ninguna parte."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/293", "es": "¿Será que Gruda la secuestró?"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/298", "es": "Leeza puede parecer... delicada, pero en realidad es bastante despierta."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/300", "es": "No creo que se dejara capturar tan fácilmente."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/303", "es": "Aun así, me preocupan ella y Eldeel. ¡Tenemos que hacer algo!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/316", "es": "¿Quién es ahora? ¡Estamos ocupados, eh!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/319", "es": "¡¿Será Leeza?!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/392", "es": "¡¿Es esta la casa del alcalde?!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/394", "es": "¡Soy el gran comandante Leo del Ejército Celcetano Imperial de Romun!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/396", "es": "¡Maldito Gruda! ¡¿Cómo pudo dejar atrás a un guerrero tan distinguido como yo?!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/415", "es": "Bueno, nos han tratado como si solo fuéramos un problema desde el principio..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/422", "es": "Yo también quería una de esas máscaras..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/428", "es": "¡Silencio! ¡Los soldados del glorioso Ejército Celcetano no necesitan máscaras tan sospechosas!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/431", "es": "Parece que los romunos también andan un poco descolocados ahora."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/436", "es": "¡¿Ya estuvo Gruda aquí?! No lo encuentro por ninguna parte..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/441", "es": "Llegas demasiado tarde."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/442", "es": "Ya se adelantó."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/452", "es": "¡¿Qué?! ¡Ese malvado! ¡Preparó una astuta trampa solo para llevarnos la delantera!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/457", "es": "...Sancho, ¿no se nos adelantó porque al comandante le dio dolor de estómago?"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/462", "es": "Sí. ¡Y bien merecido lo tiene, por acaparar todos esos hongos antes siquiera de partir!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/465", "es": "¡N-No importa eso! ¡Tenemos asuntos más importantes que discutir que los hongos! ¡¿Por qué no sigue las órdenes?!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/471", "es": "¡¿Qué?! ¡¿Se adelantó?!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/473", "es": "¡Eso no estaba en las órdenes que recibimos del despacho de la gobernadora general!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/476", "es": "Nuestras órdenes eran tomar la casa del alcalde y usarla como base, desde la cual impondríamos la ley marcial sobre el pueblo."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/483", "es": "Voz de mujer"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/484", "es": "Esas órdenes quedan anuladas."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/533", "es": "¿G-Gobernadora general? ¿Q-Qué la trae a un lugar como...?"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/536", "es": "...*Ejem* ¡Hombres! ¡Fórmense!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/552", "es": "¡Adol! ¡No te quedes ahí sin hacer nada! ¡Estás en presencia de la gobernadora general!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/556", "es": "En descanso, Leo."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/559", "es": "...Increíble. ¿La propia gobernadora general, viniendo hasta aquí?"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/579", "es": "Ante todo, permítanme ofrecerles mis más sinceras disculpas por las acciones de mis compañeros soldados."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/581", "es": "Comprendo que ninguna disculpa podría ser suficiente dadas las circunstancias; no obstante, les ruego su perdón."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/584", "es": "¡¿Q-Qué está pasando aquí?!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/587", "es": "He oído rumores sobre usted, Griselda."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/589", "es": "Normalmente, uno no esperaría encontrar a una mujer de noble cuna como usted en un lugar como este..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/594", "es": "Está bien informado, veo."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/597", "es": "Sin embargo, me cuesta entender sus acciones. Primero bombardean nuestro pueblo, ¿y luego vienen a disculparse?"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/600", "es": "Tiene razón en que Gruda es un oficial enviado por Romn y parte del Ejército Romuno."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/602", "es": "Sin embargo, sus órdenes eran investigar las Tierras Primigenias e informarnos de lo que hallara. Nada más."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/604", "es": "Sus acciones aquí no fueron autorizadas de ningún modo por Romn."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/607", "es": "¿Qué? ¡¿Un soldado que no obedece órdenes?! ¡Qué vergüenza!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/612", "es": "Comandante Leo, seguirás los movimientos de Gruda y sus hombres, y me informarás de ellos."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/614", "es": "Persíguelos tan adentro del Gran Bosque como sea necesario."}
 {"key": "script/mp4203#EV04_35_Come_Griselda/617", "es": "¡S-Sí, señora!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/622", "es": "Ahora, alcalde Aaron..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/624", "es": "Sé que esto podría sobresaltar a la gente de Highland, y me disculpo, pero quisiera apostar a mis soldados aquí."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/627", "es": "¡¿Qué...?!"}
 {"key": "script/mp4203#EV04_35_Come_Griselda/630", "es": "Hmm..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/633", "es": "No podemos permitir que la existencia de Highland se vuelva de conocimiento público fuera del Gran Bosque."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/635", "es": "Por ello, me gustaría que soldados de mi ejército monten guardia entre aquí y el río, para impedir que haya más intrusos."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/637", "es": "Le doy mi palabra de que no causarán daño alguno a la gente de Highland bajo ninguna circunstancia."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/640", "es": "Así que esa es la situación, ¿verdad?"}
 {"key": "script/mp4203#EV04_35_Come_Griselda/645", "es": "Abuelo..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/648", "es": "Muy bien. Tiene mi bendición en esto. Haga lo que desee."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/651", "es": "Le agradezco su comprensión."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/656", "es": "En cuanto a usted, Adol Christin..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/661", "es": "Es libre de continuar su viaje."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/666", "es": "¡¿Eh?!"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/667", "es": "¿Es una especie de trampa?"}
+{"key": "script/mp4203#EV04_35_Come_Griselda/677", "es": "Después de todo, no recuerdo haber cancelado su tarea pendiente de completar un mapa del Gran Bosque..."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/681", "es": "Jaja. No hay necesidad de estar en guardia."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/684", "es": "Siento que usted es una pieza vital del rompecabezas que se está desplegando en esta región."}
+{"key": "script/mp4203#EV04_35_Come_Griselda/686", "es": "Y si falta incluso una sola pieza, el rompecabezas no puede completarse..."}
+{"key": "script/mp4203#QS403_Start/24", "es": "Gracias por venir."}
+{"key": "script/mp4203#QS403_Start/26", "es": "¿Vieron mi misión en el tablero?"}
+{"key": "script/mp4203#QS403_Start/30", "es": "Sí. Por eso estamos aquí."}
+{"key": "script/mp4203#QS403_Start/32", "es": "¿Qué es lo que quieres que hagamos, exactamente?"}
+{"key": "script/mp4203#QS403_Start/37", "es": "¡Oh! Lo siento, todavía no la he visto."}
+{"key": "script/mp4203#QS403_Start/39", "es": "¿Hay algo en lo que podamos ayudarte?"}
+{"key": "script/mp4203#QS403_Start/43", "es": "En realidad, quisiera que derrotaran a un grupo de guardianes."}
+{"key": "script/mp4203#QS403_Start/46", "es": "¿Guardianes? ¿A qué te refieres, exactamente?"}
+{"key": "script/mp4203#QS403_Start/49", "es": "Guardianes de la torre. Ya saben. Están bien mientras permanezcan dentro de la torre..."}
+{"key": "script/mp4203#QS403_Start/51", "es": "Pero por alguna razón, posiblemente porque las tormentas están amainando, varios de ellos se han aventurado hasta el Santuario."}
+{"key": "script/mp4203#QS403_Start/58", "es": "Todavía no han llegado muy lejos, pero se han... descontrolado un poco."}
+{"key": "script/mp4203#QS403_Start/60", "es": "No creo que lleguen caminando hasta el pueblo, pero no es un riesgo que quiera correr."}
+{"key": "script/mp4203#QS403_Start/62", "es": "No hay prisa, así que pueden ocuparse de este encargo cuando tengan la oportunidad. Si desean ayudar, claro."}
+{"key": "script/mp4203#QS403_Start/65", "es": "¡Por supuesto! Déjanoslo a nosotros."}
 {"key": "script/mp4203#QS403_Start/69", "es": "¿Verdad, Adol?"}
 {"key": "script/mp4203#QS403_Start/79", "es": "Muchas gracias."}
+{"key": "script/mp4203#QS403_Start/82", "es": "Los guardianes en cuestión se parecen mucho a los inslapes, pero habrá algunas diferencias visibles."}
+{"key": "script/mp4203#QS403_Start/84", "es": "También es probable que sean mucho más fuertes que los inslapes con los que se han topado antes en la torre."}
+{"key": "script/mp4203#QS403_Start/86", "es": "Confirmé cinco en total. Prefieren atacar en grupo, así que si logran derrotarlos a todos, el problema quedará resuelto."}
+{"key": "script/mp4203#QS403_Start/88", "es": "Gracias de nuevo, y cuídense."}
+{"key": "script/mp4203#QS403_Start/95", "es": "Se agregó la misión \"Guardianes perdidos\" a tu diario."}
+{"key": "script/mp4203#QS403_End/24", "es": "¿Lograron derrotar a los guardianes? ¡Muchas gracias!"}
+{"key": "script/mp4203#QS403_End/26", "es": "No es mucho, pero por favor acepten esto por su esfuerzo."}
 {"key": "script/mp4203#QS403_End/30", "es": "Recibes "}
+{"key": "script/mp4203#QS403_End/34", "es": "Je. Y no habría sido posible sin mis elegantes habilidades de combate."}
+{"key": "script/mp4203#QS403_End/37", "es": "¡Sin duda!"}
+{"key": "script/mp4203#QS403_End/39", "es": "Te has vuelto mucho más fuerte últimamente. ¡Y en tan poco tiempo, además!"}
 {"key": "script/mp4203#QS403_End/44", "es": "¿D-De verdad?"}
 {"key": "script/mp4203#talk_Riesa_mariana/112", "es": "Ya veo..."}
 {"key": "script/mp4203#talk_Riesa_mariana/150", "es": "¿Ah, sí?"}
 {"key": "script/mp4203#talk_Riesa_mariana/188", "es": "Exacto."}
 {"key": "script/mp4203#talk_Riesa_mariana/196", "es": "¿D-De verdad?"}
+{"key": "script/mp4203#talk_mariana/19", "es": "Gracias de nuevo, y cuídense."}
 {"key": "script/mp4203#talk_Alon/109", "es": "Abuelo..."}
 {"key": "script/mp4203#talk_rabit/19", "es": "¡¿Que me calme?!"}
 {"key": "script/mp4203#talk_rabit/28", "es": "P-Pero..."}
