@@ -1,7 +1,61 @@
+{"key": "script/mp6321#EV_Door_not_broken/58", "es": "Pero qué... ¡Creí que lo habíamos matado!"}
+{"key": "script/mp6321#EV_Door_not_broken/61", "es": "¡Es igual que Sol!"}
+{"key": "script/mp6321#EV_Door_not_broken/64", "es": "Si no podemos matarlo con nuestras armas actuales, no tiene sentido perder más tiempo peleando. Por ahora, retirémonos."}
+{"key": "script/mp6321#EV09_03_Battle_Door/46", "es": "Bueno, este es el lugar donde peleamos contra ese monstruo que no moría."}
+{"key": "script/mp6321#EV09_03_Battle_Door/51", "es": "Es el lado norte del campo de batalla. Justo donde indicó el árbol Roda..."}
+{"key": "script/mp6321#EV09_03_Battle_Door/53", "es": "Oye, ya estuvimos aquí, ¿verdad? Aquí nos topamos con ese monstruo que no moría."}
+{"key": "script/mp6321#EV09_03_Battle_Door/58", "es": "Es el lado norte del campo de batalla. Justo donde indicó el árbol Roda..."}
+{"key": "script/mp6321#EV09_03_Battle_Door/86", "es": "Parece que hemos llegado en el momento justo."}
+{"key": "script/mp6321#EV09_03_Battle_Door/89", "es": "¡No crean que esto va a salir como la última vez!"}
+{"key": "script/mp6321#EV09_03_Battle_Door/94", "es": "Parece que hemos llegado en el momento justo."}
+{"key": "script/mp6321#EV09_03_Battle_Door/97", "es": "Es igual que antes... pero esta vez estamos preparados. ¡De una forma u otra, vamos a pasar!"}
+{"key": "script/mp6321#EV09_03_Battle_Door/102", "es": "¿Así que eso es un arma viviente, imposible de destruir por medios convencionales?"}
+{"key": "script/mp6321#EV09_03_Battle_Door/105", "es": "¡Vamos, Adol! ¡Mantente alerta!"}
+{"key": "script/mp6321#EV09_03_Battle_Door/125", "es": "Lo único que puede dañarlo de verdad es esa Espada Artefacto que tienes, Adol."}
+{"key": "script/mp6321#EV09_03_Battle_Door/127", "es": "Lo mejor que podemos hacer es dejarlo fuera de combate un rato, buscar un punto débil y ¡darlo todo!"}
+{"key": "script/mp6321#EV09_04_Kill_Door/72", "es": "Uf... Lo logramos."}
+{"key": "script/mp6321#EV09_04_Kill_Door/75", "es": "Parece que dimos con el lugar correcto. ¡Este tiene que ser el laboratorio de artefactos!"}
+{"key": "script/mp6321#EV09_04_Kill_Door/78", "es": "Es probable que encontremos muchas más armas vivientes en su interior."}
+{"key": "script/mp6321#EV09_04_Kill_Door/81", "es": "Tendremos que dejárselas a Adol."}
 {"key": "script/mp6321#EV09_04_Kill_Door/85", "es": "¡Frieda!"}
+{"key": "script/mp6321#EV09_04_Kill_Door/152", "es": "¡Nina!"}
+{"key": "script/mp6321#EV09_04_Kill_Door/156", "es": "Uf, volvió la enana escandalosa. ¡Y no es que la extrañara!"}
+{"key": "script/mp6321#EV09_04_Kill_Door/162", "es": "¿Qué dijiste, Duren? Dilo otra vez. TE DESAFÍO."}
+{"key": "script/mp6321#EV09_04_Kill_Door/172", "es": "Si estás aquí, Nina, ¿eso significa que...?"}
+{"key": "script/mp6321#EV09_04_Kill_Door/175", "es": "¡...! ¡Leeza!"}
 {"key": "script/mp6321#EV09_04_Kill_Door/179", "es": "B-Bueno..."}
+{"key": "script/mp6321#EV09_04_Kill_Door/181", "es": "Vi algo enorme volando hacia acá y me apresuré a seguirlo..."}
+{"key": "script/mp6321#EV09_04_Kill_Door/185", "es": "¡Oh! ¿Era Sol?"}
+{"key": "script/mp6321#EV09_04_Kill_Door/188", "es": "No pude verlo con seguridad."}
+{"key": "script/mp6321#EV09_04_Kill_Door/190", "es": "Pero este es el único lugar que no he revisado, así que si ella no está aquí..."}
+{"key": "script/mp6321#EV09_04_Kill_Door/193", "es": "...Oh..."}
+{"key": "script/mp6321#EV09_04_Kill_Door/196", "es": "Tendremos que explorar este lugar de todos modos, así que si Leeza está aquí, nos ahorra buscarla después."}
+{"key": "script/mp6321#EV09_04_Kill_Door/212", "es": "Vamos. Entremos."}
+{"key": "script/mp6321#EV09_04_Kill_Door/217", "es": "Pisen con cuidado, todos..."}
+{"key": "script/mp6321#talk_gazock/5", "es": "Vaya, pero qué cosita tan simpática."}
+{"key": "script/mp6321#talk_gazock/7", "es": "Ven aquí y deja que te levante."}
 {"key": "script/mp6321#talk_gazock/30", "es": "Comprar/Intercambiar"}
 {"key": "script/mp6321#talk_gazock/31", "es": "Reforzar/Refinar"}
 {"key": "script/mp6321#talk_gazock/32", "es": "Fabricar accesorio"}
 {"key": "script/mp6321#talk_gazock/33", "es": "Hablar"}
 {"key": "script/mp6321#talk_gazock/34", "es": "Cancelar"}
+{"key": "script/mp6321#talk_gazock/49", "es": "Avísame si hay algo que quieras."}
+{"key": "script/mp6321#talk_gazock/51", "es": "¡Puedo hacer mi trabajo en cualquier lugar! No me llaman Gazock el Fuerte porque sí."}
+{"key": "script/mp6321#gazock_first_talk/52", "es": "¡Vaya, pero si es Adol!"}
+{"key": "script/mp6321#gazock_first_talk/55", "es": "...¿Por qué está esta persona... en un lugar como este?"}
+{"key": "script/mp6321#gazock_first_talk/58", "es": "Bueno, digamos que no es un tipo cualquiera."}
+{"key": "script/mp6321#gazock_first_talk/61", "es": "¿Viniste a explorar las ruinas, Gazock?"}
+{"key": "script/mp6321#gazock_first_talk/66", "es": "Sí. Aunque se me empiezan a entumecer un poco los hombros."}
+{"key": "script/mp6321#gazock_first_talk/68", "es": "Así que me preguntaba si hay algún lugar por aquí donde pueda echarme un rato."}
+{"key": "script/mp6321#gazock_first_talk/71", "es": "¡En realidad creo que sabemos justo el lugar!"}
+{"key": "script/mp6321#gazock_first_talk/78", "es": "¿En serio? ¡Genial! ¿Dónde es?"}
+{"key": "script/mp6321#gazock_first_talk/81", "es": "El grupo le informó a Gazock sobre el Nido de los Roos y le explicó cómo encontrarlo."}
+{"key": "script/mp6321#gazock_first_talk/84", "es": "Mmm... ¿un nido lleno de bestias sagradas, eh? ¡Suena perfecto!"}
+{"key": "script/mp6321#gazock_first_talk/87", "es": "¿Vas para allá ahora mismo?"}
+{"key": "script/mp6321#gazock_first_talk/92", "es": "No, creo que primero descansaré aquí un ratito."}
+{"key": "script/mp6321#gazock_first_talk/94", "es": "Así que si necesitan algo, ¡con gusto les ofrezco mis servicios de Superarreglatodo! ¡Solo díganlo!"}
+{"key": "script/mp6321#gazock_first_talk/99", "es": "Perdona la pregunta, pero... ¿cómo piensas fabricar cosas sin las instalaciones adecuadas?"}
+{"key": "script/mp6321#gazock_first_talk/104", "es": "¡Wahaha! ¡¿Para qué crees que es esta bolsa que tengo?!"}
+{"key": "script/mp6321#gazock_first_talk/106", "es": "¡Puedo hacer mi trabajo en cualquier lugar! ¡¿Recuerdas que soy Gazock el Fuerte?!"}
+{"key": "script/mp6321#stop_exit/7", "es": "Estoy preocupada por Sol. ¿Podemos adentrarnos más rápido en el laboratorio, por favor?"}
+{"key": "script/mp6321#stop_exit/9", "es": "Gracias a todos."}

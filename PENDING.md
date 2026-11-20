@@ -172,3 +172,7 @@ Propuestas del terminólogo (2026-11-17). Lo decidido pasa a GLOSSARY.md y DECIS
 
 - [ ] `script/mp6212#EV10_03_Battle_Eldeel/291` (reviewer, sin regla): «no podemos aceptar que tal destino sea inevitable, ni siquiera merecido.» → «¡Los humanos son criaturas pecadoras, sí, pero no podemos aceptar que tal destino sea inevitable, ni siquiera merecido!». El original cierra con «!» (Ozma replica con fuerza, como en la línea /289 con ¡¿...?!) y el español lo vuelve enunciado plano; no hay regla que lo cubra salvo la nota de forma («¡» si el original exclama).
 - [ ] `script/mp6212#EV10_03_Battle_Eldeel/234` (reviewer, sin regla): «¡Cómo te atreves!» → «¡Cómo se atreve!». Duda de trato, no error seguro: Leeza se dirige al Eldeel negro (lo nombra «Lord Eldeel» en tercera persona, así que no lo trata como a su señor); el japonés usa «あなた» (neutro cortés). *Tú* es coherente con su ficha (enemigos, Gruda) y no cambiaría; *usted* sería coherente con la ficha de Calilica en /301. Decide el usuario.
+
+### Lote guiones-049 (2026-11-20)
+
+- [ ] `script/mp6365#EV07_04_Battle_Gadis/476` (reviewer, sin regla): duda de atribución. El export pone a Gadis como hablante, pero el japonés va en femenino («特製の仮面よ») y lleva el prefijo `#833c#2M`, el mismo de la voz de Bammy sin cuerpo en mp6342/346–350. Probablemente habla Bammy a través de la máscara. El español («fortalecer al máximo la mente y el cuerpo») no marca género, así que no cambia nada; anotar por si la prueba en el juego muestra otra cosa.

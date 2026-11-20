@@ -1,5 +1,36 @@
+{"key": "script/mp7321#evlookp01/14", "es": "Subir"}
+{"key": "script/mp7321#evlookp01/17", "es": "Bajar"}
 {"key": "script/mp7321#evlookp01/19", "es": "Cancelar"}
+{"key": "script/mp7321#evlookp02/14", "es": "Subir"}
+{"key": "script/mp7321#evlookp02/17", "es": "Bajar"}
 {"key": "script/mp7321#evlookp02/19", "es": "Cancelar"}
+{"key": "script/mp7321#panel00/9", "es": "Hay tres círculos tallados en el pedestal."}
+{"key": "script/mp7321#panel00/18", "es": "Alzar de nuevo la cimera del viento"}
+{"key": "script/mp7321#panel00/21", "es": "Alzar la cimera del viento"}
 {"key": "script/mp7321#panel00/23", "es": "Cancelar"}
+{"key": "script/mp7321#panel00/28", "es": "Alzar la cimera de la lluvia"}
+{"key": "script/mp7321#panel00/29", "es": "Alzar de nuevo la cimera del viento"}
+{"key": "script/mp7321#panel00/32", "es": "Alzar la cimera del viento"}
+{"key": "script/mp7321#panel00/33", "es": "Alzar de nuevo la cimera de la lluvia"}
+{"key": "script/mp7321#panel00/36", "es": "Alzar la cimera del viento"}
+{"key": "script/mp7321#panel00/37", "es": "Alzar la cimera de la lluvia"}
 {"key": "script/mp7321#panel00/39", "es": "Cancelar"}
+{"key": "script/mp7321#panel00/44", "es": "Alzar la cimera de la lluvia"}
+{"key": "script/mp7321#panel00/45", "es": "Alzar la cimera del sol"}
+{"key": "script/mp7321#panel00/46", "es": "Alzar de nuevo la cimera del viento"}
+{"key": "script/mp7321#panel00/49", "es": "Alzar la cimera del viento"}
+{"key": "script/mp7321#panel00/50", "es": "Alzar la cimera del sol"}
+{"key": "script/mp7321#panel00/51", "es": "Alzar de nuevo la cimera de la lluvia"}
+{"key": "script/mp7321#panel00/54", "es": "Alzar la cimera del viento"}
+{"key": "script/mp7321#panel00/55", "es": "Alzar la cimera de la lluvia"}
+{"key": "script/mp7321#panel00/56", "es": "Alzar de nuevo la cimera del sol"}
+{"key": "script/mp7321#panel00/59", "es": "Alzar la cimera del viento"}
+{"key": "script/mp7321#panel00/60", "es": "Alzar la cimera de la lluvia"}
+{"key": "script/mp7321#panel00/61", "es": "Alzar la cimera del sol"}
 {"key": "script/mp7321#panel00/63", "es": "Cancelar"}
+{"key": "script/mp7321#change_reset/51", "es": "Los fuertes vientos se han debilitado."}
+{"key": "script/mp7321#change_reset/55", "es": "La lluvia ha cesado."}
+{"key": "script/mp7321#change_reset/59", "es": "La luz del sol se ha debilitado."}
+{"key": "script/mp7321#end_change/12", "es": "Han empezado a soplar vientos fuertes."}
+{"key": "script/mp7321#end_change/16", "es": "Ha empezado a caer una lluvia intensa."}
+{"key": "script/mp7321#end_change/20", "es": "La luz del sol se ha intensificado."}
