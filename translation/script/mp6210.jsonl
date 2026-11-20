@@ -367,18 +367,234 @@
 {"key": "script/mp6210#talk_rupe/13", "es": "ME PREGUNTO SI ALGUIEN SE HABRÁ MOLESTADO EN LEER TODOS ESTOS TEXTOS ROO.#0r"}
 {"key": "script/mp6210#talk_rupe/15", "es": "SÉ QUE ALGUNAS PERSONAS PUEDEN LEER RUNAS, ASÍ QUE NO SERÁ TAN DIFÍCIL.#0r"}
 {"key": "script/mp6210#talk_rupe/17", "es": "¡AUN ASÍ, ES MUCHO TRABAJO!#0r"}
+{"key": "script/mp6210#talk_rupe/25", "es": "Dios no creó a ningún roo por encima de otro."}
+{"key": "script/mp6210#talk_rupe/27", "es": "Todos somos iguales, y el Gran Roo no es la excepción. Probablemente."}
+{"key": "script/mp6210#talk_rupe/32", "es": "SOSTENEMOS COMO EVIDENTES ESTAS VERDADES.#0r"}
+{"key": "script/mp6210#talk_rupe/34", "es": "QUE TODOS LOS ROOS SON CREADOS IGUALES.#0r"}
+{"key": "script/mp6210#talk_rupe/42", "es": "Somos cañas pensantes."}
+{"key": "script/mp6210#talk_rupe/44", "es": "Podremos ser roos, pero también somos cañas."}
+{"key": "script/mp6210#talk_rupe/49", "es": "¿QUÉ ES TODO ESO DE LAS CAÑAS?#0r"}
+{"key": "script/mp6210#talk_rupe/51", "es": "NI SIQUIERA EN EL TEXTO ORIGINAL TENGO IDEA DE QUÉ SIGNIFICA ESTO.#0r"}
+{"key": "script/mp6210#talk_rupe/59", "es": "Pienso, luego existo."}
+{"key": "script/mp6210#talk_rupe/61", "es": "Mmm... Pero ¿soy QUÉ?"}
+{"key": "script/mp6210#talk_rupe/66", "es": "DESCARTES A LA CARTA.#0r"}
+{"key": "script/mp6210#talk_rupe/68", "es": "SUENA DELICIOSO."}
+{"key": "script/mp6210#talk_more/4", "es": "*se retuerce*... *se retuerce*..."}
+{"key": "script/mp6210#talk_more/6", "es": "Creí que ya lo tenía controlado, pero viene la segunda oleada... Voy a reventar..."}
+{"key": "script/mp6210#talk_more/11", "es": "MENEO MENEO."}
+{"key": "script/mp6210#talk_more/13", "es": "¿QUÉ ME PASA? ¿POR QUÉ NO PUEDO PARAR? ¡NECESITO AYUDA!#0r"}
+{"key": "script/mp6210#talk_more/21", "es": "*se retuerce*... *se retuerce*..."}
+{"key": "script/mp6210#talk_more/23", "es": "El sonido de esta arpa me está haciendo algo en el cuerpo. ¡Voy a reventar, de verdad voy a reventar!"}
+{"key": "script/mp6210#talk_more/28", "es": "MENEO MENEO."}
+{"key": "script/mp6210#talk_more/30", "es": "ESTE SONIDO DE ARPA EMBRIAGA. ¡ME HARÁ EXPLOTAR!#0r"}
+{"key": "script/mp6210#talk_more/38", "es": "*se retuerce*... *se retuerce*..."}
+{"key": "script/mp6210#talk_more/40", "es": "¡No aguanto más! ¡No puedo luchar contra estas buenas vibraciones!"}
+{"key": "script/mp6210#talk_more/45", "es": "CELEBREMOS LOS BUENOS MOMENTOS."}
+{"key": "script/mp6210#talk_more/47", "es": "¡VAMOS!"}
+{"key": "script/mp6210#talk_more/55", "es": "*se retuerce*... *se retuerce*..."}
+{"key": "script/mp6210#talk_more/57", "es": "Creo que no podré aguantar mucho más... ¡Creo que voy a reventar!"}
+{"key": "script/mp6210#talk_more/62", "es": "OH, SIENTE CÓMO QUEMA."}
+{"key": "script/mp6210#talk_more/64", "es": "¡BONO LLENO DE TAMBORES!"}
+{"key": "script/mp6210#talk_mede/4", "es": "¡Oh, Maroolyn, eres tan hermosa!"}
+{"key": "script/mp6210#talk_mede/6", "es": "¡Moriría por ti si me lo pidieras! ¡Por favor, sé mía!"}
+{"key": "script/mp6210#talk_mede/11", "es": "MAROOLYN. TENGAMOS ROOS JUNTOS. UN MONTÓN DE ROOS.#0r"}
+{"key": "script/mp6210#talk_mede/13", "es": "¿ENTENDISTE? ¡MAROOLYN MON ROO!#0r"}
+{"key": "script/mp6210#talk_mede/21", "es": "¡Oh, Maroolyn, eres tan hermosa!"}
+{"key": "script/mp6210#talk_mede/23", "es": "Tu resplandor es más brillante que el sol. ¡Más brillante que cualquier cosa en este mundo!"}
+{"key": "script/mp6210#talk_mede/28", "es": "OH MAROOLYN, MI MAROOLYN."}
+{"key": "script/mp6210#talk_mede/30", "es": "¡ERES EL SOL Y LAS ESTRELLAS!#0r"}
+{"key": "script/mp6210#talk_mede/38", "es": "¡Oh, Maroolyn, eres tan hermosa!"}
+{"key": "script/mp6210#talk_mede/40", "es": "El brillo lustroso de tu pelaje es como la seda más fina... no, ¡como una joya!"}
+{"key": "script/mp6210#talk_mede/45", "es": "MAROOLYN. EL BRILLO DE TU PELAJE ES COMO UNA GEMA PRECIOSA.#0r"}
+{"key": "script/mp6210#talk_mede/47", "es": "¡COMO UN ROOBÍ! ¿ENTENDISTE?"}
+{"key": "script/mp6210#talk_mede/55", "es": "¡Oh, Maroolyn, eres tan hermosa!"}
+{"key": "script/mp6210#talk_mede/57", "es": "¡Eres la roo más hermosa que ha vivido en mil años... no, en diez mil años!"}
+{"key": "script/mp6210#talk_mede/62", "es": "¡OH, MAROOLYN!"}
+{"key": "script/mp6210#talk_mede/64", "es": "¡EL OBLIGADO SÍMIL CON AÑOS!#0r"}
+{"key": "script/mp6210#talk_uru/4", "es": "¿Quieres comprar algo?"}
+{"key": "script/mp6210#talk_uru/6", "es": "Puede que aceptemos devoluciones. Puede que no."}
+{"key": "script/mp6210#talk_uru/9", "es": "Vuelve pronto."}
+{"key": "script/mp6210#talk_uru/14", "es": "¡COMPRA ALGO, ANDA!#0r"}
+{"key": "script/mp6210#talk_uru/16", "es": "¿QUÉ VAS A COMPRAR?#0r"}
+{"key": "script/mp6210#talk_uru/19", "es": "¡GRACIAS! ¡VUELVE PRONTO!#0r"}
+{"key": "script/mp6210#talk_uru/27", "es": "¿Quieres comprar algo?"}
+{"key": "script/mp6210#talk_uru/29", "es": "Puede que haya algunas gangas, o puede que no."}
+{"key": "script/mp6210#talk_uru/32", "es": "Vuelve pronto."}
+{"key": "script/mp6210#talk_uru/37", "es": "OH, NO ES MENTIRA, BEBÉ. COMPRA, COMPRA, COMPRA.#0r"}
+{"key": "script/mp6210#talk_uru/39", "es": "¡CAPITALISMO A LA VISTA!#0r"}
+{"key": "script/mp6210#talk_uru/42", "es": "¡VUELVE A EXPERIMENTAR MIS TERRIBLES PRECIOS!#0r"}
+{"key": "script/mp6210#talk_uru/50", "es": "¿Quieres comprar algo?"}
+{"key": "script/mp6210#talk_uru/52", "es": "Puede que todo tenga un precio razonable. O puede que no."}
+{"key": "script/mp6210#talk_uru/55", "es": "Vuelve pronto."}
+{"key": "script/mp6210#talk_uru/60", "es": "PATINA O COMPRA.#0r"}
+{"key": "script/mp6210#talk_uru/62", "es": "DICHO SEA DE PAGO.#0r"}
+{"key": "script/mp6210#talk_uru/65", "es": "TE HUELO LUEGO.#0r"}
+{"key": "script/mp6210#talk_uru/73", "es": "¿Quieres comprar algo?"}
+{"key": "script/mp6210#talk_uru/75", "es": "Creo que tengo muchas mercancías para vender. Pero quizá no."}
+{"key": "script/mp6210#talk_uru/78", "es": "Vuelve pronto."}
+{"key": "script/mp6210#talk_uru/83", "es": "¿COMPRAS, POR CASUALIDAD?#0r"}
+{"key": "script/mp6210#talk_uru/85", "es": "¡PRUEBA MIS PRODUCTOS!#0r"}
+{"key": "script/mp6210#talk_uru/88", "es": "¡SABOREA MI REFRIGERIO!#0r"}
+{"key": "script/mp6210#talk_maru/6", "es": "P-Pero todo esto es tan repentino..."}
+{"key": "script/mp6210#talk_maru/8", "es": "Estamos hablando de toda nuestra vida..."}
+{"key": "script/mp6210#talk_maru/13", "es": "¿NO HABRÁ ALGUIEN QUE PIENSE EN LOS NIÑOS?"}
+{"key": "script/mp6210#talk_maru/15", "es": "¡OH, PIENSEN EN LOS NIÑOS!"}
+{"key": "script/mp6210#talk_maru/23", "es": "¡Ay, cielos, siempre eres tan halagador! ㈱"}
+{"key": "script/mp6210#talk_maru/28", "es": "JI JI JI. ¡ATREVIDO!#0r ㈱"}
+{"key": "script/mp6210#talk_maru/36", "es": "¡Ay, cielos, seguro que 'joya' es una exageración! ㈱"}
+{"key": "script/mp6210#talk_maru/41", "es": "¿DE VERDAD BRILLO TANTO?#0r ㈱"}
+{"key": "script/mp6210#talk_maru/49", "es": "¡Ay, cielos, con halagos no conseguirás nada! ㈱"}
+{"key": "script/mp6210#talk_maru/54", "es": "¡AUNQUE ME ALABES NO HAY REGALO PARA TI!#0r ㈱"}
+{"key": "script/mp6210#talk_devi/4", "es": "*sss* ¡Por fin lo va a hacer!"}
+{"key": "script/mp6210#talk_devi/6", "es": "¡¿Qué clase de reacción es esa?! ¡No empieces a actuar como una doncella inocente ahora!"}
+{"key": "script/mp6210#talk_devi/11", "es": "¡NOOOO! ¿QUÉ ESTÁS HACIENDO?#0r"}
+{"key": "script/mp6210#talk_devi/13", "es": "¡DEJA DE ACTUAR COMO SI FUERAS TAN INOCENTE!#0r"}
+{"key": "script/mp6210#talk_devi/21", "es": "*sss* ¡Es como si estuviera acostumbrada a los cumplidos, con la forma en que simplemente los ignora!"}
+{"key": "script/mp6210#talk_devi/23", "es": "¡No debes acostumbrarte sin más a recibir cumplidos de los varones!"}
+{"key": "script/mp6210#talk_devi/28", "es": "ÉL NOS LO ESTÁ PONIENDO MUY DIFÍCIL A TODOS LOS DEMÁS.#0r"}
+{"key": "script/mp6210#talk_devi/30", "es": "TENEMOS QUE HACER MUCHO MÁS PARA IGUALARLO. ¡Y, SINCERAMENTE, NOS DA DEMASIADA PEREZA!#0r"}
+{"key": "script/mp6210#talk_devi/38", "es": "*sss* ¡¿Joyas?! ¡He visto guijarros más bonitos!"}
+{"key": "script/mp6210#talk_devi/43", "es": "¡OOH, AUCH! ¡QUEMADURA! ¡TOMA ESO!#0r"}
+{"key": "script/mp6210#talk_devi/51", "es": "*sss* ¡¿Por qué Maroolyn siempre se lleva toda la atención?!"}
+{"key": "script/mp6210#talk_devi/56", "es": "¡ES GUERRA CONTRA MAROOLYN!#0r"}
+{"key": "script/mp6210#talk_negi/4", "es": "Hola, guapo... ㈱"}
+{"key": "script/mp6210#talk_negi/6", "es": "¿Qué tal si me haces un descuentito, eh? ㈱"}
+{"key": "script/mp6210#talk_negi/11", "es": "HOLA, GUAPO.#0r ㈱"}
+{"key": "script/mp6210#talk_negi/13", "es": "BUEN DÍA PARA UNA REBAJA A LA MITAD. ¡SI ME HACES MI DESCUENTO!#0r ㈱"}
+{"key": "script/mp6210#talk_negi/21", "es": "¡Mira esto! ¡Estos productos están dañados!"}
+{"key": "script/mp6210#talk_negi/23", "es": "¡No puedes esperar que nadie pague el precio completo por esto!"}
+{"key": "script/mp6210#talk_negi/28", "es": "¿PRODUCTOS DAÑADOS?#0r"}
+{"key": "script/mp6210#talk_negi/30", "es": "¡INCONCEBIBLE!#0r"}
+{"key": "script/mp6210#talk_negi/38", "es": "¡Me llevo tres de estas cosas, tres! Anda, por eso sí puedes hacerme un descuento, ¿no?"}
+{"key": "script/mp6210#talk_negi/43", "es": "¡TODA LA GLORIA AL HIPNOSAPO!#0r"}
+{"key": "script/mp6210#talk_negi/54", "es": "No los había visto por aquí antes."}
+{"key": "script/mp6210#talk_negi/56", "es": "...Aunque en realidad no me importa."}
+{"key": "script/mp6210#talk_negi/62", "es": "¡Vamos, estos precios son un robo! Puedes vender estas cosas más baratas. ¡Deja de ser tan tacaño!"}
+{"key": "script/mp6210#talk_negi/68", "es": "¡FIJAR PRECIOS ES MALO! ¡ERES UN ROO TERRIBLE!#0r"}
+{"key": "script/mp6210#talk_guran/4", "es": "*ñam* *ñam* *glup*"}
+{"key": "script/mp6210#talk_guran/6", "es": "Mmm, ¿así que lograron reparar la Máscara de la Luna?"}
+{"key": "script/mp6210#talk_guran/8", "es": "Ahora podrán entrar al Templo del Sol. Solo mantengan la guardia en alto allá adentro."}
+{"key": "script/mp6210#talk_guran/13", "es": "Mmm, ¿así que lograron reparar la Máscara de la Luna?"}
+{"key": "script/mp6210#talk_guran/15", "es": "Ahora podrán entrar al Templo del Sol. Solo mantengan la guardia en alto allá adentro."}
+{"key": "script/mp6210#talk_guran/21", "es": "*ñam* *ñam* *glup*"}
+{"key": "script/mp6210#talk_guran/23", "es": "El laboratorio está al norte del Campo de Batalla de Colonia. Deberían apresurarse."}
+{"key": "script/mp6210#talk_guran/25", "es": "¡Y hagan buen uso de esa espada que les di!"}
+{"key": "script/mp6210#talk_guran/27", "es": "...Por cierto, eso es de mi parte, no de Roda."}
+{"key": "script/mp6210#talk_guran/32", "es": "El laboratorio está al norte del Campo de Batalla de Colonia. Deberían apresurarse."}
+{"key": "script/mp6210#talk_guran/34", "es": "¡Y hagan buen uso de esa espada que les di!"}
+{"key": "script/mp6210#talk_guran/39", "es": "Ah, parece que lograron liberar a ese joven de su maldición."}
+{"key": "script/mp6210#talk_guran/41", "es": "Lo hicieron bien. ...Dice el árbol Roda."}
+{"key": "script/mp6210#talk_guran/46", "es": "Ese aspecto les sienta bien, jóvenes. Ahora lucen mucho mejor que antes."}
+{"key": "script/mp6210#talk_guran/48", "es": "¡Pero deben apresurarse a liberar a ese joven de su maldición!"}
+{"key": "script/mp6210#talk_guran/50", "es": "...Dice el siempre tan servicial árbol Roda."}
+{"key": "script/mp6210#talk_guran/54", "es": "*ñam* *ñam* *glup*"}
+{"key": "script/mp6210#talk_guran/56", "es": "Parece que ese joven está maldito."}
+{"key": "script/mp6210#talk_guran/58", "es": "¡Apúrense a hacer algo por él!"}
+{"key": "script/mp6210#talk_guran/60", "es": "...Dice el árbol Roda."}
+{"key": "script/mp6210#talk_guran/65", "es": "¡Apúrense a hacer algo por ese joven, antes de que sea demasiado tarde!"}
+{"key": "script/mp6210#talk_guran/67", "es": "...Dice el árbol Roda."}
+{"key": "script/mp6210#talk_guran/69", "es": "¡Y si digo que lo dice, es que lo dice en serio!"}
 {"key": "script/mp6210#talk_guran/75", "es": "Zzz... Zzz..."}
+{"key": "script/mp6210#talk_guran/77", "es": "Si quieren hablar con los pequeños... busquen el 'collar'..."}
 {"key": "script/mp6210#talk_guran/83", "es": "Zzz... Zzz..."}
+{"key": "script/mp6210#talk_guran/85", "es": "Todavía no es suficiente..."}
+{"key": "script/mp6210#talk_guran/87", "es": "Dame... más fruta... Zzz..."}
+{"key": "script/mp6210#talk_Gazock/5", "es": "¡Oh, qué adorable!"}
+{"key": "script/mp6210#talk_Gazock/7", "es": "Ven, déjame frotarte contra mis mejillas."}
 {"key": "script/mp6210#talk_Gazock/19", "es": "Reforzar/Refinar"}
 {"key": "script/mp6210#talk_Gazock/20", "es": "Fabricar accesorio"}
 {"key": "script/mp6210#talk_Gazock/21", "es": "Hablar"}
 {"key": "script/mp6210#talk_Gazock/22", "es": "Cancelar"}
+{"key": "script/mp6210#talk_Gazock/34", "es": "No esperaba toparme con alguien con intereses parecidos a los míos en un lugar así."}
+{"key": "script/mp6210#talk_Gazock/36", "es": "¡Jajaja! Qué pequeño es el mundo, ¿eh?"}
+{"key": "script/mp6210#talk_Remnos/7", "es": "Oh, ¿quieres que juegue contigo?"}
+{"key": "script/mp6210#talk_Remnos/9", "es": "Lo siento, estoy un poco ocupado en este momento. Quizá más tarde."}
+{"key": "script/mp6210#talk_Remnos/13", "es": "Gazock dice que estuvo un tiempo en Selray."}
+{"key": "script/mp6210#talk_Remnos/15", "es": "¡No puedo creer que llegara tan adentro del bosque solo porque le interesan las ruinas antiguas!"}
+{"key": "script/mp6210#talk_Remnos/17", "es": "Con esa energía, seguro nos sobrevivirá a todos."}
+{"key": "script/mp6210#talk_Remnos/22", "es": "No llevamos mucho tiempo hablando, pero siento que me voy a llevar muy bien con Gazock."}
+{"key": "script/mp6210#talk_Remnos/24", "es": "Estaba empezando a aburrirme sin nadie con quien hablar. Así que llegó en buen momento."}
+{"key": "script/mp6210#talk_Remnos/36", "es": "¿Quieres oírme tocar el arpa?"}
+{"key": "script/mp6210#talk_Remnos/38", "es": "¡Tienes buen gusto! Me caes bien."}
+{"key": "script/mp6210#talk_Remnos/42", "es": "Me gustaría ir con ustedes, pero supongo que lo mejor es obedecer y descansar."}
+{"key": "script/mp6210#talk_Remnos/44", "es": "¡Aunque tocar el arpa tampoco me deja sin gastar energía, ojo!"}
+{"key": "script/mp6210#talk_Remnos/46", "es": "Pero a los roos y al árbol Roda parece encantarles, así que no me molesta para nada."}
+{"key": "script/mp6210#talk_Remnos/51", "es": "Me gustaría ir con ustedes, pero supongo que lo mejor es obedecer y descansar."}
+{"key": "script/mp6210#talk_Remnos/53", "es": "Cuídense allá afuera."}
+{"key": "script/mp6210#talk_Remnos/64", "es": "Oh, creo que no los había visto por aquí."}
+{"key": "script/mp6210#talk_Remnos/66", "es": "¡Mucho gusto!"}
+{"key": "script/mp6210#talk_Remnos/72", "es": "Bueno, vamos a ver al Gran Roo."}
+{"key": "script/mp6210#talk_Remnos/74", "es": "Les contaré más cuando lleguemos."}
+{"key": "script/mp6210#talk_Remnos/84", "es": "Remnos duerme plácidamente."}
+{"key": "script/mp6210#talk_Remnos/97", "es": "Remnos duerme plácidamente."}
+{"key": "script/mp6210#talk_Remnos/102", "es": "(Qué alivio que estés bien, Remnos...)"}
+{"key": "script/mp6210#talk_Remnos/108", "es": "Qué alivio que estés bien, Remnos..."}
+{"key": "script/mp6210#talk_Remnos/116", "es": "...Ugh..."}
+{"key": "script/mp6210#talk_Remnos/119", "es": "Remnos parece estar sufriendo."}
+{"key": "script/mp6210#talk_Remnos/124", "es": "(Aguanta un poco más... ¡Terminaremos antes de que te des cuenta!)"}
+{"key": "script/mp6210#talk_Remnos/130", "es": "Aguanta un poco más... ¡Terminaremos antes de que te des cuenta!"}
+{"key": "script/mp6210#talk_Remnos/137", "es": "...Ugh..."}
+{"key": "script/mp6210#talk_Remnos/140", "es": "Remnos parece estar sufriendo."}
+{"key": "script/mp6210#look_sleep_remnos/4", "es": "Veo que lograron derrotar a esa vil Bami."}
+{"key": "script/mp6210#look_sleep_remnos/6", "es": "Como pueden ver, ahora está descansando."}
+{"key": "script/mp6210#look_sleep_remnos/8", "es": "Solo nos queda esperar a que despierte. Pronto estará de pie otra vez."}
+{"key": "script/mp6210#look_sleep_remnos/11", "es": "Al menos parece que duerme tranquilo."}
+{"key": "script/mp6210#look_sleep_remnos/14", "es": "Me pregunto si será por el lugar donde estamos. Es un sitio muy relajante."}
 {"key": "script/mp6210#look_sleep_remnos/17", "es": "Sí..."}
+{"key": "script/mp6210#look_sleep_remnos/19", "es": "...Aunque siento que todos los roos me están mirando."}
+{"key": "script/mp6210#look_sleep_remnos/22", "es": "¡¿Pero por qué pierden el tiempo aquí?! ¡¿No tienen cosas más importantes de las que ocuparse?!"}
+{"key": "script/mp6210#look_sleep_remnos/24", "es": "¡Déjenlo conmigo y pónganse en marcha de una vez!"}
+{"key": "script/mp6210#talk_Leo/5", "es": "¿Q-Qué? ¿Quieres decirme algo?"}
+{"key": "script/mp6210#talk_Leo/7", "es": "¡Deja de mirarme con esos ojos grandes y redondos!"}
+{"key": "script/mp6210#talk_Leo/9", "es": "¡No voy a sentir nada por ti! ¡No! ¡No me dejaré engatusar así!"}
+{"key": "script/mp6210#talk_Leo/22", "es": "¡Oigan! ¿Qué hacen aquí? ¡¿No tienen cosas más importantes de las que ocuparse?!"}
+{"key": "script/mp6210#talk_Leo/24", "es": "¡Déjenlo conmigo y pónganse en marcha de una vez!"}
 {"key": "script/mp6210#talk_Leo/32", "es": "¡¿Qué haces aquí?!"}
+{"key": "script/mp6210#talk_Leo/34", "es": "¡No hay tiempo que perder! ¡Vayan a acabar con esa maldita hechicera!"}
+{"key": "script/mp6210#talk_Santyo/5", "es": "¿Eh? ¿Quieres fruta o algo así?"}
+{"key": "script/mp6210#talk_Santyo/7", "es": "Lo siento, no tengo."}
+{"key": "script/mp6210#talk_Santyo/16", "es": "Bueno, al menos me alegra que lograran quitarle la maldición."}
+{"key": "script/mp6210#talk_Santyo/18", "es": "No podemos relajarnos hasta que recobre el conocimiento, pero al menos sabemos que se va a poner bien."}
+{"key": "script/mp6210#talk_Santyo/24", "es": "¡Apúrense a hacer algo, por favor!"}
+{"key": "script/mp6210#talk_Santyo/26", "es": "...No puedo soportar verlo así mucho más tiempo."}
+{"key": "script/mp6210#talk_Pansa/5", "es": "H-Hola... Eh, supongo que no pueden entender lo que decimos, ¿verdad?"}
+{"key": "script/mp6210#talk_Pansa/7", "es": "...Ojalá pudieran. Así podría pedirles algo de fruta."}
+{"key": "script/mp6210#talk_Pansa/16", "es": "De verdad es relajante estar aquí."}
+{"key": "script/mp6210#talk_Pansa/18", "es": "¡Ya tuve suficientes montañas nevadas para toda la vida, te lo aseguro!"}
 {"key": "script/mp6210#talk_Pansa/24", "es": "*jadeo* *jadeo*"}
+{"key": "script/mp6210#talk_Pansa/26", "es": "Correr... cargando a alguien... cansa más... de lo que pensaba..."}
+{"key": "script/mp6210#talk_Pansa/28", "es": "Pero me alegro... de que hayamos llegado... aquí..."}
+{"key": "script/mp6210#first_mem_talk/27", "es": "Yo Oroocle. Yo ver destino."}
+{"key": "script/mp6210#first_mem_talk/30", "es": "¡Destino de otro roo sabe a miel!"}
+{"key": "script/mp6210#first_mem_talk/66", "es": "¡MIRA EN MI BOLA DE CRISTAL! ¡CON ESO QUIERO DECIR MI ÚNICO OJO BUENO!"}
 {"key": "script/mp6210#first_mem_talk_end/29", "es": "La DEF base de Adol aumentó en 1."}
+{"key": "script/mp6210#first_mem_talk_end/36", "es": "Esta mujer muy egoísta. Pero ella muy sola."}
+{"key": "script/mp6210#first_mem_talk_end/38", "es": "Su pareja, indeciso. Pero amar a ella por completo."}
+{"key": "script/mp6210#first_mem_talk_end/40", "es": "Yo pensar que ellos buen equipo."}
+{"key": "script/mp6210#talk_miru/8", "es": "Yo Oroocle. Yo ver destino."}
+{"key": "script/mp6210#talk_miru/10", "es": "Destino de otro roo sabe a miel. Pero ¿tú? Yo no probar mucho contigo."}
+{"key": "script/mp6210#talk_miru/15", "es": "SE ROOMOREA QUE EL GRAN ROO TE ESTÁ ARROOPANDO. ROO."}
+{"key": "script/mp6210#talk_miru/28", "es": "Yo Oroocle. Yo ver destino."}
+{"key": "script/mp6210#talk_miru/30", "es": "Pero yo no hacer nada."}
+{"key": "script/mp6210#talk_miru/35", "es": "¿PUEDES DOBLAR UNA CUCHARA CON LA MENTE? ¡YO PUEDO DOBLAR UNA CUCHAROO CON LA MÍA!"}
+{"key": "script/mp6210#talk_miru/37", "es": "PERO NO LO HARÉ. Y PUNTO."}
+{"key": "script/mp6210#talk_miru/50", "es": "Yo Oroocle. Yo ver destino."}
+{"key": "script/mp6210#talk_miru/52", "es": "Un día yo ser súper vidente."}
+{"key": "script/mp6210#talk_miru/57", "es": "LA VIDA ES ROOTINA."}
+{"key": "script/mp6210#talk_miru/59", "es": "PERO TODOS LOS DEMÁS SON SOLO UN MONTÓN DE PALUROOS."}
+{"key": "script/mp6210#talk_miru/72", "es": "Yo Oroocle. Yo ver destino."}
+{"key": "script/mp6210#talk_miru/74", "es": "Ver destino con mente. No con ojos."}
+{"key": "script/mp6210#talk_miru/79", "es": "¡TARAROO! AHÍ ESTÁ."}
+{"key": "script/mp6210#talk_miru/81", "es": "¡TE ARROOPENTIRÁS DE ESTE DÍA!"}
+{"key": "script/mp6210#talk_Mishy/35", "es": "Eres un roo de un color gracioso."}
 {"key": "script/mp6210#talk_Mishy/40", "es": "¿Quién eres?"}
+{"key": "script/mp6210#talk_Mishy/41", "es": "Soy Adoroo."}
 {"key": "script/mp6210#talk_Mishy/47", "es": "¿Yo?"}
+{"key": "script/mp6210#talk_Mishy/49", "es": "Mi nombre no tiene nada de especial. La gente me llama Mishy."}
+{"key": "script/mp6210#talk_Mishy/54", "es": "¿Oh? No es un mal nombre. Pero no es nada comparado con el mío."}
+{"key": "script/mp6210#talk_Mishy/56", "es": "Me llamo Mishy. Solo un muchachito callado y tímido, eso soy."}
+{"key": "script/mp6210#talk_Mishy/60", "es": "Quizá estábamos destinados a encontrarnos aquí."}
+{"key": "script/mp6210#talk_Mishy/62", "es": "Entonces, ¿qué tal si te doy esto?"}
 {"key": "script/mp6210#talk_Mishy/65", "es": "Recibes "}
 {"key": "script/mp6210#talk_Mishy/67", "es": "Recibes "}
 {"key": "script/mp6210#talk_Mishy/69", "es": "Recibes "}
@@ -386,3 +602,7 @@
 {"key": "script/mp6210#talk_Mishy/73", "es": "Recibes "}
 {"key": "script/mp6210#talk_Mishy/75", "es": "Recibes "}
 {"key": "script/mp6210#talk_Mishy/77", "es": "Recibes "}
+{"key": "script/mp6210#talk_Mishy/87", "es": "...Bueno, ¡adiós! Quizá nos volvamos a ver algún día."}
+{"key": "script/mp6210#talk_Mishy/122", "es": "Los roos sí que son un grupo relajado."}
+{"key": "script/mp6210#talk_Mishy/124", "es": "Siento algo de envidia."}
+{"key": "script/mp6210#talk_Mishy/133", "es": "¡JIJIJIII!#0r ♪"}
