@@ -1,12 +1,215 @@
+{"key": "script/mp6212#evlookp01/14", "es": "Partir hacia Iris"}
 {"key": "script/mp6212#evlookp01/15", "es": "Cancelar"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/83", "es": "Tú otra vez..."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/85", "es": "¿Nunca te cansas de intentar interferir, espadachín pelirrojo?"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/87", "es": "Y en cuanto a ti..."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/170", "es": "Rey de Celceta, ser despreciable, que me has mantenido sellado todos estos siglos..."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/172", "es": "¿Qué te trae arrastrándote de vuelta después de tanto tiempo?"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/180", "es": "Qué pregunta tan curiosa, el de alas negras."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/182", "es": "¿Qué otra razón tendría para estar aquí que hacer que devuelvas la Máscara del Sol y los Registros Akáshicos?"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/205", "es": "¡¿Espera, esa cosa enorme y redonda son los Registros Akáshicos?!"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/208", "es": "Yo pensaba que sería un libro..."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/213", "es": "¡Ja! Los Registros Akáshicos contienen las leyes que construyen el mundo que nos rodea, y todo lo que ha sido y será."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/215", "es": "Y el camino que seguirá cada ser, hombre y dios por igual..."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/217", "es": "¡Un volumen de información tan inimaginable no podría almacenarse jamás en un simple libro!"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/219", "es": "Y aun así, pese a poseer algo tan poderoso, el de alas blancas hizo poco con ello."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/221", "es": "...Un verdadero necio."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/234", "es": "¡Cómo te atreves! El señor Eldeel, él..."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/239", "es": "Cálmate, Leeza."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/240", "es": "¿Qué intentas hacer?"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/248", "es": "L-Lo siento, Adol, es que..."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/251", "es": "Entonces, ¿qué piensas hacer con ellos?"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/256", "es": "Ja. ¿De verdad debo decir lo obvio?"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/263", "es": "Los usaré para desatar sobre todo el continente de Europa desastres naturales como el mundo jamás ha visto."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/265", "es": "Terremotos, inundaciones, tormentas de fuego, plagas... ¡desastres de tal escala que borren a la humanidad por completo!"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/278", "es": "¡¿P-Puede hacer algo así de verdad?!"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/281", "es": "Me temo que sí. La Máscara del Sol permite a quien la porta alterar los Registros Akáshicos."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/283", "es": "Si quien la porta lo desea, los registros de nuestro mundo y de quienes lo habitan pueden ser... reescritos. Al menos en parte."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/286", "es": "Debes de estar bromeando..."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/289", "es": "¡¿Por qué querrías hacer algo así?!"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/291", "es": "Los humanos son criaturas pecadoras, sí, pero no podemos aceptar que tal destino sea inevitable, ni siquiera merecido."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/297", "es": "Bah. ¿Sabes por qué lo hago? Porque es un acto digno de un dios."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/301", "es": "¡¿Intenta decirnos que acabar con la humanidad es algo que un dios DEBE hacer?!"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/304", "es": "No hay forma de que..."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/309", "es": "Ya perdí suficiente tiempo hablando con ustedes, criaturas débiles."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/311", "es": "Al menos compórtense como humanos en sus últimos momentos, y arrodíllense ante mí..."}
 {"key": "script/mp6212#EV10_03_Battle_Eldeel/352", "es": "¡La máscara!"}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/395", "es": "Se acabó el tiempo de las explicaciones. Para marcar mi llegada a verdadero dios, los enterraré con mis propias manos."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/397", "es": "Jajaja... ¡Considérense afortunados de que se les permita tal honor!"}
 {"key": "script/mp6212#EV10_03_Battle_Eldeel/439", "es": "Ugh..."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/442", "es": "Parece que no tenemos opción, Adol. Tendrás que buscar una abertura mientras luchas contra él."}
+{"key": "script/mp6212#EV10_03_Battle_Eldeel/447", "es": "¡Mantente alerta!"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/87", "es": "¿Es que..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/90", "es": "¿Ganamos...?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/95", "es": "...Muy... bien..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/98", "es": "¿Q-Qué... qué...?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/133", "es": "¡Leeza! ¡Mira!"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/136", "es": "Lo veo. Su cabello y sus alas..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/139", "es": "Parece que tenemos la oportunidad de hablar con el verdadero Eldeel."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/143", "es": "Rrngh..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/145", "es": "Adol... Rápido, dame la Máscara de la Luna..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/160", "es": "Adol le dio la Máscara de la Luna a Eldeel."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/186", "es": "Ahora... debería poder mantener esta personalidad... por un tiempo."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/193", "es": "Cuando creé esta máscara... no imaginaba que se usaría... de esta manera..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/197", "es": "Quizá debí... diseñarla... con un aspecto un poco más... atractivo..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/219", "es": "Pff... jaja..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/223", "es": "Bueno, el final fue un poco anticlimático, pero me alegra que todo saliera bien."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/273", "es": "Me alegra mucho ver que todos llegaron aquí sanos y salvos."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/275", "es": "Y siento haberte preocupado, Leeza... y a ti, Calilica..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/277", "es": "En cuanto a ti, Adol, no me cabe duda de que... te he causado muchísimos problemas."}
 {"key": "script/mp6212#EV10_04_Defeat_Eldeel/285", "es": "Y..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/290", "es": "Ha pasado bastante tiempo, mi querido amigo."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/293", "es": "...¿Ochocientos años, creo?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/295", "es": "Gracias por sellar al de alas negras hace tantos siglos."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/297", "es": "Aunque jamás habría imaginado que seguirías manteniéndolo sellado durante tanto tiempo..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/299", "es": "No era lo que habíamos acordado... pero ahora mismo solo me alegra verte a salvo."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/302", "es": "Todo es gracias a Adol y sus amigos."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/304", "es": "Aun así, no parece que tengamos el lujo de perder el tiempo rememorando el pasado."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/307", "es": "Tienes razón. No lo tenemos."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/312", "es": "Eh, rey Lefance..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/314", "es": "¿No podría yo sellar al otro señor Eldeel, de la misma manera que usted lo hizo?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/316", "es": "Si hay algo que pueda hacer para ayudar..."}
 {"key": "script/mp6212#EV10_04_Defeat_Eldeel/322", "es": "Leeza..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/328", "es": "Leeza, agradezco tu intención."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/330", "es": "Pero no deseo sellarlo a costa de la vida de otra persona. No quiero volver a ver algo así jamás."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/339", "es": "Hace mucho, creía que era un ser completamente distinto que se había manifestado dentro de mí."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/341", "es": "Sin embargo, con el tiempo comprendí que es tanto una parte de mí como el que ves ante ti ahora."}
 {"key": "script/mp6212#EV10_04_Defeat_Eldeel/345", "es": "¿Q-Qué quieres decir?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/350", "es": "Siempre creí que mi deber era mantener la armonía del mundo repartiendo el conocimiento con cuidado, y así lo hice."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/352", "es": "Pero en algún momento empecé a dudar de si dar conocimiento a la gente de este modo era lo correcto."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/354", "es": "Esas dudas crecieron sin cesar dentro de mí, hasta que al final se unieron y tomaron forma."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/356", "es": "Y ese es el de alas negras que estuvo ante ustedes hace un momento."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/359", "es": "Eso no puede ser cierto..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/364", "es": "A simple vista, puede parecer la encarnación de la crueldad, existiendo solo para infligir destrucción al mundo."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/366", "es": "Pero cree que, al superar las grandes pruebas que se les ponen delante, las personas pueden desarrollarse por sí solas."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/369", "es": "Si miramos atrás en la historia, es cierto que la gente se hace más fuerte al superar la adversidad."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/372", "es": "Y como resultado, las personas aprenden a pensar y a caminar por sí mismas, sin la ayuda de los dioses."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/374", "es": "En cierto sentido, el de alas negras nació tanto del amor por la humanidad como yo."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/377", "es": "No tenía idea..."}
 {"key": "script/mp6212#EV10_04_Defeat_Eldeel/383", "es": "Voz de hombre"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/384", "es": "Vaya, parece que hasta Dios es imperfecto. Qué... decepcionante."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/464", "es": "¡Gruda!"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/467", "es": "¡¿En qué es imperfecto el señor Eldeel por mostrar preocupación?!"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/478", "es": "¿No se habían dado cuenta?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/480", "es": "El de alas negras no usó en absoluto el poder de la Máscara del Sol en su batalla."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/483", "es": "...Ahora que lo mencionas..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/486", "es": "¿Él... no lo hizo?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/494", "es": "Un error descuidado. Pero ahora tengo la oportunidad de ver cumplidos mis verdaderos deseos..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/496", "es": "Quiero ver cómo reacciona la humanidad ante una desesperación cruel y fría, mayor incluso que las pruebas de un dios..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/499", "es": "¡¿Q-Qué estás diciendo?!"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/502", "es": "Por eso apoyé al de alas negras e ideé esta nueva generación de lóbregos que lloran por este mundo."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/504", "es": "Y, sin embargo, este 'dios' ha resultado bastante inútil para ese fin."}
 {"key": "script/mp6212#EV10_04_Defeat_Eldeel/507", "es": "Gruda... Tú..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/510", "es": "Una prueba perfecta solo puede ejecutarla quien porta una malicia perfecta... Es decir, la propia humanidad."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/512", "es": "Si es deber de un dios desafiar a la humanidad, entonces, sin duda, ¡es un deber muy propio de un humano!"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/533", "es": "¡¿La Máscara del Sol?!"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/536", "es": "¿Cuándo la obtuvo?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/539", "es": "¡No! ¡¿Cómo?!"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/683", "es": "¿Se... fue...?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/686", "es": "¿Adónde se habrá ido...?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/689", "es": "No me atrevo ni a decirlo, pero..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/693", "es": "Me temo que es justo lo que hizo. Ha entrado en Iris."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/722", "es": "¿Iris?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/728", "es": "El lugar donde se almacena el contenido de los Registros Akáshicos."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/730", "es": "Toman la forma de luz espiritual y ocupan otro mundo donde normalmente no se pueden ver ni tocar."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/732", "es": "Y ese Mundo de los Registros se conoce con el nombre de 'Iris'."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/735", "es": "¿Y cree que Gruda fue allí?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/738", "es": "Es la única conclusión lógica."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/740", "es": "La Máscara del Sol se creó originalmente para permitir a quien la porte entrar en Iris y cambiar los registros que allí se guardan."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/742", "es": "Temo que Gruda va a provocar un desastre en el mundo real manipulando los registros directamente."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/745", "es": "*suspiro* Cada vez cae más bajo."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/749", "es": "Es incluso más descarado que el otro señor Eldeel..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/752", "es": "No podemos permitir que se salga con la suya."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/755", "es": "Pero ¿qué se supone que hagamos?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/760", "es": "Hace ochocientos años, el de alas negras entró en Iris como lo ha hecho Gruda ahora. Lo seguí y lo sellé."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/762", "es": "Sin embargo, con el tiempo el sello se debilitó y logró liberarse..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/766", "es": "Ya veo... Entonces, ¿eso significa que podemos seguirlo hasta allí dentro?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/771", "es": "Así es. Abriré una ruta con la Máscara de la Luna."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/773", "es": "Eso debería darles acceso."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/776", "es": "Gracias. Es un alivio tener a alguien como tú de nuestro lado."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/781", "es": "Me uniré a Adol y a los demás dentro del Mundo de los Registros. Al menos podré guiarlos por sus profundidades."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/790", "es": "Gracias, rey Lefance."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/793", "es": "Señor Eldeel, yo..."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/798", "es": "Me temo que la masa de Sol-Galba podría ser demasiado para que yo la transfiera al interior."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/800", "es": "¿Podría pedirte que te quedes aquí y me apoyes?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/803", "es": "S-Sí, por supuesto."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/806", "es": "Debemos apresurarnos, Adol."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/808", "es": "El de alas negras no está sellado para siempre. Si pasa el tiempo suficiente, comenzará a reaparecer."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/813", "es": "Está bien. Vámonos, entonces."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/814", "es": "¡Lo enfrentaré las veces que haga falta!"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/823", "es": "Notable. No hay ni una pizca de duda en tu rostro."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/825", "es": "Casi me haces comprender el punto de vista del de alas negras. Representas la capacidad y el ingenio de la humanidad."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/830", "es": "Por mucho que desee elogiar tu valentía, debemos evitar enfrentamientos innecesarios."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/832", "es": "Hay otras personas a nuestro alrededor que considerar, después de todo."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/838", "es": "Abriré la puerta a Iris."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/843", "es": "Gracias, amigo mío."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/886", "es": "¿Es eso?"}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/889", "es": "Sí, esta es la puerta."}
+{"key": "script/mp6212#EV10_04_Defeat_Eldeel/892", "es": "Adol... Mucha suerte allí dentro. Ten mucho cuidado y... que te acompañe la fortuna."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/65", "es": "¡Qué alivio que estén todos a salvo!"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/68", "es": "Me alegra mucho volver a verlos a todos."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/71", "es": "¿Qué sucede, Eldeel?"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/73", "es": "Adol y sus amigos salieron victoriosos, pero algo... no está bien..."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/79", "es": "¿Será... otro terremoto?"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/82", "es": "¡¿También están ocurriendo en nuestro mundo?!"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/88", "es": "En serio, sé que ya lo dije, pero ¿qué demonios está pasando?"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/91", "es": "Eso es lo que necesito hablar con ustedes. Por favor, vengan por aquí."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/140", "es": "...¿Algo anormal está ocurriendo en los Registros Akáshicos?"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/143", "es": "Así es. Sospecho que las acciones de Gruda en Iris crearon incoherencias y contradicciones dentro de ellos."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/145", "es": "Me temo que los terremotos y otros sucesos extraños se deben a que los registros... se desploman sobre sí mismos."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/149", "es": "¿Qué pasará si esto continúa?"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/152", "es": "Hace ochocientos años, esta región se convirtió en el Gran Bosque a causa de las acciones del de alas negras."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/155", "es": "¿Antes no era un bosque?"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/158", "es": "No lo era. Y considerando lo que Gruda ha hecho esta vez, las consecuencias probablemente sean mucho mayores..."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/160", "es": "En el peor de los casos, toda la parte occidental del continente podría hundirse en el océano, con Celceta en el centro."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/173", "es": "No puede ser..."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/179", "es": "En circunstancias normales, podría entrar en Iris y reparar los registros."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/181", "es": "Pero los errores ahora son demasiado extensos. No podría repararlos antes de que se cause un daño considerable."}
 {"key": "script/mp6212#EV11_00_Talk_Eldeel/187", "es": "N-No..."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/190", "es": "Señor Eldeel, ¿no hay otra forma de impedir que esto suceda?"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/195", "es": "...Hay una."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/197", "es": "Adol, quisiera pedirte que destruyas la Máscara del Sol."}
 {"key": "script/mp6212#EV11_00_Talk_Eldeel/204", "es": "¡¿Qué?!"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/207", "es": "La Máscara del Sol es, en la práctica, una llave maestra de los Registros Akáshicos."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/209", "es": "Si se destruye, por diseño, los Registros Akáshicos ya no podrán ejercer influencia alguna sobre este mundo."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/213", "es": "Pero... espera, ¿de verdad está bien hacer eso? Es decir, ¡¿no los... necesitamos?!"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/216", "es": "No permitiré que este continente sufra el mismo destino que mi tierra natal."}
 {"key": "script/mp6212#EV11_00_Talk_Eldeel/219", "es": "El señor Eldeel..."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/222", "es": "Sin embargo, este plan tiene una complicación."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/224", "es": "La Máscara del Sol no se destruye fácilmente, ni siquiera yo puedo hacerlo."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/227", "es": "Oh. Entonces, ¿cómo lo...?"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/230", "es": "Considéralo una petición personal, Adol."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/232", "es": "Quisiera que te apresuraras hasta la cima del monte Vesuvio y arrojes la Máscara del Sol al cráter del volcán."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/238", "es": "¿La montaña de dos picos?"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/241", "es": "Sí. Solo la energía que fluye por la propia tierra es capaz de destruir un artefacto tan poderoso."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/244", "es": "Pero... ¿el camino al cráter del volcán no es inaccesible?"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/249", "es": "Ya no. Cuando exploré la zona hace un rato, los terremotos habían rellenado las fisuras del sendero."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/251", "es": "Sin embargo, los terremotos lo han vuelto mucho más activo que antes, así que sigue siendo un encargo peligroso."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/254", "es": "Sé que es una tarea tremendamente difícil de confiarte, Adol... pero te lo ruego. Por favor."}
 {"key": "script/mp6212#EV11_00_Talk_Eldeel/259", "es": "El señor Eldeel..."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/265", "es": "Lo intentaré."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/266", "es": "¿Por qué me lo pides a mí?"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/274", "es": "Gracias, Adol. Desde el fondo de mi corazón."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/279", "es": "En todo el tiempo que te he observado, has actuado de forma más admirable de lo que jamás imaginé."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/281", "es": "Por egoísta que sea, supongo que podría decirse que quiero ver con mis propios ojos cómo te desenvuelves ahora."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/283", "es": "Quiero ser testigo de la fuerza de las personas a las que he observado todo este tiempo... para ver su verdadero potencial."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/285", "es": "...Como dije, considéralo un favor personal."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/292", "es": "Queda poco tiempo. Cualquier cosa podría pasar en cualquier momento."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/294", "es": "Lamento apresurarte, pero ¿puedo pedirte que salgas hacia el monte Vesuvio de inmediato?"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/298", "es": "Parece que esta es nuestra oportunidad de poner fin a todo esto de una vez."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/302", "es": "Y estaremos a tu lado, Adol."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/305", "es": "Hemos llegado hasta aquí. ¡No podemos echarnos atrás ahora!"}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/309", "es": "No sé qué va a pasar, pero no quiero tener remordimientos. Veamos esto hasta el final."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/313", "es": "Sí. Tras haber llegado hasta aquí, ni siquiera podría pensar en volver atrás."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/320", "es": "Adol Christin..."}
+{"key": "script/mp6212#EV11_00_Talk_Eldeel/322", "es": "Dejo el destino de este mundo en tus manos. Por favor... cuídate."}
+{"key": "script/mp6212#Talk_Eldeel/2", "es": "Adol... Todos... Que la fortuna les sonría."}
+{"key": "script/mp6212#Talk_Eldeel/4", "es": "Tengo la más absoluta confianza en tu capacidad."}
+{"key": "script/mp6212#Talk_Eldeel/10", "es": "Mantendré aquí la puerta a Iris para que puedan entrar y salir cuando quieran."}
+{"key": "script/mp6212#Talk_Eldeel/12", "es": "Cuídate, Adol, por favor."}
+{"key": "script/mp6212#Talk_Riesa/3", "es": "Cuando esté segura de que el señor Eldeel está a salvo, iré tras ustedes."}
+{"key": "script/mp6212#Talk_Riesa/5", "es": "Adol... Todos... Cuídense, por favor."}
+{"key": "script/mp6212#Talk_Riesa/10", "es": "Adol... Todos... Cuídense, por favor."}
+{"key": "script/mp6212#Talk_Lefans/1", "es": "Adol Christin..."}
+{"key": "script/mp6212#Talk_Lefans/3", "es": "Cuando te miro a ti y a tus compañeros, por desesperada que sea la situación, no puedo evitar sentir un rayo de esperanza."}
+{"key": "script/mp6212#Talk_Lefans/5", "es": "Dejo Celceta, y el destino de este mundo, en tus manos."}
