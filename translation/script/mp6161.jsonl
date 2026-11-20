@@ -1,9 +1,39 @@
 {"key": "script/mp6161#EV_Camp_Start/22", "es": "Ya no se siente la presencia de bestias en los alrededores. El aire está inmóvil y tranquilo..."}
 {"key": "script/mp6161#EV06_00_Camp_Rest_06/35", "es": "Envuelto en el aire puro del bosque y en la fragancia del árbol espiritual, Adol sintió que su cuerpo se hundía en un sueño profundo y reparador..."}
 {"key": "script/mp6161#EV06_00_Camp_Rest_06/37", "es": "¡Se restauró uno de los recuerdos sellados en lo más profundo de la mente de Adol!"}
+{"key": "script/mp6161#EV06_00_Camp_Rest_06_MB/67", "es": "Buenos días, Adol."}
+{"key": "script/mp6161#EV06_00_Camp_Rest_06_MB/69", "es": "Ya casi llegamos a Elduke."}
+{"key": "script/mp6161#EV06_00_Camp_Rest_06_MB/72", "es": "¿Esta zona siempre ha tenido este aspecto?"}
+{"key": "script/mp6161#EV06_00_Camp_Rest_06_MB/75", "es": "Apenas parece un bosque..."}
+{"key": "script/mp6161#EV06_00_Camp_Rest_06_MB/78", "es": "La verdad es que es algo... espeluznante..."}
+{"key": "script/mp6161#EV06_00_Camp_Rest_06_MB/81", "es": "Se supone que todas estas esporas empezaron a aparecer cuando cayó el reino."}
+{"key": "script/mp6161#EV06_00_Camp_Rest_06_MB/84", "es": "¡Aunque ahora no tiene sentido hablar de la historia de este lugar!"}
+{"key": "script/mp6161#EV06_00_Camp_Rest_06_MB/86", "es": "Vamos, ya casi llegamos. ¡Apuremos el paso!"}
 {"key": "script/mp6161#EV06_00_Camp_Rest_06_MB/94", "es": "Ahora se ven en el mapa los fragmentos de recuerdo de los alrededores."}
 {"key": "script/mp6161#evlookp01/6", "es": "Armar una tienda"}
 {"key": "script/mp6161#evlookp01/7", "es": "Cancelar"}
 {"key": "script/mp6161#evlookp02/7", "es": "Descansar en la tienda"}
 {"key": "script/mp6161#evlookp02/8", "es": "Cancelar"}
+{"key": "script/mp6161#stop_exit/6", "es": "Parece que hay un retoño de árbol espiritual en esta zona. Deberíamos armar una tienda y descansar."}
+{"key": "script/mp6161#QS504_Work3/66", "es": "¡Ah, aquí está!"}
+{"key": "script/mp6161#QS504_Work3/70", "es": "Ja, tal cual, se metió en nuestro antiguo campamento. Pigeon la conoce de sobra."}
+{"key": "script/mp6161#QS504_Work3/75", "es": "Parece que se perdió."}
+{"key": "script/mp6161#QS504_Work3/106", "es": "Este lugar es tan hermoso. Podría admirar esta vista durante horas..."}
+{"key": "script/mp6161#QS504_Work3/112", "es": "...y es justo lo que he estado haciendo. ¡Y ya estoy completamente harta!"}
+{"key": "script/mp6161#QS504_Work3/114", "es": "¿Dónde estoy? ¡¿Y dónde estás tú, Pigeon?!"}
+{"key": "script/mp6161#QS504_Work3/116", "es": "¡Estoy tan enojada! ¡Tan furiosa! ¡¡Tan... tan ENCOLERIZADA!!"}
+{"key": "script/mp6161#QS504_Work3/147", "es": "...Me siento tan sola sin ti, Pigeon. ¿Por qué no te apuras y vienes por mí?"}
+{"key": "script/mp6161#QS504_Work3/153", "es": "...Eh, ¿disculpa?"}
+{"key": "script/mp6161#QS504_Work3/159", "es": "¡KYAA!"}
 {"key": "script/mp6161#QS504_Work3/164", "es": "T-Tú eres..."}
+{"key": "script/mp6161#QS504_Work3/166", "es": "¡¿Q-Qué quieren?!"}
+{"key": "script/mp6161#QS504_Work3/171", "es": "Vuelve a Danan con nosotros."}
+{"key": "script/mp6161#QS504_Work3/172", "es": "No decir nada."}
+{"key": "script/mp6161#QS504_Work3/182", "es": "¿M-Me están ignorando? ¡Qué falta de respeto!"}
+{"key": "script/mp6161#QS504_Work3/184", "es": "¡¿No ven que estoy en problemas?!"}
+{"key": "script/mp6161#QS504_Work3/187", "es": "¿Problemas, eh?"}
+{"key": "script/mp6161#QS504_Work3/189", "es": "O sea que lo que quieres decir es: 'Por favor, escóltenme de vuelta a Danan', ¿verdad?"}
+{"key": "script/mp6161#QS504_Work3/196", "es": "¡¿P-Por qué les pediría yo eso?!"}
+{"key": "script/mp6161#QS504_Work3/198", "es": "¡¿Por qué necesitaría yo que me escolte gente como ustedes?!"}
+{"key": "script/mp6161#QS504_Work3/206", "es": "...Pero si de verdad insisten, supongo que los acompañaré. Para ayudarlos a salvar las apariencias."}
+{"key": "script/mp6161#QS504_Work3/212", "es": "¡Vamos, pues! ¡Pónganse en marcha!"}

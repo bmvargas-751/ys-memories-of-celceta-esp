@@ -1,11 +1,157 @@
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/94", "es": "Oye, mira eso. Qué edificio tan imponente."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/101", "es": "Jijí. Llegamos."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/103", "es": "Todos, bienvenidos a Elduke, la capital del antiguo Reino de Celceta."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/127", "es": "Así que este es el lugar, ¿eh?"}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/130", "es": "Por fin llegamos."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/133", "es": "Parece que la División Enmascarada patrulla la zona."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/136", "es": "Sí. Si nos descubren, esto podría complicarse, así que tendremos que tener mucho cuidado de que no nos vean."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/138", "es": "¿Dónde está el templo?"}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/141", "es": "El Templo del Sol está en el punto más alto de la ciudad, ya que allí residía el propio dios."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/156", "es": "¿Cuál es el significado de ese enorme árbol?"}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/175", "es": "Es un árbol Roda. Un árbol espiritual creado por el señor Eldeel."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/177", "es": "Creo que han visto otros más pequeños en las zonas que usaron como campamento mientras viajaban por el bosque."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/180", "es": "Vaya, no tenía idea de que crecieran tanto... Aunque todavía no es tan grande como el gran árbol de Comodo."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/182", "es": "¿Por qué se llaman árboles espirituales?"}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/185", "es": "Se dice que las personas con cierto grado de poder mágico pueden comunicarse con ellos espiritualmente."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/187", "es": "Pero este árbol Roda es diferente. Se durmió cuando cayó el Reino de Celceta y nunca ha vuelto a despertar."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/204", "es": "¡Muy bien, Adol!"}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/206", "es": "¡Subamos al Templo del Sol a ver si podemos averiguar algo!"}
 {"key": "script/mp6201#EV06_02_Arrive_Eleduk/214", "es": "¡Sí!"}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/215", "es": "Mantente alerta."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/221", "es": "Ay, ay, ay, ya empezó otra vez. ¡Veo esa sonrisa en tu cara! Cuanto más peligrosa es la situación, mejor, ¿eh?"}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/224", "es": "Jijí. Vamos, todos."}
+{"key": "script/mp6201#EV06_02_Arrive_Eleduk/229", "es": "Sí, no queremos que la División Enmascarada se entere de que estamos aquí..."}
 {"key": "script/mp6201#EV06_03_Find_Remnos/79", "es": "¿No es ese...?"}
 {"key": "script/mp6201#EV06_03_Find_Remnos/82", "es": "¡Remnos!"}
+{"key": "script/mp6201#EV06_03_Find_Remnos/90", "es": "¡Karna, espera!"}
+{"key": "script/mp6201#EV06_03_Find_Remnos/92", "es": "Sé cómo te sientes, pero ahora de verdad tenemos que tener cuidado. No podemos permitirnos que nos descubran."}
+{"key": "script/mp6201#EV06_03_Find_Remnos/98", "es": "L-Lo sé, perdón..."}
+{"key": "script/mp6201#EV06_03_Find_Remnos/113", "es": "El segundo y el tercer regimiento se quedarán aquí a custodiar el templo."}
+{"key": "script/mp6201#EV06_03_Find_Remnos/115", "es": "El resto, adelántense."}
+{"key": "script/mp6201#EV06_03_Find_Remnos/117", "es": "Los seguiré después de entregar mi informe al señor Gruda."}
+{"key": "script/mp6201#EV06_03_Find_Remnos/134", "es": "...Uf..."}
+{"key": "script/mp6201#EV06_03_Find_Remnos/156", "es": "Me pregunto adónde irá..."}
+{"key": "script/mp6201#EV06_03_Find_Remnos/160", "es": "Adol, esta es la oportunidad perfecta para examinar más de cerca el Templo del Sol."}
+{"key": "script/mp6201#EV06_03_Find_Remnos/164", "es": "¡Sí, vamos a echar un vistazo antes de que vuelvan!"}
+{"key": "script/mp6201#EV06_05_Feel_Sign/69", "es": "¿Qué pasa, Karna?"}
+{"key": "script/mp6201#EV06_05_Feel_Sign/73", "es": "N-No es nada. Solo creí sentir algo cerca..."}
+{"key": "script/mp6201#EV06_05_Feel_Sign/76", "es": "¿Algo? ¿Como una bestia?"}
+{"key": "script/mp6201#EV06_05_Feel_Sign/80", "es": "No lo sé, pero nunca había sentido algo así."}
+{"key": "script/mp6201#EV06_05_Feel_Sign/83", "es": "Mmm... Quizá deberíamos hacer un rápido recorrido por la zona, por si acaso."}
+{"key": "script/mp6201#EV06_06_Look_Ru/54", "es": "¡Allí! ¡Por allá!"}
+{"key": "script/mp6201#EV06_06_Look_Ru/125", "es": "Esa criatura es lo que sentí. Estoy segura."}
+{"key": "script/mp6201#EV06_06_Look_Ru/129", "es": "Eso parece un..."}
+{"key": "script/mp6201#EV06_06_Look_Ru/131", "es": "...Jijí. Ya veo. Adol, sigámosla."}
+{"key": "script/mp6201#EV10_00_Join_Nina/52", "es": "¡Frieda!"}
+{"key": "script/mp6201#EV10_00_Join_Nina/100", "es": "¡Nina! ¿Cómo está la situación en el templo?"}
+{"key": "script/mp6201#EV10_00_Join_Nina/103", "es": "¡Esta es nuestra mejor oportunidad! ¡No hay nadie cerca!"}
+{"key": "script/mp6201#EV10_00_Join_Nina/105", "es": "Esos soldados de la División Enmascarada recuperaron el juicio de repente, y entonces vino ese tal Leo y se los llevó."}
+{"key": "script/mp6201#EV10_00_Join_Nina/108", "es": "Parece que la derrota de Bami no solo liberó a Remnos."}
+{"key": "script/mp6201#EV10_00_Join_Nina/111", "es": "¡Y Leo hasta se hizo útil! No lo vi venir..."}
+{"key": "script/mp6201#EV10_00_Join_Nina/114", "es": "No es un soldado modelo, pero se nota que tiene buenas intenciones y quiere ayudar donde pueda."}
+{"key": "script/mp6201#EV10_00_Join_Nina/117", "es": "Je. ¡Y pensar que hasta hace poco no veíamos la hora de deshacernos de él!"}
+{"key": "script/mp6201#EV10_00_Join_Nina/124", "es": "No perdamos tiempo, Adol. Ya casi llegamos."}
+{"key": "script/mp6201#EV10_00_Join_Nina/130", "es": "El Templo del Sol... Es casi surreal que de verdad vayamos a entrar allí."}
+{"key": "script/mp6201#EV10_01_Open_Door/96", "es": "Voz de Leeza"}
 {"key": "script/mp6201#EV10_01_Open_Door/97", "es": "¡Adol!"}
 {"key": "script/mp6201#EV10_01_Open_Door/150", "es": "Voz de hombre"}
+{"key": "script/mp6201#EV10_01_Open_Door/151", "es": "Veo que todos están aquí."}
+{"key": "script/mp6201#EV10_01_Open_Door/174", "es": "Rey Lefance..."}
+{"key": "script/mp6201#EV10_01_Open_Door/213", "es": "El de alas negras sigue dentro del templo, por lo que parece."}
+{"key": "script/mp6201#EV10_01_Open_Door/215", "es": "Completar el ritual para activar los Registros Akáshicos requiere una cantidad considerable de tiempo."}
+{"key": "script/mp6201#EV10_01_Open_Door/217", "es": "Supongo que ahora está concentrado en eso."}
+{"key": "script/mp6201#EV10_01_Open_Door/221", "es": "Ahora que lo pienso, ¿qué fue de Gruda?"}
+{"key": "script/mp6201#EV10_01_Open_Door/227", "es": "Me temo que no puedo decirlo."}
+{"key": "script/mp6201#EV10_01_Open_Door/232", "es": "Debemos mantenernos alerta. No es un enemigo al que se deba subestimar."}
+{"key": "script/mp6201#EV10_01_Open_Door/238", "es": "Así que, eh..."}
+{"key": "script/mp6201#EV10_01_Open_Door/240", "es": "Hemos estado tan concentrados en entrar al templo que no hemos tenido mucho tiempo para pensar en esto, pero..."}
+{"key": "script/mp6201#EV10_01_Open_Door/242", "es": "¿Cómo se supone que vamos a detener al señor Eldeel, exactamente?"}
+{"key": "script/mp6201#EV10_01_Open_Door/254", "es": "¡Ay, vaya! ¿Empiezas a asustarte, Duren? ¿Temes que no podamos terminar lo que empezamos?"}
+{"key": "script/mp6201#EV10_01_Open_Door/259", "es": "¡Duren es un gallina, Duren es un gallina!"}
+{"key": "script/mp6201#EV10_01_Open_Door/264", "es": "Vamos... ¡Seguro que esa idea ya se les cruzó por la cabeza a ustedes también!"}
+{"key": "script/mp6201#EV10_01_Open_Door/267", "es": "Estoy de acuerdo, sería imprudente desafiarlo sin estar preparados."}
+{"key": "script/mp6201#EV10_01_Open_Door/272", "es": "Tal como están las cosas, hay pocas posibilidades de que Eldeel vuelva a ser el de antes."}
 {"key": "script/mp6201#EV10_01_Open_Door/283", "es": "¡¿Qué?!"}
+{"key": "script/mp6201#EV10_01_Open_Door/288", "es": "...No hay necesidad de entrar en pánico. La clave para someterlo está en la Máscara de la Luna."}
+{"key": "script/mp6201#EV10_01_Open_Door/290", "es": "Aunque sus efectos serán temporales, la Máscara de la Luna tiene la capacidad de sellar el poder del de alas negras."}
+{"key": "script/mp6201#EV10_01_Open_Door/292", "es": "El propio Eldeel la diseñó con esa función."}
+{"key": "script/mp6201#EV10_01_Open_Door/295", "es": "¿Y cómo funciona?"}
+{"key": "script/mp6201#EV10_01_Open_Door/298", "es": "Tendrán que ponerle la máscara a la fuerza. No será tarea fácil, pero... es la única forma."}
+{"key": "script/mp6201#EV10_01_Open_Door/300", "es": "Si lo logran, Eldeel volverá a ser el de siempre, aunque solo por un breve tiempo."}
+{"key": "script/mp6201#EV10_01_Open_Door/302", "es": "Durante ese tiempo, podremos recuperar la Máscara del Sol y él no podrá usar los Registros Akáshicos con fines malignos."}
+{"key": "script/mp6201#EV10_01_Open_Door/307", "es": "Así que, al menos, quizá podamos impedir que se haga mal uso de los registros. Y eso es sin duda nuestra principal preocupación."}
+{"key": "script/mp6201#EV10_01_Open_Door/309", "es": "Pero cuando dice que el señor Eldeel solo volvería a la normalidad por un breve período..."}
 {"key": "script/mp6201#EV10_01_Open_Door/314", "es": "Leeza..."}
+{"key": "script/mp6201#EV10_01_Open_Door/319", "es": "Debemos hablar con Eldeel cuando vuelva a ser consciente. Entonces, quizá, podamos encontrar otra manera."}
+{"key": "script/mp6201#EV10_01_Open_Door/321", "es": "Por ahora, lo mejor es que no le des demasiadas vueltas a la situación. Concéntrate solo en lo que hay que hacer."}
+{"key": "script/mp6201#EV10_01_Open_Door/326", "es": "S-Sí..."}
+{"key": "script/mp6201#EV10_01_Open_Door/329", "es": "Primero lo primero: tenemos una puerta que abrir, ¿no?"}
+{"key": "script/mp6201#EV10_01_Open_Door/339", "es": "Así es. Pero la cuestión es quién debería tener el honor."}
+{"key": "script/mp6201#EV10_01_Open_Door/345", "es": "Je, creo que todos sabemos la respuesta."}
 {"key": "script/mp6201#EV10_01_Open_Door/351", "es": "¡Sí!"}
 {"key": "script/mp6201#EV10_01_Open_Door/357", "es": "Así es."}
+{"key": "script/mp6201#EV10_01_Open_Door/363", "es": "¡Yo no tengo objeciones!"}
+{"key": "script/mp6201#EV10_01_Open_Door/367", "es": "Jijiji. Yo tampoco."}
+{"key": "script/mp6201#EV10_01_Open_Door/372", "es": "Bueno, si Frieda lo dice..."}
+{"key": "script/mp6201#EV10_01_Open_Door/378", "es": "Yo tampoco tengo objeciones."}
+{"key": "script/mp6201#EV10_01_Open_Door/407", "es": "Todo esto empezó cuando llegaste a Celceta, Adol."}
+{"key": "script/mp6201#EV10_01_Open_Door/414", "es": "Esta crisis habría ocurrido tarde o temprano, hubieras visitado estas tierras o no."}
+{"key": "script/mp6201#EV10_01_Open_Door/421", "es": "Pero si no fuera por ti, creo que no nos habríamos conocido así, ni estaríamos tan cerca de resolver el asunto ahora."}
+{"key": "script/mp6201#EV10_01_Open_Door/428", "es": "Sin duda Adol ha sido el pegamento que nos ha mantenido unidos durante este viaje."}
+{"key": "script/mp6201#EV10_01_Open_Door/437", "es": "Sí, Adol, eres el hombre. Si alguien va a abrir este antiguo templo, ¡tienes que ser tú!"}
+{"key": "script/mp6201#EV10_01_Open_Door/443", "es": "Fuiste a quien el señor Eldeel eligió para convocar a su torre en estos tiempos difíciles, después de todo."}
+{"key": "script/mp6201#EV10_01_Open_Door/448", "es": "Parece que el destino te ha elegido para ayudar a esta tierra en su momento de necesidad, Adol Christin."}
+{"key": "script/mp6201#EV10_01_Open_Door/450", "es": "Por eso, te pido que te pongas la máscara ahora y te coloques frente a la puerta del templo."}
 {"key": "script/mp6201#EV10_01_Open_Door/521", "es": "¡Se abrió!"}
+{"key": "script/mp6201#EV10_01_Open_Door/534", "es": "Lo que nos espera adentro quizá supere toda imaginación..."}
+{"key": "script/mp6201#EV10_01_Open_Door/537", "es": "Jijiji, por fin está sucediendo. Ha llegado el momento."}
+{"key": "script/mp6201#EV10_01_Open_Door/542", "es": "No te preocupes, Leeza. Llevaremos al señor Eldeel a casa sano y salvo."}
+{"key": "script/mp6201#EV10_01_Open_Door/547", "es": "Sé que lo harán."}
+{"key": "script/mp6201#EV10_01_Open_Door/550", "es": "¡Vamos, Adol!"}
+{"key": "script/mp6201#stop_mes_stairs_W/18", "es": "Los efectos de la hipnosis de Bami parecen haber permanecido, pues soldados de la División Enmascarada siguen patrullando la zona."}
+{"key": "script/mp6201#stop_mes_stairs_W/20", "es": "Sería imprudente acercarse más."}
+{"key": "script/mp6201#stop_mes_stairs_W/26", "es": "Los soldados de la División Enmascarada siguen patrullando esta zona. Sería imprudente acercarse más."}
+{"key": "script/mp6201#stop_mes_stairs_E/18", "es": "Los efectos de la hipnosis de Bami parecen haber permanecido, pues soldados de la División Enmascarada siguen patrullando la zona."}
+{"key": "script/mp6201#stop_mes_stairs_E/20", "es": "Sería imprudente acercarse más."}
+{"key": "script/mp6201#stop_mes_stairs_E/26", "es": "Los soldados de la División Enmascarada siguen patrullando esta zona. Sería imprudente acercarse más."}
+{"key": "script/mp6201#stop_stairsS_Low/24", "es": "Los efectos de la hipnosis de Bami parecen haber permanecido, pues soldados de la División Enmascarada siguen patrullando la zona."}
+{"key": "script/mp6201#stop_stairsS_Low/26", "es": "Sería imprudente acercarse más."}
+{"key": "script/mp6201#stop_stairsS_Low/32", "es": "Los soldados de la División Enmascarada siguen patrullando esta zona. Sería imprudente acercarse más."}
+{"key": "script/mp6201#stop_mes_sneak/0", "es": "Ahora es el momento perfecto para examinar el Templo del Sol más a fondo, ya que nadie patrulla la zona."}
+{"key": "script/mp6201#stop_mes_find/0", "es": "Karna percibió algo cerca. Sería mejor investigar."}
+{"key": "script/mp6201#Riesa_inout/22", "es": "Yo me quedaré aquí."}
+{"key": "script/mp6201#Riesa_inout/24", "es": "Por favor, asegúrense de estar completamente preparados para cualquier cosa."}
+{"key": "script/mp6201#Riesa_inout/39", "es": "¿Están todos listos?"}
+{"key": "script/mp6201#Riesa_inout/41", "es": "¡Entonces vayamos de prisa con el señor Eldeel!"}
+{"key": "script/mp6201#EV11_03_Help_Leos/135", "es": "¡Hay más detrás de nosotros!"}
+{"key": "script/mp6201#EV11_03_Help_Leos/138", "es": "¿Qu...? ¡¿Nos están siguiendo?!"}
+{"key": "script/mp6201#EV11_03_Help_Leos/141", "es": "¿Será que los atrae la Máscara del Sol?"}
+{"key": "script/mp6201#EV11_03_Help_Leos/144", "es": "No sé, pero cada vez son más. Esto no va a ser fácil..."}
+{"key": "script/mp6201#EV11_03_Help_Leos/149", "es": "¡Fuera de mi camino! ¡Háganse a un lado!"}
+{"key": "script/mp6201#EV11_03_Help_Leos/266", "es": "¡Comandante, espérenos!"}
+{"key": "script/mp6201#EV11_03_Help_Leos/272", "es": "¡No nos dejen atrás así como así!"}
+{"key": "script/mp6201#EV11_03_Help_Leos/278", "es": "¡INÚTILES! ¡Les falta entrenamiento!"}
+{"key": "script/mp6201#EV11_03_Help_Leos/283", "es": "Jaja. Yo diría que lo hicieron bastante bien con solo seguirnos el ritmo."}
+{"key": "script/mp6201#EV11_03_Help_Leos/313", "es": "¿Leo... y Remnos? ¿Sancho y Panza?"}
 {"key": "script/mp6201#EV11_03_Help_Leos/316", "es": "¿Qué haces aquí?"}
+{"key": "script/mp6201#EV11_03_Help_Leos/319", "es": "Nos enteramos de todo por el árbol Roda y el Gran Roo."}
+{"key": "script/mp6201#EV11_03_Help_Leos/322", "es": "¿Vinieron a ayudarnos, entonces?"}
+{"key": "script/mp6201#EV11_03_Help_Leos/325", "es": "Hmph. Solo hago mi trabajo de informar de todo lo que ocurre al gobernador general y a Romn."}
+{"key": "script/mp6201#EV11_03_Help_Leos/327", "es": "Y yo solo confío en lo que he visto con mis propios ojos."}
+{"key": "script/mp6201#EV11_03_Help_Leos/331", "es": "...¿Esa es la razón por la que estamos aquí?"}
+{"key": "script/mp6201#EV11_03_Help_Leos/335", "es": "Creo recordar al comandante gritando \"¡Soy el único que puede salvar a Adol!\" antes de salir corriendo..."}
+{"key": "script/mp6201#EV11_03_Help_Leos/339", "es": "¡Silencio! ¡Eso es... un detalle menor!"}
+{"key": "script/mp6201#EV11_03_Help_Leos/343", "es": "¡Tú! Adol, ¡no te quedes ahí parado!"}
+{"key": "script/mp6201#EV11_03_Help_Leos/347", "es": "¡Muévete! ¡No tenemos todo el día!"}
+{"key": "script/mp6201#EV11_03_Help_Leos/350", "es": "Nosotros nos encargaremos de todo aquí."}
+{"key": "script/mp6201#EV11_03_Help_Leos/352", "es": "Supongo que Karna no está con ustedes ahora porque está haciendo lo mismo en otra parte, ¿no?"}
+{"key": "script/mp6201#EV11_03_Help_Leos/355", "es": "Jaja. Tal hermana, tal hermano."}
+{"key": "script/mp6201#EV11_03_Help_Leos/358", "es": "¡Muchas gracias!"}
+{"key": "script/mp6201#EV11_03_Help_Leos/361", "es": "Adol, dejemos esto en sus manos y sigamos adelante."}
+{"key": "script/mp6201#EV11_09_Will_Eldeel/33", "es": "Adol... Qué joven tan admirable."}
+{"key": "script/mp6201#EV11_09_Will_Eldeel/36", "es": "No podría estar más de acuerdo."}
+{"key": "script/mp6201#EV11_09_Will_Eldeel/38", "es": "...Soy más que afortunado de haber podido conocer a alguien como él antes de mi descanso final."}
+{"key": "script/mp6201#EV11_09_Will_Eldeel/52", "es": "¿Estás decidido a seguir adelante con esto, entonces?"}
+{"key": "script/mp6201#EV11_09_Will_Eldeel/72", "es": "...La humanidad se ha vuelto mucho más fuerte de lo que era en la era de los dioses."}
+{"key": "script/mp6201#EV11_09_Will_Eldeel/74", "es": "Los Registros Akáshicos han perdido su poder y mi deber está cumplido."}
+{"key": "script/mp6201#EV11_09_Will_Eldeel/79", "es": "Ahora puedo descansar en paz."}
