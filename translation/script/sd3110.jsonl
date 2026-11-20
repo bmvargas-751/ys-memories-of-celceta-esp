@@ -17,7 +17,7 @@
 {"key": "script/sd3110#QS504_Work1/190", "es": "S-Supongo que podría considerar volver a visitarlos alguna vez. Quizás."}
 {"key": "script/sd3110#QS504_Work1/192", "es": "¿Les parece bien?"}
 {"key": "script/sd3110#QS504_Work1/205", "es": "Vaya. ¡Creo que de verdad logró convencerlos!"}
-{"key": "script/sd3110#QS504_Work1/210", "es": "B-Bueno, en todo caso, ¡ya me voy! ¡Adiós!"}
+{"key": "script/sd3110#QS504_Work1/210", "es": "E-En todo caso, ¡ya me voy! ¡Adiós!"}
 {"key": "script/sd3110#QS504_Work1/269", "es": "¡¿Y ustedes quiénes son, a todo esto?!"}
 {"key": "script/sd3110#QS504_Work1/271", "es": "¿Por qué están aquí? ¡¿Qué piensan hacerme?!"}
 {"key": "script/sd3110#QS504_Work1/292", "es": "*suspiro* ¿No es un poco tarde para hacer esas preguntas?"}
@@ -47,7 +47,7 @@
 {"key": "script/sd3110#talk_geroko_king/5", "es": "Cuando esa chica Rabbit nos vio, no sacó sus armas ni nada."}
 {"key": "script/sd3110#talk_geroko_king/7", "es": "No hay chicas como Rabbit por ahí afuera."}
 {"key": "script/sd3110#talk_geroko_king/9", "es": "¡No nos vamos a olvidar de que la conocimos, no, no!"}
-{"key": "script/sd3110#talk_geroko_king/14", "es": "BRRRIIBBTT... YO RIBBI-ROO. ESA SEÑORA MUY AMABLE."}
+{"key": "script/sd3110#talk_geroko_king/14", "es": "BRRRIIBBTT... YO RIBBI-ROI. ¡ESA SEÑORA MUY AMABLE!"}
 {"key": "script/sd3110#talk_geroko_king/23", "es": "¡Eh, si es un roo! Te ves condenadamente bien hoy, si se me permite."}
 {"key": "script/sd3110#talk_geroko_king/25", "es": "Ah, sí, ya que viniste hasta acá, te doy esto, ¿eh?"}
 {"key": "script/sd3110#talk_geroko_king/28", "es": "Recibes "}
@@ -55,8 +55,8 @@
 {"key": "script/sd3110#talk_geroko_king/34", "es": "Eres bienvenido cuando quieras, ¡así que a jugar!"}
 {"key": "script/sd3110#talk_geroko_king/39", "es": "Que vengan roos por aquí debe significar que algo bueno va a pasar pronto."}
 {"key": "script/sd3110#talk_geroko_king/41", "es": "Vuelve aquí algún día, ¿me oyes?"}
-{"key": "script/sd3110#talk_geroko_king/47", "es": "BRRRIIBBTT... YO RIBBI-ROO. ¿TÚ QUEDAR NOCHE?"}
-{"key": "script/sd3110#talk_geroko_king/55", "es": "BRRRIIBBTT... YO RIBBI-ROO. MUCHO GUSTO."}
+{"key": "script/sd3110#talk_geroko_king/47", "es": "BRRRIIBBTT... YO RIBBI-ROI. ¿TÚ QUEDAR NOCHE?"}
+{"key": "script/sd3110#talk_geroko_king/55", "es": "BRRRIIBBTT... YO RIBBI-ROI. MUCHO GUSTO."}
 {"key": "script/sd3110#talk_geroko_1/3", "es": "Anhelo el día en que Rabbit regrese aquí."}
 {"key": "script/sd3110#talk_geroko_1/5", "es": "Ella es de verdad como el sol para nosotros."}
 {"key": "script/sd3110#talk_geroko_1/10", "es": "BRRRIIBBTT... YO EXTRAÑAR RABBIT."}
@@ -68,12 +68,12 @@
 {"key": "script/sd3110#talk_geroko_1/30", "es": "Recibes "}
 {"key": "script/sd3110#talk_geroko_1/34", "es": "Todos estaríamos encantados de volver a verte, si te place visitarnos de nuevo cuando tu ocio te lo permita."}
 {"key": "script/sd3110#talk_geroko_1/39", "es": "De veras nos has enseñado más de lo que podemos pagarte."}
-{"key": "script/sd3110#talk_geroko_1/41", "es": "¡Tienes nuestra gratitud eterna, in perpetuidad!"}
-{"key": "script/sd3110#talk_geroko_1/47", "es": "BRRRIIBBTT... TÚ SER HUMANO. MALDITO. O NO. PERDÓN."}
-{"key": "script/sd3110#talk_geroko_1/55", "es": "BRRRIIBBTT... YO RECORDAR ESTO. EN REALIDAD OLVIDAR."}
+{"key": "script/sd3110#talk_geroko_1/41", "es": "¡Tienes nuestra gratitud eterna, a perpetuidad!"}
+{"key": "script/sd3110#talk_geroko_1/47", "es": "BRRRIIBBTT... ¡TÚ SER HUMANO! ¡MALDITO! O NO. PERDÓN."}
+{"key": "script/sd3110#talk_geroko_1/55", "es": "BRRRIIBBTT... ¡YO RECORDAR ESTO! EN REALIDAD OLVIDAR."}
 {"key": "script/sd3110#talk_geroko_2/3", "es": "Una vez dijiste que amas a los humanos, ¿no es así?"}
 {"key": "script/sd3110#talk_geroko_2/5", "es": "Por fin hemos llegado a comprender ese sentimiento."}
-{"key": "script/sd3110#talk_geroko_2/10", "es": "BRRRIIBBTT... YO AMAR A RABBIT."}
+{"key": "script/sd3110#talk_geroko_2/10", "es": "BRRRIIBBTT... ¡YO AMAR A RABBIT!"}
 {"key": "script/sd3110#talk_geroko_2/19", "es": "¡Cielos santos, si es un roo! Es una sorpresa de lo más agradable que nos visites en nuestra humilde morada."}
 {"key": "script/sd3110#talk_geroko_2/21", "es": "Seguimos estando muy agradecidos de que nos concedieras el valiosísimo don de las palabras."}
 {"key": "script/sd3110#talk_geroko_2/23", "es": "¡Las palabras son cosas tan maravillabulosas!"}
@@ -84,6 +84,6 @@
 {"key": "script/sd3110#talk_geroko_2/39", "es": "De veras es un misterio cómo nuestro habla y la de nuestro líder están tan alejadas la una de la otra."}
 {"key": "script/sd3110#talk_geroko_2/41", "es": "¿Por qué habrá ocurrido tal cosa, díganme? Es un misterio sin solución. Un enigma eterno..."}
 {"key": "script/sd3110#talk_geroko_2/47", "es": "BRRRIIBBTT... ¿POR QUÉ LLEGAR TANTOS HUMANOS AHORA?"}
-{"key": "script/sd3110#talk_geroko_2/55", "es": "BRRRIIBBTT... YO TODAVÍA NO EMPEZAR A PELEAR."}
-{"key": "script/sd3110#talk_geroko_3/2", "es": "BRRRIIBBTT... YO DEJAR GANAR. NO PRESUMIR."}
-{"key": "script/sd3110#talk_geroko_4/2", "es": "BRRRIIBBTT... HUMANO DÉBIL METERSE CON PEQUEÑO."}
+{"key": "script/sd3110#talk_geroko_2/55", "es": "BRRRIIBBTT... ¡YO TODAVÍA NO EMPEZAR A PELEAR!"}
+{"key": "script/sd3110#talk_geroko_3/2", "es": "BRRRIIBBTT... ¡YO DEJAR GANAR! ¡NO PRESUMIR!"}
+{"key": "script/sd3110#talk_geroko_4/2", "es": "BRRRIIBBTT... ¡HUMANO DÉBIL METERSE CON PEQUEÑO!"}
