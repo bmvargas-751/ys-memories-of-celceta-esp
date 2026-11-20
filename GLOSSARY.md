@@ -252,3 +252,4 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | Black Key | Llave Negra | Decidido (G-2), DECISIONS 2026-11-20 | Objeto de la historia; como «Archivos Negros». |
 | minions | secuaces | Decidido, DECISIONS 2026-11-20 | Como en `text/monslib#E0114/descripcion`. |
 | Santyo / Pansa | Sancho / Panza | Decidido (G-2), DECISIONS 2026-11-20 | Secuaces de Leo (ya usado así en el diario). |
+| sixteen | dieciséis | Decidido, DECISIONS 2026-11-20 | Número. (Fila para que el chequeo de *vosotros* no lo tome por un verbo en -éis.) |
