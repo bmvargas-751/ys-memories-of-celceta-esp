@@ -502,19 +502,19 @@
 {"key": "text/item#727/nombre", "es": "Elixir de guardia"}
 {"key": "text/item#727/efecto", "es": "DEF +3"}
 {"key": "text/item#727/descripcion", "es": "Aumenta permanentemente la DEF de quien lo usa en 3."}
-{"key": "text/item#728/nombre", "es": "Tablilla de escudo"}
+{"key": "text/item#728/nombre", "es": "Tableta de escudo"}
 {"key": "text/item#728/efecto", "es": "Aumento temporal de DEF"}
 {"key": "text/item#728/descripcion", "es": "Reduce temporalmente el daño recibido de los enemigos."}
-{"key": "text/item#729/nombre", "es": "Tablilla de habilidad"}
+{"key": "text/item#729/nombre", "es": "Tableta de habilidad"}
 {"key": "text/item#729/efecto", "es": "Más recuperación de PH por un tiempo"}
 {"key": "text/item#729/descripcion", "es": "Restaura poco a poco los PH de quien la usa por un tiempo."}
-{"key": "text/item#730/nombre", "es": "Tablilla enigmática"}
+{"key": "text/item#730/nombre", "es": "Tableta enigmática"}
 {"key": "text/item#730/efecto", "es": "Efecto aleatorio temporal"}
-{"key": "text/item#730/descripcion", "es": "Una tablilla extraña que tiene un efecto distinto cada vez."}
-{"key": "text/item#731/nombre", "es": "Tablilla curativa"}
+{"key": "text/item#730/descripcion", "es": "Una tableta extraña que tiene un efecto distinto cada vez."}
+{"key": "text/item#731/nombre", "es": "Tableta curativa"}
 {"key": "text/item#731/efecto", "es": "Más recuperación de PV por un tiempo"}
 {"key": "text/item#731/descripcion", "es": "Restaura poco a poco los PV de quien la usa por un tiempo."}
-{"key": "text/item#732/nombre", "es": "Tablilla de poder"}
+{"key": "text/item#732/nombre", "es": "Tableta de poder"}
 {"key": "text/item#732/efecto", "es": "Aumento temporal de FUE"}
 {"key": "text/item#732/descripcion", "es": "Aumenta el daño a los enemigos por un tiempo limitado."}
 {"key": "text/item#735/nombre", "es": "Collar de bestia sagrada"}

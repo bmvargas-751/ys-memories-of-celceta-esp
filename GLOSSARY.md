@@ -253,3 +253,5 @@ Por sección. *Oficial* (G-1) o *decidido* por el usuario (G-2), con fecha. `loc
 | minions | secuaces | Decidido, DECISIONS 2026-11-20 | Como en `text/monslib#E0114/descripcion`. |
 | Santyo / Pansa | Sancho / Panza | Decidido (G-2), DECISIONS 2026-11-20 | Secuaces de Leo (ya usado así en el diario). |
 | SIXTEEN | DIECISÉIS | Decidido, DECISIONS 2026-11-20 | Número. (Fila para que el chequeo de *vosotros* no lo tome por un verbo en -éis.) |
+| Europan continent | continente de Europa | Decidido (G-2), DECISIONS 2026-11-20 | El continente de Adol en la serie (diario y guiones). |
+| Embarroosed | Embarroosed | Decidido (G-2), DECISIONS 2026-11-20 | Nombre de roo, en inglés como todos los roos del mapa. (Fila para que el chequeo de *vosotros* no lo tome por un verbo.) |
