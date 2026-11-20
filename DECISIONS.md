@@ -49,3 +49,4 @@ Lo que el usuario decidió, con fecha, para no volver a discutirlo. Una regla de
 - **2026-11-19** Lote guiones-027 (orquestador, por delegación): «Lady» como sustantivo común («one brave lady») → «mujer»; el aviso G-3 en esos casos es falso positivo, porque «señora» es solo para el título ante un nombre. Nada de signos anidados («¡Lo sé! ¿Verdad?»).
 - **2026-11-20** Puntos suspensivos (aclaración): en tartamudeos y palabras partidas van pegados («T...t...tú», «Ma...qui...naria», «equipamen...e...»); el espacio después es solo entre palabras completas.
 - **2026-11-20** Lote guiones-036 (orquestador, por delegación): «Devil's Tower» → «Torre del Diablo» (solo sale en guiones). Cuando el inglés no aclara si «you» es uno o varios, decide el japonés (皆さん, お前たち → ustedes).
+- **2026-11-20** Lote guiones-037 (orquestador, por delegación): Adol trata de *usted* a Eldeel, como el resto del grupo (Ozma, Calilica, Frieda, Leeza) y como Adol con Griselda; Eldeel tutea a todos.
