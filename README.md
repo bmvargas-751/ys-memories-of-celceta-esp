@@ -39,9 +39,6 @@ Necesitas tu propia copia del juego en Steam, con el idioma en inglés, y Python
 ## Avance
 
 <!-- loc:progress -->
-Versión 0.9.0, publicada el 20 nov 2026 · [Cambios](CHANGELOG.md)\
-Etapa: Prueba en el juego · actualizado el 23 nov 2026
-
 | Sección | Líneas | Traducidas | Avance |
 |---|---:|---:|---:|
 | Interfaz | 757 | 757 | 100,0 % |
@@ -56,8 +53,6 @@ Etapa: Prueba en el juego · actualizado el 23 nov 2026
 | Sección | Líneas | Traducidas | Avance |
 |---|---:|---:|---:|
 | Personajes y PNJ | 929 | 929 | 100,0 % |
-
-**Total: 19.023 de 19.023 líneas (100,0 %)**
 <!-- /loc:progress -->
 
 ## Documentación
