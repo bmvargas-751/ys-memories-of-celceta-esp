@@ -1,0 +1,121 @@
+{
+ "updated": "2026-11-23",
+ "status": "beta",
+ "stage": "Prueba en el juego",
+ "version": "0.9.0",
+ "lines": 19023,
+ "done": 19023,
+ "sections": [
+  {
+   "name": "Interfaz",
+   "lines": 757,
+   "done": 757,
+   "common": true
+  },
+  {
+   "name": "Objetos y equipo",
+   "lines": 1381,
+   "done": 1381,
+   "common": true
+  },
+  {
+   "name": "Criaturas",
+   "lines": 338,
+   "done": 338,
+   "common": true
+  },
+  {
+   "name": "Lugares",
+   "lines": 237,
+   "done": 237,
+   "common": true
+  },
+  {
+   "name": "Historia",
+   "lines": 14602,
+   "done": 14602,
+   "common": true
+  },
+  {
+   "name": "Secundarias",
+   "lines": 779,
+   "done": 779,
+   "common": true
+  },
+  {
+   "name": "Personajes y PNJ",
+   "lines": 929,
+   "done": 929,
+   "common": false
+  }
+ ],
+ "phases": [
+  {
+   "n": 0,
+   "name": "Antes de empezar",
+   "state": "done",
+   "note": null
+  },
+  {
+   "n": 1,
+   "name": "Prueba técnica",
+   "state": "done",
+   "note": null
+  },
+  {
+   "n": 2,
+   "name": "Inventario y presupuesto",
+   "state": "done",
+   "note": "19.023 líneas"
+  },
+  {
+   "n": 3,
+   "name": "Documentos",
+   "state": "done",
+   "note": null
+  },
+  {
+   "n": 4,
+   "name": "Set de oro",
+   "state": "done",
+   "note": "17 de 17 (oro-007)"
+  },
+  {
+   "n": 5,
+   "name": "Piloto",
+   "state": "done",
+   "note": null
+  },
+  {
+   "n": 6,
+   "name": "Traducción",
+   "state": "done",
+   "note": "100,0 %"
+  },
+  {
+   "n": 7,
+   "name": "Prueba en el juego",
+   "state": "pending",
+   "note": null
+  },
+  {
+   "n": 8,
+   "name": "Entrega",
+   "state": "pending",
+   "note": null
+  }
+ ],
+ "changes": [
+  {
+   "version": "0.9.0",
+   "date": "2026-11-20",
+   "title": "Versión de prueba: todo el texto del juego en español neutro, todavía sin revisar entero en el juego.",
+   "items": [
+    "Interfaz, objetos, bestiario, diario, misiones, recuerdos y todos los diálogos, con la terminología de la traducción oficial de *Ys Origin*.",
+    "Fuente con tildes, ñ y signos de apertura.",
+    "Instalador para Windows y Linux (Steam Deck incluida), con respaldo de los originales y desinstalación.",
+    "Las imágenes con texto siguen en inglés."
+   ]
+  }
+ ]
+}

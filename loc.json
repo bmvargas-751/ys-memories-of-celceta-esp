@@ -11,13 +11,11 @@
       "prefixes": [
         "text/strSystem#",
         "text/manual#",
-        "text/record#",
-        "text/mapname#",
-        "text/warpdata#"
+        "text/record#"
       ]
     },
     {
-      "name": "Objetos, materiales y habilidades",
+      "name": "Objetos y equipo",
       "prefixes": [
         "text/item#",
         "text/matlib#",
@@ -25,15 +23,26 @@
       ]
     },
     {
-      "name": "Bestiario, nombres y PNJ",
+      "name": "Criaturas",
       "prefixes": [
-        "text/monslib#",
-        "text/status#",
-        "map/"
+        "text/monslib#"
       ]
     },
     {
-      "name": "Diario, misiones y recuerdos",
+      "name": "Lugares",
+      "prefixes": [
+        "text/mapname#",
+        "text/warpdata#"
+      ]
+    },
+    {
+      "name": "Historia",
+      "prefixes": [
+        "script/"
+      ]
+    },
+    {
+      "name": "Secundarias",
       "prefixes": [
         "text/diary#",
         "text/quest#",
@@ -41,9 +50,10 @@
       ]
     },
     {
-      "name": "Guiones",
+      "name": "Personajes y PNJ",
       "prefixes": [
-        "script/"
+        "text/status#",
+        "map/"
       ]
     }
   ],
