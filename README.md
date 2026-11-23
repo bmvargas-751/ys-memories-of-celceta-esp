@@ -12,7 +12,7 @@ Necesitas tu propia copia del juego en Steam, con el idioma en inglés, y Python
 
 **Windows:**
 
-1. Descarga **Celceta-ESP-…-windows.zip** de la [última versión](https://github.com/bmvargas-751/ys-memories-of-celceta-esp/releases/latest).
+1. Descarga **Celceta-ESP-…-windows.zip** de la [última versión](https://github.com/nox-traducciones/ys-memories-of-celceta/releases/latest).
 2. Descomprímelo dentro de la carpeta del juego (junto a `lang` y `Ysc_dx11.exe`). Para abrirla: en Steam, clic derecho en el juego > **Administrar** > **Explorar archivos locales**. Si lo descomprimes en otro lugar, el instalador busca el juego en tus bibliotecas de Steam.
 3. En la carpeta **Celceta-ESP**, haz doble clic en **install.bat**.
 4. Abre el juego con el idioma en inglés: el texto aparece en español.
@@ -20,7 +20,7 @@ Necesitas tu propia copia del juego en Steam, con el idioma en inglés, y Python
 <details>
 <summary>Linux y Steam Deck</summary>
 
-1. Descarga **Celceta-ESP-…-linux.tar.gz** de la [última versión](https://github.com/bmvargas-751/ys-memories-of-celceta-esp/releases/latest) y descomprímelo dentro de la carpeta del juego (en Steam, clic derecho en el juego > **Administrar** > **Explorar archivos locales**).
+1. Descarga **Celceta-ESP-…-linux.tar.gz** de la [última versión](https://github.com/nox-traducciones/ys-memories-of-celceta/releases/latest) y descomprímelo dentro de la carpeta del juego (en Steam, clic derecho en el juego > **Administrar** > **Explorar archivos locales**).
 2. En la carpeta **Celceta-ESP**, ejecuta **install.sh**. En Steam Deck, en modo escritorio: clic derecho en install.sh > **Ejecutar en terminal**.
 3. Abre el juego con el idioma en inglés: el texto aparece en español.
 
@@ -67,6 +67,6 @@ Desarrollo: [Plan](PLAN.md) · [Técnica](TECH.md) · [Herramientas](tools/READM
 - **«No encuentro el juego»**: indica la ruta a mano desde una terminal en la carpeta `Celceta-ESP`: `install.bat --game "RUTA"` (Windows) o `./install.sh --game "RUTA"` (Linux).
 - **«Hace falta Python»**: instálalo como dice arriba y vuelve a ejecutar el instalador.
 - **Windows muestra un aviso de seguridad** al ejecutar el `.bat`: es normal con archivos descargados; el código está en este repositorio.
-- **Un texto raro, cortado o con un error**: dinos dónde pasó, sin spoilers, en [Issues](https://github.com/bmvargas-751/ys-memories-of-celceta-esp/issues).
+- **Un texto raro, cortado o con un error**: dinos dónde pasó, sin spoilers, en [Issues](https://github.com/nox-traducciones/ys-memories-of-celceta/issues).
 
 Licencias: [LICENSE.md](LICENSE.md).

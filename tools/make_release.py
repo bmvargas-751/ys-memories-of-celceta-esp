@@ -34,7 +34,7 @@ import celceta as C  # noqa: E402
 ROOT = HERE.parent
 OUT = ROOT / "dist" / "release"
 TOP = "Celceta-ESP"
-REPO = "https://github.com/bmvargas-751/ys-memories-of-celceta-esp"
+REPO = "https://github.com/nox-traducciones/ys-memories-of-celceta"
 
 # Módulos que necesita el instalador (los demás de tools/ son del trabajo de traducción)
 TOOLS = ["installer.py", "celceta.py", "arb.py", "dbin.py", "falcom.py", "itf.py", "records.py",
