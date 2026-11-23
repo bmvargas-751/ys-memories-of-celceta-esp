@@ -2,7 +2,7 @@
   "name": "Ys: Memories of Celceta",
   "source_language": "en",
   "target_language": "es",
-  "source": "../ys-memories-of-celceta-esp-local/source.jsonl",
+  "source": "../local/ys-memories-of-celceta/source.jsonl",
   "translation": "translation",
   "work": "build/work/batches",
   "sections": [

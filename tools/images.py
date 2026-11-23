@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Imágenes con texto de Celceta: ITP → PNG para editar, y PNG editado → ITP.
 
-    python3 tools/images.py export   # originales a ../ys-memories-of-celceta-esp-local/imagenes/en/
+    python3 tools/images.py export   # originales a ../local/ys-memories-of-celceta/imagenes/en/
     python3 tools/images.py import   # imagenes/es/*.png → build/ (mismo camino que en el juego)
 
 Los PNG editados van en imagenes/es/ con el mismo nombre que el original

@@ -4,7 +4,7 @@
     python3 tools/gametest.py install   # respalda los originales y copia build/
     python3 tools/gametest.py restore   # devuelve los originales
 
-El respaldo va en ../ys-memories-of-celceta-esp-local/respaldo-juego/, con la
+El respaldo va en ../local/ys-memories-of-celceta/respaldo-juego/, con la
 misma estructura que el juego. Solo se respalda un archivo la primera vez (así
 el respaldo siempre es el original, aunque se instale varias veces).
 """

@@ -29,7 +29,7 @@ Exportar e importar sin cambios da los mismos archivos, byte por byte (`roundtri
 
 ### Imágenes con texto
 
-Se editan a mano [DECISIONS 2026-11-17]. `tools/images.py export` deja los originales en PNG en `../ys-memories-of-celceta-esp-local/imagenes/en/`; los editados van en `imagenes/es/` con el mismo nombre y tamaño, y `tools/celceta.py import` (o `images.py import`) los convierte a ITP en `build/`. Formato ITP según Cradle (`tools/itp.py`): 32 bits sin compresión, o 256 colores con FALCOM3 y mosaicos de 32×32; si los colores nuevos no están en la paleta, se usa el más cercano o una paleta nueva, lo que se aleje menos.
+Se editan a mano [DECISIONS 2026-11-17]. `tools/images.py export` deja los originales en PNG en `../local/ys-memories-of-celceta/imagenes/en/`; los editados van en `imagenes/es/` con el mismo nombre y tamaño, y `tools/celceta.py import` (o `images.py import`) los convierte a ITP en `build/`. Formato ITP según Cradle (`tools/itp.py`): 32 bits sin compresión, o 256 colores con FALCOM3 y mosaicos de 32×32; si los colores nuevos no están en la paleta, se usa el más cercano o una paleta nueva, lo que se aleje menos.
 
 | Grupo | Archivos | Texto |
 |---|---|---|

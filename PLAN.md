@@ -24,7 +24,7 @@ Se cierran en la fase 0, porque son caras de cambiar después.
 
 Antes de esto no se decide nada más.
 
-- [x] Extraer los archivos del juego, a una carpeta fuera del repo. (`../ys-memories-of-celceta-esp-local/celceta/`, 2026-11-17.)
+- [x] Extraer los archivos del juego, a una carpeta fuera del repo. (`../local/ys-memories-of-celceta/celceta/`, 2026-11-17.)
 - [x] Adaptador: exportar el texto al formato común (`source` de `loc.json`) e importarlo de vuelta. (`tools/celceta.py`, 19 374 textos; imágenes con `tools/images.py`, 2026-11-17.)
 - [x] Ida y vuelta idéntica: exportar e importar sin cambios da los mismos archivos. (`tools/celceta.py roundtrip`, 2026-11-17.)
 - [x] Caracteres: si la fuente tiene las letras españolas, o cómo se agregan (T-5). (No las tiene; `tools/font_es.py` las agrega. Probado en el juego, 2026-11-17.)

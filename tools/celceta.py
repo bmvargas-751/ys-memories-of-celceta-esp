@@ -7,8 +7,8 @@
     python3 tools/celceta.py pseudo      # pseudolocalización en build/ (prueba en el juego)
 
 Rutas (relativas a la raíz del proyecto):
-    ../ys-memories-of-celceta-esp-local/celceta/   copia del juego (lang/, text/, system/)
-    ../ys-memories-of-celceta-esp-local/build/     archivos del juego ya traducidos
+    ../local/ys-memories-of-celceta/celceta/   copia del juego (lang/, text/, system/)
+    ../local/ys-memories-of-celceta/build/     archivos del juego ya traducidos
 
 Cubre los guiones (lang/en/script/*.bin, ys7scp.py) y las tablas de texto
 (lang/en/text/*.tbb, tables.py). Los demás formatos se agregan aquí mismo.
@@ -32,7 +32,7 @@ import tables  # noqa: E402
 import ys7scp  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-LOCAL = ROOT.parent / "ys-memories-of-celceta-esp-local"
+LOCAL = ROOT.parent / "local" / "ys-memories-of-celceta"
 GAME = LOCAL / "celceta"
 BUILD = LOCAL / "build"
 SOURCE = LOCAL / "source.jsonl"
