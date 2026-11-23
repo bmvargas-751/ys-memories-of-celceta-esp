@@ -71,11 +71,13 @@ Obligatorio: sin él, `loc.py prepare` no arma lotes.
 
 ### Fase 6. Traducción
 
-- [x] Interfaz (994 líneas; 2026-11-18, lotes interfaz-001 a 004).
-- [x] Objetos, materiales y habilidades (1381 líneas; 2026-11-18, lotes objetos-…-002 a 005).
-- [x] Bestiario, nombres y PNJ
-- [x] Diario, misiones y recuerdos
-- [x] Guiones (14 602 líneas; 2026-11-18 a 2026-11-20, lotes guiones-001 a 052).
+- [x] Interfaz (2026-11-18, lotes interfaz-001 a 004).
+- [x] Objetos y equipo (2026-11-18, lotes objetos-…-002 a 005; objetos, materiales y habilidades).
+- [x] Criaturas (el bestiario).
+- [x] Lugares (nombres de mapas y de los puntos de teletransporte; en los lotes de interfaz).
+- [x] Historia (2026-11-18 a 2026-11-20, lotes guiones-001 a 052).
+- [x] Secundarias (diario, misiones y recuerdos).
+- [x] Personajes y PNJ (nombres de personajes y de los PNJ de cada mapa).
 
 ### Fase 7. Prueba en el juego
 
